@@ -17,10 +17,17 @@ OUTPUT_DIR_V2.mkdir(parents=True, exist_ok=True)
 # Process the PDF document for version 1 (raw text)
 def process_v1_raw():
     try:
-        converter.convert(source, "v1_raw.md", output_dir=OUTPUT_DIR_V1)
+        # Convert the PDF document to a structured format
+        result = converter.convert(source)
+        doc = result.document
+    
+        # Export raw markdown
+        raw_md = doc.export_to_markdown()
+        (OUTPUT_DIR_V1 / "2022-ford-Escape-raw.md").write_text(raw_md, encoding="utf-8")
 
         print(f"Version 1 (raw text) processed and saved to {OUTPUT_DIR_V1}")
-    except Exception as e:        print(f"Error processing version 1 (raw text): {e}")
+    except Exception as e:        
+        print(f"Error processing version 1 (raw text): {e}")
 
 def process_v2_sections():
     print("Implementation will come later")
