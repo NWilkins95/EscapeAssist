@@ -25,9 +25,9 @@ def process_v1_raw():
         raw_md = doc.export_to_markdown()
         (OUTPUT_DIR_V1 / "2022-ford-Escape-raw.md").write_text(raw_md, encoding="utf-8")
 
-        print(f"Version 1 (raw text) processed and saved to {OUTPUT_DIR_V1}")
+        print(f"Version 1 (raw markdown) processed and saved to {OUTPUT_DIR_V1}")
     except Exception as e:        
-        print(f"Error processing version 1 (raw text): {e}")
+        print(f"Error processing version 1 (raw markdown): {e}")
 
 def process_v2_sections():
     print("Implementation will come later")
