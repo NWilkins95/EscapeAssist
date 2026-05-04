@@ -93,15 +93,18 @@ def process_v2_sections():
 
         # Iterate through Docling items (headings, paragraphs, tables, etc.)
         # and group content under the most recent heading.
-        for item in doc.iterate_items():
-            if item.type == "heading":
+        for item, _ in doc.iterate_items():
+            label = getattr(item, "label", None)
+            text = getattr(item, "text", None)
+
+            if str(label) == "section_header":
                 # When a new heading is found, store the previous section.
                 if current_section:
                     sections.append(current_section)
-                current_section = {"heading": item.text, "content": []}
-            elif current_section is not None:
+                current_section = {"heading": text or "Untitled Section", "content": []}
+            elif current_section is not None and text:
                 # Append any non-heading content to the current section.
-                current_section["content"].append(item.text)
+                current_section["content"].append(text)
 
         # Append the final section if one exists.
         if current_section:
@@ -135,8 +138,24 @@ def main():
 
     This function is the entry point for the preprocessing pipeline.
     """
-    process_v1_raw()
-    process_v2_sections()
+    while True:
+        print("\n=== EscapeAssist Preprocessing Pipeline ===")
+        print("1. Run V1 Raw Extraction")
+        print("2. Run V2 Sectioned Extraction")
+        print("3. Exit")
+
+        choice = input("\nSelect an option (1-3): ")
+
+        if choice == "1":
+            process_v1_raw()
+        elif choice == "2":
+            process_v2_sections()
+        elif choice == "3":
+            print("\nExiting program.\n")
+            break
+        else:
+            print("\nInvalid choice. Please try again.")
+    
 
 
 # Execute the preprocessing pipeline when the script is run directly.
