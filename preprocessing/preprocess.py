@@ -3,9 +3,9 @@ from pathlib import Path
 
 ####################################################################
 # Preprocessing Script for 2022 Ford Escape PDF
-# This script performs two stages of preprocessing on the source PDF:
+# This script performs a single preprocessing pass on the source PDF:
 # 1. Version 1 (V1): Raw Markdown extraction using Docling, with no cleanup or restructuring.
-# 2. Version 2 (V2): Section-aware Markdown extraction, grouping content under detected headings.   
+# After extraction, the user chooses whether to store the output in v1_raw or v2_sections.
 #################################################################### 
 
 ####################################################################
@@ -13,7 +13,7 @@ from pathlib import Path
 ####################################################################
 
 # Attempt to locate the source PDF and initialize the Docling converter.
-# Wrapping this in a try/except ensures the script fails gracefully if the file is missing
+# Wrapping this in a try/except keeps startup failure messages clear if the PDF is missing
 # or Docling cannot initialize.
 try:
     source = (
@@ -26,8 +26,8 @@ try:
 except Exception as e:
     print(f"Error initializing converter: {e}")
 
-# Define output directories for V1 (raw extraction) and V2 (section-aware extraction).
-# These directories are created if they do not already exist.
+# Define the two available output directories.
+# The user chooses which folder to save into at runtime.
 OUTPUT_DIR_V1 = Path(__file__).resolve().parent.parent / "preprocessing" / "v1_raw"
 OUTPUT_DIR_V1.mkdir(parents=True, exist_ok=True)
 
@@ -39,91 +39,54 @@ OUTPUT_DIR_V2.mkdir(parents=True, exist_ok=True)
 # Preprocessing Functions
 #####################################################################
 
-def process_v1_raw():
+def choose_output_dir():
     """
-    Extracts the PDF using Docling and saves the **raw Markdown output**.
+    Prompts the user to choose where the raw Markdown file should be saved.
+    The labels match the existing v1_raw and v2_sections folders.
 
-    This represents Version 1 (V1) of the preprocessing pipeline:
+    Returns the selected output directory.
+    """
+    while True:
+        print("\nWhere do you want to store the file?")
+        print("1. v1_raw")
+        print("2. v2_sections")
+
+        choice = input("Select an option (1-2): ").strip()
+
+        if choice == "1":
+            return OUTPUT_DIR_V1
+        if choice == "2":
+            return OUTPUT_DIR_V2
+
+        print("\nInvalid choice. Please try again.")
+
+
+def process_raw_data():
+    """
+    Extracts the PDF using Docling and saves the raw Markdown output.
+
+    This represents the preprocessing flow:
     - No cleanup
     - No restructuring
     - No manual review
     - Pure Docling output
 
-    The purpose of V1 is to serve as a baseline for comparison against:
-    - V0 (Foundry extraction)
-    - V2 (cleaned, section-aware extraction)
+    After extraction, the user chooses whether to save the file in v1_raw or v2_sections.
     """
     try:
         # Convert the PDF into Docling's internal structured representation.
         result = converter.convert(source)
         doc = result.document
 
+        output_dir = choose_output_dir()
+
         # Export the raw Markdown exactly as Docling produces it.
         raw_md = doc.export_to_markdown()
-        (OUTPUT_DIR_V1 / "2022-ford-Escape-raw.md").write_text(raw_md, encoding="utf-8")
+        (output_dir / "2022-ford-Escape-raw.md").write_text(raw_md, encoding="utf-8")
 
-        print(f"Version 1 (raw markdown) processed and saved to {OUTPUT_DIR_V1}")
+        print(f"Version 1 (raw markdown) processed and saved to {output_dir}")
     except Exception as e:
         print(f"Error processing version 1 (raw markdown): {e}")
-
-
-def process_v2_sections():
-    """
-    Extracts the PDF using Docling and restructures the output into
-    **section-aware Markdown**, grouped by detected headings.
-
-    This represents Version 2 (V2) of the preprocessing pipeline:
-    - Headings are used to split the document into logical sections
-    - Content under each heading is grouped together
-    - Output is cleaner and more RAG-friendly than V1
-    - Still automated (no manual cleanup yet)
-
-    This version is intended to:
-    - Improve retrieval quality
-    - Reduce hallucinations caused by mixed or noisy chunks
-    - Provide a more structured dataset for ingestion
-    """
-    try:
-        # Convert the PDF into Docling's structured representation.
-        result = converter.convert(source)
-        doc = result.document
-
-        sections = []
-        current_section = None
-
-        # Iterate through Docling items (headings, paragraphs, tables, etc.)
-        # and group content under the most recent heading.
-        for item, _ in doc.iterate_items():
-            label = getattr(item, "label", None)
-            text = getattr(item, "text", None)
-
-            if str(label) == "section_header":
-                # When a new heading is found, store the previous section.
-                if current_section:
-                    sections.append(current_section)
-                current_section = {"heading": text or "Untitled Section", "content": []}
-            elif current_section is not None and text:
-                # Append any non-heading content to the current section.
-                current_section["content"].append(text)
-
-        # Append the final section if one exists.
-        if current_section:
-            sections.append(current_section)
-
-        # Build Markdown output: each section becomes a top-level heading
-        # followed by its grouped content.
-        sectioned_md = "\n\n".join(
-            f"# {section['heading']}\n\n" + "\n\n".join(section["content"])
-            for section in sections
-        )
-
-        (OUTPUT_DIR_V2 / "2022-ford-Escape-sections.md").write_text(
-            sectioned_md, encoding="utf-8"
-        )
-
-        print(f"Version 2 (sectioned markdown) processed and saved to {OUTPUT_DIR_V2}")
-    except Exception as e:
-        print(f"Error processing version 2 (sectioned markdown): {e}")
 
 
 #####################################################################
@@ -132,25 +95,20 @@ def process_v2_sections():
 
 def main():
     """
-    Runs both preprocessing stages:
-    - V1: Raw Docling extraction
-    - V2: Section-aware Docling extraction
+    Runs the raw Docling extraction and prompts for the save location.
 
     This function is the entry point for the preprocessing pipeline.
     """
     while True:
         print("\n=== EscapeAssist Preprocessing Pipeline ===")
-        print("1. Run V1 Raw Extraction")
-        print("2. Run V2 Sectioned Extraction")
-        print("3. Exit")
+        print("1. Run Raw Extraction")
+        print("2. Exit")
 
-        choice = input("\nSelect an option (1-3): ")
+        choice = input("\nSelect an option (1-2): ")
 
         if choice == "1":
-            process_v1_raw()
+            process_raw_data()
         elif choice == "2":
-            process_v2_sections()
-        elif choice == "3":
             print("\nExiting program.\n")
             break
         else:
