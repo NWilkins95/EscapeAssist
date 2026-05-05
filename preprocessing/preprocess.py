@@ -20,7 +20,7 @@ if _OPENAI_API_KEY:
     client = OpenAI(api_key=_OPENAI_API_KEY)
 else:
     client = None
-    print("WARNING: No OpenAI API key found. LLM cleanup will not run.\n" \
+    print("WARNING: No OpenAI API key found. LLM cleanup will not run.\n"
           "Either export OPENAI_API_KEY in your shell, source the .env file, or add the key to ~/.zshrc.")
 
 ####################################################################
@@ -52,11 +52,6 @@ OUTPUT_DIR_V2.mkdir(parents=True, exist_ok=True)
 def chunk_text(text: str, max_chars: int = 8000):
     """
     Split text into chunks without breaking Markdown tables.
-    
-    Rules:
-    - Never split inside a table (lines starting with '|' or containing '|').
-    - If a table is larger than max_chars, allow it to be its own chunk.
-    - Otherwise, accumulate lines until adding another would exceed max_chars.
     """
     lines = text.splitlines(keepends=True)
     current_chunk = []
@@ -70,13 +65,11 @@ def chunk_text(text: str, max_chars: int = 8000):
     for line in lines:
         line_is_table = is_table_line(line)
 
-        # Detect entering or exiting a table block
         if line_is_table and not inside_table:
             inside_table = True
         elif not line_is_table and inside_table:
             inside_table = False
 
-        # If adding this line exceeds the limit AND we're not inside a table, start a new chunk
         if current_length + len(line) > max_chars and not inside_table:
             yield "".join(current_chunk)
             current_chunk = []
@@ -85,25 +78,26 @@ def chunk_text(text: str, max_chars: int = 8000):
         current_chunk.append(line)
         current_length += len(line)
 
-    # Yield the final chunk
     if current_chunk:
         yield "".join(current_chunk)
 
 
 def llm_cleaning(raw_md: str) -> str:
     """
-    Cleans Docling V2 Markdown using an LLM:
+    Cleans Docling V2 Markdown using an LLM in parallel:
     - Removes Table of Contents
     - Fixes broken tables
     - Normalizes headings/lists
     - Preserves all real content
     """
+
     if client is None:
         raise RuntimeError("OpenAI client not configured. Set OPENAI_API_KEY or source .env before running.")
 
-    cleaned_chunks = []
+    chunks = list(chunk_text(raw_md))
+    print(f"Total chunks: {len(chunks)}")
 
-    for chunk in chunk_text(raw_md):
+    def clean_single_chunk(idx, chunk):
         prompt = f"""
             You are cleaning Markdown extracted from a PDF.
 
@@ -119,7 +113,7 @@ def llm_cleaning(raw_md: str) -> str:
 
             Here is the Markdown to clean:
             {chunk}
-            """
+        """
 
         response = client.responses.create(
             model="gpt-4o",
@@ -128,12 +122,27 @@ def llm_cleaning(raw_md: str) -> str:
             max_output_tokens=3000
         )
 
-        cleaned_chunks.append(response.output_text)
-        print("Chunk cleaned and added to output.")
+        print(f"Chunk {idx+1}/{len(chunks)} cleaned")
+        return idx, response.output_text
+
+    cleaned_chunks = []
+
+    # Run 8 chunks at once
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        futures = [
+            executor.submit(clean_single_chunk, idx, chunk)
+            for idx, chunk in enumerate(chunks)
+        ]
+
+        for future in as_completed(futures):
+            cleaned_chunks.append(future.result())
+
+    # Sort back into original order
+    cleaned_chunks.sort(key=lambda x: x[0])
+    ordered_cleaned = [c for _, c in cleaned_chunks]
 
     print("All chunks processed. Combining cleaned Markdown.")
-
-    return "\n".join(cleaned_chunks)
+    return "\n".join(ordered_cleaned)
 
 
 ####################################################################
