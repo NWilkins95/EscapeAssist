@@ -99,7 +99,7 @@ def llm_cleaning(raw_md: str) -> str:
 
     def clean_single_chunk(idx, chunk):
         prompt = f"""
-            You are cleaning Markdown extracted from a PDF.
+            You are cleaning text extracted from a PDF.
 
             Rules:
             1. Remove any Table of Contents sections. A TOC contains page numbers, dot leaders, or section listings.
@@ -109,14 +109,17 @@ def llm_cleaning(raw_md: str) -> str:
                - Consistent column counts
             3. Preserve all real content. Do NOT remove warnings, notes, steps, lists, or headings.
             4. Do not rewrite or summarize. Only clean structure.
-            5. Return ONLY cleaned Markdown with no explanations.
+            5. Return ONLY cleaned text with no explanations.
+            6. Do not hallucinate content. If something is unclear, keep it as-is.
+            7. Do not attempt to rewrite or summarize any content. Your task is strictly to clean the structure while preserving all original text.
+            8. The text looks like Markdown, and that format is important to preserve. Do not convert to plain text or HTML or any other format.
 
-            Here is the Markdown to clean:
+            Here is the text to clean:
             {chunk}
         """
 
         response = client.responses.create(
-            model="gpt-4o",
+            model="gpt-4o-mini",
             input=prompt,
             temperature=0,
             max_output_tokens=3000
