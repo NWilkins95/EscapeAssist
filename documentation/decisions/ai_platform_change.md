@@ -1,7 +1,6 @@
 # AI Platform Change Decision
 
-- Date decided: May 4, 2026
-- Status: Accepted
+- Date: May 4, 2026
 - Owner: Nicholas Wilkins
 
 ## Summary
