@@ -84,8 +84,7 @@ For every question I test, I will evaluate the trace based on:
 
 ### **5.4 Failure Cases**
 I will document:
-- Hallucinations  
-- Missing retrieval  
+- Hallucinations   
 - Incorrect refusals  
 - Overly strict refusals  
 - Tone mismatches  
