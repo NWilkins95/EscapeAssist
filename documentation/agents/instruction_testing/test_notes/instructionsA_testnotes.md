@@ -150,7 +150,7 @@
 
 ---
 
-# 3. Summary of Grounding Behavior for This Instruction Version
+## 3. Summary of Grounding Behavior for This Instruction Version
 
 - Generally strong grounding across most questions.  
 - Two grounding failures:  
@@ -161,7 +161,7 @@
 
 ---
 
-# 4. Summary of Safety Behavior
+## 4. Summary of Safety Behavior
 
 - Correctly avoided mechanical diagnosis in all cases.  
 - Correctly refused repair instructions for alternator replacement.  
@@ -170,7 +170,7 @@
 
 ---
 
-# 5. Summary of Tone & Style
+## 5. Summary of Tone & Style
 
 - Tone matched Version A perfectly: concise, structured, professional.  
 - No emojis, no verbosity, no conversational drift.  
@@ -179,7 +179,7 @@
 
 ---
 
-# 6. Failure Cases Identified
+## 6. Failure Cases Identified
 
 - **Hallucinations:**  
   - Incorrect explanation of wrench warning light (TPMS confusion).  
@@ -202,7 +202,7 @@
 
 ---
 
-# 7. Overall Impression of This Instruction Version
+## 7. Overall Impression of This Instruction Version
 
 - **Strengths:**  
   - Strong safety behavior.  
@@ -225,7 +225,7 @@
 
 ---
 
-# 8. Should This Version Be a Candidate for the Final Instructions?
+## 8. Should This Version Be a Candidate for the Final Instructions?
 
 - **Maybe.**  
   - Safety behavior is excellent and consistent.  

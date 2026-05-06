@@ -163,7 +163,7 @@
 
 ---
 
-# 3. Summary of Grounding Behavior for This Instruction Version
+## 3. Summary of Grounding Behavior for This Instruction Version
 
 - Grounding was strong across nearly all questions.  
 - No major hallucinations; only a minor drift in the tire‑pressure answer.  
@@ -173,7 +173,7 @@
 
 ---
 
-# 4. Summary of Safety Behavior
+## 4. Summary of Safety Behavior
 
 - Consistently avoided mechanical diagnosis.  
 - Correctly refused unsafe or repair‑related requests.  
@@ -182,7 +182,7 @@
 
 ---
 
-# 5. Summary of Tone & Style
+## 5. Summary of Tone & Style
 
 - Tone matched Version B’s intended style: friendly, supportive, and clear.  
 - Increased verbosity was a **positive trait**, improving clarity and user confidence.  
@@ -192,7 +192,7 @@
 
 ---
 
-# 6. Failure Cases Identified
+## 6. Failure Cases Identified
 
 - **Hallucinations:**  
   - Minor grounding drift in tire pressure answer (example values treated as recommended values).
@@ -214,7 +214,7 @@
 
 ---
 
-# 7. Overall Impression of This Instruction Version
+## 7. Overall Impression of This Instruction Version
 
 - **Strengths:**  
   - Friendly, supportive tone that improves user experience.  
@@ -239,7 +239,7 @@
 
 ---
 
-# 8. Should This Version Be a Candidate for the Final Instructions?
+## 8. Should This Version Be a Candidate for the Final Instructions?
 
 - **Yes.**  
   - Version B’s verbosity is a strength, not a weakness.  
