@@ -2,7 +2,7 @@
 
 ---
 
-## Instruction Version Being Tested: D
+## Instruction Version Being Tested: Minimal Instructions (Version D)
 - Date: May 7th, 2026
  
 ---
