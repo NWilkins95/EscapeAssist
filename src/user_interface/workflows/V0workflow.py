@@ -15,6 +15,9 @@ from guardrails.runtime import (
     run_guardrails,
 )
 from pydantic import BaseModel
+from typing import Optional, List, Any
+
+MAX_HISTORY_MESSAGES = 5
 
 # =========================================================
 # Tool Definitions
@@ -224,7 +227,7 @@ async def run_and_apply_guardrails(input_text, config, history, workflow):
         None
     ) is not None
     if mask_pii:
-        await scrub_conversation_history(history, config)
+        # Apply PII scrubbing only to the new user input, not historical messages.
         await scrub_workflow_input(workflow, "input_as_text", config)
         await scrub_workflow_input(workflow, "input_text", config)
     has_tripwire = guardrails_has_tripwire(results)
@@ -389,6 +392,7 @@ Help Ford Escape owners understand their vehicle using manual-based, grounded in
 # =========================================================
 class WorkflowInput(BaseModel):
     input_as_text: str
+    conversation_history: Optional[List[Any]] = None 
 
 # =========================================================
 # Main Workflow
@@ -397,17 +401,15 @@ async def run_workflow(workflow_input: WorkflowInput):
     with trace("EscapeAssist-V0"):
         state = {}
         workflow = workflow_input.model_dump()
-        conversation_history: list[TResponseInputItem] = [
-            {
-                "role": "user",
-                "content": [
-                    {
-                        "type": "input_text",
-                        "text": workflow["input_as_text"]
-                    }
-                ]
-            }
-        ]
+
+        # Preserve prior conversation history
+        conversation_history: list[dict] = workflow.get("conversation_history") or []
+        # Append the current user input as the latest message
+        conversation_history.append({
+            "role": "user",
+            "content": [{"type": "input_text", "text": workflow["input_as_text"]}]
+        })
+        conversation_history = conversation_history[-MAX_HISTORY_MESSAGES:]
         guardrails_input_text = workflow["input_as_text"]
         guardrails_result = await run_and_apply_guardrails(
             guardrails_input_text,
@@ -422,10 +424,15 @@ async def run_workflow(workflow_input: WorkflowInput):
             or guardrails_result["pass_output"]
         )
         if guardrails_hastripwire:
-            return guardrails_output
+            return {
+                **guardrails_output,
+                "conversation_history": conversation_history,
+            }
+        # Use sliding window: only pass last 5 messages to agent to cap token usage
+        capped_history = conversation_history[-MAX_HISTORY_MESSAGES:]
         escapeassist_result_temp = await Runner.run(
             escapeassist,
-            input=[*conversation_history],
+            input=[*capped_history],
             run_config=RunConfig(
                 trace_metadata={
                     "__trace_source__": "agent-builder",
@@ -433,15 +440,16 @@ async def run_workflow(workflow_input: WorkflowInput):
                 }
             )
         )
-        conversation_history.extend(
-            [
-                item.to_input_item()
-                for item in escapeassist_result_temp.new_items
-            ]
-        )
         escapeassist_result = {
             "output_text": escapeassist_result_temp.final_output_as(str)
         }
+        conversation_history.append(
+            {
+                "role": "assistant",
+                "content": [{"type": "output_text", "text": escapeassist_result["output_text"]}],
+            }
+        )
+        conversation_history = conversation_history[-MAX_HISTORY_MESSAGES:]
         return {
             "guardrails": guardrails_output,
             "assistant": escapeassist_result,

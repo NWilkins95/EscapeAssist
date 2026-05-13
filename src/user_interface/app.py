@@ -16,7 +16,7 @@ def extract_reply(result: dict) -> str:
     if any(key in result for key in ["nsfw", "moderation", "jailbreak", "pii", "prompt_injection"]):
         return "Your message triggered a safety filter. Please try rephrasing."
 
-    # Unknown structure
+    # Unknown failure
     return "I couldn't process that request. Please try again."
 
 
@@ -24,6 +24,9 @@ st.title("EscapeAssist")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
+
+if "conversation_history" not in st.session_state:
+    st.session_state.conversation_history = []
 
 # Display chat history
 for msg in st.session_state.messages:
@@ -37,8 +40,16 @@ if prompt:
     with st.chat_message("user"):
         st.markdown(prompt)
 
-    workflow_input = WorkflowInput(input_as_text=prompt)
+    # Pass the previous conversation history (as plain dicts) to the workflow
+    workflow_input = WorkflowInput(
+        input_as_text=prompt,
+        conversation_history=st.session_state.conversation_history or None
+    )
     result = asyncio.run(run_workflow(workflow_input))
+
+    # Store the updated conversation history from the workflow response
+    if "conversation_history" in result:
+        st.session_state.conversation_history = result["conversation_history"]
 
     reply = extract_reply(result)
 

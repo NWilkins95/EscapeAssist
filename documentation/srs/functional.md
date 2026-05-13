@@ -32,3 +32,7 @@
 **FR‑14** The system shall provide a dashboard that visualizes accuracy, hallucination rate, and category‑level performance for all three agents.
 
 **FR‑15** The system shall allow filtering or sorting of evaluation results in the dashboard.
+
+## Section 2b: Stretch Requirements
+
+**SR-1** The system shall use a sliding context window to keep only the last 5 messages within context.
