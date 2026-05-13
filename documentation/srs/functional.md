@@ -36,3 +36,5 @@
 ## Section 2b: Stretch Requirements
 
 **SR-1** The system shall use a sliding context window to keep only the last 5 messages within context.
+
+**SR-2** The system shall display a “thinking” animation after the user submits a message, continuing until the final assistant response is ready, to improve perceived responsiveness and user experience.

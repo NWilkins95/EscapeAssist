@@ -1,5 +1,6 @@
 import streamlit as st
 import asyncio
+import time
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -55,4 +56,15 @@ if prompt:
 
     st.session_state.messages.append({"role": "assistant", "content": reply})
     with st.chat_message("assistant"):
-        st.markdown(reply)
+        with st.spinner("EscapeAssist is thinking..."):
+            result = asyncio.run(run_workflow(workflow_input))
+    
+        reply = extract_reply(result)
+    
+        placeholder = st.empty()
+        typed = ""
+        for char in reply:
+            typed += char
+            placeholder.markdown(typed)
+            time.sleep(0.01)
+
