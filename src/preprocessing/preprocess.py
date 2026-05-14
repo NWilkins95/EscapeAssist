@@ -59,6 +59,9 @@ def chunk_text(text: str, max_chars: int = 8000):
     inside_table = False
 
     def is_table_line(line: str) -> bool:
+        """
+        Return True when the line looks like Markdown table content.
+        """
         # Treat pipe-delimited lines as table content.
         stripped = line.strip()
         return stripped.startswith("|") or ("|" in stripped and "---" not in stripped)
@@ -100,6 +103,9 @@ def llm_cleaning(raw_md: str) -> str:
     print(f"Total chunks: {len(chunks)}")
 
     def process_chunk(idx, chunk):
+        """
+        Clean and reorganize one chunk of Markdown.
+        """
         cleaning_prompt = f"""
             You are cleaning text extracted from a PDF.
 

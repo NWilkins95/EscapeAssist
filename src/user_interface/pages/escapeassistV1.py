@@ -9,6 +9,9 @@ from workflows.V1workflow import run_workflow, WorkflowInput
 
 
 def extract_reply(result: dict) -> str:
+    """
+    Return the assistant text from a workflow result.
+    """
     if "assistant" in result and "output_text" in result["assistant"]:
         return result["assistant"]["output_text"]
 
@@ -23,6 +26,9 @@ def extract_reply(result: dict) -> str:
 # ========================================================
 @st.cache_resource
 def load_workflow():
+    """
+    Cache the V1 workflow function for Streamlit.
+    """
     return run_workflow
 
 

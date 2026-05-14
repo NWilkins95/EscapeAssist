@@ -9,4 +9,7 @@ if "loop" not in globals():
 
 # Run async work from sync code
 def run_async(coro):
+    """
+    Run a coroutine on the shared background event loop.
+    """
     return asyncio.run_coroutine_threadsafe(coro, loop).result()

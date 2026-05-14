@@ -110,6 +110,9 @@ PII_GUARDRAILS = instantiate_guardrails(load_config_bundle(PII_ONLY_CONFIG))
 # Helper Functions
 # =========================================================
 def guardrails_has_tripwire(results):
+    """
+    Return True when any guardrail result tripped.
+    """
     return any(
         (
             hasattr(r, "tripwire_triggered")
@@ -119,6 +122,9 @@ def guardrails_has_tripwire(results):
     )
 
 def get_guardrail_safe_text(results, fallback_text):
+    """
+    Return scrubbed text from guardrail results, or the fallback text.
+    """
     for r in (results or []):
         info = (r.info if hasattr(r, "info") else None) or {}
         if isinstance(info, dict) and ("checked_text" in info):
@@ -143,6 +149,9 @@ def get_guardrail_safe_text(results, fallback_text):
     return fallback_text
 
 async def scrub_conversation_history(history, config):
+    """
+    Scrub PII from conversation history when the config enables it.
+    """
     try:
         guardrails = (config or {}).get("guardrails") or []
         pii = next(
@@ -175,6 +184,9 @@ async def scrub_conversation_history(history, config):
         pass
 
 async def scrub_workflow_input(workflow, input_key, config):
+    """
+    Scrub PII from a workflow input field when enabled.
+    """
     try:
         guardrails = (config or {}).get("guardrails") or []
         pii = next(
@@ -204,6 +216,9 @@ async def scrub_workflow_input(workflow, input_key, config):
         pass
 
 async def run_and_apply_guardrails(input_text, config, history, workflow):
+    """
+    Run guardrails and assemble the response payload.
+    """
     results = await run_guardrails(
         ctx,
         input_text,
@@ -225,7 +240,13 @@ async def run_and_apply_guardrails(input_text, config, history, workflow):
     }
 
 def build_guardrail_fail_output(results):
+    """
+    Build the failure payload for triggered guardrails.
+    """
     def _get(name: str):
+        """
+        Find the guardrail result for a given name.
+        """
         for r in (results or []):
             info = ((r.info if hasattr(r, "info") else None) or {})
             gname = (
@@ -256,9 +277,15 @@ def build_guardrail_fail_output(results):
     )
 
     def _tripwire(r):
+        """
+        Return whether the result tripped.
+        """
         return bool(r.tripwire_triggered) if r else False
 
     def _info(r):
+        """
+        Return the info payload for a result.
+        """
         return r.info if r else {}
 
     jb_info, hal_info, nsfw_info, url_info, custom_info, pid_info, mod_info, pii_info = map(
@@ -373,6 +400,9 @@ Help Ford Escape owners understand their vehicle using manual-based, grounded in
 # Workflow Input
 # =========================================================
 class WorkflowInput(BaseModel):
+    """
+    Input payload for the EscapeAssist workflow.
+    """
     input_as_text: str
     conversation_history: Optional[List[Any]] = None 
 
@@ -380,6 +410,9 @@ class WorkflowInput(BaseModel):
 # Main Workflow
 # =========================================================
 async def run_workflow(workflow_input: WorkflowInput):
+    """
+    Run the V2 guardrails and assistant workflow for one request.
+    """
     with trace("EscapeAssist-V2"):
         state = {}
         workflow = workflow_input.model_dump()
