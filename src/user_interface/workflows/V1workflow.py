@@ -143,36 +143,7 @@ def get_guardrail_safe_text(results, fallback_text):
     return fallback_text
 
 async def scrub_conversation_history(history, config):
-    try:
-        guardrails = (config or {}).get("guardrails") or []
-        pii = next(
-            (
-                g for g in guardrails
-                if (g or {}).get("name") == "Contains PII"
-            ),
-            None
-        )
-        if not pii:
-            return
-        for msg in (history or []):
-            content = (msg or {}).get("content") or []
-            for part in content:
-                if (
-                    isinstance(part, dict)
-                    and part.get("type") == "input_text"
-                    and isinstance(part.get("text"), str)
-                ):
-                    res = await run_guardrails(
-                        ctx,
-                        part["text"],
-                        "text/plain",
-                        PII_GUARDRAILS,
-                        suppress_tripwire=True,
-                        raise_guardrail_errors=True
-                    )
-                    part["text"] = get_guardrail_safe_text(res, part["text"])
-    except Exception:
-        pass
+    return
 
 async def scrub_workflow_input(workflow, input_key, config):
     try:
@@ -212,24 +183,6 @@ async def run_and_apply_guardrails(input_text, config, history, workflow):
         suppress_tripwire=True,
         raise_guardrail_errors=True
     )
-    guardrails = (config or {}).get("guardrails") or []
-    mask_pii = next(
-        (
-            g for g in guardrails
-            if (
-                (g or {}).get("name") == "Contains PII"
-                and (
-                    ((g or {}).get("config") or {}).get("block")
-                    is False
-                )
-            )
-        ),
-        None
-    ) is not None
-    if mask_pii:
-        # Apply PII scrubbing only to the new user input, not historical messages.
-        await scrub_workflow_input(workflow, "input_as_text", config)
-        await scrub_workflow_input(workflow, "input_text", config)
     has_tripwire = guardrails_has_tripwire(results)
     safe_text = get_guardrail_safe_text(results, input_text)
     fail_output = build_guardrail_fail_output(results or [])

@@ -19,7 +19,7 @@ def extract_reply(result: dict) -> str:
 
 
 # -------------------------------
-# Cache the workflow (Fix #2)
+# Cache the workflow
 # -------------------------------
 @st.cache_resource
 def load_workflow():

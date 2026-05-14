@@ -212,24 +212,6 @@ async def run_and_apply_guardrails(input_text, config, history, workflow):
         suppress_tripwire=True,
         raise_guardrail_errors=True
     )
-    guardrails = (config or {}).get("guardrails") or []
-    mask_pii = next(
-        (
-            g for g in guardrails
-            if (
-                (g or {}).get("name") == "Contains PII"
-                and (
-                    ((g or {}).get("config") or {}).get("block")
-                    is False
-                )
-            )
-        ),
-        None
-    ) is not None
-    if mask_pii:
-        # Apply PII scrubbing only to the new user input, not historical messages.
-        await scrub_workflow_input(workflow, "input_as_text", config)
-        await scrub_workflow_input(workflow, "input_text", config)
     has_tripwire = guardrails_has_tripwire(results)
     safe_text = get_guardrail_safe_text(results, input_text)
     fail_output = build_guardrail_fail_output(results or [])
