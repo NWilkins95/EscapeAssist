@@ -26,38 +26,38 @@ st.header("Welcome to EscapeAssist V0!")
 st.markdown("My knowledge is based on the auto-ingested 2022 Ford Escape Owner's Manual.")
 st.markdown("Ask me anything about your 2022 Ford Escape, and I'll do my best to assist you!")
 
-if "messages" not in st.session_state:
-    st.session_state.messages = []
+if "messages_v0" not in st.session_state:
+    st.session_state.messages_v0 = []
 
-if "conversation_history" not in st.session_state:
-    st.session_state.conversation_history = []
+if "conversation_history_v0" not in st.session_state:
+    st.session_state.conversation_history_v0 = []
 
 # Display chat history
-for msg in st.session_state.messages:
+for msg in st.session_state.messages_v0:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
 
 prompt = st.chat_input("Ask about your Ford Escape...")
 
 if prompt:
-    st.session_state.messages.append({"role": "user", "content": prompt})
+    st.session_state.messages_v0.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
 
     # Pass the previous conversation history (as plain dicts) to the workflow
     workflow_input = WorkflowInput(
         input_as_text=prompt,
-        conversation_history=st.session_state.conversation_history or None
+        conversation_history=st.session_state.conversation_history_v0 or None
     )
     result = asyncio.run(run_workflow(workflow_input))
 
     # Store the updated conversation history from the workflow response
     if "conversation_history" in result:
-        st.session_state.conversation_history = result["conversation_history"]
+        st.session_state.conversation_history_v0 = result["conversation_history"]
 
     reply = extract_reply(result)
 
-    st.session_state.messages.append({"role": "assistant", "content": reply})
+    st.session_state.messages_v0.append({"role": "assistant", "content": reply})
     with st.chat_message("assistant"):
         with st.spinner("EscapeAssist is thinking..."):
             result = asyncio.run(run_workflow(workflow_input))
@@ -70,4 +70,3 @@ if prompt:
             typed += char
             placeholder.markdown(typed)
             time.sleep(0.01)
-
