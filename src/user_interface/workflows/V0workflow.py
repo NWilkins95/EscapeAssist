@@ -24,7 +24,7 @@ MAX_HISTORY_MESSAGES = 5
 # =========================================================
 file_search = FileSearchTool(vector_store_ids=["vs_69f962ad8a788191998b7e7121646e26"])
 
-# Shared client for guardrails and file search
+# Shared client
 client = AsyncOpenAI()
 ctx = SimpleNamespace(guardrail_llm=client)
 
@@ -76,7 +76,7 @@ guardrails_config = {
                 ]
             }
         },
-        # FIXED: Removed deprecated field: detect_encoded_pii=True
+        # Deprecated field removed.
         {
             "name": "Contains PII",
             "config": {

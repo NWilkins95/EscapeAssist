@@ -1,6 +1,6 @@
 import streamlit as st
 
-# Define pages
+# Pages
 home = st.Page("pages/home.py", title="Home", icon="🏠")
 escapeassistV0 = st.Page("pages/escapeassistV0.py", title="EscapeAssist V0", icon="🚗")
 escapeassistV1 = st.Page("pages/escapeassistV1.py", title="EscapeAssist V1", icon="🚓")

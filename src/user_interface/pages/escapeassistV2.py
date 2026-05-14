@@ -18,9 +18,9 @@ def extract_reply(result: dict) -> str:
     return "I couldn't process that request. Please try again."
 
 
-#################################
+# =========================================================
 # Cache the workflow
-#################################
+# =========================================================
 @st.cache_resource
 def load_workflow():
     return run_workflow
@@ -29,9 +29,9 @@ def load_workflow():
 workflow = load_workflow()
 
 
-#################################
+# =========================================================
 # UI Setup
-#################################
+# =========================================================
 st.image("assets/IMG_4865.jpeg")
 st.header("Welcome to EscapeAssist V2!")
 st.markdown("My knowledge is based on the cleaned, preprocessed 2022 Ford Escape Owner's Manual.")
@@ -44,15 +44,15 @@ if "conversation_history_v2" not in st.session_state:
     st.session_state.conversation_history_v2 = []
 
 
-# Display chat history
+# Chat history
 for msg in st.session_state.messages_v2:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
 
 
-##################################
+# =========================================================
 # Handle new user input
-##################################
+# =========================================================
 prompt = st.chat_input("Ask about your Ford Escape...")
 
 if prompt:
@@ -71,8 +71,7 @@ if prompt:
     with st.chat_message("assistant"):
         with st.spinner("EscapeAssist is thinking..."):
             result = run_async(workflow(workflow_input))
-        
-        # Extract assistant reply
+
         reply = extract_reply(result)
 
         # Typewriter effect
