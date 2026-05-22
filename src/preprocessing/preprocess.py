@@ -5,11 +5,11 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 
-####################################################################
+# =================================================================
 # Preprocessing Script for 2022 Ford Escape PDF
 # V1: Basic Docling extraction to Markdown
 # V2: Docling extraction + LLM cleanup + LLM reorganization (chunked)
-####################################################################
+# =================================================================
 
 # Load environment variables from .env and initialize OpenAI client
 load_dotenv()
@@ -22,9 +22,9 @@ else:
     print("WARNING: No OpenAI API key found. LLM cleanup will not run.\n"
           "Either export OPENAI_API_KEY in your shell, source .env, or add the key to ~/.zshrc.")
 
-####################################################################
+# ===================================================================
 # Setup and Initialization   
-####################################################################
+# ===================================================================
 
 try:
     source = (
@@ -43,9 +43,9 @@ OUTPUT_DIR_V1.mkdir(parents=True, exist_ok=True)
 OUTPUT_DIR_V2 = Path(__file__).resolve().parent.parent / "preprocessing" / "v2_cleaned"
 OUTPUT_DIR_V2.mkdir(parents=True, exist_ok=True)
 
-####################################################################
+# ===================================================================
 # Chunking Helper
-####################################################################
+# ===================================================================
 
 def chunk_text(text: str, max_chars: int = 8000):
     """
@@ -59,9 +59,10 @@ def chunk_text(text: str, max_chars: int = 8000):
     inside_table = False
 
     def is_table_line(line: str) -> bool:
-        # Heuristic: a line is part of a Markdown table if it starts with '|'
-        # (pipe character denotes table cell boundaries in Markdown).
-        # We also count lines containing '|' as table lines (except separator lines with '---').
+        """
+        Return True when the line looks like Markdown table content.
+        """
+        # Treat pipe-delimited lines as table content.
         stripped = line.strip()
         return stripped.startswith("|") or ("|" in stripped and "---" not in stripped)
 
@@ -73,10 +74,6 @@ def chunk_text(text: str, max_chars: int = 8000):
         elif not line_is_table and inside_table:
             inside_table = False
 
-        # Only chunk (i.e., yield current chunk and start a new one) when:
-        # 1. We exceed max_chars AND
-        # 2. We're NOT in the middle of a table (inside_table must be False).
-        # This ensures tables stay intact across LLM processing.
         if current_length + len(line) > max_chars and not inside_table:
             yield "".join(current_chunk)
             current_chunk = []
@@ -88,9 +85,9 @@ def chunk_text(text: str, max_chars: int = 8000):
     if current_chunk:
         yield "".join(current_chunk)
 
-####################################################################
+# ===================================================================
 # LLM Cleanup + Reorganization (Integrated)
-####################################################################
+# ===================================================================
 
 def llm_cleaning(raw_md: str) -> str:
     """
@@ -106,15 +103,9 @@ def llm_cleaning(raw_md: str) -> str:
     print(f"Total chunks: {len(chunks)}")
 
     def process_chunk(idx, chunk):
-        # NOTE: idx is passed in to track which chunk this is in the original list.
-        # We need idx because chunks are processed in parallel (out of order),
-        # so we'll sort them back by idx before concatenating.
-        
-        # -------------------------
-        # PASS 1 — CLEANING
-        # -------------------------
-        # First pass: remove TOC, fix tables, and normalize formatting.
-        # We emphasize NOT hallucinating or rewriting content.
+        """
+        Clean and reorganize one chunk of Markdown.
+        """
         cleaning_prompt = f"""
             You are cleaning text extracted from a PDF.
 
@@ -132,9 +123,6 @@ def llm_cleaning(raw_md: str) -> str:
             {chunk}
             """
 
-        # Call OpenAI API with temperature=0 for deterministic (non-random) output.
-        # Note: this uses client.responses.create() which may be a beta/preview API.
-        # If this fails, check the OpenAI library version and API docs.
         cleaning_response = client.responses.create(
             model="gpt-4o-mini",
             input=cleaning_prompt,
@@ -142,14 +130,8 @@ def llm_cleaning(raw_md: str) -> str:
             max_output_tokens=3000
         )
 
-        # Extract the cleaned text from the response.
         cleaned = cleaning_response.output_text
 
-        # -------------------------
-        # PASS 2 — REORGANIZATION
-        # -------------------------
-        # Second pass: regroup content under logical headings without changing any text.
-        # This helps structure scattered information into a readable document.
         reorganize_prompt = f"""
             You will reorganize a Markdown document into clean, logical sections.
 
@@ -167,7 +149,6 @@ def llm_cleaning(raw_md: str) -> str:
             {cleaned}
             """
 
-        # Second API call for reorganization pass (same parameters as cleaning pass).
         reorganize_response = client.responses.create(
             model="gpt-4o-mini",
             input=reorganize_prompt,
@@ -175,37 +156,29 @@ def llm_cleaning(raw_md: str) -> str:
             max_output_tokens=3000
         )
 
-        # Extract the reorganized text.
         organized = reorganize_response.output_text
 
         print(f"Chunk {idx+1}/{len(chunks)} cleaned + reorganized")
         return idx, organized
 
-    # Process all chunks in parallel (max 8 workers) to speed up LLM API calls.
-    # as_completed() returns futures as they finish (not in original order).
     processed_chunks = []
     with ThreadPoolExecutor(max_workers=8) as executor:
         futures = [
             executor.submit(process_chunk, idx, chunk)
             for idx, chunk in enumerate(chunks)
         ]
-        # Collect results as they complete (may be out of order).
         for future in as_completed(futures):
-            processed_chunks.append(future.result())  # Returns (idx, organized_text)
+            processed_chunks.append(future.result())
 
-    # Sort back into original chunk order by idx before concatenating.
-    # This is critical: if we don't sort, the final document will have scrambled content.
     processed_chunks.sort(key=lambda x: x[0])
-    # Extract just the text (discard the idx values).
     ordered = [c for _, c in processed_chunks]
 
     print("All chunks processed. Combining final Markdown.")
-    # Concatenate all chunks (now back in original order) with newlines between them.
     return "\n".join(ordered)
 
-####################################################################
+# ===================================================================
 # Preprocessing Functions
-####################################################################
+# ===================================================================
 
 def process_v1_data():
     """
@@ -249,9 +222,9 @@ def process_v2_data():
     except Exception as e:
         print(f"Error processing version 2 (LLM-cleaned markdown): {e}")
 
-####################################################################
+# ===================================================================
 # Main Execution Function
-####################################################################
+# ===================================================================
 
 def main():
     """

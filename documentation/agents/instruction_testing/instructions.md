@@ -1,9 +1,21 @@
 # EscapeAssist – Agent Instructions  
-Versions A–D for Instruction Variation Testing
+Final System Instructions for EscapeAssist AI Assistant
 
 ---
 
-# Version A – Strict Grounding
+## Overview
+
+The following instruction represents the **selected final version (Version B: Friendly Assistant)**, adopted May 7, 2026 based on comprehensive testing. For historical reference, all four tested variations are documented below.
+
+**ACTIVE INSTRUCTION:** Version B – Friendly Assistant  
+**Test Results:** See `test_notes/friendly_assistant_testnotes.md`  
+**Decision Rationale:** See `../decisions/instruction_version_selection.md`
+
+---
+
+# Tested Versions (Archive)
+
+## Version A – Strict Grounding
 
 ### Instruction:
 
@@ -55,7 +67,7 @@ This version is the strictest and minimizes hallucinations.
 
 ---
 
-# Version B – Friendly Assistant
+## Version B – Friendly Assistant ⭐ **SELECTED**
 
 ### Instruction:
 
@@ -100,11 +112,11 @@ Your role is to give clear, accurate answers grounded in the Ford Escape Owner�
 Help Ford Escape owners understand their vehicle using manual‑based, grounded information while keeping the experience approachable.
 
 ### Notes:
-More conversational; still grounded.
+More conversational; still grounded. **SELECTED as final production instruction.** See decision rationale in `../decisions/instruction_version_selection.md`.
 
 ---
 
-# Version C – Step‑By‑Step Reasoning Emphasis
+## Version C – Step-By-Step Reasoning
 
 ### Instruction:
 
@@ -149,11 +161,11 @@ Your job is to provide accurate, grounded answers based strictly on the Ford Esc
 Help Ford Escape owners understand their vehicle by providing grounded, step‑by‑step explanations based solely on the manual.
 
 ### Notes:
-Best for procedural clarity; lowest ambiguity.
+Best for procedural clarity; lowest ambiguity. **Not selected.** Wrench light hallucination and rigid tone were deciding factors.
 
 ---
 
-# Version D – Minimal Instructions
+## Version D – Minimal Instructions
 
 ### Instruction:
 
@@ -194,6 +206,6 @@ You are EscapeAssist, an assistant focused on helping users understand the 2022 
 Provide accurate, manual‑based information to help Ford Escape owners understand their vehicle.
 
 ### Notes:
-Least restrictive; highest naturalness; slightly higher hallucination risk.
+Least restrictive; highest naturalness; slightly higher hallucination risk. **Not selected.** Wrench light hallucination was the deciding factor.
 
 ---

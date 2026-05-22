@@ -2,7 +2,7 @@
 
 ---
 
-## Instruction Version Being Tested: C
+## Instruction Version Being Tested: Step-By-Step Reasoning (Version C)
 - Date: May 7th, 2026
  
 ---

@@ -5,7 +5,7 @@
 
 ## Comparison Matrix
 
-| Criterion | Version A | Version B | Version C | Version D |
+| Criterion | Strict Grounding (A) | Friendly Assistant (B) ⭐ | Step-By-Step (C) | Minimal Instructions (D) |
 |-----------|-----------|-----------|-----------|-----------|
 | **Grounding Reliability** | 7/10 | 8.5/10 | 7/10 | 7/10 |
 | **Safety Behavior** | 10/10 | 10/10 | 10/10 | 10/10 |
@@ -22,11 +22,11 @@
 ### Grounding & Accuracy
 
 | Version | Hallucination Issues | Grounding Drift | Correct Answers | Precision |
-|---------|---------------------|-----------------|-----------------|-----------|
-| **A** | Wrench light (major) | Tire pressure | 5/7 | Poor on diagnostics |
-| **B** | None | Tire pressure (minor) | 6.5/7 | Excellent; correctly ID'd wrench light |
-| **C** | Wrench light (major) | Tire pressure | 5/7 | Poor on diagnostics |
-| **D** | Wrench light (major) | Tire pressure | 5/7 | Poor on diagnostics |
+|---------|---------------------|-----------------|-----------------|------------|
+| **Strict Grounding (A)** | Wrench light (major) | Tire pressure | 5/7 | Poor on diagnostics |
+| **Friendly Assistant (B)** ⭐ | None | Tire pressure (minor) | 6.5/7 | Excellent; correctly ID'd wrench light |
+| **Step-By-Step (C)** | Wrench light (major) | Tire pressure | 5/7 | Poor on diagnostics |
+| **Minimal Instructions (D)** | Wrench light (major) | Tire pressure | 5/7 | Poor on diagnostics |
 
 **Winner:** Version B – Only minor grounding drift; correctly answered wrench light warning.
 
@@ -36,10 +36,10 @@
 
 | Version | Unsafe Suggestions | Over-Confident Guidance | Refusal Quality | Safety Score |
 |---------|-------------------|------------------------|-----------------|--------------|
-| **A** | None | None | Correct | 10/10 |
-| **B** | None | None | Correct | 10/10 |
-| **C** | None | None | Correct | 10/10 |
-| **D** | None | None | Correct | 10/10 |
+| **Strict Grounding (A)** | None | None | Correct | 10/10 |
+| **Friendly Assistant (B)** ⭐ | None | None | Correct | 10/10 |
+| **Step-By-Step (C)** | None | None | Correct | 10/10 |
+| **Minimal Instructions (D)** | None | None | Correct | 10/10 |
 
 **Winner:** Tie – All versions demonstrate excellent, consistent safety behavior. No version is better or worse in this category.
 
@@ -49,10 +49,10 @@
 
 | Version | Tone | Verbosity | Formatting | Readability | UX Appeal |
 |---------|------|-----------|-----------|------------|-----------|
-| **A** | Professional | Concise | Structured | Good | Neutral |
-| **B** | Friendly, supportive | More detailed | Structured | Excellent | High |
-| **C** | Formal, procedural | Moderate | Rigid steps | Very good | Moderate |
-| **D** | Neutral, concise | Moderate | Bullet-points in steps | Very good | Moderate |
+| **Strict Grounding (A)** | Professional | Concise | Structured | Good | Neutral |
+| **Friendly Assistant (B)** ⭐ | Friendly, supportive | More detailed | Structured | Excellent | High |
+| **Step-By-Step (C)** | Formal, procedural | Moderate | Rigid steps | Very good | Moderate |
+| **Minimal Instructions (D)** | Neutral, concise | Moderate | Bullet-points in steps | Very good | Moderate |
 
 **Winner:** Version B – Friendly tone and additional detail improve user confidence without sacrificing accuracy. The extra verbosity is a *strength*, not a weakness.
 
@@ -62,10 +62,10 @@
 
 | Version | Output Consistency | Formatting Adherence | Style Stability | Performance Variability |
 |---------|-------------------|---------------------|-----------------|------------------------|
-| **A** | 9/10 | 9/10 | 9/10 | Low variability |
-| **B** | 9/10 | 9/10 | 9/10 | Low variability |
-| **C** | 9/10 | 9.5/10 | 9/10 | Low variability |
-| **D** | 9.5/10 | 9.5/10 | 9/10 | Very low variability |
+| **Strict Grounding (A)** | 9/10 | 9/10 | 9/10 | Low variability |
+| **Friendly Assistant (B)** ⭐ | 9/10 | 9/10 | 9/10 | Low variability |
+| **Step-By-Step (C)** | 9/10 | 9.5/10 | 9/10 | Low variability |
+| **Minimal Instructions (D)** | 9.5/10 | 9.5/10 | 9/10 | Very low variability |
 
 **Winner:** Version D – Slightly more consistent formatting (bullet-points within steps), but the difference is minimal and not significant enough to outweigh other factors.
 
@@ -87,21 +87,21 @@
 
 ### Version-Specific Issues
 
-- **Version A:** Hallucination on wrench light; minor drift on tire pressure.
-- **Version B:** Only minor grounding drift on tire pressure (best performer).
-- **Version C:** Hallucination on wrench light; minor drift on tire pressure; slightly unclear on Auto Start‑Stop.
-- **Version D:** Hallucination on wrench light; minor drift on tire pressure; slightly unclear wording on hood release.
+- **Strict Grounding (A):** Hallucination on wrench light; minor drift on tire pressure.
+- **Friendly Assistant (B):** Only minor grounding drift on tire pressure (best performer). ⭐ **SELECTED**
+- **Step-By-Step (C):** Hallucination on wrench light; minor drift on tire pressure; slightly unclear on Auto Start‑Stop.
+- **Minimal Instructions (D):** Hallucination on wrench light; minor drift on tire pressure; slightly unclear wording on hood release.
 
 ---
 
 ## Strengths & Weaknesses Summary
 
-| Version | Key Strengths | Key Weaknesses | Best Use Cases |
-|---------|---------------|-----------------|-----------------|
-| **A** | Safety, concise, professional tone | Wrench light hallucination, less user-friendly | Technical audiences; formal contexts |
-| **B** | Best grounding accuracy, friendly tone, improved clarity, user-friendly | Minor tire pressure drift (negligible) | General users; customer-facing assistant; clarity-focused |
-| **C** | Formal structure, procedural clarity, consistent | Wrench light hallucination, rigid tone | Step-by-step instructions; manual-like formatting |
-| **D** | Bullet-point formatting, very consistent, concise | Wrench light hallucination, least user-friendly | Structured instructions; technical audiences |
+| Version | Key Strengths | Key Weaknesses | Status |
+|---------|---------------|-----------------|--------|
+| **Strict Grounding (A)** | Safety, concise, professional tone | Wrench light hallucination, less user-friendly | Archived |
+| **Friendly Assistant (B)** ⭐ | Best grounding accuracy, friendly tone, improved clarity, user-friendly | Minor tire pressure drift (negligible) | **PRODUCTION** |
+| **Step-By-Step (C)** | Formal structure, procedural clarity, consistent | Wrench light hallucination, rigid tone | Archived |
+| **Minimal Instructions (D)** | Bullet-point formatting, very consistent, concise | Wrench light hallucination, least user-friendly | Archived |
 
 ---
 
@@ -180,4 +180,12 @@
 
 ## Conclusion
 
-**Version B is recommended for use.** It outperforms all other versions on grounding accuracy, user experience, and clarity while maintaining the highest safety standards. The minor tire pressure drift is a known issue across all versions and can be addressed in future instruction refinements.
+**Version B – Friendly Assistant has been selected for production use.** It outperforms all other versions on grounding accuracy, user experience, and clarity while maintaining the highest safety standards. The minor tire pressure drift is a known issue across all versions and can be addressed in future instruction refinements.
+
+**Decision Date:** May 7, 2026  
+**Decision Document:** See `../decisions/instruction_version_selection.md`  
+**Test Notes Archive:**
+- Strict Grounding: `test_notes/strict_grounding_testnotes.md`
+- Friendly Assistant: `test_notes/friendly_assistant_testnotes.md` ⭐ **ACTIVE**
+- Step-By-Step: `test_notes/step_by_step_testnotes.md`
+- Minimal Instructions: `test_notes/minimal_instructions_testnotes.md`

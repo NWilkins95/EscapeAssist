@@ -2,7 +2,7 @@
 
 ---
 
-## Instruction Version Being Tested: A
+## Instruction Version Being Tested: Strict Grounding (Version A)
 - Date: May 6th, 2026
 
 ---

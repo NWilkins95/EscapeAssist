@@ -2,7 +2,7 @@
 
 ---
 
-## Instruction Version Being Tested: B
+## Instruction Version Being Tested: Friendly Assistant (Version B)
 - Date: May 6th, 2026
 
 ---

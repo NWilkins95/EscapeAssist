@@ -10,7 +10,7 @@ Instead, this is about designing how evaluation will work by exploring how diffe
 
 The purpose of this plan is to:
 
-- Understand how different system instruction styles (Versions A–D) affect EscapeAssist’s behavior.
+- Understand how different system instruction styles (Strict Grounding, Friendly Assistant, Step-By-Step Reasoning, and Minimal Instructions) affect EscapeAssist's behavior.
 - Observe grounding behavior using the Evaluate panel.
 - Identify early failure cases.
 - Define what “good” and “bad” traces look like.
@@ -24,10 +24,10 @@ This is exploratory testing. Not running batch tests yet.
 
 I will test the following system instruction variations:
 
-- **Version A – Strict Grounding**
-- **Version B – Friendly Assistant**
-- **Version C – Step‑By‑Step Reasoning**
-- **Version D – Minimal Instructions**
+- **Strict Grounding (Version A)** – See test notes in `strict_grounding_testnotes.md`
+- **Friendly Assistant (Version B)** – See test notes in `friendly_assistant_testnotes.md`
+- **Step-By-Step Reasoning (Version C)** – See test notes in `step_by_step_testnotes.md`
+- **Minimal Instructions (Version D)** – See test notes in `minimal_instructions_testnotes.md`
 
 Each version will be pasted into the **Instructions** field of Agent Builder and tested independently.
 
@@ -96,7 +96,7 @@ These will become my failure categories.
 
 # 6. How I Will Compare Instruction Versions
 
-When comparing A–D, I will evaluate:
+When comparing all four versions, I will evaluate:
 
 ### **6.1 Grounding Strictness**
 Which version stays closest to the source material?
