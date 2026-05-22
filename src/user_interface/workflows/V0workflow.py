@@ -2,7 +2,6 @@ from agents import (
     FileSearchTool,
     Agent,
     ModelSettings,
-    TResponseInputItem,
     Runner,
     RunConfig,
     trace,
@@ -96,15 +95,6 @@ guardrails_config = {
 # Cached Guardrail Instances
 # =========================================================
 ALL_GUARDRAILS = instantiate_guardrails(load_config_bundle(guardrails_config))
-PII_ONLY_CONFIG = {
-    "guardrails": [
-        next(
-            g for g in guardrails_config["guardrails"]
-            if g["name"] == "Contains PII"
-        )
-    ]
-}
-PII_GUARDRAILS = instantiate_guardrails(load_config_bundle(PII_ONLY_CONFIG))
 
 # =========================================================
 # Helper Functions
@@ -148,74 +138,7 @@ def get_guardrail_safe_text(results, fallback_text):
         return pii.get("anonymized_text") or fallback_text
     return fallback_text
 
-async def scrub_conversation_history(history, config):
-    """
-    Scrub PII from conversation history when the config enables it.
-    """
-    try:
-        guardrails = (config or {}).get("guardrails") or []
-        pii = next(
-            (
-                g for g in guardrails
-                if (g or {}).get("name") == "Contains PII"
-            ),
-            None
-        )
-        if not pii:
-            return
-        for msg in (history or []):
-            content = (msg or {}).get("content") or []
-            for part in content:
-                if (
-                    isinstance(part, dict)
-                    and part.get("type") == "input_text"
-                    and isinstance(part.get("text"), str)
-                ):
-                    res = await run_guardrails(
-                        ctx,
-                        part["text"],
-                        "text/plain",
-                        PII_GUARDRAILS,
-                        suppress_tripwire=True,
-                        raise_guardrail_errors=True
-                    )
-                    part["text"] = get_guardrail_safe_text(res, part["text"])
-    except Exception:
-        pass
-
-async def scrub_workflow_input(workflow, input_key, config):
-    """
-    Scrub PII from a workflow input field when enabled.
-    """
-    try:
-        guardrails = (config or {}).get("guardrails") or []
-        pii = next(
-            (
-                g for g in guardrails
-                if (g or {}).get("name") == "Contains PII"
-            ),
-            None
-        )
-        if not pii:
-            return
-        if not isinstance(workflow, dict):
-            return
-        value = workflow.get(input_key)
-        if not isinstance(value, str):
-            return
-        res = await run_guardrails(
-            ctx,
-            value,
-            "text/plain",
-            PII_GUARDRAILS,
-            suppress_tripwire=True,
-            raise_guardrail_errors=True
-        )
-        workflow[input_key] = get_guardrail_safe_text(res, value)
-    except Exception:
-        pass
-
-async def run_and_apply_guardrails(input_text, config, history, workflow):
+async def run_and_apply_guardrails(input_text):
     """
     Run guardrails and assemble the response payload.
     """
@@ -227,16 +150,13 @@ async def run_and_apply_guardrails(input_text, config, history, workflow):
         suppress_tripwire=True,
         raise_guardrail_errors=True
     )
-    has_tripwire = guardrails_has_tripwire(results)
     safe_text = get_guardrail_safe_text(results, input_text)
-    fail_output = build_guardrail_fail_output(results or [])
-    pass_output = {"safe_text": (get_guardrail_safe_text(results, input_text) or input_text)}
     return {
         "results": results,
-        "has_tripwire": has_tripwire,
+        "has_tripwire": guardrails_has_tripwire(results),
         "safe_text": safe_text,
-        "fail_output": fail_output,
-        "pass_output": pass_output
+        "fail_output": build_guardrail_fail_output(results or []),
+        "pass_output": {"safe_text": (safe_text or input_text)}
     }
 
 def build_guardrail_fail_output(results):
@@ -414,33 +334,18 @@ async def run_workflow(workflow_input: WorkflowInput):
     Run the V0 guardrails and assistant workflow for one request.
     """
     with trace("EscapeAssist-V0"):
-        state = {}
         workflow = workflow_input.model_dump()
 
-        # Preserve prior conversation history
         conversation_history: list[dict] = workflow.get("conversation_history") or []
-        # Append the current user input as the latest message
         conversation_history.append({
             "role": "user",
             "content": [{"type": "input_text", "text": workflow["input_as_text"]}]
         })
         conversation_history = conversation_history[-MAX_HISTORY_MESSAGES:]
-        guardrails_input_text = workflow["input_as_text"]
-        guardrails_result = await run_and_apply_guardrails(
-            guardrails_input_text,
-            guardrails_config,
-            conversation_history,
-            workflow
-        )
-        guardrails_hastripwire = guardrails_result["has_tripwire"]
-        guardrails_anonymizedtext = guardrails_result["safe_text"]
-        guardrails_output = (
-            (guardrails_hastripwire and guardrails_result["fail_output"])
-            or guardrails_result["pass_output"]
-        )
-        if guardrails_hastripwire:
+        guardrails_result = await run_and_apply_guardrails(workflow["input_as_text"])
+        if guardrails_result["has_tripwire"]:
             return {
-                **guardrails_output,
+                **guardrails_result["fail_output"],
                 "conversation_history": conversation_history,
             }
         # Use sliding window: only pass last 5 messages to agent to cap token usage
@@ -466,7 +371,7 @@ async def run_workflow(workflow_input: WorkflowInput):
         )
         conversation_history = conversation_history[-MAX_HISTORY_MESSAGES:]
         return {
-            "guardrails": guardrails_output,
+            "guardrails": guardrails_result["pass_output"],
             "assistant": escapeassist_result,
             "conversation_history": conversation_history
         }

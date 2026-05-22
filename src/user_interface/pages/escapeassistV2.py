@@ -73,7 +73,7 @@ if prompt:
         conversation_history=st.session_state.conversation_history_v2 or None
     )
 
-    # Run workflow ONCE using shared async loop
+    # Run workflow using shared async loop
     with st.chat_message("assistant"):
         with st.spinner("EscapeAssist is thinking..."):
             result = run_async(workflow(workflow_input))
