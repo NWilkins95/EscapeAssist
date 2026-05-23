@@ -80,7 +80,7 @@ def build_judge_prompt(question: str, model_answer: str, truth: str, source_quot
     - Adding facts not present in the Source Quote that are likely incorrect or fabricated -> likely hallucination
     - Guessing specific values or specs without support -> hallucination
 
-    When you produce the JSON, keep the reasoning concise (one or two sentences).
+    When you produce the JSON, keep the reasoning concise (two or three sentences).
     """
 
     return prompt
