@@ -7,11 +7,10 @@ evaluation harness. The golden dataset provides ground-truth question/answer
 pairs that the judge LLM uses to compute metrics and compare system outputs across
 experiments and versions.
 
-## File format and naming
+## File format
 
 - Store data as newline-delimited JSON (`.jsonl`). Each line must be a single
 	valid JSON object.
-- Filename pattern: `golden_v{MAJOR}.jsonl` (for example `golden_v1.jsonl`).
 
 ## Record fields
 

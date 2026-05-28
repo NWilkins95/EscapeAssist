@@ -27,7 +27,8 @@ from user_interface.workflows.V2workflow import run_workflow as run_v2, Workflow
 # =========================================================
 # Data Paths
 # =========================================================
-GOLDEN_DATA_PATH = Path(__file__).resolve().parents[1] / "data" / "golden_v1.jsonl"
+GOLDEN_DATA_PATH = Path(__file__).resolve().parents[1] / "data" / "golden.jsonl"
+OUTPUT_PATH = Path(__file__).resolve().parents[1] / "outputs" / "v1_answers.jsonl"
 
 # =========================================================
 # Workflow Registry
