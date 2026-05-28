@@ -1,5 +1,6 @@
 from pathlib import Path
 import sys
+from datetime import datetime, timezone
 
 # =========================================================
 # Path Setup
@@ -28,7 +29,8 @@ from user_interface.workflows.V2workflow import run_workflow as run_v2, Workflow
 # Data Paths
 # =========================================================
 GOLDEN_DATA_PATH = Path(__file__).resolve().parents[1] / "data" / "golden.jsonl"
-OUTPUT_PATH = Path(__file__).resolve().parents[1] / "outputs" / "v1_answers.jsonl"
+OUTPUTS_DIR = Path(__file__).resolve().parents[1] / "outputs"
+OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
 
 # =========================================================
 # Workflow Registry
@@ -40,8 +42,19 @@ WORKFLOWS = {
 }
 
 # =========================================================
-# Judge LLM Functions
+# Judge LLM Helper Functions
 # =========================================================
+def load_golden_data() -> list[dict]:
+    """
+    Load the golden dataset from JSONL into a list of dictionaries.
+    """
+    golden_data = []
+    with open(GOLDEN_DATA_PATH, "r") as f:
+        for line in f:
+            golden_data.append(json.loads(line))
+
+    return golden_data
+
 def extract_reply(result: dict) -> str:
     """
     Return the assistant text from a workflow result payload.
@@ -54,17 +67,48 @@ def extract_reply(result: dict) -> str:
 
     return "I couldn't process that request. Please try again."
 
-def load_golden_data() -> list[dict]:
+def save_answers(selected_version: str, answers: list[tuple], output_path: Path) -> None:
     """
-    Load the golden dataset from JSONL into a list of dictionaries.
+    Write gathered answers to JSONL (one JSON object per line).
     """
-    golden_data = []
-    with open(GOLDEN_DATA_PATH, "r") as f:
-        for line in f:
-            golden_data.append(json.loads(line))
-    return golden_data
+    output_path.parent.mkdir(parents=True, exist_ok=True)
 
-def gather_answers(selected_version: str) -> list:
+    with output_path.open("w", encoding="utf-8") as f:
+        for i, (question, model_answer, truth, source_quote, qtype) in enumerate(answers, start=1):
+            row = {
+                "id": f"{selected_version}-answer-{i:04d}",          
+                "question": question,
+                "model_answer": model_answer,  
+                "truth": truth,
+                "source_quote": source_quote,
+                "type": qtype,
+            }
+            f.write(json.dumps(row, ensure_ascii=False) + "\n")
+
+def save_eval(selected_version: str, answers: list[tuple], evaluations: list[str], output_path: Path) -> None:
+    """
+    Write evaluation results to JSONL (one JSON object per line).
+    Each row includes the original question, model answer, ground truth, source quote, question type, and the judge's evaluation.
+    """
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    with output_path.open("w", encoding="utf-8") as f:
+        for i, ((question, model_answer, truth, source_quote, qtype), eval_result) in enumerate(zip(answers, evaluations), start=1):
+            row = {
+                "id": f"{selected_version}-eval-{i:04d}",
+                "question": question,
+                "model_answer": model_answer,
+                "truth": truth,
+                "source_quote": source_quote,
+                "type": qtype,
+                "evaluation": eval_result,
+            }
+            f.write(json.dumps(row, ensure_ascii=False) + "\n")
+
+# =========================================================
+# Judge LLM Functions
+# =========================================================
+def gather_answers(selected_version: str, timestamp: str) -> list:
     """
     Run the selected workflow over the golden dataset and collect model answers.
     """
@@ -97,17 +141,20 @@ def gather_answers(selected_version: str) -> list:
 
             break
 
-    print(f"Gathered {len(answers)} answers from the model for version {selected_version}.")
+    output_path = OUTPUTS_DIR / "answers" / f"{selected_version}" / f"{selected_version}_answers-{timestamp}.jsonl"
+    save_answers(selected_version, answers, output_path)
+    print("Answers have been gathered. Results saved to: " + str(output_path))
 
     return answers
 
-def run_judge(answers: list) -> None:
+def run_judge(answers: list, selected_version: str, timestamp: str) -> list:
     """
     Send each answer pair to the Judge LLM and print the structured response.
     """
 
     print("Running Judge LLM on the gathered answers...")
 
+    evaluation_results = []
     for answer in answers:
         question = answer[0]
         model_answer = answer[1]
@@ -151,15 +198,21 @@ def run_judge(answers: list) -> None:
                 }
             }
         )
+        result = json.loads(response.output[0].content[0].text)
+        evaluation_results.append(result)
 
-        raw_text = response.output[0].content[0].text
-        print(raw_text)
+    output_path = OUTPUTS_DIR / "evaluations" / f"{selected_version}" / f"{selected_version}_eval-{timestamp}.jsonl"
+    save_eval(selected_version, answers, evaluation_results, output_path)
+
+    return print("Evaluation complete. Results saved to: " + str(output_path))
+
 
 def main():
 
-    selected_version = "V1"
-    answers = gather_answers(selected_version)
-    run_judge(answers)
+    selected_version = "V0"
+    timestamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    answers = gather_answers(selected_version, timestamp)
+    run_judge(answers, selected_version, timestamp)
 
 
 if __name__ == "__main__":
