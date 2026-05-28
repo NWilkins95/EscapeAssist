@@ -1,7 +1,9 @@
 from pathlib import Path
 import sys
 
-# Ensure the src directory is in the Python path for imports
+# =========================================================
+# Path Setup
+# =========================================================
 SRC_DIR = Path(__file__).resolve().parents[2]
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
@@ -10,30 +12,38 @@ from evaluation.judge.judge_instructions import get_judge_instructions
 from openai import OpenAI
 from dotenv import load_dotenv
 import json
-from dotenv import load_dotenv
 
 load_dotenv()
 client = OpenAI()
 
-# Import the workflow functions and input classes for all versions
+# =========================================================
+# Workflow Imports
+# =========================================================
 from user_interface.async_runner import run_async
 from user_interface.workflows.V0workflow import run_workflow as run_v0, WorkflowInput as V0Input
 from user_interface.workflows.V1workflow import run_workflow as run_v1, WorkflowInput as V1Input
 from user_interface.workflows.V2workflow import run_workflow as run_v2, WorkflowInput as V2Input
 
-# Load the golden dataset from the JSON file
+# =========================================================
+# Data Paths
+# =========================================================
 GOLDEN_DATA_PATH = Path(__file__).resolve().parents[1] / "data" / "golden_v1.jsonl"
 
-# Define a mapping of version names to their corresponding workflow functions and input classes
+# =========================================================
+# Workflow Registry
+# =========================================================
 WORKFLOWS = {
     "V0": (run_v0, V0Input),
     "V1": (run_v1, V1Input),
     "V2": (run_v2, V2Input),
 }
 
+# =========================================================
+# Judge LLM Functions
+# =========================================================
 def extract_reply(result: dict) -> str:
     """
-    Return the assistant text from a workflow result.
+    Return the assistant text from a workflow result payload.
     """
     if "assistant" in result and "output_text" in result["assistant"]:
         return result["assistant"]["output_text"]
@@ -44,7 +54,9 @@ def extract_reply(result: dict) -> str:
     return "I couldn't process that request. Please try again."
 
 def load_golden_data() -> list[dict]:
-    """Load the golden dataset from the JSONL file and return it as a list of dicts."""
+    """
+    Load the golden dataset from JSONL into a list of dictionaries.
+    """
     golden_data = []
     with open(GOLDEN_DATA_PATH, "r") as f:
         for line in f:
@@ -52,15 +64,12 @@ def load_golden_data() -> list[dict]:
     return golden_data
 
 def gather_answers(selected_version: str) -> list:
-    """Gather the model answers for all questions in the golden dataset.
-
-    This function iterates through the golden dataset, sends each question to the RAG model,
-    and collects the model's answers. The returned list contains tuples of (question, model_answer, truth, source_quote, qtype).
+    """
+    Run the selected workflow over the golden dataset and collect model answers.
     """
 
     print(f"Gathering answers for version {selected_version}...")
 
-    # Get the workflow function and input class for the selected version
     workflow_fn, workflow_input_cls = WORKFLOWS[selected_version]
 
     answers = []
@@ -70,18 +79,15 @@ def gather_answers(selected_version: str) -> list:
 
     for item in golden_data:
         question = item["question"]
-        
-        # Build the workflow input for the current question
+
         workflow_input = workflow_input_cls(
             input_as_text=question,
             conversation_history=None,
         )
 
-        # Run the workflow and extract the model's answer
         result = run_async(workflow_fn(workflow_input))
         model_answer = extract_reply(result)
 
-        # Append the question, model answer, truth, source quote, and question type to the answers list
         answers.append((question, model_answer, item["truth"], item["source_quote"], item["type"]))
 
         if len(answers) >= 5 and not five_gathered:
@@ -95,17 +101,13 @@ def gather_answers(selected_version: str) -> list:
     return answers
 
 def run_judge(answers: list):
-    """Run the Judge LLM on the given inputs and return the evaluation as a dict.
-
-    This function builds the judge prompt using the provided inputs, sends it to the Judge LLM,
-    and parses the JSON response into a Python dictionary. The returned dict contains the scores
-    for correctness, grounding, and hallucination.
+    """
+    Send each answer pair to the Judge LLM and print the structured response.
     """
 
     print("Running Judge LLM on the gathered answers...")
 
     for answer in answers:
-        # Unpack the answer
         question = answer[0]
         model_answer = answer[1]
         truth = answer[2]
@@ -129,14 +131,32 @@ def run_judge(answers: list):
             input=case_input,
             max_output_tokens=400,
             temperature=0.0,
+            text={
+                "format": {
+                    "type": "json_schema",
+                    "name": "judge_output",
+                    "strict": True,
+                    "schema": {
+                        "type": "object",
+                        "properties": {
+                            "correctness": {"type": "integer", "minimum": 0, "maximum": 5},
+                            "grounding": {"type": "integer", "minimum": 0, "maximum": 5},
+                            "hallucination": {"type": "boolean"},
+                            "reasoning": {"type": "string", "minLength": 1}
+                        },
+                        "required": ["correctness", "grounding", "hallucination", "reasoning"],
+                        "additionalProperties": False
+                    }
+                }
+            }
         )
 
-        # print the raw response for debugging
-        print("Judge LLM raw response:", response)
+        raw_text = response.output[0].content[0].text
+        print(raw_text)
 
 def main():
 
-    selected_version = "V1"  # Change this to select different versions (e.g., "V0", "V1", "V2")
+    selected_version = "V1"
     answers = gather_answers(selected_version)
     run_judge(answers)
 
