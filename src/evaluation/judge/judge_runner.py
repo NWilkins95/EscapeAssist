@@ -100,7 +100,7 @@ def gather_answers(selected_version: str) -> list:
 
     return answers
 
-def run_judge(answers: list):
+def run_judge(answers: list) -> None:
     """
     Send each answer pair to the Judge LLM and print the structured response.
     """
