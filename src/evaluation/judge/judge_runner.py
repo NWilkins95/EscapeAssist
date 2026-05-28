@@ -74,33 +74,27 @@ def save_answers(selected_version: str, answers: list[tuple], output_path: Path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     with output_path.open("w", encoding="utf-8") as f:
-        for i, (question, model_answer, truth, source_quote, qtype) in enumerate(answers, start=1):
+        for i, (question, model_answer, truth, source_quote, type) in enumerate(answers, start=1):
             row = {
                 "id": f"{selected_version}-answer-{i:04d}",          
                 "question": question,
                 "model_answer": model_answer,  
                 "truth": truth,
                 "source_quote": source_quote,
-                "type": qtype,
+                "type": type,
             }
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
 
-def save_eval(selected_version: str, answers: list[tuple], evaluations: list[str], output_path: Path) -> None:
+def save_eval(selected_version: str, evaluations: list[str], output_path: Path) -> None:
     """
     Write evaluation results to JSONL (one JSON object per line).
-    Each row includes the original question, model answer, ground truth, source quote, question type, and the judge's evaluation.
     """
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     with output_path.open("w", encoding="utf-8") as f:
-        for i, ((question, model_answer, truth, source_quote, qtype), eval_result) in enumerate(zip(answers, evaluations), start=1):
+        for i, eval_result in enumerate(evaluations, start=1):
             row = {
                 "id": f"{selected_version}-eval-{i:04d}",
-                "question": question,
-                "model_answer": model_answer,
-                "truth": truth,
-                "source_quote": source_quote,
-                "type": qtype,
                 "evaluation": eval_result,
             }
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
@@ -202,7 +196,7 @@ def run_judge(answers: list, selected_version: str, timestamp: str) -> list:
         evaluation_results.append(result)
 
     output_path = OUTPUTS_DIR / "evaluations" / f"{selected_version}" / f"{selected_version}_eval-{timestamp}.jsonl"
-    save_eval(selected_version, answers, evaluation_results, output_path)
+    save_eval(selected_version, evaluation_results, output_path)
 
     return print("Evaluation complete. Results saved to: " + str(output_path))
 
