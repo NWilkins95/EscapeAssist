@@ -21,6 +21,7 @@ from user_interface.workflows.V2workflow import run_workflow as run_v2, Workflow
 
 load_dotenv()
 client = OpenAI()
+
 # =========================================================
 # Data Paths
 # =========================================================
@@ -95,9 +96,6 @@ def save_eval(selected_version: str, evaluations: list[str], output_path: Path) 
             }
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
 
-# =========================================================
-# Judge LLM Functions
-# =========================================================
 def gather_answers(selected_version: str, timestamp: str) -> list:
     """
     Run the selected workflow over the golden dataset and collect model answers.
@@ -137,6 +135,9 @@ def gather_answers(selected_version: str, timestamp: str) -> list:
 
     return answers
 
+# =========================================================
+# Judge LLM Function
+# =========================================================
 def run_judge(answers: list, selected_version: str, timestamp: str) -> list:
     """
     Send each answer pair to the Judge LLM and print the structured response.
@@ -197,7 +198,9 @@ def run_judge(answers: list, selected_version: str, timestamp: str) -> list:
     print("Evaluation complete. Results saved to: " + str(output_path))
     return evaluation_results
 
-
+# =========================================================
+# Main Execution Function
+# =========================================================
 def main():
 
     selected_version = "V0"

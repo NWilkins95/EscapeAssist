@@ -11,17 +11,16 @@ from openai import OpenAI
 # =========================================================
 # Path Setup & Client Initialization
 # =========================================================
-
 SRC_DIR = Path(__file__).resolve().parents[2]
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
+load_dotenv()
+client = OpenAI()
+
 from evaluation.judge.judge_instructions import get_judge_instructions
 from evaluation.judge.judge_runner import (OUTPUTS_DIR, WORKFLOWS, extract_reply, load_golden_data) 
 from user_interface.async_runner import run_async 
-
-load_dotenv()
-client = OpenAI()
 
 DEFAULT_SAMPLE_SIZE = 15
 DEFAULT_SEED = 42
@@ -30,7 +29,6 @@ VERSIONS = ("V0", "V1", "V2")
 # =========================================================
 # Sampling & File Helpers
 # =========================================================
-
 def pick_sample(golden_data: list[dict], sample_size: int, seed: int) -> list[dict]:
     if sample_size > len(golden_data):
         raise ValueError(
@@ -52,7 +50,6 @@ def write_jsonl(rows: list[dict], output_path: Path) -> None:
 # =========================================================
 # Judge LLM Helper Functions
 # =========================================================
-
 def save_answers(selected_version: str, answers: list[tuple], output_path: Path) -> None:
     rows = []
     for i, (question_id, question, model_answer, truth, source_quote, question_type) in enumerate(answers, start=1):
@@ -102,7 +99,9 @@ def gather_answers(selected_version: str, sampled_cases: list[dict], output_path
     save_answers(selected_version, answers, output_path)
     return answers
 
-
+# =========================================================
+# Judge LLM Evaluation Function
+# =========================================================
 def run_judge(answers: list[tuple]) -> list[dict]:
     judge_instructions = get_judge_instructions()
     evaluation_results = []
@@ -163,7 +162,6 @@ def run_judge(answers: list[tuple]) -> list[dict]:
 # =========================================================
 # Main
 # =========================================================
-
 def main() -> None:
     golden_data = load_golden_data()
     sampled_cases = pick_sample(golden_data, sample_size=DEFAULT_SAMPLE_SIZE, seed=DEFAULT_SEED)
@@ -188,7 +186,6 @@ def main() -> None:
         answers = gather_answers(version, sampled_cases, version_root / "answers.jsonl")
         evaluations = run_judge(answers)
         save_eval(version, evaluations, version_root / "judge_results.jsonl")
-        write_jsonl(evaluations, version_root / "grading_ready.jsonl")
 
     print(f"Calibration run complete. Results saved to: {run_root}")
 
