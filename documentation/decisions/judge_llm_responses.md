@@ -13,10 +13,7 @@ The evaluation harness needs the Judge LLM to behave consistently and return mac
 
 ## Decision
 
-Use the Responses API `instructions` parameter to carry the judge prompt instead of embedding the prompt in the request body as user content. Also use a strict JSON schema in the response format so the model returns only the required fields and no surrounding prose.
-
-The implementation in [src/evaluation/judge/runner.py](../../src/evaluation/judge/runner.py) now sends the judge instructions separately from the case input and requires structured JSON output with the fields `correctness`, `grounding`, `hallucination`, and `reasoning`.
-
+The implementation in [src/evaluation/judge/judge_runner.py](../../src/evaluation/judge/judge_runner.py) now sends the judge instructions separately from the case input and requires structured JSON output with the fields `correctness`, `grounding`, `hallucination`, and `reasoning`.
 ## Why This Was Chosen
 
 1. Separating instructions from the case data better matches the Responses API design and reduces prompt confusion.
