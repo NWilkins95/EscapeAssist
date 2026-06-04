@@ -1,14 +1,7 @@
 import json
 import sys
-from pathlib import Path
-from openai import OpenAI
-from dotenv import load_dotenv
 from datetime import datetime, timezone
-from user_interface.async_runner import run_async
-from user_interface.workflows.V0workflow import run_workflow as run_v0, WorkflowInput as V0Input
-from user_interface.workflows.V1workflow import run_workflow as run_v1, WorkflowInput as V1Input
-from user_interface.workflows.V2workflow import run_workflow as run_v2, WorkflowInput as V2Input
-from evaluation.judge.judge_instructions import get_judge_instructions
+from pathlib import Path
 
 # =========================================================
 # Path Setup & Client Initialization
@@ -17,9 +10,17 @@ SRC_DIR = Path(__file__).resolve().parents[2]
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
+from dotenv import load_dotenv
+from openai import OpenAI
+
+from evaluation.judge.judge_instructions import get_judge_instructions
+from user_interface.async_runner import run_async
+from user_interface.workflows.V0workflow import run_workflow as run_v0, WorkflowInput as V0Input
+from user_interface.workflows.V1workflow import run_workflow as run_v1, WorkflowInput as V1Input
+from user_interface.workflows.V2workflow import run_workflow as run_v2, WorkflowInput as V2Input
+
 load_dotenv()
 client = OpenAI()
-
 # =========================================================
 # Data Paths
 # =========================================================
