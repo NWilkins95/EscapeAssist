@@ -41,7 +41,5 @@ Downstream evaluation code will normalize the judge outputs to a 0-1 scale after
   - Downstream code must normalize the judge output before aggregation.
 
 ## Follow-Up Actions
-
-1. Keep `judge_prompt.py` aligned with the final rubric wording.
-2. Normalize judge scores to 0-1 in the evaluation pipeline using `raw_score / 5`.
+1. Keep `judge_instructions.py` aligned with the final rubric wording.
 3. Reuse the same rubric wording in any evaluation dashboards or reports.
