@@ -61,9 +61,7 @@ That gives the judge enough precision while keeping final metrics easy to compar
 
 ---
 
-## Where the Prompt Lives
-
-The judge prompt is implemented in [src/evaluation/judge/judge_prompt.py](../../src/evaluation/judge/judge_prompt.py).
+The judge prompt is implemented in [src/evaluation/judge/judge_instructions.py](../../src/evaluation/judge/judge_instructions.py).
 
 ---
 
