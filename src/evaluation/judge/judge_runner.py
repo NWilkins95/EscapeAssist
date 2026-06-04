@@ -188,7 +188,7 @@ def run_judge(answers: list, selected_version: str, timestamp: str) -> list:
                 }
             }
         )
-        result = json.loads(response.output[0].content[0].text)
+        result = json.loads(response.output_text)
         evaluation_results.append(result)
 
     output_path = OUTPUTS_DIR / "evaluations" / f"{selected_version}" / f"{selected_version}_eval-{timestamp}.jsonl"
