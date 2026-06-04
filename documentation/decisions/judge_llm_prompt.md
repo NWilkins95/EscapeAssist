@@ -9,10 +9,7 @@ The Judge LLM will use a structured prompt with a fixed scoring rubric for evalu
 
 ## Context
 
-The evaluation harness needs a judge that can score answers consistently across factual, procedural, and structured-table questions. A very small scale such as 0-1 was considered first, but it was too coarse for consistent LLM grading.
-
-The prompt in [src/evaluation/judge/judge_prompt.py](../../src/evaluation/judge/judge_prompt.py) is the reference implementation for the current rubric wording and output format.
-
+The prompt in [src/evaluation/judge/judge_instructions.py](../../src/evaluation/judge/judge_instructions.py) is the reference implementation for the current rubric wording and output format.
 ## Decision
 
 Use a multi-point judge rubric rather than a binary one. The judge prompt asks for separate scores for correctness, grounding, and hallucination judgement, with the scoring scale expressed as a 0-5 range so the model has enough room to distinguish partial credit from clear failures.
