@@ -193,7 +193,8 @@ def run_judge(answers: list, selected_version: str, timestamp: str) -> list:
     output_path = OUTPUTS_DIR / "evaluations" / f"{selected_version}" / f"{selected_version}_eval-{timestamp}.jsonl"
     save_eval(selected_version, evaluation_results, output_path)
 
-    return print("Evaluation complete. Results saved to: " + str(output_path))
+    print("Evaluation complete. Results saved to: " + str(output_path))
+    return evaluation_results
 
 
 def main():
