@@ -1,6 +1,6 @@
 # EscapeAssist Manual Grading Tracker
 
-| Row | QID | Version | Correctness (H) | Grounding (H) | Hallucination (H) | Refusal (H) | Correctness (J) | Grounding (J) | Hallucination (J) | Refusal (J) | Match? | Needs Log? |
+| Row | QID | Version | Correctness (H)  |  Grounding (H) | Hallucination (H)  | Refusal (H)  | Correctness (J)  | Grounding (J)  | Hallucination (J)  | Refusal (J)  | Match? | Needs Log? |
 |-----|-----|---------|------------------|----------------|--------------------|--------------|------------------|----------------|--------------------|--------------|--------|------------|
 | 1   | Q01 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
 | 2   | Q01 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
