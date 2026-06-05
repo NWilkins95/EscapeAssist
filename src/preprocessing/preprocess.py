@@ -19,8 +19,10 @@ if _OPENAI_API_KEY:
     client = OpenAI(api_key=_OPENAI_API_KEY)
 else:
     client = None
-    print("WARNING: No OpenAI API key found. LLM cleanup will not run.\n"
-          "Either export OPENAI_API_KEY in your shell, source .env, or add the key to ~/.zshrc.")
+    print(
+        "WARNING: No OpenAI API key found. LLM cleanup will not run.\n"
+        "Either export OPENAI_API_KEY in your shell, source .env, or add the key to ~/.zshrc."
+    )
 
 # ===================================================================
 # Setup and Initialization   
@@ -49,9 +51,14 @@ OUTPUT_DIR_V2.mkdir(parents=True, exist_ok=True)
 
 def chunk_text(text: str, max_chars: int = 8000):
     """
-    Split text into chunks without breaking Markdown tables.
-    This is important because LLM processing can mangle tables if they're split mid-table.
-    Strategy: track whether we're inside a table, and never split while inside_table=True.
+    Split Markdown text into chunks while avoiding splits inside tables.
+
+    Args:
+        text: Full Markdown string extracted from the PDF.
+        max_chars: Maximum character length per chunk.
+
+    Yields:
+        Markdown chunks that respect table boundaries.
     """
     lines = text.splitlines(keepends=True)
     current_chunk = []
@@ -60,9 +67,14 @@ def chunk_text(text: str, max_chars: int = 8000):
 
     def is_table_line(line: str) -> bool:
         """
-        Return True when the line looks like Markdown table content.
+        Determine whether a line appears to be part of a Markdown table.
+
+        Args:
+            line: A single line of text.
+
+        Returns:
+            True if the line resembles table content, otherwise False.
         """
-        # Treat pipe-delimited lines as table content.
         stripped = line.strip()
         return stripped.startswith("|") or ("|" in stripped and "---" not in stripped)
 
@@ -91,20 +103,36 @@ def chunk_text(text: str, max_chars: int = 8000):
 
 def llm_cleaning(raw_md: str) -> str:
     """
-    Cleans and reorganizes Markdown using two LLM passes per chunk:
-    1. Cleanup pass (TOC removal, table repair, normalization)
-    2. Reorganization pass (grouping into logical sections)
-    """
+    Clean and reorganize extracted Markdown using chunked LLM processing.
 
+    Steps per chunk:
+        1. Cleanup pass (remove TOC, fix tables, normalize formatting)
+        2. Reorganization pass (group related content under headings)
+
+    Args:
+        raw_md: Raw Markdown extracted from Docling.
+
+    Returns:
+        A fully cleaned and reorganized Markdown document.
+    """
     if client is None:
-        raise RuntimeError("OpenAI client not configured. Set OPENAI_API_KEY or source .env before running.")
+        raise RuntimeError(
+            "OpenAI client not configured. Set OPENAI_API_KEY or source .env before running."
+        )
 
     chunks = list(chunk_text(raw_md))
     print(f"Total chunks: {len(chunks)}")
 
     def process_chunk(idx, chunk):
         """
-        Clean and reorganize one chunk of Markdown.
+        Clean and reorganize a single Markdown chunk.
+
+        Args:
+            idx: Chunk index.
+            chunk: Raw Markdown chunk.
+
+        Returns:
+            Tuple of (index, cleaned_and_reorganized_markdown).
         """
         cleaning_prompt = f"""
             You are cleaning text extracted from a PDF.
@@ -155,7 +183,7 @@ def llm_cleaning(raw_md: str) -> str:
             temperature=0,
             max_output_tokens=3000
         )
-
+        
         organized = reorganize_response.output_text
 
         print(f"Chunk {idx+1}/{len(chunks)} cleaned + reorganized")
@@ -182,7 +210,10 @@ def llm_cleaning(raw_md: str) -> str:
 
 def process_v1_data():
     """
-    Extracts the PDF using Docling and saves the raw Markdown output.
+    Run Docling extraction and save the raw Markdown output (Version 1).
+
+    Extracts the PDF, converts it to Markdown, and writes the unmodified
+    Markdown to the v1_raw directory.
     """
     try:
         result = converter.convert(source)
@@ -198,12 +229,15 @@ def process_v1_data():
     except Exception as e:
         print(f"Error processing version 1 (raw markdown): {e}")
 
+
 def process_v2_data():
     """
-    Runs Docling extraction, then performs:
-    - Chunked LLM cleanup
-    - Chunked LLM reorganization
-    Saves the final output into v2_cleaned.
+    Run Docling extraction followed by LLM cleanup and reorganization (Version 2).
+
+    Steps:
+        1. Extract raw Markdown using Docling.
+        2. Clean and reorganize the Markdown using chunked LLM passes.
+        3. Save the final organized Markdown to the v2_cleaned directory.
     """
     try:
         result = converter.convert(source)
@@ -228,7 +262,12 @@ def process_v2_data():
 
 def main():
     """
-    Runs the preprocessing pipeline.
+    Run the preprocessing pipeline interactively.
+
+    Allows the user to:
+        1. Run raw extraction (V1)
+        2. Run LLM-cleaned extraction (V2)
+        3. Exit the program
     """
     while True:
         print("\n=== EscapeAssist Preprocessing Pipeline ===")

@@ -94,4 +94,4 @@ The reasoning must be concise (2–3 sentences).
 
 
 def get_judge_instructions() -> str:
-    return JUDGE_INSTRUCTIONS
+  return JUDGE_INSTRUCTIONS

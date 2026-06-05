@@ -10,7 +10,19 @@ from workflows.V1workflow import run_workflow, WorkflowInput
 
 def extract_reply(result: dict) -> str:
     """
-    Return the assistant text from a workflow result.
+    Extract the assistant's output text from a workflow result.
+
+    This function inspects the workflow response payload and returns the
+    assistant's generated text when available. If the result indicates a
+    safety‑filter trigger, a user‑friendly message is returned instead.
+    Otherwise, a generic fallback message is provided.
+
+    Args:
+        result: The workflow result dictionary returned by a workflow run.
+
+    Returns:
+        The assistant's output text, a safety‑filter message, or a fallback
+        error message when no valid output is present.
     """
     if "assistant" in result and "output_text" in result["assistant"]:
         return result["assistant"]["output_text"]
