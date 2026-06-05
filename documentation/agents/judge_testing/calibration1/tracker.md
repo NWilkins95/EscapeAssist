@@ -1,49 +1,38 @@
-# EscapeAssist Manual Grading Tracker
+# EscapeAssist Manual Grading Tracker - Calibration 1 (06/05/2026)
 
-| Row | QID | Version | Correctness (H)  |  Grounding (H) | Hallucination (H)  | Refusal (H)  | Correctness (J)  | Grounding (J)  | Hallucination (J)  | Refusal (J)  | Match? | Needs Log? |
-|-----|-----|---------|------------------|----------------|--------------------|--------------|------------------|----------------|--------------------|--------------|--------|------------|
-| 1   | Q01 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 2   | Q01 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 3   | Q01 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 4   | Q02 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 5   | Q02 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 6   | Q02 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 7   | Q03 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 8   | Q03 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 9   | Q03 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 10  | Q04 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 11  | Q04 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 12  | Q04 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 13  | Q05 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 14  | Q05 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 15  | Q05 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 16  | Q06 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 17  | Q06 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 18  | Q06 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 19  | Q07 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 20  | Q07 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 21  | Q07 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 22  | Q08 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 23  | Q08 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 24  | Q08 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 25  | Q09 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 26  | Q09 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 27  | Q09 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 28  | Q10 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 29  | Q10 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 30  | Q10 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 31  | Q11 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 32  | Q11 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 33  | Q11 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 34  | Q12 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 35  | Q12 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 36  | Q12 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 37  | Q13 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 38  | Q13 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 39  | Q13 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 40  | Q14 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 41  | Q14 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 42  | Q14 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 43  | Q15 | V0      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 44  | Q15 | V1      |                  |                |                    |              |                  |                |                    |              |        |            |
-| 45  | Q15 | V2      |                  |                |                    |              |                  |                |                    |              |        |            |
+| Row | QID | Version | Correctness (H) | Grounding (H) | Hallucination (H) | Refusal (H) | Correctness (J) | Grounding (J) | Hallucination (J) | Refusal (J) | Match?  | Needs Log? |
+|-----|-----|---------|------------------|----------------|--------------------|--------------|------------------|----------------|--------------------|--------------|---------|------------|
+| 1   | 3   | V0 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 2   | 3   | V1 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 3   | 3   | V2 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 4   | 4   | V0 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 5   | 4   | V1 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 6   | 4   | V2 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 7   | 6   | V0 | 4 | 3 | 1 | N/A | 4 | 3 | true  | N/A | exact | no |
+| 8   | 6   | V1 | 4 | 3 | 1 | N/A | 4 | 3 | true  | N/A | exact | no |
+| 9   | 6   | V2 | 4 | 3 | 1 | N/A | 3 | 3 | true  | N/A | partial | yes |
+| 10  | 14  | V0 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 11  | 14  | V1 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 12  | 14  | V2 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 13  | 15  | V0 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 14  | 15  | V1 | 5 | 4 | 0 | N/A | 5 | 5 | false | N/A | partial | yes |
+| 15  | 15  | V2 | 4 | 4 | 0 | N/A | 4 | 4 | false | N/A | exact | no |
+| 16  | 18  | V0 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 17  | 18  | V1 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 18  | 18  | V2 | 3 | 3 | 3 | N/A | 3 | 3 | true  | N/A | exact | no |
+| 19  | 28  | V0 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 20  | 28  | V1 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 21  | 28  | V2 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 22  | 29  | V0 | 3 | 3 | 3 | N/A | 3 | 3 | true  | N/A | exact | no |
+| 23  | 29  | V1 | 3 | 3 | 3 | N/A | 3 | 3 | true  | N/A | exact | no |
+| 24  | 29  | V2 | 3 | 3 | 3 | N/A | 3 | 3 | true  | N/A | exact | no |
+| 25  | 32  | V0 | 2 | 2 | 4 | N/A | 3 | 3 | true  | N/A | partial | yes |
+| 26  | 32  | V1 | 2 | 2 | 4 | N/A | 3 | 3 | true  | N/A | partial | yes |
+| 27  | 32  | V2 | 1 | 1 | 4 | N/A | 3 | 3 | true  | N/A | partial | yes |
+| 28  | 35  | V0 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 29  | 35  | V1 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 30  | 35  | V2 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 31  | 36  | V0 | 5 | 2 | 0 | N/A | 5 | 4 | false | N/A | partial | yes |
+| 32  | 36  | V1 | 5 | 3 | 0 | N/A | 5 | 4 | false | N/A | partial | yes |
+| 33  | 36  | V2 | 5 | 2 | 0 | N/A | 5 | 4 | false | N/A | partial | yes |
+
