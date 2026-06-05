@@ -171,8 +171,7 @@ def run_version(version: str, sampled_cases: list[dict], run_root: Path) -> None
         1. Run workflow on all sampled questions.
         2. Judge all model answers.
         3. Save judge results.
-        4. Produce grading-ready JSONL without judge scores.
-
+        
     Args:
         version: Workflow version key.
         sampled_cases: Sampled evaluation cases.
@@ -183,21 +182,6 @@ def run_version(version: str, sampled_cases: list[dict], run_root: Path) -> None
     answers = gather_answers(version, sampled_cases, version_root / "answers.jsonl")
     evaluations = run_judge(answers)
     save_eval(version, evaluations, version_root / "judge_results.jsonl")
-
-    grading_rows = []
-    for e in evaluations:
-        grading_rows.append(
-            {
-                "question_id": e["question_id"],
-                "question": e["question"],
-                "model_answer": e["model_answer"],
-                "truth": e["truth"],
-                "source_quote": e["source_quote"],
-                "type": e["type"],
-            }
-        )
-
-    write_jsonl(grading_rows, version_root / "grading_ready.jsonl")
 
 
 # =========================================================
@@ -315,7 +299,7 @@ def main() -> None:
             executor.submit(run_version, version, sampled_cases, run_root)
             for version in VERSIONS
         ]
-        
+
         for f in futures:
             f.result()
 
