@@ -35,4 +35,15 @@
 | 31  | 36  | V0 | 5 | 2 | 0 | N/A | 5 | 4 | false | N/A | partial | yes |
 | 32  | 36  | V1 | 5 | 3 | 0 | N/A | 5 | 4 | false | N/A | partial | yes |
 | 33  | 36  | V2 | 5 | 2 | 0 | N/A | 5 | 4 | false | N/A | partial | yes |
-
+| 34  | 38  | V0 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 35  | 38  | V1 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 36  | 38  | V2 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 37  | 44  | V0 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 38  | 44  | V1 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 39  | 44  | V2 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 40  | 48  | V0 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 41  | 48  | V1 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 42  | 48  | V2 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 43  | 58  | V0 | 0 | 0 | 5 | N/A | 0 | 0 | true  | N/A | exact | no |
+| 44  | 58  | V1 | 0 | 0 | 5 | N/A | 0 | 0 | true  | N/A | exact | no |
+| 45  | 58  | V2 | 0 | 0 | 5 | N/A | 0 | 0 | true  | N/A | exact | no |
