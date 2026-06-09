@@ -77,7 +77,7 @@ def write_jsonl(rows: list[dict], output_path: Path) -> None:
 # =========================================================
 def save_answers(selected_version: str, answers: list[tuple], output_path: Path) -> None:
     """
-    Save model answers to disk in JSONL format.
+    Save model answers in JSONL format.
 
     Args:
         selected_version: Workflow version (V0, V1, V2).
@@ -105,7 +105,7 @@ def save_answers(selected_version: str, answers: list[tuple], output_path: Path)
 
 def save_eval(selected_version: str, evaluations: list[dict], output_path: Path) -> None:
     """
-    Save judge evaluation results to disk.
+    Save judge evaluation results.
 
     Args:
         selected_version: Workflow version.
