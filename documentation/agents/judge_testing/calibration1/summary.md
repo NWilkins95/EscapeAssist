@@ -88,7 +88,7 @@ All logs have been generated and archived.
 ---
 
 ## 5. Revised Judge Instructions Prompt  
-Below is the **recommended updated judge prompt**, incorporating all lessons learned.
+Below is the **updated judge prompt**, incorporating all lessons learned.
 
 ---
 

@@ -1,0 +1,49 @@
+# EscapeAssist Manual Grading Tracker - Calibration 2 (06/09/2026 - 06/13/2026)
+
+| Row | QID | Version | Correctness (H) | Grounding (H) | Hallucination (H) | Refusal (H) | Correctness (J) | Grounding (J) | Hallucination (J) | Refusal (J) | Match?  | Needs Log? |
+|-----|-----|---------|------------------|----------------|--------------------|--------------|------------------|----------------|--------------------|--------------|---------|------------|
+| 1 | 3 | V0 | 5 | 5 | 0 | N/A | 5 | 4 | false | N/A | partial | no |
+| 2 | 3 | V1 | 5 | 5 | 0 | N/A | 5 | 4 | false | N/A | partial | no |
+| 3 | 3 | V2 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 4 | 4 | V0 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 5 | 4 | V1 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 6 | 4 | V2 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 7 | 6 | V0 | 4 | 3 | 1 | N/A | 4 | 3 | false | N/A | partial | yes |
+| 8 | 6 | V1 | 4 | 3 | 1 | N/A | 3 | 3 | false | N/A | partial | yes |
+| 9 | 6 | V2 | 3 | 3 | 1 | N/A | 3 | 3 | true | N/A | exact | no |
+| 10 | 14 | V0 | 5 | 5 | 0 | N/A | 5 | 4 | false | N/A | partial | no |
+| 11 | 14 | V1 | 5 | 5 | 0 | N/A | 5 | 4 | false | N/A | partial | no |
+| 12 | 14 | V2 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 13 | 15 | V0 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 14 | 15 | V1 | 5 | 4 | 0 | N/A | 5 | 5 | false | N/A | partial | yes |
+| 15 | 15 | V2 | 4 | 4 | 0 | N/A | 5 | 4 | false | N/A | partial | yes |
+| 16 | 18 | V0 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 17 | 18 | V1 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 18 | 18 | V2 | 3 | 2 | 3 | N/A | 2 | 2 | true | N/A | partial | yes |
+| 19 | 28 | V0 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 20 | 28 | V1 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 21 | 28 | V2 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 22 | 29 | V0 | 3 | 3 | 3 | N/A | 4 | 3 | false | N/A | partial | no |
+| 23 | 29 | V1 | 3 | 3 | 3 | N/A | 3 | 3 | false | N/A | partial | no |
+| 24 | 29 | V2 | 3 | 3 | 3 | N/A | 3 | 3 | false | N/A | partial | no |
+| 25 | 32 | V0 | 2 | 2 | 4 | N/A | 3 | 3 | false | N/A | partial | yes |
+| 26 | 32 | V1 | 2 | 2 | 4 | N/A | 3 | 3 | false | N/A | partial | yes |
+| 27 | 32 | V2 | 1 | 1 | 4 | N/A | 3 | 2 | true | N/A | partial | yes |
+| 28 | 35 | V0 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 29 | 35 | V1 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 30 | 35 | V2 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 31 | 36 | V0 | 5 | 2 | 0 | N/A | 5 | 4 | false | N/A | partial | no |
+| 32 | 36 | V1 | 5 | 3 | 0 | N/A | 5 | 4 | false | N/A | partial | no |
+| 33 | 36 | V2 | 5 | 2 | 0 | N/A | 5 | 4 | false | N/A | partial | no |
+| 34 | 38 | V0 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 35 | 38 | V1 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 36 | 38 | V2 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 37 | 44 | V0 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 38 | 44 | V1 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 39 | 44 | V2 | 5 | 5 | 0 | N/A | 5 | 5 | false | N/A | exact | no |
+| 40 | 48 | V0 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 41 | 48 | V1 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 42 | 48 | V2 | 5 | 4 | 0 | N/A | 5 | 4 | false | N/A | exact | no |
+| 43 | 58 | V0 | 0 | 0 | 5 | N/A | 0 | 0 | true | N/A | exact | no |
+| 44 | 58 | V1 | 0 | 0 | 5 | N/A | 0 | 0 | true | N/A | exact | no |
+| 45 | 58 | V2 | 0 | 0 | 5 | N/A | 0 | 0 | true | N/A | exact | no |
