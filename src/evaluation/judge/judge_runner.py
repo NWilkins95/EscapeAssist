@@ -13,14 +13,14 @@ if str(SRC_DIR) not in sys.path:
 from dotenv import load_dotenv
 from openai import OpenAI
 
+load_dotenv()
+client = OpenAI()
+
 from evaluation.judge.judge_instructions import get_judge_instructions
 from user_interface.async_runner import run_async
 from user_interface.workflows.V0workflow import run_workflow as run_v0, WorkflowInput as V0Input
 from user_interface.workflows.V1workflow import run_workflow as run_v1, WorkflowInput as V1Input
 from user_interface.workflows.V2workflow import run_workflow as run_v2, WorkflowInput as V2Input
-
-load_dotenv()
-client = OpenAI()
 
 # =========================================================
 # Data Paths
@@ -137,8 +137,6 @@ def gather_answers(selected_version: str, timestamp: str) -> list:
     answers = []
     golden_data = load_golden_data()
 
-    five_gathered = False
-
     for item in golden_data:
         question = item["question"]
 
@@ -151,12 +149,6 @@ def gather_answers(selected_version: str, timestamp: str) -> list:
         model_answer = extract_reply(result)
 
         answers.append((question, model_answer, item["truth"], item["source_quote"], item["type"]))
-
-        if len(answers) >= 5 and not five_gathered:
-            print("Gathered 5 answers, stopping early for testing purposes.")
-            five_gathered = True
-
-            break
 
     output_path = OUTPUTS_DIR / "answers" / f"{selected_version}" / f"{selected_version}_answers-{timestamp}.jsonl"
     save_answers(selected_version, answers, output_path)
@@ -233,9 +225,27 @@ def run_judge(answers: list, selected_version: str, timestamp: str) -> list:
     
     return evaluation_results
 
+# =========================================================
+# Evaluation Dashboard Judge Runner
+# =========================================================
+def run_selected_version(selected_version):
+    """
+    Run the judge evaluation for a selected version and timestamp.
+
+    Steps:
+        1. Get workflow version.
+        2. Gather model answers.
+        3. Run judge evaluation.
+        4. Save all outputs to disk.
+    """
+    timestamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    answers = gather_answers(selected_version, timestamp)
+    
+    return run_judge(answers, selected_version, timestamp)
+
 
 # =========================================================
-# Main Execution Function
+# Main Execution Function (For Testing Purposes)
 # =========================================================
 def main():
     """
