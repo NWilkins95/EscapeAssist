@@ -108,7 +108,7 @@ Using the correct engine oil specification is crucial for several reasons:
 In summary, adhering to the recommended engine oil specifications is essential for maintaining your vehicle's reliability, performance, and warranty coverage.
 
 ### Human Scores (V2)
-- Correctness: 4
+- Correctness: 5
 - Grounding: 4
 - Hallucination: 0
 - Refusal Quality: N/A
@@ -129,10 +129,10 @@ In summary, adhering to the recommended engine oil specifications is essential f
 The Model Answer is fully correct and complete, matching the Ground Truth. It covers all key points: component protection, warranty, performance, emissions, and fuel economy. However, the Source Quote does not explicitly mention warranty coverage, so grounding is slightly reduced.
 
 ### Comparison Summary (V2)
-- Match: partial
-- Disagreement Type: correctness
-- Why the judge differs: The judge is one point more permissive on correctness than the human score, despite the added explanatory detail.
-- Needs disagreement log: yes
+- Match: exact
+- Disagreement Type: none
+- Why the judge differs: N/A
+- Needs disagreement log: no
 
 
 # Overall Notes for This Question

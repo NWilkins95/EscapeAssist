@@ -14,7 +14,7 @@ The battery warning light in your 2022 Ford Escape indicates a potential issue w
 If you have any further questions or need assistance, feel free to ask!
 
 ### Human Scores (V0)
-- Correctness: 3
+- Correctness: 4
 - Grounding: 3
 - Hallucination: 3
 - Refusal Quality: N/A
@@ -35,9 +35,9 @@ If you have any further questions or need assistance, feel free to ask!
 The Model Answer correctly states that the battery warning light indicates a potential issue with the electrical system and advises service, aligning with the Ground Truth. However, it adds details about the electrical system fault and urgency of service not present in the Source Quote, reducing grounding.
 
 ### Comparison Summary (V0)
-- Match: partial
-- Disagreement Type: correctness, hallucination
-- Why the judge differs: The judge is slightly more permissive about speculative electrical-system wording, but the human score keeps it as unsupported content.
+- Match: exact
+- Disagreement Type: none
+- Why the judge differs: N/A
 - Needs disagreement log: no
 
 

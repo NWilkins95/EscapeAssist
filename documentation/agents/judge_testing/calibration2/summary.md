@@ -5,7 +5,7 @@
 **Versions per Question:** V0, V1, V2
 **Total Evaluations:** 45
 **Completed:** Yes
-**Disagreement Logs Generated:** Yes (8 logs)
+**Disagreement Logs Generated:** Yes (3 logs)
 **Summary Date:** 06/13/2026
 
 ## 1. Overview
@@ -18,8 +18,8 @@ Each model answer was scored on correctness, grounding, hallucination, and refus
 
 | Category | Count | Notes |
 |---------|-------|-------|
-| **Exact Matches** | 27 | Judge and human fully aligned |
-| **Partial Matches** | 18 | Required follow-up review |
+| **Exact Matches** | 38 | Judge and human fully aligned |
+| **Partial Matches** | 7 | Required follow-up review |
 | **Major Disagreements** | 0 | No catastrophic judge failures |
 | **Invalid Question Handling** | Correct | Judge consistently flagged the invalid horsepower question |
 
@@ -40,10 +40,7 @@ Each model answer was scored on correctness, grounding, hallucination, and refus
 
 | Question | Versions | Issue |
 |----------|----------|-------|
-| **Q6** | V0, V1 | Hallucination and unsupported seatbelt extras |
-| **Q15** | V1, V2 | Grounding strictness and interpretation of unsupported detail |
-| **Q18** | V2 | Wrong engine oil specification |
-| **Q32** | V0, V1, V2 | Unsafe coolant troubleshooting advice |
+| **Q32** | V0, V1, V2 | Unsafe coolant troubleshooting advice and high‑severity hallucination |
 
 ## 5. Revised Judge Instructions Prompt
 Below is the **updated judge prompt**, incorporating all lessons learned.

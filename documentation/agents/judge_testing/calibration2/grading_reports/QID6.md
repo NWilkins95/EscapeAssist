@@ -39,9 +39,9 @@ This system is designed to enhance safety by reminding occupants to wear their s
 The Model Answer is mostly correct, covering the initial and speed warnings accurately. However, it adds details about additional warnings and rear seatbelt monitoring not present in the Ground Truth or Source Quote. These additions are not incorrect but reduce grounding.
 
 ### Comparison Summary (V0)
-- Match: partial
-- Disagreement Type: hallucination
-- Why the judge differs: The judge treats the extra rear-monitoring detail as non-hallucinated, while the human score marks it as a minor hallucination.
+- Match: exact
+- Disagreement Type: none
+- Why the judge differs: N/A
 - Needs disagreement log: no  
 
 
@@ -61,7 +61,7 @@ The seatbelt reminder indicator in the 2022 Ford Escape serves several important
 This system is designed to enhance safety by reminding occupants to buckle up, thereby reducing the risk of injury in the event of a crash.
 
 ### Human Scores (V1)
-- Correctness: 4
+- Correctness: 3
 - Grounding: 3
 - Hallucination: 1
 - Refusal Quality: N/A
@@ -82,10 +82,10 @@ This system is designed to enhance safety by reminding occupants to buckle up, t
 The Model Answer correctly describes the initial warning and speed-related warnings, aligning with the Ground Truth and Source Quote. However, it includes additional details about rear seat warnings and status display, which are not supported by the Source Quote. These additions are not necessarily incorrect but reduce grounding.
 
 ### Comparison Summary (V1)
-- Match: partial
-- Disagreement Type: correctness, hallucination
-- Why the judge differs: The judge treats the extra rear-monitoring detail as non-hallucinated, while the human score marks it as a minor hallucination.
-- Needs disagreement log: yes
+- Match: exact
+- Disagreement Type: none
+- Why the judge differs: N/A
+- Needs disagreement log: no
 
 
 ## Version V2

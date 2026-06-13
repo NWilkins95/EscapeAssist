@@ -139,7 +139,7 @@ The Model Answer incorrectly specifies the oil type for the 2.0L EcoBoost engine
 ### Comparison Summary (V2)
 - Match: partial
 - Disagreement Type: correctness
-- Why the judge differs: The judge does not penalize the wrong 2.0L oil spec as strongly as the human score.
+- Why the judge differs: The judge penalizes the wrong 2.0L oil spec more strongly than the human score.
 - Needs disagreement log: no
 
 

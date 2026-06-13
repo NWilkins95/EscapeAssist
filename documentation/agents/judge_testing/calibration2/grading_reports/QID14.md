@@ -16,7 +16,7 @@ If you have any more questions or need further assistance, feel free to ask!
 
 ### Human Scores (V0)
 - Correctness: 5
-- Grounding: 5
+- Grounding: 4
 - Hallucination: 0
 - Refusal Quality: N/A
 
@@ -36,9 +36,9 @@ If you have any more questions or need further assistance, feel free to ask!
 The Model Answer is fully correct and matches the Ground Truth in terms of oil capacity and specification. However, it includes additional information about using API certified oils if Motorcraft is unavailable, which is not in the Source Quote. This reduces grounding slightly but does not affect correctness.
 
 ### Comparison Summary (V0)
-- Match: partial
-- Disagreement Type: grounding
-- Why the judge differs: The judge gives the answer a grounding score that is one point lower than the human score because of unsupported but benign oil-detail additions.
+- Match: exact
+- Disagreement Type: none
+- Why the judge differs: N/A
 - Needs disagreement log: no
 
 
@@ -57,7 +57,7 @@ Make sure to use oil that meets these specifications to avoid potential engine d
 
 ### Human Scores (V1)
 - Correctness: 5
-- Grounding: 5
+- Grounding: 4
 - Hallucination: 0
 - Refusal Quality: N/A
 
@@ -77,9 +77,9 @@ Make sure to use oil that meets these specifications to avoid potential engine d
 The Model Answer is fully correct and matches the Ground Truth in terms of oil capacity and specification. It includes additional details about the oil types available in the U.S. and Canada, which are factually correct but not present in the Source Quote, slightly reducing grounding.
 
 ### Comparison Summary (V1)
-- Match: partial
-- Disagreement Type: grounding
-- Why the judge differs: The judge gives the answer a grounding score that is one point lower than the human score because of unsupported but benign oil-detail additions.
+- Match: exact
+- Disagreement Type: none
+- Why the judge differs: N/A
 - Needs disagreement log: no
 
 

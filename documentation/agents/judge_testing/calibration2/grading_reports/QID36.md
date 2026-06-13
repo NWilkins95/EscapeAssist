@@ -9,7 +9,7 @@ The oil pressure warning light in your 2022 Ford Escape indicates that the engin
 
 ### Human Scores (V0)
 - Correctness: 5
-- Grounding: 2
+- Grounding: 4
 - Hallucination: 0
 - Refusal Quality: N/A
 
@@ -29,9 +29,9 @@ The oil pressure warning light in your 2022 Ford Escape indicates that the engin
 The Model Answer correctly states that the oil pressure warning light indicates low engine oil pressure, matching the Ground Truth. It includes additional advice on what to do if the light illuminates, which is reasonable but not present in the Source Quote, slightly reducing grounding.
 
 ### Comparison Summary (V0)
-- Match: partial
-- Disagreement Type: grounding
-- Why the judge differs: The judge is more permissive about the added troubleshooting steps than the human score.
+- Match: exact
+- Disagreement Type: none
+- Why the judge differs: N/A
 - Needs disagreement log: no
 
 
@@ -42,7 +42,7 @@ The oil pressure warning light in your 2022 Ford Escape indicates that the engin
 
 ### Human Scores (V1)
 - Correctness: 5
-- Grounding: 3
+- Grounding: 4
 - Hallucination: 0
 - Refusal Quality: N/A
 
@@ -62,9 +62,9 @@ The oil pressure warning light in your 2022 Ford Escape indicates that the engin
 The Model Answer correctly states that the oil pressure warning light indicates low engine oil pressure, matching the Ground Truth. It includes additional advice on what to do if the light illuminates, which is factually correct but not present in the Source Quote, slightly reducing grounding.
 
 ### Comparison Summary (V1)
-- Match: partial
-- Disagreement Type: grounding
-- Why the judge differs: The judge is more permissive about the added troubleshooting steps than the human score.
+- Match: exact
+- Disagreement Type: none
+- Why the judge differs: N/A
 - Needs disagreement log: no
 
 
@@ -75,7 +75,7 @@ The oil pressure warning light in your 2022 Ford Escape indicates that the engin
 
 ### Human Scores (V2)
 - Correctness: 5
-- Grounding: 2
+- Grounding: 4
 - Hallucination: 0
 - Refusal Quality: N/A
 
@@ -95,9 +95,9 @@ The oil pressure warning light in your 2022 Ford Escape indicates that the engin
 The Model Answer is fully correct and complete, accurately stating that the oil pressure warning light indicates low engine oil pressure. It includes additional advice on checking the oil level and seeking service, which is practical but not present in the Source Quote, slightly reducing grounding.
 
 ### Comparison Summary (V2)
-- Match: partial
-- Disagreement Type: grounding
-- Why the judge differs: The judge is more permissive about the added troubleshooting steps than the human score.
+- Match: exact
+- Disagreement Type: none
+- Why the judge differs: N/A
 - Needs disagreement log: no
 
 

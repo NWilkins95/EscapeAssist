@@ -9,7 +9,7 @@ For children weighing 40 pounds or less, the recommended restraint type is a chi
 
 ### Human Scores (V0)
 - Correctness: 5
-- Grounding: 5
+- Grounding: 4
 - Hallucination: 0
 - Refusal Quality: N/A
 
@@ -29,9 +29,9 @@ For children weighing 40 pounds or less, the recommended restraint type is a chi
 The Model Answer is fully correct and matches the Ground Truth, accurately identifying the types of child restraints for children weighing 40 pounds or less. However, the additional detail about age is not present in the Source Quote, slightly reducing grounding.
 
 ### Comparison Summary (V0)
-- Match: partial
-- Disagreement Type: grounding
-- Why the judge differs: The judge score is more permissive than the human score on an unsupported detail.
+- Match: exact
+- Disagreement Type: none
+- Why the judge differs: N/A
 - Needs disagreement log: no
 
 
@@ -44,7 +44,7 @@ Always ensure that the child restraint is properly installed according to the ma
 
 ### Human Scores (V1)
 - Correctness: 5
-- Grounding: 5
+- Grounding: 4
 - Hallucination: 0
 - Refusal Quality: N/A
 
@@ -64,9 +64,9 @@ Always ensure that the child restraint is properly installed according to the ma
 The Model Answer is fully correct and matches the Ground Truth, providing the same types of child restraints. It includes additional advice on installation, which is factually correct but not present in the Source Quote, slightly reducing grounding.
 
 ### Comparison Summary (V1)
-- Match: partial
-- Disagreement Type: grounding
-- Why the judge differs: The judge score is more permissive than the human score on an unsupported detail.
+- Match: exact
+- Disagreement Type: none
+- Why the judge differs: N/A
 - Needs disagreement log: no
 
 
