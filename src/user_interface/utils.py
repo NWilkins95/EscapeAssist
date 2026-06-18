@@ -26,7 +26,7 @@ def extract_reply(result: dict) -> str:
     return "I couldn't process that request. Please try again."
 
 
-def load_workflow(version: str):
+def load_workflow(version: str) -> callable:
     """
     Return the requested workflow function.
 
@@ -146,7 +146,7 @@ def normalize_score(raw_score):
     """
     if pd.isna(raw_score):
         return None
-    return raw_score / 6
+    return raw_score / 5
 
 
 def metric_value(frame, column):
@@ -308,26 +308,14 @@ def show_run(frame, version, run_id):
     st.markdown("---")
     st.subheader("Question Details")
     
-    col1, col2, col3 = st.columns([1, 2, 1])
-    with col1:
-        if st.button("← Previous", key=f"prev-{version}-{run_id}"):
-            st.session_state[nav_key] = max(0, st.session_state[nav_key] - 1)
-            st.rerun()
-    
-    with col2:
-        question_num = st.selectbox(
-            "Select Question",
-            range(len(filtered_frame)),
-            index=st.session_state[nav_key],
-            format_func=lambda i: f"Question {i + 1} of {len(filtered_frame)}",
-            key=f"select-{version}-{run_id}",
-        )
-        st.session_state[nav_key] = question_num
-    
-    with col3:
-        if st.button("Next →", key=f"next-{version}-{run_id}"):
-            st.session_state[nav_key] = min(len(filtered_frame) - 1, st.session_state[nav_key] + 1)
-            st.rerun()
+    question_num = st.selectbox(
+        "Select Question",
+        range(len(filtered_frame)),
+        index=st.session_state[nav_key],
+        format_func=lambda i: f"Question {i + 1} of {len(filtered_frame)}",
+        key=f"select-{version}-{run_id}",
+    )
+    st.session_state[nav_key] = question_num
 
     # Display selected question details
     row = filtered_frame.iloc[st.session_state[nav_key]]
@@ -440,13 +428,13 @@ def render_evaluation_dashboard(answers_dir, evaluations_dir, versions):
                 )
 
         if summary_rows:
-            st.dataframe(pd.DataFrame(summary_rows), use_container_width=True, hide_index=True)
+            st.dataframe(pd.DataFrame(summary_rows), width='stretch', hide_index=True)
         else:
             st.info("No saved runs found yet.")
 
         if len(history_rows) > 1:
             st.markdown("### Run History")
-            st.dataframe(pd.DataFrame(history_rows), use_container_width=True, hide_index=True)
+            st.dataframe(pd.DataFrame(history_rows), width='stretch', hide_index=True)
 
     with v0_tab:
         show_version_tab("V0", answers_dir, evaluations_dir)

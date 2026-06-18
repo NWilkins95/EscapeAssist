@@ -23,7 +23,7 @@ Downstream evaluation code will normalize the judge outputs to a 0-1 scale after
 3. Hallucination is marked true only when the judge believes unsupported content is likely incorrect or fabricated.
 4. Correct additional information should not reduce correctness if it is still plausible and consistent with the manual.
 5. Grounding should be reduced when extra information is not supported by the source quote, even if the answer is otherwise correct.
-6. Normalize raw numeric scores with `normalized_score = raw_score / 6`.
+6. Normalize raw numeric scores with `normalized_score = raw_score / 5`.
 
 ## Consequences
 
