@@ -277,33 +277,88 @@ def show_run(frame, version, run_id):
         st.info("No saved results for this run.")
         return
 
-    display_frame = frame.copy()
+    # Initialize session state for question navigation
+    nav_key = f"question_index_{version}_{run_id}"
+    if nav_key not in st.session_state:
+        st.session_state[nav_key] = 0
+
+    # Question type filtering
+    st.markdown("---")
+    st.subheader("Filters")
     
-    # Add normalized scores to the display frame
-    display_frame["normalized_correctness"] = display_frame["correctness"].apply(normalize_score)
-    display_frame["normalized_grounding"] = display_frame["grounding"].apply(normalize_score)
-    
-    def format_judge_scores(row):
-        raw_c = row.get('correctness', '-')
-        norm_c = f"{row.get('normalized_correctness', '-'):.2f}" if pd.notna(row.get('normalized_correctness')) else '-'
-        raw_g = row.get('grounding', '-')
-        norm_g = f"{row.get('normalized_grounding', '-'):.2f}" if pd.notna(row.get('normalized_grounding')) else '-'
-        h = str(bool(row.get('hallucination'))).lower()
-        return f"C{raw_c}/{norm_c}, G{raw_g}/{norm_g}, H{h}"
-    
-    display_frame["judge scores"] = display_frame.apply(format_judge_scores, axis=1)
-    columns = [column for column in ["question", "model_answer", "judge scores", "reasoning"] if column in display_frame.columns]
-    st.dataframe(
-        display_frame[columns], 
-        use_container_width=True, 
-        hide_index=True,
-        column_config={
-            "question": st.column_config.Column(width="large"),
-            "model_answer": st.column_config.Column(width="large"),
-            "judge scores": st.column_config.Column(width="medium"),
-            "reasoning": st.column_config.Column(width="medium"),
-        }
+    available_types = sorted(frame['type'].unique()) if 'type' in frame.columns else []
+    selected_types = st.multiselect(
+        "Filter by question type",
+        available_types,
+        default=available_types,
+        key=f"filter-{version}-{run_id}",
     )
+    
+    # Filter frame based on selected types
+    if selected_types:
+        filtered_frame = frame[frame['type'].isin(selected_types)].reset_index(drop=True)
+    else:
+        filtered_frame = frame.reset_index(drop=True)
+    
+    # Reset navigation index if filtered frame is smaller
+    if nav_key in st.session_state and st.session_state[nav_key] >= len(filtered_frame):
+        st.session_state[nav_key] = 0
+
+    # Question navigation
+    st.markdown("---")
+    st.subheader("Question Details")
+    
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col1:
+        if st.button("← Previous", key=f"prev-{version}-{run_id}"):
+            st.session_state[nav_key] = max(0, st.session_state[nav_key] - 1)
+            st.rerun()
+    
+    with col2:
+        question_num = st.selectbox(
+            "Select Question",
+            range(len(filtered_frame)),
+            index=st.session_state[nav_key],
+            format_func=lambda i: f"Question {i + 1} of {len(filtered_frame)}",
+            key=f"select-{version}-{run_id}",
+        )
+        st.session_state[nav_key] = question_num
+    
+    with col3:
+        if st.button("Next →", key=f"next-{version}-{run_id}"):
+            st.session_state[nav_key] = min(len(filtered_frame) - 1, st.session_state[nav_key] + 1)
+            st.rerun()
+
+    # Display selected question details
+    row = filtered_frame.iloc[st.session_state[nav_key]]
+    
+    st.markdown("### Question")
+    st.write(row.get('question', 'N/A'))
+    
+    st.markdown("### Model Answer")
+    st.write(row.get('model_answer', 'N/A'))
+    
+    col1, col2 = st.columns(2)
+    with col1:
+        st.markdown("### Judge Scores")
+        correctness = row.get('correctness', '-')
+        grounding = row.get('grounding', '-')
+        hallucination = row.get('hallucination', '-')
+        
+        if pd.notna(correctness):
+            norm_c = normalize_score(correctness)
+            st.metric("Correctness", f"{correctness} / {norm_c:.2f}")
+        
+        if pd.notna(grounding):
+            norm_g = normalize_score(grounding)
+            st.metric("Grounding", f"{grounding} / {norm_g:.2f}")
+        
+        if pd.notna(hallucination):
+            st.metric("Hallucination", str(bool(hallucination)).lower())
+    
+    with col2:
+        st.markdown("### Judge Reasoning")
+        st.write(row.get('reasoning', 'N/A'))
 
 
 def show_version_tab(version, answers_dir, evaluations_dir):
