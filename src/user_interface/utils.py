@@ -134,6 +134,21 @@ def load_run(version, run_id, answers_dir, evaluations_dir):
     return answer_frame.merge(eval_frame, on="row", how="left")
 
 
+def normalize_score(raw_score):
+    """
+    Normalize a raw judge score (0-5) to a 0-1 range by dividing by 6.
+
+    Args:
+        raw_score: Raw score from the judge (0-5).
+
+    Returns:
+        Normalized score (0-1), or None if raw_score is None/NaN.
+    """
+    if pd.isna(raw_score):
+        return None
+    return raw_score / 6
+
+
 def metric_value(frame, column):
     """
     Compute the mean value for a numeric column.
@@ -148,6 +163,24 @@ def metric_value(frame, column):
     if frame.empty or column not in frame.columns:
         return 0.0
     return float(pd.to_numeric(frame[column], errors="coerce").mean())
+
+
+def normalized_metric_value(frame, column):
+    """
+    Compute the mean normalized value (0-1) for a numeric column (0-5).
+
+    Args:
+        frame: DataFrame containing the metric column.
+        column: Metric column name.
+
+    Returns:
+        The mean normalized value, or 0.0 when unavailable.
+    """
+    if frame.empty or column not in frame.columns:
+        return 0.0
+    raw_values = pd.to_numeric(frame[column], errors="coerce")
+    normalized_values = raw_values.apply(normalize_score)
+    return float(normalized_values.mean())
 
 
 def hallucination_rate(frame):
@@ -225,11 +258,18 @@ def show_run(frame, version, run_id):
         version: Workflow version key.
         run_id: Shared timestamp run id.
     """
-    col1, col2, col3 = st.columns(3)
+    col1, col2, col3, col4 = st.columns(4)
     col1.metric("Questions", len(frame))
-    col2.metric("Avg Correctness", f"{metric_value(frame, 'correctness'):.1f}")
-    col3.metric("Avg Grounding", f"{metric_value(frame, 'grounding'):.1f}")
-    st.metric("Hallucination True Rate", f"{hallucination_rate(frame):.0%}")
+    
+    raw_correctness = metric_value(frame, 'correctness')
+    norm_correctness = normalized_metric_value(frame, 'correctness')
+    col2.metric("Avg Correctness", f"{raw_correctness:.1f} (norm: {norm_correctness:.2f})")
+    
+    raw_grounding = metric_value(frame, 'grounding')
+    norm_grounding = normalized_metric_value(frame, 'grounding')
+    col3.metric("Avg Grounding", f"{raw_grounding:.1f} (norm: {norm_grounding:.2f})")
+    
+    col4.metric("Hallucination True Rate", f"{hallucination_rate(frame):.0%}")
 
     show_exports(frame, version, run_id)
 
@@ -238,12 +278,32 @@ def show_run(frame, version, run_id):
         return
 
     display_frame = frame.copy()
-    display_frame["judge scores"] = display_frame.apply(
-        lambda row: f"C{row.get('correctness', '-')}, G{row.get('grounding', '-')}, H{str(bool(row.get('hallucination'))).lower()}",
-        axis=1,
-    )
+    
+    # Add normalized scores to the display frame
+    display_frame["normalized_correctness"] = display_frame["correctness"].apply(normalize_score)
+    display_frame["normalized_grounding"] = display_frame["grounding"].apply(normalize_score)
+    
+    def format_judge_scores(row):
+        raw_c = row.get('correctness', '-')
+        norm_c = f"{row.get('normalized_correctness', '-'):.2f}" if pd.notna(row.get('normalized_correctness')) else '-'
+        raw_g = row.get('grounding', '-')
+        norm_g = f"{row.get('normalized_grounding', '-'):.2f}" if pd.notna(row.get('normalized_grounding')) else '-'
+        h = str(bool(row.get('hallucination'))).lower()
+        return f"C{raw_c}/{norm_c}, G{raw_g}/{norm_g}, H{h}"
+    
+    display_frame["judge scores"] = display_frame.apply(format_judge_scores, axis=1)
     columns = [column for column in ["question", "model_answer", "judge scores", "reasoning"] if column in display_frame.columns]
-    st.dataframe(display_frame[columns], use_container_width=True, hide_index=True)
+    st.dataframe(
+        display_frame[columns], 
+        use_container_width=True, 
+        hide_index=True,
+        column_config={
+            "question": st.column_config.Column(width="large"),
+            "model_answer": st.column_config.Column(width="large"),
+            "judge scores": st.column_config.Column(width="medium"),
+            "reasoning": st.column_config.Column(width="medium"),
+        }
+    )
 
 
 def show_version_tab(version, answers_dir, evaluations_dir):
@@ -302,9 +362,11 @@ def render_evaluation_dashboard(answers_dir, evaluations_dir, versions):
                         "Version": version,
                         "Run": latest_run,
                         "Questions": len(frame),
-                        "Avg Correctness": metric_value(frame, "correctness"),
-                        "Avg Grounding": metric_value(frame, "grounding"),
-                        "Hallucination True Rate": hallucination_rate(frame),
+                        "Avg Correctness (raw)": f"{metric_value(frame, 'correctness'):.1f}",
+                        "Avg Correctness (norm)": f"{normalized_metric_value(frame, 'correctness'):.2f}",
+                        "Avg Grounding (raw)": f"{metric_value(frame, 'grounding'):.1f}",
+                        "Avg Grounding (norm)": f"{normalized_metric_value(frame, 'grounding'):.2f}",
+                        "Hallucination True Rate": f"{hallucination_rate(frame):.0%}",
                     }
                 )
 
@@ -314,9 +376,11 @@ def render_evaluation_dashboard(answers_dir, evaluations_dir, versions):
                     {
                         "Version": version,
                         "Run": run_id,
-                        "Avg Correctness": metric_value(frame, "correctness"),
-                        "Avg Grounding": metric_value(frame, "grounding"),
-                        "Hallucination True Rate": hallucination_rate(frame),
+                        "Avg Correctness (raw)": f"{metric_value(frame, 'correctness'):.1f}",
+                        "Avg Correctness (norm)": f"{normalized_metric_value(frame, 'correctness'):.2f}",
+                        "Avg Grounding (raw)": f"{metric_value(frame, 'grounding'):.1f}",
+                        "Avg Grounding (norm)": f"{normalized_metric_value(frame, 'grounding'):.2f}",
+                        "Hallucination True Rate": f"{hallucination_rate(frame):.0%}",
                     }
                 )
 
