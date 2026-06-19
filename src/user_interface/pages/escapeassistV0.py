@@ -3,6 +3,8 @@ import streamlit as st
 
 load_dotenv()
 
+st.set_page_config(layout="centered")
+
 from user_interface.utils import render_escapeassist_page
 from workflows.V0workflow import WorkflowInput
 
