@@ -360,10 +360,34 @@ def show_question_type_bar_charts(question_type_frame, versions):
     }
 
     for metric, title in metric_titles.items():
-        pivot = question_type_frame.pivot(index="question_type", columns="agent_version", values=metric)
-        pivot = pivot.reindex(columns=versions)
+        chart_frame = question_type_frame[["agent_version", "question_type", metric]].dropna()
+        chart_frame = chart_frame[chart_frame["agent_version"].isin(versions)]
+        if chart_frame.empty:
+            continue
+
         st.markdown(f"#### {title}")
-        st.bar_chart(pivot, y_label="score", x_label="question type")
+        chart = (
+            alt.Chart(chart_frame)
+            .mark_bar()
+            .encode(
+                x=alt.X("question_type:N", title="question type"),
+                xOffset=alt.XOffset("agent_version:N", scale=alt.Scale(domain=versions)),
+                y=alt.Y(
+                    f"{metric}:Q",
+                    title="score",
+                    scale=alt.Scale(domain=[0, 1]),
+                    axis=alt.Axis(format=".0%"),
+                ),
+                color=alt.Color("agent_version:N", scale=alt.Scale(domain=versions), title="agent_version"),
+                tooltip=[
+                    alt.Tooltip("question_type:N", title="question type"),
+                    alt.Tooltip("agent_version:N", title="agent_version"),
+                    alt.Tooltip(f"{metric}:Q", title=title, format=".1%"),
+                ],
+            )
+            .properties(height=260)
+        )
+        st.altair_chart(chart, width="stretch")
 
 
 # =========================================================
