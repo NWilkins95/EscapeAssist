@@ -18,7 +18,7 @@ load_dotenv()
 client = OpenAI()
 
 from evaluation.judge.judge_instructions import get_judge_instructions
-from user_interface.async_runner import run_async
+from user_interface.utils.async_runner import run_async
 from user_interface.workflows.V0workflow import run_workflow as run_v0, WorkflowInput as V0Input
 from user_interface.workflows.V1workflow import run_workflow as run_v1, WorkflowInput as V1Input
 from user_interface.workflows.V2workflow import run_workflow as run_v2, WorkflowInput as V2Input

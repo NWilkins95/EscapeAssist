@@ -26,7 +26,7 @@ from evaluation.judge.judge_runner import (
     extract_reply,
     load_golden_data,
 )
-from user_interface.async_runner import run_async
+from user_interface.utils.async_runner import run_async
 
 DEFAULT_SAMPLE_SIZE = 15
 DEFAULT_SEED = 42
