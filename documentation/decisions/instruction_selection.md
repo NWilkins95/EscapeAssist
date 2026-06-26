@@ -70,6 +70,6 @@ Adopt **Version B** as the final instruction set for EscapeAssist. This version 
 1. Finalize Version B as the canonical instruction set and deploy across all EscapeAssist environments.
 2. Address tire pressure grounding drift by revising instructions to emphasize: "Always direct users to the Safety Compliance Certification Label; do not provide example pressures as alternatives."
 3. Investigate the wrench warning light hallucination in Versions A, C, and D; apply learnings to strengthen content retrieval or hallucination prevention for diagnostic topics.
-4. Archive Versions A, C, and D alongside test notes in the instruction_testing directory for historical reference.
+4. Archive Versions A, C, and D alongside test notes in the testing/instruction_testing directory for historical reference.
 5. Monitor Version B performance in production; log any grounding drift for future refinement.
 6. Consider A/B testing Version B against Versions C and D in limited rollout to validate findings before full deployment.

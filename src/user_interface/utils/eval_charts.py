@@ -1,6 +1,8 @@
 import altair as alt
 import streamlit as st
 
+from user_interface.utils.eval_data import build_question_type_frame, build_trend_frame
+
 
 def show_trend_charts(trend_frame, versions):
     """
@@ -97,3 +99,22 @@ def show_question_type_bar_charts(question_type_frame, versions):
             .properties(height=260)
         )
         st.altair_chart(chart, width="stretch")
+
+
+def show_version_charts(version, title, answers_dir, evaluations_dir):
+    """
+    Render version-specific trend and question-type charts.
+
+    Args:
+        version: Workflow version key.
+        title: Section title for the version chart block.
+        answers_dir: Base answers directory.
+        evaluations_dir: Base evaluations directory.
+    """
+    st.header(title)
+
+    trend_frame = build_trend_frame(answers_dir, evaluations_dir, [version])
+    show_trend_charts(trend_frame, [version])
+
+    question_type_frame = build_question_type_frame(answers_dir, evaluations_dir, [version])
+    show_question_type_bar_charts(question_type_frame, [version])

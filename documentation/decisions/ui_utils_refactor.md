@@ -31,7 +31,7 @@ The shared module will own the reusable logic, while each page will keep only it
   - Less repeated code across the dashboard and Vx pages.
   - Cleaner page files with a smaller maintenance surface.
   - Shared behavior changes can be made in one place.
-
+Should
 - Trade-offs:
   - The shared utils module becomes a central dependency for the UI pages.
   - Imports must stay consistent so the pages continue to resolve the helper module correctly.

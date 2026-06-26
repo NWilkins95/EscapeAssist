@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-from user_interface.utils.eval_charts import show_question_type_bar_charts, show_trend_charts
+from user_interface.utils.eval_charts import show_question_type_bar_charts, show_trend_charts, show_version_charts
 from user_interface.utils.eval_data import (
     build_question_type_frame,
     build_trend_frame,
@@ -162,7 +162,7 @@ def show_version_tab(version, answers_dir, evaluations_dir):
         answers_dir: Base answers directory.
         evaluations_dir: Base evaluations directory.
     """
-    st.subheader(version)
+    st.header(f"Version: {version}")
 
     if st.button(f"Run {version}", key=f"run-{version}"):
         run_version(version)
@@ -175,25 +175,6 @@ def show_version_tab(version, answers_dir, evaluations_dir):
     run_id = st.selectbox("Saved run", runs, index=len(runs) - 1, key=f"run-select-{version}")
     frame = load_run(version, run_id, answers_dir, evaluations_dir)
     show_run(frame, version, run_id)
-
-
-def show_version_charts(version, title, answers_dir, evaluations_dir):
-    """
-    Render version-specific trend and question-type charts.
-
-    Args:
-        version: Workflow version key.
-        title: Section title for the version chart block.
-        answers_dir: Base answers directory.
-        evaluations_dir: Base evaluations directory.
-    """
-    st.subheader(title)
-
-    trend_frame = build_trend_frame(answers_dir, evaluations_dir, [version])
-    show_trend_charts(trend_frame, [version])
-
-    question_type_frame = build_question_type_frame(answers_dir, evaluations_dir, [version])
-    show_question_type_bar_charts(question_type_frame, [version])
 
 
 def render_evaluation_dashboard(answers_dir, evaluations_dir, versions):
@@ -266,13 +247,16 @@ def render_evaluation_dashboard(answers_dir, evaluations_dir, versions):
         show_question_type_bar_charts(question_type_frame, versions)
 
     with v0_tab:
-        show_version_charts("V0", "V0 Charts", answers_dir, evaluations_dir)
         show_version_tab("V0", answers_dir, evaluations_dir)
+        st.divider()
+        show_version_charts("V0", "V0 Charts", answers_dir, evaluations_dir)
 
     with v1_tab:
-        show_version_charts("V1", "V1 Charts", answers_dir, evaluations_dir)
         show_version_tab("V1", answers_dir, evaluations_dir)
+        st.divider()
+        show_version_charts("V1", "V1 Charts", answers_dir, evaluations_dir)
 
     with v2_tab:
-        show_version_charts("V2", "V2 Charts", answers_dir, evaluations_dir)
         show_version_tab("V2", answers_dir, evaluations_dir)
+        st.divider()
+        show_version_charts("V2", "V2 Charts", answers_dir, evaluations_dir)
