@@ -13,6 +13,3 @@ This repository uses a clean branching workflow:
 ### `development`
 - Active work‑in‑progress branch.
 - All weekly branches merge into this branch at the end of each week.
-
-### Weekly Branches
-Branches are created for each week of the project.
