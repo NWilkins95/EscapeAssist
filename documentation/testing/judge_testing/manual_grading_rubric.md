@@ -7,8 +7,8 @@ This rubric is used to manually grade Judge LLM outputs while calibrating the ju
 ## 1. Correctness
 
 - **5**: Fully correct and complete.
-- **4**: Mostly correct with a minor omission or harmless extra detail.
-- **3**: Partially correct, but incomplete or somewhat ambiguous.
+- **4**: Mostly correct with a minor omission.
+- **3**: Partially correct/incorrect, may be incomplete or somewhat ambiguous.
 - **2**: Mostly incorrect, with only a small amount of useful content.
 - **1**: Largely incorrect.
 - **0**: No useful answer or completely wrong.

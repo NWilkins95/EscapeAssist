@@ -7,7 +7,7 @@ if "loop" not in globals():
     thread = threading.Thread(target=loop.run_forever, daemon=True)
     thread.start()
 
-# Run async work from sync code
+
 def run_async(coro):
     """
     Run a coroutine on the shared background event loop.

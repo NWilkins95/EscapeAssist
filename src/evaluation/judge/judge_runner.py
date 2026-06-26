@@ -1,6 +1,7 @@
 import json
 import sys
 from datetime import datetime, timezone
+from typing import Optional
 from pathlib import Path
 
 # =========================================================
@@ -13,14 +14,15 @@ if str(SRC_DIR) not in sys.path:
 from dotenv import load_dotenv
 from openai import OpenAI
 
+load_dotenv()
+client = OpenAI()
+
 from evaluation.judge.judge_instructions import get_judge_instructions
-from user_interface.async_runner import run_async
+from user_interface.utils.async_runner import run_async
 from user_interface.workflows.V0workflow import run_workflow as run_v0, WorkflowInput as V0Input
 from user_interface.workflows.V1workflow import run_workflow as run_v1, WorkflowInput as V1Input
 from user_interface.workflows.V2workflow import run_workflow as run_v2, WorkflowInput as V2Input
 
-load_dotenv()
-client = OpenAI()
 # =========================================================
 # Data Paths
 # =========================================================
@@ -42,7 +44,10 @@ WORKFLOWS = {
 # =========================================================
 def load_golden_data() -> list[dict]:
     """
-    Load the golden dataset from JSONL into a list of dictionaries.
+    Load the golden dataset from disk.
+
+    Returns:
+        A list of dictionaries, one per JSONL line in the golden dataset.
     """
     golden_data = []
     with open(GOLDEN_DATA_PATH, "r") as f:
@@ -51,9 +56,16 @@ def load_golden_data() -> list[dict]:
 
     return golden_data
 
+
 def extract_reply(result: dict) -> str:
     """
-    Return the assistant text from a workflow result payload.
+    Extract the assistant's text output from a workflow result.
+
+    Args:
+        result: Workflow result dictionary.
+
+    Returns:
+        The assistant's output text, or a fallback message if unavailable.
     """
     if "assistant" in result and "output_text" in result["assistant"]:
         return result["assistant"]["output_text"]
@@ -63,27 +75,50 @@ def extract_reply(result: dict) -> str:
 
     return "I couldn't process that request. Please try again."
 
+
+def _emit_progress(
+    progress_callback,
+    completed: int,
+    total: int,
+    stage: str,
+) -> None:
+    """Forward progress updates to the UI when a callback is provided."""
+    if progress_callback is not None:
+        progress_callback(completed, total, stage)
+
+
 def save_answers(selected_version: str, answers: list[tuple], output_path: Path) -> None:
     """
-    Write gathered answers to JSONL (one JSON object per line).
+    Save model answers to a JSONL file.
+
+    Args:
+        selected_version: Workflow version key.
+        answers: List of tuples containing question metadata and model answers.
+        output_path: Destination file path.
     """
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     with output_path.open("w", encoding="utf-8") as f:
         for i, (question, model_answer, truth, source_quote, type) in enumerate(answers, start=1):
             row = {
-                "id": f"{selected_version}-answer-{i:04d}",          
+                "id": f"{selected_version}-answer-{i:04d}",
                 "question": question,
-                "model_answer": model_answer,  
+                "model_answer": model_answer,
                 "truth": truth,
                 "source_quote": source_quote,
                 "type": type,
             }
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
 
+
 def save_eval(selected_version: str, evaluations: list[str], output_path: Path) -> None:
     """
-    Write evaluation results to JSONL (one JSON object per line).
+    Save judge evaluation results to a JSONL file.
+
+    Args:
+        selected_version: Workflow version key.
+        evaluations: List of evaluation result objects.
+        output_path: Destination file path.
     """
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -95,14 +130,24 @@ def save_eval(selected_version: str, evaluations: list[str], output_path: Path) 
             }
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
 
-# =========================================================
-# Judge LLM Functions
-# =========================================================
-def gather_answers(selected_version: str, timestamp: str) -> list:
-    """
-    Run the selected workflow over the golden dataset and collect model answers.
-    """
 
+def gather_answers(
+    selected_version: str,
+    timestamp: str,
+    progress_callback=None,
+    progress_offset: int = 0,
+    progress_total: Optional[int] = None,
+) -> list:
+    """
+    Run a workflow version across the golden dataset and collect model answers.
+
+    Args:
+        selected_version: Workflow version key.
+        timestamp: Timestamp string used for output file naming.
+
+    Returns:
+        A list of tuples containing question metadata and model answers.
+    """
     print(f"Gathering answers for version {selected_version}...")
 
     workflow_fn, workflow_input_cls = WORKFLOWS[selected_version]
@@ -110,9 +155,7 @@ def gather_answers(selected_version: str, timestamp: str) -> list:
     answers = []
     golden_data = load_golden_data()
 
-    five_gathered = False
-
-    for item in golden_data:
+    for index, item in enumerate(golden_data, start=1):
         question = item["question"]
 
         workflow_input = workflow_input_cls(
@@ -125,32 +168,49 @@ def gather_answers(selected_version: str, timestamp: str) -> list:
 
         answers.append((question, model_answer, item["truth"], item["source_quote"], item["type"]))
 
-        if len(answers) >= 5 and not five_gathered:
-            print("Gathered 5 answers, stopping early for testing purposes.")
-            five_gathered = True
-
-            break
+        if progress_total is not None:
+            _emit_progress(
+                progress_callback,
+                progress_offset + index,
+                progress_total,
+                f"Gathering answers for {selected_version}",
+            )
 
     output_path = OUTPUTS_DIR / "answers" / f"{selected_version}" / f"{selected_version}_answers-{timestamp}.jsonl"
     save_answers(selected_version, answers, output_path)
+
     print("Answers have been gathered. Results saved to: " + str(output_path))
 
     return answers
 
-def run_judge(answers: list, selected_version: str, timestamp: str) -> list:
-    """
-    Send each answer pair to the Judge LLM and print the structured response.
-    """
 
+# =========================================================
+# Judge LLM Function
+# =========================================================
+def run_judge(
+    answers: list,
+    selected_version: str,
+    timestamp: str,
+    progress_callback=None,
+    progress_offset: int = 0,
+    progress_total: Optional[int] = None,
+) -> list:
+    """
+    Evaluate model answers using the Judge LLM.
+
+    Args:
+        answers: List of tuples containing question metadata and model answers.
+        selected_version: Workflow version key.
+        timestamp: Timestamp string used for output file naming.
+
+    Returns:
+        A list of structured judge evaluation results.
+    """
     print("Running Judge LLM on the gathered answers...")
 
     evaluation_results = []
-    for answer in answers:
-        question = answer[0]
-        model_answer = answer[1]
-        truth = answer[2]
-        source_quote = answer[3]
-        type = answer[4]
+    for index, answer in enumerate(answers, start=1):
+        question, model_answer, truth, source_quote, type = answer
 
         judge_instructions = get_judge_instructions()
 
@@ -161,8 +221,7 @@ def run_judge(answers: list, selected_version: str, timestamp: str) -> list:
         Source Quote: {source_quote}
         Question Type: {type}
         """
-    
-        # Send the prompt to the Judge LLM and parse the response
+
         response = client.responses.create(
             model="gpt-4o",
             instructions=judge_instructions,
@@ -180,28 +239,85 @@ def run_judge(answers: list, selected_version: str, timestamp: str) -> list:
                             "correctness": {"type": "integer", "minimum": 0, "maximum": 5},
                             "grounding": {"type": "integer", "minimum": 0, "maximum": 5},
                             "hallucination": {"type": "boolean"},
-                            "reasoning": {"type": "string", "minLength": 1}
+                            "reasoning": {"type": "string", "minLength": 1},
                         },
                         "required": ["correctness", "grounding", "hallucination", "reasoning"],
-                        "additionalProperties": False
-                    }
+                        "additionalProperties": False,
+                    },
                 }
-            }
+            },
         )
-        result = json.loads(response.output[0].content[0].text)
+
+        result = json.loads(response.output_text)
         evaluation_results.append(result)
+
+        if progress_total is not None:
+            _emit_progress(
+                progress_callback,
+                progress_offset + index,
+                progress_total,
+                f"Judging answers for {selected_version}",
+            )
 
     output_path = OUTPUTS_DIR / "evaluations" / f"{selected_version}" / f"{selected_version}_eval-{timestamp}.jsonl"
     save_eval(selected_version, evaluation_results, output_path)
 
     print("Evaluation complete. Results saved to: " + str(output_path))
+    
     return evaluation_results
 
+# =========================================================
+# Evaluation Dashboard Judge Runner
+# =========================================================
+def run_selected_version(selected_version, progress_callback=None):
+    """
+    Run the judge evaluation for a selected version and timestamp.
 
+    Steps:
+        1. Get workflow version.
+        2. Gather model answers.
+        3. Run judge evaluation.
+        4. Save all outputs to disk.
+    """
+    timestamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    golden_data = load_golden_data()
+    total_steps = len(golden_data) * 2
+
+    _emit_progress(progress_callback, 0, total_steps, f"Starting {selected_version} evaluation")
+    answers = gather_answers(
+        selected_version,
+        timestamp,
+        progress_callback=progress_callback,
+        progress_offset=0,
+        progress_total=total_steps,
+    )
+
+    return run_judge(
+        answers,
+        selected_version,
+        timestamp,
+        progress_callback=progress_callback,
+        progress_offset=len(golden_data),
+        progress_total=total_steps,
+    )
+
+
+# =========================================================
+# Main Execution Function (For Testing Purposes)
+# =========================================================
 def main():
+    """
+    Run the evaluation pipeline for a single workflow version.
 
+    Steps:
+        1. Select workflow version.
+        2. Gather model answers.
+        3. Run judge evaluation.
+        4. Save all outputs to disk.
+    """
     selected_version = "V0"
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
     answers = gather_answers(selected_version, timestamp)
     run_judge(answers, selected_version, timestamp)
 

@@ -1,6 +1,26 @@
+from pathlib import Path
 import streamlit as st
 
-st.image("assets/IMG_4854.png")
-st.header("Welcome to the EscapeAssist Evaluation Dashboard!")
-st.markdown("This dashboard is for evaluating and comparing different versions of the EscapeAssist application and will be constructed later in the project timeline. For now, please use the navigation menu in the top left to access the different versions of EscapeAssist and test them out!")
 
+# =========================================================
+# Path Setup & Page Initialization
+# =========================================================
+PAGE_DIR = Path(__file__).resolve().parent
+SRC_DIR = PAGE_DIR.parents[1]
+import sys
+
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
+
+from user_interface.utils.eval_dashboard import render_evaluation_dashboard
+
+OUTPUTS_DIR = SRC_DIR / "evaluation" / "outputs"
+ANSWERS_DIR = OUTPUTS_DIR / "answers"
+EVALUATIONS_DIR = OUTPUTS_DIR / "evaluations"
+VERSIONS = ["V0", "V1", "V2"]
+
+
+st.set_page_config(page_title="Evaluation Dashboard", layout="wide")
+st.title("Evaluation Dashboard")
+
+render_evaluation_dashboard(ANSWERS_DIR, EVALUATIONS_DIR, VERSIONS)
