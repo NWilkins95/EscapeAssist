@@ -8,21 +8,21 @@ A chronological record of all system testing iterations, changes made, and compa
 
 | Run ID | Date | Versions | Status | Artifacts |
 |--------|------|----------|--------|-----------|
-| baseline-001 | YYYY-MM-DD | V0, V1, V2 | Complete | `baseline_run_analysis.md` |
+| baseline-001 | 2026-06-19 | V0, V1, V2 | Complete | `baseline_run_analysis.md` |
 
 **Summary:** Initial end-to-end evaluation of all three preprocessing and agent versions using frozen instructions and judge rubric.
 
 **Key Metrics:**
-- V0 Correctness (norm): TBD
-- V1 Correctness (norm): TBD
-- V2 Correctness (norm): TBD
+- V0 Correctness (norm): 0.819
+- V1 Correctness (norm): 0.837
+- V2 Correctness (norm): 0.772
 
 **Top Failure Categories:** (Listed in priority order)
-1. TBD
-2. TBD
-3. TBD
+1. Unsupported or hallucinated answers to invalid / out-of-scope prompts
+2. Maintenance and specification table extraction / comparison errors
+3. Factual explanation questions with narrow source support
 
-**Recommended First Change:** TBD
+**Recommended First Change:** Add an explicit refusal rule for trim features, capacities, firmware, and other unsupported spec questions when the source does not contain a direct answer.
 
 ---
 
