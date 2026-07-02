@@ -265,7 +265,7 @@ The hallucinations are concentrated in invalid/out-of-scope prompts. The repeate
 
 **Change Type:** instructions / fallback
 
-**Specific Action:** Add an explicit refusal rule for trim features, capacities, firmware, and other unsupported spec questions when the source does not contain a direct answer.
+**Specific Action:** Add a more explicit refusal rule for trim features, capacities, firmware, and other unsupported spec questions when the source does not contain a direct answer.
 
 **Why:** This is the largest hallucination driver in the observed results and affects the invalid question set most heavily.
 

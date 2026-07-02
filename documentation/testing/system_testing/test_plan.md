@@ -54,7 +54,7 @@ After the baseline run completes, generate:
 - Overall metrics summary (correctness, grounding, hallucination rate per version)
 - Per-question-type breakdown
 - Failure analysis by category
-- Run report in `run_reports/baseline_run.md`
+- Baseline Analysis in `run_reports/baseline_run_analysis.md`
 
 ---
 
@@ -165,7 +165,7 @@ An iteration is unsuccessful if:
 
 Stop iterating when:
 
-- Overall metrics plateau (gains less than 2% per iteration for three consecutive iterations)
+- Overall metrics plateau
 - All three versions have similar performance and further improvements would require major architectural changes
 - Time or computational budget is exhausted
 - I am satisfied with the performance level
@@ -182,33 +182,42 @@ For each run, create:
 
 ### 9.2 Per-Change Artifacts
 
-For each targeted change, create:
-- `decisions/{date}_change_{category}_{description}.md` with rationale and results
+For each targeted change, create a concise decision note using this pattern:
 
-### 9.3 Comparison Artifacts
+- `decisions/{date}_change_{category}_{description}.md`
 
-After every third iteration or when making a major decision:
-- Brief summary comparison of baseline vs. latest run
-- Summary of all changes made to date and their cumulative effect
+Start with a short metadata block:
+
+- Date
+- Owner
+- Iteration
+- Affected Version(s)
+- Category
+
+Include only the essentials:
+
+- Summary
+- Context
+- Change
+- Why This Change
+- Expected Outcome
+- Decision
+- Next Step
 
 ---
 
 ## 10. Tools Available
 
 - **Evaluation dashboard** (`src/user_interface/pages/evaluation_dashboard.py`): View metrics, trends, and per-run details
-- **Run comparison**: Manually compare CSV exports of two runs
+- **Run comparison**: Manually compare the results of two runs
 - **Judge calibration data**: Disagreement logs to refine scoring if needed
-- **Test notes**: Manual per-run observations for qualitative drift analysis
 
 ---
 
 ## 11. Timeline and Pacing
 
 Recommended pace:
-- Baseline run: 1 full day
-- Baseline analysis: 1 day
-- First iteration cycle: 2–3 days per iteration (1 day to change, 1 day to run, 1 day to analyze)
-- Subsequent iterations: 2–3 days per iteration until plateau
+- 2–3 days per iteration until plateau
 
 Total estimated time: 2 weeks
 
