@@ -18,6 +18,7 @@ load_dotenv()
 client = OpenAI()
 
 from evaluation.judge.judge_instructions import get_judge_instructions
+from evaluation.judge.utils import extract_reply, load_golden_data, write_jsonl
 from user_interface.utils.async_runner import run_async
 from user_interface.workflows.V0workflow import run_workflow as run_v0, WorkflowInput as V0Input
 from user_interface.workflows.V1workflow import run_workflow as run_v1, WorkflowInput as V1Input
@@ -26,7 +27,6 @@ from user_interface.workflows.V2workflow import run_workflow as run_v2, Workflow
 # =========================================================
 # Data Paths
 # =========================================================
-GOLDEN_DATA_PATH = Path(__file__).resolve().parents[1] / "data" / "golden.jsonl"
 OUTPUTS_DIR = Path(__file__).resolve().parents[1] / "outputs"
 OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -42,40 +42,6 @@ WORKFLOWS = {
 # =========================================================
 # Judge LLM Helper Functions
 # =========================================================
-def load_golden_data() -> list[dict]:
-    """
-    Load the golden dataset from disk.
-
-    Returns:
-        A list of dictionaries, one per JSONL line in the golden dataset.
-    """
-    golden_data = []
-    with open(GOLDEN_DATA_PATH, "r") as f:
-        for line in f:
-            golden_data.append(json.loads(line))
-
-    return golden_data
-
-
-def extract_reply(result: dict) -> str:
-    """
-    Extract the assistant's text output from a workflow result.
-
-    Args:
-        result: Workflow result dictionary.
-
-    Returns:
-        The assistant's output text, or a fallback message if unavailable.
-    """
-    if "assistant" in result and "output_text" in result["assistant"]:
-        return result["assistant"]["output_text"]
-
-    if any(key in result for key in ["nsfw", "moderation", "jailbreak", "pii", "prompt_injection"]):
-        return "Your message triggered a safety filter. Please try rephrasing."
-
-    return "I couldn't process that request. Please try again."
-
-
 def _emit_progress(
     progress_callback,
     completed: int,
@@ -96,11 +62,10 @@ def save_answers(selected_version: str, answers: list[tuple], output_path: Path)
         answers: List of tuples containing question metadata and model answers.
         output_path: Destination file path.
     """
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-
-    with output_path.open("w", encoding="utf-8") as f:
-        for i, (question, model_answer, truth, source_quote, type) in enumerate(answers, start=1):
-            row = {
+    rows = []
+    for i, (question, model_answer, truth, source_quote, type) in enumerate(answers, start=1):
+        rows.append(
+            {
                 "id": f"{selected_version}-answer-{i:04d}",
                 "question": question,
                 "model_answer": model_answer,
@@ -108,7 +73,9 @@ def save_answers(selected_version: str, answers: list[tuple], output_path: Path)
                 "source_quote": source_quote,
                 "type": type,
             }
-            f.write(json.dumps(row, ensure_ascii=False) + "\n")
+        )
+
+    write_jsonl(rows, output_path)
 
 
 def save_eval(selected_version: str, evaluations: list[str], output_path: Path) -> None:
@@ -120,15 +87,16 @@ def save_eval(selected_version: str, evaluations: list[str], output_path: Path) 
         evaluations: List of evaluation result objects.
         output_path: Destination file path.
     """
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-
-    with output_path.open("w", encoding="utf-8") as f:
-        for i, eval_result in enumerate(evaluations, start=1):
-            row = {
+    rows = []
+    for i, eval_result in enumerate(evaluations, start=1):
+        rows.append(
+            {
                 "id": f"{selected_version}-eval-{i:04d}",
                 "evaluation": eval_result,
             }
-            f.write(json.dumps(row, ensure_ascii=False) + "\n")
+        )
+
+    write_jsonl(rows, output_path)
 
 
 def gather_answers(
