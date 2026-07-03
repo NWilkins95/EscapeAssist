@@ -30,19 +30,27 @@ A chronological record of all system testing iterations, changes made, and compa
 
 | Run ID | Date | Versions | Change Category | Change Description |
 |--------|------|----------|-----------------|-------------------|
-| iter-001 | YYYY-MM-DD | V0 / V1 / V2 | preprocessing / instructions / fallback | TBD |
+| iter-001 | 2026-07-02 | V0 / V1 / V2 | instructions | unsupported-spec refusal update |
 
 **Baseline Comparison:**
-- V0 Correctness (norm): TBD → TBD (Δ TBD)
-- V1 Correctness (norm): TBD → TBD (Δ TBD)
-- V2 Correctness (norm): TBD → TBD (Δ TBD)
+- V0 Correctness (norm): 0.86 → 0.86 (Δ 0.00)
+- V1 Correctness (norm): 0.87 → 0.86 (Δ -0.01)
+- V2 Correctness (norm): 0.82 → 0.85 (Δ +0.03)
+- V0 Grounding (norm): 0.75 → 0.74 (Δ -0.01)
+- V1 Grounding (norm): 0.75 → 0.76 (Δ +0.01)
+- V2 Grounding (norm): 0.71 → 0.74 (Δ +0.03)
+- V0 Hallucination Rate: 13% → 14% (Δ +1 pt)
+- V1 Hallucination Rate: 13% → 14% (Δ +1 pt)
+- V2 Hallucination Rate: 22% → 20% (Δ -2 pts)
 
-**Change Decision:** `decisions/YYYY-MM-DD_change_{category}_{description}.md`
+**Change Decision:** `decisions/2026-07-02_change_preprocessing_q59_dataset_correction.md`
 
 **Qualitative Observations:**
-- TBD
+- V0 and V1 regressed slightly on hallucination rate, while V2 improved on correctness, grounding, and hallucination rate.
+- Q59 appears mislabeled in the golden dataset and should be corrected before the next comparison.
+- The new refusal wording did not fix horsepower, winter tire, or firmware hallucinations, and it sometimes shifted trim-specific questions into clarifying language instead of a direct refusal.
 
-**Next Iteration:** TBD
+**Next Iteration:** Correct Q59 in the golden dataset, rerun the evaluation, and then decide whether unsupported-spec refusal or table preprocessing should be the next change.
 
 ---
 
