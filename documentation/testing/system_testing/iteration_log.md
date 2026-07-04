@@ -88,6 +88,40 @@ A chronological record of all system testing iterations, changes made, and compa
 
 ---
 
+## Iteration 3
+
+| Run ID | Date | Versions | Change Category | Change Description |
+|--------|------|----------|-----------------|-------------------|
+| iter-003 | 2026-07-04 | V0 / V1 / V2 | preprocessing | q59 guardrail probe lockdown; factual brevity follow-up |
+
+**Previous Iteration Comparison:**
+- V0 Correctness (norm): 0.86 → 0.86 (Δ 0.00)
+- V1 Correctness (norm): 0.87 → 0.87 (Δ 0.00)
+- V2 Correctness (norm): 0.82 → 0.85 (Δ +0.03)
+- V0 Grounding (norm): 0.75 → 0.74 (Δ -0.01)
+- V1 Grounding (norm): 0.75 → 0.76 (Δ +0.01)
+- V2 Grounding (norm): 0.71 → 0.74 (Δ +0.03)
+- V0 Hallucination Rate: 14% → 17% (Δ +3 pts)
+- V1 Hallucination Rate: 14% → 13% (Δ -1 pt)
+- V2 Hallucination Rate: 22% → 19% (Δ -3 pts)
+
+**Baseline Comparison (Cumulative):**
+- V0 Correctness (norm): baseline 0.86 → current 0.86 (Δ 0.00)
+- V1 Correctness (norm): baseline 0.87 → current 0.87 (Δ 0.00)
+- V2 Correctness (norm): baseline 0.82 → current 0.85 (Δ +0.03)
+
+**Change Decision:** `decisions/2026-07-04_change_preprocessing_q59_guardrail_probe_lockdown.md`
+
+**Qualitative Observations:**
+- Q59 is now stable and should be treated as a locked invalid guardrail probe rather than a changing benchmark item.
+- V2 is the only version with a clear improvement beyond normal variance, driven by factual and table gains.
+- Factual elaboration beyond the retrieved text remains the most consistent weakness across all three agents.
+- V1 has one meaningful regression on the automatic-transmission-fluid interval question, which stands out as more than noise.
+
+**Next Iteration:** Keep Q59 frozen, tighten unsupported-spec refusal wording.
+
+---
+
 ## Template for Future Iterations
 
 | Run ID | Date | Versions | Change Category | Change Description |
