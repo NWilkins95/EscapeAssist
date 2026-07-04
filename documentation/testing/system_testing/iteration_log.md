@@ -58,24 +58,33 @@ A chronological record of all system testing iterations, changes made, and compa
 
 | Run ID | Date | Versions | Change Category | Change Description |
 |--------|------|----------|-----------------|-------------------|
-| iter-002 | YYYY-MM-DD | V0 / V1 / V2 | preprocessing / instructions / fallback | TBD |
+| iter-002 | 2026-07-03 | V0 / V1 / V2 | preprocessing | q59 invalid restoration / guardrail separation |
 
 **Previous Iteration Comparison:**
-- V0 Correctness (norm): TBD → TBD (Δ TBD)
-- V1 Correctness (norm): TBD → TBD (Δ TBD)
-- V2 Correctness (norm): TBD → TBD (Δ TBD)
+- V0 Correctness (norm): 0.86 → 0.86 (Δ 0.00)
+- V1 Correctness (norm): 0.86 → 0.87 (Δ +0.01)
+- V2 Correctness (norm): 0.85 → 0.82 (Δ -0.03)
+- V0 Grounding (norm): 0.74 → 0.75 (Δ +0.01)
+- V1 Grounding (norm): 0.76 → 0.75 (Δ -0.01)
+- V2 Grounding (norm): 0.74 → 0.71 (Δ -0.03)
+- V0 Hallucination Rate: 14% → 14% (Δ 0)
+- V1 Hallucination Rate: 14% → 14% (Δ 0)
+- V2 Hallucination Rate: 20% → 22% (Δ +2 pts)
 
 **Baseline Comparison (Cumulative):**
-- V0 Correctness (norm): baseline TBD → current TBD (Δ TBD)
-- V1 Correctness (norm): baseline TBD → current TBD (Δ TBD)
-- V2 Correctness (norm): baseline TBD → current TBD (Δ TBD)
+- V0 Correctness (norm): baseline 0.86 → current 0.86 (Δ 0.00)
+- V1 Correctness (norm): baseline 0.87 → current 0.87 (Δ 0.00)
+- V2 Correctness (norm): baseline 0.82 → current 0.82 (Δ 0.00)
 
-**Change Decision:** `decisions/YYYY-MM-DD_change_{category}_{description}.md`
+**Change Decision:** `decisions/2026-07-03_change_preprocessing_q59_question_rewording.md`
 
 **Qualitative Observations:**
-- TBD
+- Procedural rows remained the most stable cluster across all three versions.
+- Factual and table rows still account for most of the score drift.
+- Q59 should be restored to invalid: the latest run returns the safety-filter fallback for all three versions, which is the expected guardrail-trip behavior for a blocked or unsupported control-module override question.
+- V0 is effectively flat, V1 regained a small correctness lift, and V2 regressed back toward baseline.
 
-**Next Iteration:** TBD
+**Next Iteration:** Restore Q59 to invalid so the benchmark separates blocked control-module questions from grounding questions, then move to unsupported horsepower and trim-feature prompts.
 
 ---
 

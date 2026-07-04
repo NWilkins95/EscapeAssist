@@ -29,12 +29,18 @@ def show_trend_charts(trend_frame, versions):
         if chart_frame.empty:
             continue
 
+        run_ticks = sorted(chart_frame["run_index"].dropna().astype(int).unique().tolist())
+
         st.markdown(f"#### {title}")
         chart = (
             alt.Chart(chart_frame)
             .mark_line(point=True)
             .encode(
-                x=alt.X("run_index:Q", title="successive run"),
+                x=alt.X(
+                    "run_index:Q",
+                    title="successive run",
+                    axis=alt.Axis(values=run_ticks, format="d"),
+                ),
                 y=alt.Y(f"{metric}:Q", title="score", scale=alt.Scale(domain=[0, 1])),
                 color=alt.Color("agent_version:N", scale=alt.Scale(domain=versions), title="agent_version"),
                 tooltip=[
