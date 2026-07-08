@@ -122,6 +122,40 @@ A chronological record of all system testing iterations, changes made, and compa
 
 ---
 
+## Iteration 4
+
+| Run ID | Date | Versions | Change Category | Change Description |
+|--------|------|----------|-----------------|-------------------|
+| iter-004 | 2026-07-07 | V0 / V1 / V2 | preprocessing | low-grounding source-quote reconciliation |
+
+**Previous Iteration Comparison:**
+- V0 Correctness (norm): 0.86 → 0.86 (Δ 0.00)
+- V1 Correctness (norm): 0.87 → 0.87 (Δ 0.00)
+- V2 Correctness (norm): 0.85 → 0.85 (Δ 0.00)
+- V0 Grounding (norm): 0.74 → 0.76 (Δ +0.02)
+- V1 Grounding (norm): 0.76 → 0.75 (Δ -0.01)
+- V2 Grounding (norm): 0.74 → 0.74 (Δ 0.00)
+- V0 Hallucination Rate: 17% → 17% (Δ 0)
+- V1 Hallucination Rate: 13% → 12% (Δ -1 pt)
+- V2 Hallucination Rate: 19% → 20% (Δ +1 pt)
+
+**Baseline Comparison (Cumulative):**
+- V0 Correctness (norm): baseline 0.86 → current 0.86 (Δ 0.00)
+- V1 Correctness (norm): baseline 0.87 → current 0.87 (Δ 0.00)
+- V2 Correctness (norm): baseline 0.82 → current 0.85 (Δ +0.03)
+
+**Change Decision:** `decisions/2026-07-07_change_preprocessing_mixed_support_source_quote_reconciliation.md`
+
+**Qualitative Observations:**
+- The 2026-07-04 instruction update made responses tighter to the retrieved text, but the low-grounding pattern is broader than snow chains.
+- Questions such as child seating, seatbelt reminder, fuel gauge, battery warning, door ajar, powertrain fault, Auto Hold, the oil-life monitor, and the automatic transmission fluid interval still sit at grounding 3 or below in one or more versions.
+- Q64 and Q67 still look like mixed-support questions that should be re-baselined against the manual's general snow-chain guidance, while horsepower, firmware, and the manual override question remain true unsupported-spec failures.
+- The next iteration should separate source-quote gaps from strict refusal behavior before changing the instructions again.
+
+**Next Iteration:** Rebaseline the low-grounding rows whose answers still go beyond the source quote, keep the unsupported-spec refusal path strict for truly absent details, and rerun after the benchmark split is cleaned up before revisiting factual and table drift.
+
+---
+
 ## Template for Future Iterations
 
 | Run ID | Date | Versions | Change Category | Change Description |

@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-This run is the first one with a clear version-level gain: V2 improves on correctness, grounding, and hallucination rate in a way that is larger than normal run-to-run wobble. V0 is mostly flat with a small hallucination increase, and V1 is also mostly flat with a small grounding improvement and lower hallucination rate. Q59 is now stable across all three versions and should be treated as a locked invalid/guardrail probe rather than a moving benchmark row.
+This run is the first one with a clear version-level gain: V2 improves on correctness, grounding, and hallucination rate in a way that is larger than normal run-to-run wobble. V0 is roughly flat with a small hallucination increase, and V1 is also roughly flat with a small grounding improvement and lower hallucination rate. Q59 is now stable across all three versions and should be treated as a locked invalid/guardrail probe rather than a moving benchmark row.
 
 The remaining weak points are unchanged in shape, even though their severity shifted a bit. Factual rows are still the weakest category across all agents because the answers keep elaborating beyond the retrieved text, unsupported-spec invalid prompts still trigger hallucinations on horsepower, winter tire, and firmware questions, and V2 table rows still lag procedural rows even after improving this run.
 
@@ -90,9 +90,9 @@ The remaining weak points are unchanged in shape, even though their severity shi
 
 ## Per-Version Summary
 
-**V0:** Essentially flat overall. The run gained a little correctness but lost a little grounding and picked up a higher hallucination rate. Procedural rows are still strong, but factual rows are more brittle than before.
+**V0:** Roughly flat overall. The run gained a little correctness but lost a little grounding and picked up a higher hallucination rate. Procedural rows are still strong, but factual rows are more brittle than before.
 
-**V1:** Also mostly flat overall. Grounding improved slightly and hallucination dropped slightly, but the automatic-transmission-fluid interval row regressed sharply. That makes the run mixed rather than cleanly improved.
+**V1:** Also roughly flat overall. Grounding improved slightly and hallucination dropped slightly, but the automatic-transmission-fluid interval row regressed sharply. That makes the run mixed rather than cleanly improved.
 
 **V2:** The clear winner in this run. It improved on correctness, grounding, and hallucination rate, driven mostly by factual rows and some table cleanup. Even so, table and unsupported-spec invalid rows remain the main unresolved weaknesses.
 

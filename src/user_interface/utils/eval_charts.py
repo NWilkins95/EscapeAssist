@@ -41,13 +41,18 @@ def show_trend_charts(trend_frame, versions):
                     title="successive run",
                     axis=alt.Axis(values=run_ticks, format="d"),
                 ),
-                y=alt.Y(f"{metric}:Q", title="score", scale=alt.Scale(domain=[0, 1])),
+                y=alt.Y(
+                    f"{metric}:Q",
+                    title="score",
+                    scale=alt.Scale(domain=[0, 1]),
+                    axis=alt.Axis(format=".0%") if metric == "hallucination" else alt.Axis(format=".2f"),
+                ),
                 color=alt.Color("agent_version:N", scale=alt.Scale(domain=versions), title="agent_version"),
                 tooltip=[
                     alt.Tooltip("agent_version:N", title="agent_version"),
                     alt.Tooltip("run_index:Q", title="run_index"),
                     alt.Tooltip("run_id:N", title="run_id"),
-                    alt.Tooltip(f"{metric}:Q", title=title, format=".3f"),
+                    alt.Tooltip(f"{metric}:Q", title=title, format=".0%") if metric == "hallucination" else alt.Tooltip(f"{metric}:Q", title=title, format=".2f"),
                 ],
             )
             .properties(height=260)
@@ -93,13 +98,13 @@ def show_question_type_bar_charts(question_type_frame, versions):
                     f"{metric}:Q",
                     title="score",
                     scale=alt.Scale(domain=[0, 1]),
-                    axis=alt.Axis(format=".0%"),
+                    axis=alt.Axis(format=".0%") if metric == "hallucination" else alt.Axis(format=".2f"),
                 ),
                 color=alt.Color("agent_version:N", scale=alt.Scale(domain=versions), title="agent_version"),
                 tooltip=[
                     alt.Tooltip("question_type:N", title="question type"),
                     alt.Tooltip("agent_version:N", title="agent_version"),
-                    alt.Tooltip(f"{metric}:Q", title=title, format=".1%"),
+                    alt.Tooltip(f"{metric}:Q", title=title, format=".0%") if metric == "hallucination" else alt.Tooltip(f"{metric}:Q", title=title, format=".2f"),
                 ],
             )
             .properties(height=260)
