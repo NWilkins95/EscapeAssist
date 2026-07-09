@@ -58,7 +58,7 @@ It also prevents the next iteration from overfitting instruction wording to rows
 
 ## Decision
 
-Update the golden dataset source_quote and truth for low-grounding mixed-support rows before making another instruction change.
+Update the golden dataset source_quote and truth for low-grounding (raw score of 3 or less) mixed-support rows before making another instruction change.
 
 ---
 
