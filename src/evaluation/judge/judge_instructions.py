@@ -53,7 +53,7 @@ Unsupported but meaningful additions:
 
 Unsafe or contradictory additions:
 - If the answer gives unsafe mechanical advice or contradicts the Source Quote, reduce Correctness and Grounding more aggressively and set Hallucination to true.
-  Example: telling the user to keep an overheating engine running or to perform coolant checks not supported by the manual.
+  Example: telling the user to keep an overheating engine running or to take extra mechanical steps that are not in the Source Quote.
 
 Invalid questions:
 - If the Question Type is invalid, the expected answer should refuse or state that the information is not provided.
