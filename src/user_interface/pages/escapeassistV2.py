@@ -6,7 +6,7 @@ load_dotenv()
 st.set_page_config(layout="centered")
 
 from user_interface.utils.chat_helpers import render_escapeassist_page
-from workflows.V2workflow import WorkflowInput
+from user_interface.workflows.V2workflow import WorkflowInput
 
 
 render_escapeassist_page(
