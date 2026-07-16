@@ -156,6 +156,46 @@ A chronological record of all system testing iterations, changes made, and compa
 
 ---
 
+## Iteration 5
+
+| Run ID | Date | Versions | Change Category | Change Description |
+|--------|------|----------|-----------------|-------------------|
+| iter-005 | 2026-07-11 | V0 / V1 / V2 | benchmark / preprocessing validation | corrected golden dataset rerun and plateau confirmation |
+
+**Previous Iteration Comparison:**
+- V0 Correctness (norm): 0.86 → 0.87 (Δ +0.01)
+- V1 Correctness (norm): 0.87 → 0.89 (Δ +0.02)
+- V2 Correctness (norm): 0.85 → 0.86 (Δ +0.01)
+- V0 Grounding (norm): 0.76 → 0.78 (Δ +0.02)
+- V1 Grounding (norm): 0.75 → 0.77 (Δ +0.02)
+- V2 Grounding (norm): 0.74 → 0.78 (Δ +0.04)
+- V0 Hallucination Rate: 17% → 16% (Δ -1 pt)
+- V1 Hallucination Rate: 12% → 13% (Δ +1 pt)
+- V2 Hallucination Rate: 20% → 17% (Δ -3 pts)
+
+**Baseline Comparison (Cumulative):**
+- V0 Correctness (norm): baseline 0.86 → current 0.87 (Δ +0.01)
+- V1 Correctness (norm): baseline 0.87 → current 0.89 (Δ +0.02)
+- V2 Correctness (norm): baseline 0.82 → current 0.86 (Δ +0.04)
+- V0 Grounding (norm): baseline 0.75 → current 0.78 (Δ +0.03)
+- V1 Grounding (norm): baseline 0.75 → current 0.77 (Δ +0.02)
+- V2 Grounding (norm): baseline 0.71 → current 0.78 (Δ +0.07)
+- V0 Hallucination Rate: baseline 13% → current 16% (Δ +3 pts)
+- V1 Hallucination Rate: baseline 13% → current 13% (Δ 0)
+- V2 Hallucination Rate: baseline 22% → current 17% (Δ -5 pts)
+
+**Change Decision:** `decisions/2026-07-07_change_preprocessing_mixed_support_source_quote_reconciliation.md`
+
+**Qualitative Observations:**
+- The corrected golden dataset produced the clearest lift so far, especially on V2 grounding and the invalid-question bucket.
+- Q59 is stable across all three versions, and the snow-chain rows now behave much more like benchmarked mixed-support items than random refusal noise.
+- The remaining misses are concentrated in retrieval-bound factual/table elaboration and a smaller set of true unsupported-spec failures.
+- The run confirms that prompt and benchmark cleanup have reached diminishing returns under the current black-box retrieval setup.
+
+**Next Iteration:** Stop expecting meaningful gains from prompt or preprocessing changes alone; any further improvement will require access to influence retrieval.
+
+---
+
 ## Template for Future Iterations
 
 | Run ID | Date | Versions | Change Category | Change Description |
@@ -183,20 +223,25 @@ A chronological record of all system testing iterations, changes made, and compa
 
 ## Summary & Conclusions
 
-*To be completed after iterations plateau or stop.*
+The system has effectively plateaued under the current black-box retrieval boundary. The corrected golden dataset improved the benchmark signal, and the latest run shows real gains in correctness, grounding, and overall hallucination rate versus baseline, but the remaining misses are now mostly retrieval-bound or tied to genuinely unsupported specs.
 
-**Total Iterations:** TBD  
-**Total Time:** TBD  
+**Total Iterations:** 5  
 **Final Performance Lift:**
-- V0: baseline → final (Δ)
-- V1: baseline → final (Δ)
-- V2: baseline → final (Δ)
+- V0: baseline 0.86 / 0.75 / 13% → final 0.87 / 0.78 / 16%
+- V1: baseline 0.87 / 0.75 / 13% → final 0.89 / 0.77 / 13%
+- V2: baseline 0.82 / 0.71 / 22% → final 0.86 / 0.78 / 17%
 
 **Most Impactful Changes:**
-1. TBD
-2. TBD
-3. TBD
+1. Corrected golden dataset and mixed-support row rebaselining
+2. Unsupported-spec refusal tightening
+3. Low-grounding source-quote reconciliation
 
-**Remaining Known Issues:** TBD
+**Remaining Known Issues:**
+- Retrieval-bound factual and table elaboration
+- A small set of true unsupported-spec failures
+- Black-box retrieval prevents the next meaningful step
 
-**Lessons Learned:** TBD
+**Lessons Learned:**
+- Benchmark cleanup matters as much as instruction wording for these runs.
+- Normalized metrics are the right comparison basis for judging whether a change is real.
+- Further accuracy gains now require influence over retrieval, not more local prompt tuning.
