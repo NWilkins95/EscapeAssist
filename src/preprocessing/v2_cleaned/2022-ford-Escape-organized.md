@@ -1,0 +1,14174 @@
+owner.ford.com
+
+ford.ca
+
+September 2021 First Printing Litho in U.S.A.
+
+## 2022 ESCAPE Owner's Manual
+
+The information contained in this publication was correct at the time of going to print. In the interest of continuous development, we reserve the right to change specifications, design or equipment at any time without notice or obligation. No part of this publication may be reproduced, transmitted, stored in a retrieval system or translated into any language in any form by any means without our written permission. Errors and omissions excepted.
+
+© Ford Motor Company 2021
+
+All rights reserved.
+
+Part Number: 20210825141848
+
+## Contacting Us
+
+If you require assistance or clarification on policies or procedures, please contact the customer relationship center.
+
+### United States
+
+Ford Motor Company Customer Relationship Center  
+PO Box 6248  
+Dearborn, MI 48126  
+1-800-392-3673 (FORD)  
+TDD for the hearing impaired: 7-1-1 (where offered by your telephone service provider)  
+www.ford.com/help/contact/
+
+### Ford Credit - US Only
+
+Ford Credit offers a full range of financing and lease plans to help you acquire your vehicle. If you have financed or leased your vehicle through Ford Credit, thank you for your business.
+
+For assistance call 1-800-727-7000, or for more information about Ford Credit and access to an account manager, visit www.ford.com/finance.
+
+### Canada
+
+Customer Relationship Center  
+Ford Motor Company of Canada Limited  
+P.O. Box 2000  
+Oakville, Ontario L6J 5E4  
+1-800-565-3673 (FORD)  
+TDD for the hearing impaired: 7-1-1 (where offered by your telephone service provider)  
+www.ford.ca  
+Facebook: FordServiceCA (English), FordServiceQC (Francais)
+
+### Australia
+
+Ford Motor Company  
+Attention: Customer Relationship Centre  
+Private Mail Bag 5  
+Fairlane Business Park #3  
+Campbellfield, Victoria, 3061  
+Telephone: 13 3673 (FORD)  
+E-mail: foacust1@ford.com
+
+### New Zealand
+
+Ford Motor Company  
+Attention: Customer Relationship Centre  
+Private Bag 76912  
+Manukau City 2241  
+Telephone: 0800 367 369 (FORDNZ)  
+E-mail: fnzcust@ford.com
+
+### China - Imported Vehicle
+
+Customer Relationship Center  
+Telephone: 400-690-1886  
+Website: https://www.ford.com.cn/
+
+### China - Chang'An Ford
+
+Customer Relationship Center  
+Telephone: 800-810-8168  
+Mobile: 400-887-7766  
+Website: https://www.ford.com.cn/
+
+### Asia Pacific
+
+E-mail: expcac@ford.com
+
+### Caribbean, Central America and Israel
+
+Ford Motor Company  
+Ford Export Operations  
+Attention: Owner Relations  
+1555 Fairlane Drive  
+Fairlane Business Park #3  
+Allen Park, MI 48101  
+Fax: (313) 390-0804  
+Telephone: (313) 594-4857  
+E-mail: expcac@ford.com
+
+### U.S. Virgin Islands and Puerto Rico
+
+Ford Motor Company  
+Ford Export Operations  
+Attention: Owner Relations  
+1555 Fairlane Drive  
+Fairlane Business Park #3  
+Allen Park, MI 48101  
+Telephone: (800) 841-3673  
+E-mail: prcac@ford.com
+
+### Argentina
+
+Telephone: 0800-888-3673
+
+### Brazil
+
+www.ford.com.br
+
+### North Africa
+
+E-mail: nafcrc@ford.com
+
+### Sub-Saharan Africa
+
+E-mail: ssacrc@ford.com
+
+### Puerto Rico
+
+Ford International Business Development, Inc.  
+P.O. Box 11957  
+Caparra Heights Station  
+San Juan, PR 00922-1957  
+1-800-392-3673 (FORD)  
+Fax: (313) 390-0804  
+E-mail: prcac@ford.com  
+www.ford.com.pr
+
+### Middle East
+
+Ford Middle East Customer Relationship Center  
+P.O. Box 21740  
+Dubai, United Arab Emirates  
+Telephone: 80004441066  
+Toll-free number for the Kingdom of Saudi Arabia: 8008443673  
+Mobily and Zain cell phone users in Saudi Arabia: 800850078  
+Kuwait: 22280384  
+Local telephone number for Kuwait: +965 1 898900  
+Fax: +971 4 3327266  
+E-mail: menacac@ford.com  
+www.me.ford.com
+
+### South Korea
+
+Telephone: +82-02-1600-6003  
+E-mail: infokr1@ford.com
+
+## Features and Options
+
+This publication describes product features and options available throughout the range of available models, sometimes even before they are generally available. It could describe options that are not available on the vehicle you have purchased.
+
+## Illustrations
+
+Some of the illustrations in this publication could show features as used in different models, so they could appear different to you on your vehicle.
+
+## Location of Components
+
+This manual may qualify the location of a component as left-hand side or right-hand side. The side is determined when facing forward in the seat.
+
+E154903
+
+- Right-hand side. A
+- Left-hand side. B
+
+## USING THIS PUBLICATION
+
+To quickly locate information about your vehicle, use the word search within the Owner's Manual application.
+
+## Symbols Glossary
+
+### SYMBOLS USED ON YOUR VEHICLE
+
+These are some of the symbols you may see on your vehicle.
+
+- Air conditioning system  
+- Air conditioning system lubricant type  
+- Anti-lock braking system  
+- Avoid smoking, flames or sparks  
+- Battery  
+- Battery acid  
+- Brake fluid - non petroleum based  
+- Brake system  
+- Cabin air filter  
+- Check fuel cap  
+- Child safety door lock or unlock  
+- Child seat lower anchor  
+- Child seat tether anchor  
+- Cruise control  
+- Do not open when hot  
+- Electric Parking brake  
+- Engine air filter  
+- Engine coolant  
+- Engine coolant temperature  
+- Engine oil  
+- Explosive gas  
+- Fan warning  
+- Fasten seatbelt  
+- Flammable  
+- Airbag  
+- Front fog lamps  
+- Fuel pump reset  
+
+### Symbols Glossary
+
+- Fuse compartment  
+- Hazard flashers  
+- Heated rear window  
+- Windshield defrosting system  
+- Interior luggage compartment release  
+- Jack  
+- E161353  
+- Keep out of reach of children  
+- Lighting control  
+- Low tire pressure warning  
+- Maintain correct fluid level  
+- Note operating instructions  
+- E270945  
+- Horn control  
+- Panic alarm  
+- E139213  
+- Parking aid  
+- E270849  
+- Passenger airbag activated  
+- E270850  
+- Passenger airbag deactivated  
+- Power steering fluid  
+- Power windows front/rear  
+- Power window lockout  
+- E231159  
+- Requires registered technician  
+- E65963  
+- Safety alert  
+- See Owner's Manual  
+- E231158
+## See Service Manual
+
+## Malfunction Indicator Lamp (MIL)
+
+- Side airbag
+- Shield the eyes
+- E138639
+- Stability control
+- E163171
+- Hill descent control
+- E332910
+- Trail control
+- E270969
+- Windshield wiping system
+
+## Data Privacy
+
+WARNING: Do not connect wireless plug-in devices to the data link connector. Unauthorized third parties could gain access to vehicle data and impair the performance of safety related systems. Only allow repair facilities that follow our service and repair instructions to connect their equipment to the data link connector.
+
+We respect your privacy and are committed to protecting it. The information contained in this publication was correct at the time of release, but as technology rapidly changes, we recommend that you visit the local Ford website for the latest information.
+
+Your vehicle has electronic control units that have data recording functionality and the ability to permanently or temporarily store data. This data could include information on the condition and status of your vehicle, vehicle maintenance requirements, events and malfunctions. The types of data that can be recorded are described in this section. Some of the data recorded is stored in event logs or error logs.
+
+Note: Error logs are reset following a service or repair.
+
+Note: We may provide information in response to requests from law enforcement, other government authorities and third parties acting with lawful authority or through a legal process. Such information could be used by them in legal proceedings.
+
+Data recorded includes, for example:
+
+- Operating states of system components, for example fuel level, tire pressure and battery charge level.
+- Vehicle and component status, for example wheel speed, deceleration, lateral acceleration and seatbelt status.
+- Events or errors in essential systems, for example headlamps and brakes.
+- System responses to driving situations, for example airbag deployment and stability control.
+- Environmental conditions, for example temperature.
+
+Some of this data, when used in combination with other information, for example an accident report, damage to a vehicle or eyewitness statements, could be associated with a specific person.
+
+## Services That We Provide
+
+If you use our services, we collect and use data, for example account information, vehicle location and driving characteristics, that could identify you. We transmit this data through a dedicated, protected connection. We only collect and use data to enable your use of our services to which you have subscribed, with your consent or where permitted by law. For additional information, see the terms and conditions of the services to which you have subscribed.
+
+For additional information about our privacy policy, refer to the local Ford website.
+
+## Services That Third Parties Provide
+
+We recommend that you review the terms and conditions and data privacy information for any services equipped with your vehicle or to which you subscribe. We take no responsibility for services that third parties provide.
+
+## SERVICE DATA
+
+Service data recorders in your vehicle are capable of collecting and storing diagnostic information about your vehicle. This potentially includes information about the performance or status of various systems and modules in the vehicle, such as engine, throttle, steering or brake systems. In order to properly diagnose and service your vehicle, Ford Motor Company (Ford of Canada in Canada), and service and repair facilities may access or share among them vehicle diagnostic information received through a direct connection to your vehicle when diagnosing or servicing your vehicle. Additionally, Ford Motor Company (Ford of Canada, in Canada) may, where permitted by law, use vehicle diagnostic information for vehicle improvement or with other information we may have about you, for example, your contact information, to offer you products or services that may interest you. Data may be provided to our service providers such as part suppliers that may help diagnose malfunctions, and who are similarly obligated to protect data. We retain this data only as long as necessary to perform these functions or to comply with law. We may provide information where required in response to official requests to law enforcement or other government authorities or third parties acting with lawful authority or court order, and such information may be used in legal proceedings. For U.S. only (if equipped), if you choose to use connected apps and services, you consent that certain diagnostic information may also be accessed electronically by Ford Motor Company and Ford authorized service facilities, and that the diagnostic information may be used to provide services to you, personalizing your experience, troubleshoot, and to improve products and services and offer you products and services that may interest you, where permitted by law. For Canada only, for more information, please review the Ford of Canada privacy policy at www.ford.ca, including our U.S. data storage and use of service providers in other jurisdictions who may be subject to legal requirements in Canada, the United States and other countries applicable to them, for example, lawful requirements to disclose personal information to governmental authorities in those countries.
+
+## EVENT DATA
+
+This vehicle is equipped with an event data recorder. The main purpose of an event data recorder is to record, in certain crash or near crash-like situations, such as an airbag deployment or hitting a road obstacle; this data will assist in understanding how a vehicle's systems performed. The event data recorder is designed to record data related to vehicle dynamics and safety systems for a short period of time, typically 30 seconds or less.
+
+The event data recorder in this vehicle is designed to record such data as:
+
+- How various systems in your vehicle were operating.
+- Whether or not the driver and passenger seatbelts were buckled/fastened.
+- How far (if at all) the driver was depressing the accelerator and/or the brake pedal.
+- How fast the vehicle was traveling.
+- Where the driver was positioning the steering wheel.
+
+This data can help provide a better understanding of the circumstances in which crashes and injuries occur.
+
+## Data Privacy
+
+Note: Event data recorder data is recorded by your vehicle only if a non-trivial crash situation occurs; no data is recorded by the event data recorder under normal driving conditions and no personal data or information (for example name, gender, age, and crash location) is recorded. However, parties, such as law enforcement, could combine the event data recorder data with the type of personally identifying data routinely acquired during a crash investigation.
+
+To read data recorded by an event data recorder, special equipment is required, and access to the vehicle or the event data recorder is needed. In addition to the vehicle manufacturer, other parties, such as law enforcement, that have such special equipment, can read the information if they have access to the vehicle or the event data recorder.
+
+## SETTINGS DATA
+
+Your vehicle has electronic control units that have the ability to store data based on your personalized settings. The data is stored locally in the vehicle or on devices that you connect to it, for example, a USB drive or digital music player. You can delete some of this data and also choose whether to share it through the services to which you subscribe. See Settings (page 464).
+
+## Comfort and Convenience Data
+
+Data recorded includes, for example:
+
+- Seat and steering wheel position.
+- Climate control settings.
+- Radio presets.
+
+## Entertainment Data
+
+Data recorded includes, for example:
+
+- Music, videos or album art.
+- Contacts and corresponding address book entries.
+- Navigation destinations.
+## CONNECTIVITY AND DATA
+
+sends messages to stay connected to the cell phone network, receive automatic software updates and send vehicle-related information to us, for example diagnostic information. These messages could include information that identifies your vehicle, the SIM and the electronic serial number of the modem. Cell phone network service providers could have access to additional information, for example cell phone network tower identification. For additional information about our privacy policy, visit www.FordConnected.com or refer to your local Ford website.
+
+Note: The modem continues to send this information unless you disable the modem or stop the modem from sharing vehicle data by changing the modem settings. See Connected Vehicle (page 405).
+
+Note: The service can be unavailable or interrupted for a number of reasons, for example environmental or topographical conditions and data plan coverage.
+
+Note: To find out if your vehicle has a modem, visit www.FordConnected.com.
+
+## MOBILE DEVICE DATA
+
+If you connect a mobile device to your vehicle, you can display data from your device on the touchscreen for example, music and album art. You can share your vehicle data with mobile apps on your device through the system. See Apps (page 462).
+
+The mobile apps function operates by your connected device sending data to us in the United States. The data is encrypted and includes, for example, the vehicle identification number of your vehicle, the SYNC module serial number, odometer, enabled apps, usage statistics and debugging information. We retain it only as long as necessary to provide the service, to troubleshoot, for continuous improvement and to offer you products and services that may be of interest to you according to your preferences and where allowed by law.
+
+If you connect a cell phone to the system, the system creates a profile that links to that cell phone. The cell phone profile enables more mobile features and efficient operation. The profile contains, for example data from your phonebook, read and unread text messages and call history, including history of calls when your cell phone was not connected to the system.
+
+If you connect a media device, the system creates and retains a media device index of supported media content. The system also records a short diagnostic log of approximately 10 minutes of all recent system activity.
+
+The cell phone profile, media device index and diagnostic log remain in your vehicle unless you delete them and are generally accessible only in your vehicle when you connect your cell phone or media device. If you no longer plan to use the system or your vehicle, we recommend you use the master reset function to erase the stored information. See Settings (page 464).
+
+System data cannot be accessed without special equipment and access to your vehicle's module.
+
+For additional information about our privacy policy, refer to the local Ford website.
+
+Note: To find out if your vehicle has connectivity technology, visit www.FordConnected.com.
+
+## EMERGENCY CALL SYSTEM DATA
+
+When the emergency call system is active, it may disclose to emergency services that your vehicle has been in a crash involving the deployment of an airbag or activation of the fuel pump shut-off. Certain versions or updates to the emergency call system may also be capable of electronically or verbally disclosing to emergency services operators your vehicle location or other details about your vehicle or crash to assist emergency services operators to provide the most appropriate emergency services. If you do not want to disclose this information, do not activate the emergency call system.
+
+Note: You cannot deactivate emergency call systems that are required by law.
+
+## INSTRUMENT PANEL
+
+- Air vents. A
+- Direction indicators. See Overriding Automatic High Beam Control (page 102). B
+- Cruise controls. See What Is Cruise Control (page 242). C
+- Information display controls and audio controls. See Using the Instrument Cluster Display Controls (page 123). See Muting the Audio (page 411). E
+- Information Display. See Instrument Cluster Overview (page 113). D
+- Wiper lever. See Switching Windshield Wipers On and Off (page 92). F
+- Touchscreen display. G
+- Audio unit controls. See Playing or Pausing the Audio Source (page 410). H
+- Passenger airbag deactivation indicator. See Crash Sensors and Airbag Indicator (page 54). J
+- Hazard flasher. See Switching the Hazard Flashers On and Off (page 310). I
+- Glove compartment. K
+- Climate controls. See Automatic Climate Control (page 141). L
+- Push button ignition switch. See Push Button Ignition Switch (page 172). M
+
+## At a Glance
+
+- Horn. N
+- Steering wheel adjustment. See Adjusting the Steering Wheel (page 91). O
+- Lighting control. See Exterior Lighting Control (page 97). P
+
+## CHILD SAFETY PRECAUTIONS
+
+WARNING: Always make sure your child is secured properly in a device that is appropriate for their height, age and weight. Child safety restraints must be bought separately from your vehicle. Failure to follow these instructions and guidelines may result in an increased risk of serious injury or death to your child.
+
+WARNING: All children are shaped differently. The National Highway Traffic Safety Administration and other safety organizations, base their recommendations for child restraints on probable child height, age and weight thresholds, or on the minimum requirements of the law. We recommend that you check with a NHTSA Certified Child Passenger Safety Technician (CPST) to make sure that you properly install the child restraint in your vehicle and that you consult your pediatrician to make sure you have a child restraint appropriate for your child. To locate a child restraint fitting station and CPST, contact NHTSA toll free at 1-888-327-4236 or go to www.nhtsa.dot.gov. In Canada, contact Transport Canada toll free at 1-800-333-0371 or go to www.tc.gc.ca to find a Child Car Seat Clinic in your area. Failure to properly restrain children in child restraints made especially for their height, age and weight, may result in an increased risk of serious injury or death to your child.
+
+WARNING: On hot days, the temperature inside the vehicle can rise very quickly. Exposure of people or animals to these high temperatures for even a short time can cause death or serious heat related injuries, including brain damage. Small children are particularly at risk.
+
+WARNING: Do not place a rearward facing child restraint in front of an active airbag. Failure to follow this instruction could result in personal injury or death.
+
+WARNING: Properly secure children 12 years old and under in a rear seating position whenever possible. If you are unable to properly secure all children in a rear seating position, properly secure the largest child on the front seat. If you must use a forward facing child restraint on the front seat, move the seat as far back as possible. Failure to follow these instructions could result in personal injury or death.
+
+WARNING: Always carefully follow the instructions and warnings provided by the manufacturer of any child restraint to determine if the restraint device is appropriate for your child's size, height, weight, or age. Follow the child restraint manufacturer's instructions and warnings provided for installation and use in conjunction with the instructions and warnings provided by your vehicle manufacturer. A safety seat that is improperly installed or utilized, is inappropriate for your child's height, age, or weight or does not properly fit the child may increase the risk of serious injury or death.
+
+## Child Safety
+
+WARNING: Do not allow a passenger to hold a child on their lap when your vehicle is moving. Failure to follow this instruction could result in personal injury or death in the event of a sudden stop or crash.
+WARNING: Do not use pillows, books or towels to boost your child's height. Failure to follow this instruction could result in personal injury or death.
+
+WARNING: Properly secure child restraints or booster seats when they are not in use. They could become projectiles in a sudden stop or crash. Failure to follow this instruction could result in personal injury or death.
+
+WARNING: Do not put the shoulder section of the seatbelt or allow the child to put the shoulder section of the seatbelt under their arm or behind their back. Failure to follow this instruction could reduce the effectiveness of the seatbelt and increase the risk of injury or death in a crash.
+
+WARNING: Do not leave children or pets unattended in your vehicle. Failure to follow this instruction could result in personal injury or death.
+
+## INSTALLING CHILD RESTRAINTS
+
+### When installing a child restraint with seatbelts:
+
+- Place the vehicle seat in the upright position before you install the child restraint.
+- Use the correct seatbelt buckle for that seating position.
+- Insert the belt tongue into the buckle. Make sure the tongue is securely fastened in the buckle.
+- Keep the buckle release button pointing up and away from the child restraint, with the tongue between the child restraint and the release button, to prevent accidental unbuckling.
+- Put the seatbelt in the automatic locking mode.
+
+### USING SEATBELTS
+
+WARNING: Depending on where you secure a child restraint, and depending on the child restraint design, you may block access to certain seatbelt buckle assemblies and LATCH lower anchors, rendering those features potentially unusable. To avoid risk of injury, make sure occupants only use seating positions where they are able to be properly restrained.
+
+Note: Although the child restraint illustrated is a forward-facing child restraint, the steps are the same for installing a rear-facing child restraint.
+
+Perform the following steps when installing the child restraint with seatbelts:
+
+1. Position the child restraint in a seat with a seatbelt.
+2. After positioning the child restraint in the proper seating position, pull down on the shoulder belt and then grasp the shoulder belt and lap belt together behind the belt tongue.
+3. While holding the shoulder and lap belt portions together, route the tongue through the child restraint according to the child restraint manufacturer's instructions. Make sure that you did not twist the belt webbing.
+4. Insert the belt tongue into the proper buckle (the buckle closest to the direction the tongue is coming from) for that seating position until you hear a snap and feel the latch engage. Make sure the tongue is latched securely by pulling on it.
+5. To put the retractor in the automatic locking mode, grasp the shoulder portion of the belt and pull downward until you pull all of the belt out.
+
+Note: The automatic locking mode is available on the front passenger and rear seats.
+
+6. Allow the belt to retract to remove slack. The belt clicks as it retracts to indicate it is in the automatic locking mode.
+
+## CHILD RESTRAINT ANCHOR POINTS
+
+### WHAT ARE THE CHILD RESTRAINT ANCHOR POINTS
+
+Anchor points allow you to quickly and safely install a child restraint.
+
+### LOCATING THE CHILD RESTRAINT LOWER ANCHOR POINTS
+
+E316405
+
+### LOCATING THE CHILD RESTRAINT TOP TETHER ANCHOR POINTS
+
+3 6
+
+E 1 413
+
+## CHILD RESTRAINTS
+
+### CHILD RESTRAINT POSITION INFORMATION
+
+Install the child restraint tightly against the vehicle seat. It may be necessary to lift or remove the head restraint.
+
+### CHILD RESTRAINTS RECOMMENDATION
+
+| Child Size, Height, Weight, or Age                                                                                                                                                                                                                                                                     | Recommended Restraint Type                                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Children weighing 40 lb (18 kg) or less (generally age four or younger).                                                                                                                                                                                                                           | Use a child restraint (sometimes called an infant carrier, convertible seat, or toddler seat).                                                         |
+| Children who have outgrown or no longer properly fit in a child restraint (generally children who are less than 57 in (1.45 m) tall, are greater than age four and less than age 12, and between 40 lb (18 kg) and 80 lb (36 kg) and upward to 100 lb (45 kg) if recommended by your child restraint manufacturer). | Use a belt-positioning booster seat.                                                                                                                  |
+| Children who have outgrown or no longer properly fit in a belt-positioning booster seat (generally children who are at least 57 in (1.45 m) tall or greater than 80 lb (36 kg) or 100 lb (45 kg) if recommended by child restraint manufacturer).                                                             | Use a vehicle seatbelt having the lap belt snug and low across the hips, shoulder belt centered across the shoulder and chest, and seat backrest upright. |
+
+You are required by law to properly use child restraints for infants and toddlers in the United States, Canada, and Mexico.
+
+Many states and provinces require that small children use approved booster seats until they reach age eight, a height of 57 in (1.45 m) tall, or 80 lb (36 kg). Check your local and state or provincial laws for specific requirements about the safety of children in your vehicle.
+
+When possible, properly restrain children 12 years of age and under in a rear seating position of your vehicle. Accident statistics suggest that children are safer when properly restrained in the rear seating positions than in a front seating position.
+
+When installing a rear facing child restraint, adjust the vehicle seats to avoid interference between the child restraint and the vehicle seat in front of the child restraint.
+
+## Rear Facing Child Restraints
+
+| Combined Weight of Child and Child Restraint | LATCH (Lower Anchors Only) | Seatbelt Only |
+|-----------------------------------------------|-----------------------------|----------------|
+| Up to 65 lb (29 kg)                          | X                           | X              |
+| Over 65 lb (29 kg)                           |                             | X              |
+
+## Forward Facing Child Restraints
+
+| Combined Weight of Child and Child Restraint | LATCH (Lower Anchors and Top Tether Anchor) | Seatbelt and Top Tether Anchor | Seatbelt and LATCH (Lower Anchors and Top Tether Anchor) |
+|-----------------------------------------------|----------------------------------------------|-------------------------------|---------------------------------------------------------|
+| Up to 65 lb (29 kg)                          | X                                            | X                             | X                                                       |
+| Over 65 lb (29 kg)                           |                                              | X                             | X                                                       |
+## INSTALLING A CHILD RESTRAINT
+
+1. Try to pull the belt out of the retractor to make sure the retractor is in the automatic locking mode. You should not be able to pull more belt out. If the retractor did not lock, unbuckle the belt and repeat Steps 5 and 6.
+
+2. Remove remaining slack from the belt. Force the seat down with extra weight, for example, by pressing down or kneeling on the child restraint while pulling up on the shoulder belt in order to force slack from the belt. This is necessary to remove the remaining slack that exists once you add the extra weight of the child to the child restraint. It also helps to achieve the proper snugness of the child restraint to your vehicle. Sometimes, a slight lean toward the buckle will provide extra help to remove remaining slack from the belt.
+
+3. If the child restraint has a tether strap, attach it.
+
+4. Before placing the child in the seat, forcibly move the seat forward and back to make sure the seat is securely held in place. To check this, grab the seat at the belt path and attempt to move it side to side and forward and back. There should be no more than 1 in (2.5 cm) of movement.
+
+We recommend checking with a NHTSA Certified Child Passenger Safety Technician to make certain the child restraint is properly installed. In Canada, check with Transport Canada for referral to a Child Car Seat Clinic.
+
+## USING LOWER ANCHORS AND TETHERS FOR CHILDREN
+
+WARNING: Do not attach two child safety restraints to the same anchor. In a crash, one anchor may not be strong enough to hold two child safety restraint attachments and may break, causing serious injury or death.
+
+WARNING: Depending on where you secure a child restraint, and depending on the child restraint design, you may block access to certain seatbelt buckle assemblies and LATCH lower anchors, rendering those features potentially unusable. To avoid risk of injury, make sure occupants only use seating positions where they are able to be properly restrained.
+
+The LATCH (Lower Anchors and Tethers for CHildren) system has three vehicle anchor points.
+
+- Two lower anchors where the seat backrest and seat cushion meet, called the seat bight.
+- One top tether anchor behind that seating position.
+
+LATCH-compatible child restraints have two rigid or webbing mounted attachments that connect to the two lower anchors at the LATCH-equipped seating positions in your vehicle. This type of attachment method eliminates the need to use seatbelts to attach the child restraint.
+
+However, you can still use the seatbelt to attach the child restraint. For forward-facing child restraints, you must also attach the top tether strap to the proper top tether anchor if a top tether strap has been provided with your child restraint.
+
+Follow the instructions on attaching child restraints with tether straps.
+
+## INSTALLING A CHILD RESTRAINT IN A CENTER SEAT
+
+WARNING: The standardized spacing for LATCH lower anchors is 11 in (280 mm) center to center. Do not use LATCH lower anchors for the center seating position unless the child restraint manufacturer's instructions permit and specify using anchors spaced at least as far apart as those in this vehicle.
+
+The lower anchors at the center of the second row rear seat are spaced 18 in (46 cm) apart. You cannot install a child restraint with rigid LATCH attachments at the center seating position. You can only use LATCH compatible child restraints with attachments on belt webbing at this seating position provided that the child restraint manufacturer's instructions permit use with the anchor spacing stated. Do not attach a child restraint to any lower anchor if an adjacent child restraint is attached to that anchor.
+
+Each time you use the child restraint, check that the seat is properly attached to the lower anchors and tether anchor, if applicable. Tug the child restraint from side to side and forward and back where it is secured to your vehicle. The seat should move less than 1 in (2.5 cm).
+
+If you did not properly anchor the child restraint, the risk of a child being injured in a crash greatly increases.
+
+## COMBINING THE SEATBELT AND LOWER ANCHORS FOR ATTACHING CHILD RESTRAINTS
+
+When used in combination, you may attach either the seatbelt or the LATCH lower anchors first, provided a proper installation is achieved. Attach the tether strap afterward, if it is included with the child restraint.
+
+## USING TETHER STRAPS
+
+Many forward-facing child restraints include a tether strap which extends from the back of the child restraint and hooks to an anchoring point called the top tether anchor. Tether straps are available as an accessory for many older child restraints.
+
+Contact the manufacturer of your child restraint for information about ordering a tether strap, or to obtain a longer tether strap if the tether strap on your child restraint does not reach the appropriate top tether anchor in your vehicle.
+
+Once you install the child restraint using either the seatbelt, the lower anchors of the LATCH system, or both, you can attach the top tether strap.
+
+Perform the following steps to install a child restraint with tether anchors.
+
+Note: If you install a child restraint with rigid LATCH attachments, do not tighten the tether strap enough to lift the child restraint off your vehicle seat cushion when the child is seated in it. Keep the tether strap just snug without lifting the front of the child restraint. Keeping the child restraint just touching your vehicle seat gives the best protection in a severe crash.
+
+1. Route the child restraint tether strap over the back of the seat. For the outermost seating positions, route the tether strap under the head restraint and between the head restraint posts. For the center seating position, route the tether strap over the top of the head restraint. If needed, you can also remove the head restraints.
+
+2. Locate the correct anchor behind the gap cover for the selected seating position.
+
+3. Clip the tether strap to the anchor as shown.
+
+4. Tighten the child restraint tether strap according to the manufacturer's instructions.
+
+If your child restraint system has a tether strap, and the child restraint manufacturer recommends its use, we also recommend its use.
+
+## BOOSTER SEATS
+
+Use a belt-positioning booster seat for children who have outgrown or no longer properly fit in a child restraint and meet the following criteria.
+
+- Generally children who are less than 57 in (1.45 m) tall.
+- Are greater than age four (4) and less than age twelve (12).
+- Are between 40 lb (18 kg) and 80 lb (36 kg) and upward to 100 lb (45 kg).
+
+Many state and provincial laws require that children use approved booster seats until they reach age eight, a height of 57 in (1.45 m) tall, or 80 lb (36 kg).
+
+Booster seats should be used until you can answer yes to all of these questions when seated without a booster seat:
+
+- Can the child sit all the way back against their vehicle seat backrest with knees bent comfortably at the edge of the seat cushion?
+- Can the child sit without slouching?
+- Does the lap belt rest low across the hips?
+- Is the shoulder belt centered on the shoulder and chest?
+- Can the child stay seated like this for the whole trip?
+
+Always use booster seats in conjunction with your vehicle lap and shoulder belt.
+
+## Types of Booster Seats
+
+- Backless booster seats
+
+If your backless booster seat has a removable shield, remove the shield.
+
+If a vehicle seating position has a low seat backrest or no head restraint, a backless booster seat may place your child's head, as measured at the tops of the ears, above the top of the seat. In this case, move the backless booster to another seating position with a higher seat backrest or head restraint and lap and shoulder belts, or consider using a high-back booster seat.
+
+- High-back booster seats
+## BOOSTER SEATS
+
+If, with a backless booster seat, you cannot find a seating position that adequately supports your child's head, a high-back booster seat would be a better choice.
+
+Children and booster seats vary in size and shape. Choose a booster that keeps the lap belt low and snug across the hips, never up across the stomach, and lets you adjust the shoulder belt to cross the chest and rest snugly near the center of the shoulder.
+
+The following drawings compare the ideal fit to a shoulder belt uncomfortably close to the neck and a shoulder belt that could slip off the shoulder. The drawings also show how the lap belt should be low and snug across the child's hips.
+
+If the booster seat slides on the vehicle seat upon which it is being used, placing a rubberized mesh sold as shelf or carpet liner under the booster seat may improve this condition. Do not use any item thicker than this under the booster seat. Check with the booster seat manufacturer's instructions.
+
+## CHILD SAFETY LOCKS
+
+WARNING: You cannot open the rear doors from inside if you have put the child safety locks on.
+
+A child safety lock is on the rear edge of each rear door. You must switch the child safety lock separately on each door.
+
+### Left-Hand Side
+
+Turn the key clockwise to switch the child lock on and counterclockwise to switch it off.
+
+### Right-Hand Side
+
+Turn the key counterclockwise to switch the child lock on and clockwise to switch it off.
+
+## SEATBELT PRECAUTIONS
+
+WARNING: Always drive and ride with your seatback upright and the lap belt snug and low across the hips.
+
+WARNING: Children must always be properly restrained.
+
+WARNING: Do not allow a passenger to hold a child on their lap when your vehicle is moving. Failure to follow this instruction could result in personal injury or death in the event of a sudden stop or crash.
+
+WARNING: All occupants of your vehicle, including the driver, should always properly wear their seatbelts, even when an airbag supplemental restraint system is provided. Failure to properly wear your seatbelt could seriously increase the risk of injury or death.
+
+WARNING: It is extremely dangerous to ride in a cargo area, inside or outside of a vehicle. In a crash, people riding in these areas are more likely to be seriously injured or killed. Do not allow people to ride in any area of your vehicle that is not equipped with seats and seatbelts. Make sure everyone in your vehicle is in a seat and properly using a seatbelt. Failure to follow this warning could result in serious personal injury or death.
+
+WARNING: In a rollover crash, an unbelted person is significantly more likely to die than a person wearing a seatbelt.
+
+WARNING: Each seating position in your vehicle has a specific seatbelt assembly made up of one buckle and one tongue designed to be used as a pair. Use the shoulder belt on the outside shoulder only. Never wear the shoulder belt under the arm. Never use a single seatbelt for more than one person.
+
+WARNING: Even with advanced restraints systems, properly restrain children 12 and under in a rear seating position. Failure to follow this could seriously increase the risk of injury or death.
+
+WARNING: Seatbelts and seats may be hot in a vehicle that is in the sunshine. The hot seatbelts or seats may burn a small child. Check seat covers and buckles before you place a child anywhere near them.
+
+WARNING: If your vehicle is involved in a crash, have the seatbelts and associated components inspected as soon as possible. Failure to follow this instruction could result in personal injury or death.
+
+All seating positions in this vehicle have lap and shoulder seatbelts. All occupants of the vehicle should properly wear their seatbelts, even when an airbag supplemental restraint system is provided.
+
+### Seatbelt System
+
+The seatbelt system consists of:
+
+- Lap and shoulder seatbelts.
+- A shoulder seatbelt with automatic locking mode, except driver seatbelt.
+- Height adjusters at the front outermost seating positions.
+
+- Seatbelt pretensioners at the front outermost and second row outermost seating positions.
+- Belt tension sensor at the front outermost passenger seating position.
+
+A seatbelt warning light and chime.
+
+Crash sensors and monitoring system with readiness indicator.
+
+The seatbelt pretensioners are designed to tighten the seatbelts when activated. In frontal and near-frontal crashes, the seatbelt pretensioners may be activated alone or, if the crash is of sufficient severity, together with the front airbags. The pretensioners may also activate when a Safety Canopy airbag deploys.
+
+## FASTENING THE SEATBELTS
+
+1. Insert the belt tongue into the proper buckle, the buckle closest to the direction the tongue is coming from, until it engages.
+
+   Note: Make sure that the seatbelt tongue is properly fastened in the seatbelt buckle.
+
+2. Press the button to release the seatbelt tongue.
+
+When in use, place the rear seatbelts in the belt guides on the outermost seat backrests.
+
+## SENSITIVE LOCKING MODE
+
+### WHAT IS SENSITIVE LOCKING MODE
+
+Sensitive locking mode is a seatbelt retractor feature that allows shoulder belt length adjustment according to your movements and locking in response to vehicle movement.
+
+### HOW DOES SENSITIVE LOCKING MODE WORK
+
+If the driver suddenly brakes, turns a corner sharply, or the vehicle receives an impact of about 5 mph (8 km/h) or more, the seatbelts lock to help reduce forward movement of the driver and passengers.
+
+In addition, the seatbelt retractor locks if you pull the seatbelt webbing out too quickly. If the retractor locks, slowly lower the height adjuster to allow the seatbelt to retract.
+
+If the retractor does not unlock, pull the seatbelt out slowly then feed a small length of webbing back toward the stowed position.
+
+## AUTOMATIC LOCKING MODE
+
+### WHAT IS AUTOMATIC LOCKING MODE
+
+This is a safety feature built into the seatbelt retractors that keeps the seatbelts pre-locked.
+
+### ENGAGING AUTOMATIC LOCKING MODE
+
+1. Fasten the combination lap and shoulder belt.
+2. Grasp the shoulder portion and pull downward until you pull the entire belt out.
+3. Allow the belt to retract. As the belt retracts, you will hear a clicking sound. This indicates the seatbelt is now in the automatic locking mode.
+
+### DISENGAGING AUTOMATIC LOCKING MODE
+
+Unbuckle the combination lap and shoulder belt and allow it to retract completely to disengage the automatic locking mode and activate the vehicle sensitive locking mode.
+
+## Extracting Seatbelts in the Rear Outermost Seat Positions
+
+Seatbelts in the rear outermost positions can lock if you firmly return the seat backrest to its upright position. You can unlock the seatbelts using the following procedures.
+
+For vehicles where the rear seats recline:
+
+1. Recline the seat to its full rear recline position.
+2. The seatbelt should then unlock.
+3. Return the seat backrest to its desired upright position.
+
+For vehicles with rear seats that do not recline or are locked with the seat in its full rear recline position:
+
+1. Grasp the seatbelt webbing at the top of the seat backrest.
+2. Pull the seatbelt webbing forward, firmly.
+3. After pulling the seatbelt forward, allow the seatbelt to feed back into the seatbelt retractor as much as possible. If necessary, press the seat backrest down to allow the seatbelt webbing to retract further.
+
+4. The seatbelt should then unlock.
+5. If the seatbelt does not unlock, repeat steps 1-3.
+
+## ADJUSTING THE SEATBELT HEIGHT
+
+## ADJUSTING THE SEATBELTS DURING PREGNANCY
+## SEATBELT WARNINGS
+
+WARNING: Always ride and drive with your seatback upright and properly fasten your seatbelt. Fit the lap portion of the seatbelt snugly and low across the hips. Position the shoulder portion of the seatbelt across your chest. Pregnant women must follow this practice. See the following figure.
+
+E142590
+
+<!-- image -->
+
+Pregnant women should always wear their seatbelt. Position the lap belt portion of a combination lap and shoulder belt low across the hips below the belly and worn as tight as comfort allows. Position the shoulder belt to cross the middle of the shoulder and the center of the chest.
+
+<!-- image -->
+
+WARNING: Position the seatbelt height adjuster so that the seatbelt rests across the middle of your shoulder. Failure to adjust the seatbelt correctly could reduce its effectiveness and increase the risk of injury in a crash.
+
+E200161
+
+<!-- image -->
+
+1. Press the button and slide the height adjuster up or down.
+2. Release the button and pull down on the height adjuster to make sure it is locked in place.
+
+## SEATBELT REMINDER
+
+### HOW DOES THE SEATBELT REMINDER WORK
+
+<!-- image -->
+
+WARNING: The system will only provide protection when you use the seatbelt correctly.
+
+This system monitors all seating positions and provides audio and graphic feedback.
+
+### SEATBELT REMINDER INDICATORS
+
+<!-- image -->
+
+This lamp illuminates if you do not fasten your seatbelt when you switch the ignition on. The lamp switches off when you fasten your seatbelt or about one minute has elapsed.
+
+When the initial warning expires for the driver, more warnings are provided for the driver and front passenger. This lamp illuminates if you or your front passenger do not fasten the seatbelt buckle and the vehicle speed exceeds 6 mph (10 km/h).
+
+Note: To avoid inadvertent warnings, do not place large objects on the front passenger seat.
+
+<!-- image -->
+
+This lamp illuminates when you E206718 switch the ignition on, identifying the number of seating positions with fastened buckles. It illuminates again when a seating position changes from unfastened to fastened.
+
+<!-- image -->
+
+E331448
+
+This warning displays if an occupant unfastens the rear seatbelt buckle or it becomes unfastened.
+
+Note: If a rear seat is unoccupied, or an occupant never fastens the seatbelt buckle to begin with, the warning will not display.
+
+## Seatbelt Status
+
+To view the seatbelt status, use the information display controls on the steering wheel.
+
+<!-- image -->
+
+E281361
+
+<!-- image -->
+
+E274703
+
+- Seatbelt fastened. A
+- Seatbelt not fastened. B
+- Seatbelt recently unfastened. C
+- Fault. D
+
+### SEATBELT REMINDER AUDIBLE WARNINGS
+
+A warning tone sounds if you do not fasten your seatbelt when you switch the ignition on. The tone switches off when you fasten your seatbelt or about one minute elapses.
+
+## Seatbelts
+
+When the initial warning expires for the driver, more warnings are provided for the driver and front passenger. This warning tone sounds if you or your front passenger do not fasten the seatbelt buckle and the vehicle speed exceeds 6 mph (10 km/h).
+
+This tone also sounds if an occupant unfastens the rear seatbelt buckle or it becomes unfastened.
+
+2. Wait about one minute until the seatbelt warning light switches off. After Step 2, wait an additional five seconds before proceeding with Step 3. Once you start Step 3, you must complete the procedure within 30 seconds.
+
+## SWITCHING THE SEATBELT REMINDER ON AND OFF
+
+<!-- image -->
+
+WARNING: While the system allows you to deactivate it, this system is designed to improve your chances of being safely belted and surviving an accident. We recommend you leave the system activated for yourself and others who may use the vehicle.
+
+Note: The driver and front passenger warnings switch off independently. When you perform this procedure for one seating position, do not buckle the other position as this cancels the process.
+
+Read Steps 1 - 4 before proceeding with the programming procedure.
+
+### Make sure that:
+
+- You set the parking brake.
+- The transmission is in park (P).
+- The ignition is off.
+- You close all vehicle doors.
+- You unfasten the driver and front passenger seatbelts.
+
+1. Switch the ignition on. Do not start the engine.
+3. For the seating position you are switching off, fasten then unfasten the seatbelt three times at a moderate speed, ending in the unfastened state. After Step 3, the seatbelt warning light switches on.
+4. When the seatbelt warning light is on, fasten then unfasten the seatbelt. After Step 4, the seatbelt warning light flashes for confirmation.
+
+This switches the feature off for that seating position if it is currently on.
+
+This switches the feature on for that seating position if it is currently off.
+
+## CHECKING THE SEATBELTS
+
+Check the seatbelts and child restraints periodically to make sure they work properly and are not damaged. Make sure there are no nicks, tears or cuts. Replace if necessary.
+
+Check the following seatbelt assemblies after a crash.
+
+- Retractors.
+- Buckles.
+- Front seatbelt buckle assemblies.
+- Shoulder belt height adjusters.
+- Shoulder belt guide on seat backrest.
+- Child restraint LATCH and tether anchors.
+- Attaching hardware.
+
+## Seatbelts
+
+Read the child restraint manufacturer's instructions for additional inspection and maintenance information specific to the child restraint.
+
+We recommend that all seatbelt assemblies in use in vehicles involved in a crash be replaced. However, if the crash was minor and an authorized dealer finds that the belts do not show damage and continue to operate properly, they do not need to be replaced. Seatbelt assemblies not in use during a crash should also be checked and replaced if either damage or improper operation is noted.
+
+If, because of body size or driving position, it is not possible to properly fasten the seatbelt over your lap and shoulder, an extension that is compatible with the seatbelts is available free of charge from our dealers. Only use our seatbelt extensions made by the original equipment seatbelt manufacturer with our seatbelts. Ask your authorized dealer if your extension is compatible with your vehicle restraint system.
+
+Properly care for seatbelts. See Cleaning Seatbelts (page 353).
+
+## SEATBELT EXTENSIONS
+
+<!-- image -->
+
+<!-- image -->
+
+WARNING: Persons who fit into the vehicle's seatbelt should not use an extension. Unnecessary use could result in serious personal injury in the event of a crash.
+
+WARNING: Only use extensions provided free of charge by our dealers. The dealer will provide an extension designed specifically for this vehicle, model year and seating position. The use of an extension intended for another vehicle, model year or seating position may not offer you the full protection of your vehicle's seatbelt restraint system.
+
+<!-- image -->
+
+WARNING: Never use seatbelt extensions to install child restraints.
+
+<!-- image -->
+
+WARNING: Do not use extensions to change the way the seatbelt fits across the torso, over the lap or to make the seatbelt buckle easier to reach.
+
+## Personal Safety System™
+
+### WHAT IS THE PERSONAL SAFETY SYSTEM
+
+An advanced safety system that protects occupants in frontal crashes.
+
+### HOW DOES THE PERSONAL SAFETY SYSTEM WORK
+
+This system provides an improved level of frontal crash protection to front seat occupants and is designed to reduce the risk of airbag-related injuries. The system analyzes occupant conditions and crash severity before activating the appropriate safety devices. During a crash, the restraints control module may deploy the seatbelt pretensioners, and one or both stages of the dual-stage airbags based on crash severity and occupant conditions.
+
+### PERSONAL SAFETY SYSTEM COMPONENTS
+
+- Driver and passenger dual-stage airbag supplemental restraints.
+## AIRBAG SYSTEM COMPONENTS
+
+- Front seat outermost seatbelts with pretensioners, energy management retractors and seatbelt usage sensors.
+- Driver seat position sensor.
+- Passenger seat position sensor.
+- Front passenger sensing system.
+- Passenger airbag off and on indicators.
+- Front crash severity sensors.
+- Restraints control module with impact and safing sensors.
+- Restraint system warning light and tone.
+- The electrical wiring for the airbags, crash sensors, seatbelt pretensioners, front seatbelt usage sensors, front passenger sensing system and indicator lights.
+
+## HOW DO THE FRONT AIRBAGS WORK
+
+E151127
+
+The driver and front passenger airbags deploy during significant frontal and near frontal crashes.
+
+The driver and passenger front airbag system consists of:
+
+- Driver and passenger airbag modules.
+- Front passenger sensing system.
+- Crash sensors and monitoring system with readiness indicator.
+
+The airbags are a supplemental restraint system and are designed to work with the seatbelts to help protect the driver and right front passenger from certain upper body injuries. Airbags do not inflate slowly; there is a risk of injury from a deploying airbag.
+
+Note: You will hear a loud bang and see a cloud of harmless powdery residue if an airbag deploys. This is normal.
+
+The airbags inflate and deflate rapidly upon activation. After airbag deployment, it is normal to notice a smoke-like, powdery residue or smell the burnt propellant. This may consist of cornstarch, talcum powder (to lubricate the bag) or sodium compounds (for example, baking soda) that result from the combustion process that inflates the airbag. Small amounts of sodium hydroxide may be present which may irritate the skin and eyes, but none of the residue is toxic.
+
+Contact with a deploying airbag may cause abrasions or swelling. Temporary hearing loss is also a possibility as a result of the noise associated with a deploying airbag.
+
+Because airbags must inflate rapidly and with considerable force, there is the risk of death or serious injuries such as fractures, facial and eye injuries or internal injuries, particularly to occupants who are not properly restrained or are otherwise out of position at the time of airbag deployment. Thus, it is extremely important that occupants be properly restrained as far away from the airbag module as possible while maintaining vehicle control.
+
+Routine maintenance of the airbags is not required.
+
+## HOW DO THE SIDE AIRBAGS WORK
+
+WARNING: Do not place objects or mount equipment on or near the airbag cover, on the side of the front or rear seatbacks, or in areas that may come into contact with a deploying airbag. Failure to follow these instructions may increase the risk of personal injury in the event of a crash.
+
+WARNING: Do not use accessory seat covers. The use of accessory seat covers may prevent the deployment of the side airbags and increase the risk of injury in an accident.
+
+WARNING: Do not lean your head on the door. The side airbag could injure you as it deploys from the side of the seatback.
+
+The side airbags are on the outermost side of each front and rear seat backrest. In certain sideways crashes or rollovers, the airbags will be inflated. The airbag was designed to inflate between the door panel and occupant to further enhance the protection provided occupants in side impact crashes.
+
+Properly restrain children 12 years old and under in the rear seats. The rear side airbag will not interfere with children restrained using a properly installed child or booster seat.
+
+E152533
+
+The system consists of the following:
+
+- A label or embossed side panel indicating that side airbags are fitted to your vehicle.
+- Side airbags inside the driver and front passenger seat backrests, as well as side airbags inside of each outermost rear seat backrest.
+- Crash sensors and monitoring system with readiness indicator.
+
+## HOW DO THE KNEE AIRBAGS WORK
+
+The driver knee airbag is under or within the instrument panel. During a crash, the restraints control module may activate the knee airbag based on crash severity and respective occupant conditions. Under certain crash and occupant conditions, the knee airbag may deploy but the corresponding front airbag may not activate. It is important to be properly seated and restrained to reduce the risk of death or serious injury.
+
+Make sure the knee airbag is operating properly.
+
+## HOW DOES THE SAFETY CANOPY™ WORK
+
+WARNING: Do not place objects or mount equipment on or near the headliner at the siderail that may come into contact with a deploying curtain airbag. Failure to follow these instructions may increase the risk of personal injury in the event of a crash.
+
+WARNING: Do not lean your head on the door. The curtain airbag could injure you as it deploys from the headliner.
+
+WARNING: To reduce risk of injury, do not obstruct or place objects in the deployment path of the airbag.
+
+The Safety Canopy deploys during significant side crashes or when a certain likelihood of a rollover event is detected by the rollover sensor. The Safety Canopy is mounted to the roof side-rail sheet metal, behind the headliner, above each row of seats. In certain sideways crashes or rollover events, the Safety Canopy will be activated, regardless of which seats are occupied. The Safety Canopy inflates between the side window area and occupants to further enhance protection provided in side impact crashes and rollover events.
+
+E75004
+
+The system consists of the following:
+
+- Safety Canopy curtain airbags above the trim panels over the front and rear side windows identified by a label or wording on the headliner or roof-pillar trim.
+- A flexible headliner which opens above the side doors to allow air curtain deployment.
+- Crash sensors and monitoring system with a readiness indicator.
+
+Properly restrain children 12 years old and under in the rear seats. The Safety Canopy will not interfere with children restrained using a properly installed child or booster seat because it is designed to inflate downward from the headliner above the doors along the side window opening.
+
+## AIRBAG PRECAUTIONS
+
+WARNING: Airbags do not inflate slowly or gently, and the risk of injury from a deploying airbag is the greatest close to the trim covering the airbag module.
+
+WARNING: All occupants of your vehicle, including the driver, should always properly wear their seatbelts, even when an airbag supplemental restraint system is provided. Failure to properly wear your seatbelt could seriously increase the risk of injury or death.
+
+WARNING: Properly secure children 12 years old and under in a rear seating position whenever possible. If you are unable to properly secure all children in a rear seating position, properly secure the largest child on the front seat. If you must use a forward facing child restraint on the front seat, move the seat as far back as possible. Failure to follow these instructions could result in personal injury or death.
+
+WARNING: Do not place your arms on the airbag cover or through the steering wheel. Failure to follow this instruction could result in personal injury.
+
+WARNING: Keep the areas in front of the airbags free from obstruction. Do not affix anything to or over the airbag covers. Objects could become projectiles during airbag deployment. Failure to follow this instruction could result in personal injury or death.
+
+WARNING: To reduce risk of injury, do not obstruct or place objects in the deployment path of the airbag.
+WARNING: Do not place a rearward facing child restraint in front of an active airbag. Failure to follow this instruction could result in personal injury or death.
+
+WARNING: Do not attempt to service, repair, or modify the supplementary restraint system or associated components. Failure to follow this instruction could result in personal injury or death.
+
+WARNING: Several airbag system components get hot after inflation. To reduce the risk of injury, do not touch them after inflation.
+
+WARNING: If a supplementary restraint system component has deployed, it will not function again. Have the system and associated components inspected as soon as possible. Failure to follow this instruction could result in personal injury or death.
+
+## PROPERLY ADJUSTING THE DRIVER AND FRONT PASSENGER SEATS
+
+WARNING: National Highway Traffic Safety Administration (NHTSA) recommends a minimum distance of at least 10 in (25 cm) between an occupant's chest and the driver airbag module.
+
+To properly position yourself away from the airbag:
+
+- Move your seat to the rear as far as you can while still reaching the pedals comfortably.
+- Recline the seat slightly one or two degrees from the upright position.
+
+After all occupants have adjusted their seats and put on seatbelts, it is very important that they continue to sit properly. Properly seated occupants sit upright, lean against the seat backrest, and center themselves on the seat cushion, with their feet comfortably extended on the floor. Sitting improperly can increase the chance of injury in a crash event. For example, if an occupant slouches, lies down, turns sideways, sits forward, leans forward or sideways, or puts one or both feet up, the chance of injury during a crash greatly increases.
+
+## CHILDREN AND AIRBAGS
+
+WARNING: Do not place a rearward facing child restraint in front of an active airbag. Failure to follow this instruction could result in personal injury or death.
+
+Children must always be properly restrained. Accident statistics suggest that children are safer when properly restrained in the rear seating positions than in the front seating position. Failure to follow these instructions may increase the risk of injury in a crash.
+
+## FRONT PASSENGER SENSING SYSTEM
+
+### WHAT IS THE FRONT PASSENGER SENSING SYSTEM
+
+This system detects a properly seated occupant and determines if the front passenger airbag should be enabled.
+
+### HOW DOES THE FRONT PASSENGER SENSING SYSTEM WORK
+
+The system uses a passenger airbag status indicator which illuminates indicating that the front passenger frontal airbag is either enabled or disabled.
+
+Note: When you first switch the ignition on, the passenger airbag status indicator off and on lamps illuminate for a short period to confirm they are functional.
+
+The indicator lamps are in the center stack of the instrument panel.
+
+The front passenger sensing system is designed to disable the front passenger frontal airbag under these conditions:
+
+- The front passenger seat is unoccupied.
+- The system determines an infant is present in a child restraint.
+- A passenger takes their weight off of the seat for a period of time.
+- If there is a problem with the airbag system or the passenger sensing system.
+
+Even with this technology, parents are strongly encouraged to always properly restrain children in the rear seat.
+
+- When the front passenger sensing system disables the front passenger frontal airbag, the passenger airbag status indicator illuminates the off lamp.
+- If you have installed the child restraint, but the passenger airbag status indicator illuminates the on lamp, switch your vehicle off, remove the child restraint from your vehicle and reinstall the restraint following the child restraint manufacturer's instructions.
+
+The front passenger sensing system works with sensors that are part of the front passenger seat and seatbelt. The sensors are designed to detect the presence of a properly seated occupant and determine if the front passenger frontal airbag should be enabled.
+
+### Airbags
+
+- When the front passenger sensing system enables the front passenger frontal airbag, the passenger airbag status indicator illuminates the on lamp.
+
+If a person of adult size is sitting in the front passenger seat, but the passenger airbag status indicator off lamp is illuminated, it is possible that the person is not sitting properly in the seat. If this happens:
+
+- Switch your vehicle off and ask the person to place the seat backrest in an upright position.
+- Have the person sit upright in the seat, centered on the seat cushion, with the person's legs comfortably extended.
+- Restart your vehicle and have the person remain in this position for about two minutes. This allows the system to detect that person and enable the passenger frontal airbag.
+- If the indicator off lamp remains illuminated even after this, advise the person to ride in the rear seat.
+
+After all occupants have adjusted their seats and put on seatbelts, it is very important that they continue to sit upright, leaning against the seat backrest, and centered on the seat cushion, with their feet comfortably extended on the floor.
+
+Sitting improperly can increase the chance of injury in a crash event. For example, if an occupant slouches, lies down, turns sideways, sits forward, leans forward or sideways, or puts one or both feet up, the chance of injury during a crash greatly increases.
+
+If you think that the state of the passenger airbag status indicator lamp is incorrect, check for the following:
+
+- Objects lodged underneath the seat.
+- Objects between the seat cushion and the center console.
+- Objects hanging off the seat backrest.
+- Objects stowed in the seat backrest map pocket.
+- Objects placed on the occupant's lap.
+- Cargo interference with the seat.
+- Other passengers pushing or pulling on the seat.
+- Rear passenger feet and knees resting or pushing on the seat.
+
+The listed conditions could cause the weight of a properly seated occupant to be incorrectly interpreted by the front passenger sensing system. The person in the front passenger seat could appear heavier or lighter due to the conditions listed.
+
+Make sure the front passenger sensing system is operating properly. See Crash Sensors and Airbag Indicator (page 54).
+
+If the airbag readiness light is on, do the following:
+
+- Pull your vehicle over.
+- Switch your vehicle off.
+- Check for any objects lodged underneath the front passenger seat or cargo interfering with the seat.
+- Remove the obstruction if found.
+- Restart your vehicle.
+- Wait at least two minutes and verify that the airbag readiness light in the instrument cluster is no longer illuminated.
+- If the airbag readiness light in the instrument cluster remains illuminated, there may be a problem due to the front passenger sensing system.
+
+Do not attempt to repair or service the system. Take your vehicle in for service immediately.
+
+If it is necessary to modify an advanced front airbag system to accommodate a person with disabilities, contact your Customer Relationship Center.
+
+## FRONT PASSENGER SENSING SYSTEM PRECAUTIONS
+
+WARNING: Sitting improperly, out of position or with the seatback reclined too far can take weight off the seat cushion and affect the decision of the passenger sensing system, resulting in serious injury or death in the event of a crash. Always sit upright against your seat back, with your feet on the floor.
+
+## FRONT PASSENGER SENSING SYSTEM INDICATORS
+
+| Occupant   | Passenger Airbag Status Indicator   | Passenger Airbag   |
+|------------|-----------------------------------|-------------------|
+| Empty      | OFF: Illuminated                  | Disabled          |
+| Empty      | ON: Not Illuminated               | Disabled          |
+| Child      | OFF: Illuminated                  | Disabled          |
+| Child      | ON: Not Illuminated               | Disabled          |
+| Adult      | OFF: Not Illuminated              | Enabled           |
+| Adult      | ON: Illuminated                   | Enabled           |
+WARNING: Any alteration or modification to the front passenger seat may affect the performance of the front passenger sensing system. This could seriously increase the risk of injury or death.
+
+## CRASH SENSORS AND AIRBAG INDICATOR
+
+WARNING: Modifying or adding equipment to the front of your vehicle could affect the performance of the airbag system, increasing the risk of injury. This includes the hood, bumper system, frame, front body structure, tow hooks, hood pins, push bar and snowplows.
+
+Your vehicle has a collection of crash and occupant sensors. These sensors provide information to the restraints control module which deploys (activates) the following:
+
+- Seatbelt pretensioners.
+- Driver airbag.
+- Passenger airbag.
+- Knee airbag(s).
+- Seat mounted side airbags.
+- Safety Canopy.
+
+Based on the type of crash, the restraints control module deploys the appropriate safety devices.
+
+The restraints control module also monitors the readiness of the above safety devices plus the crash and occupant sensors. The readiness of the safety system is indicated by a warning indicator light in the instrument cluster or by a backup tone if the warning light is not working. Routine maintenance of the airbag is not required.
+
+A difficulty with the system is indicated by one or more of the following:
+
+- The readiness light will not illuminate immediately after you switch the ignition on.
+- The readiness light either flashes or stays on.
+- You hear a series of five beeps. The tone pattern repeats periodically until the problem, the light or both are repaired.
+
+If any of these things happen, even intermittently, have the supplemental restraint system serviced at an authorized dealer immediately. Unless serviced, the system may not function properly in the event of a crash.
+
+The fact that the seatbelt pretensioners or front airbags did not activate for both front seat occupants in a crash does not mean that something is wrong with the system. Rather, it means the restraints control module determined the accident conditions (crash severity, seatbelt usage) were not appropriate to activate these safety devices.
+
+- The design of the front airbags is to activate only in frontal and near-frontal crashes (not rollovers, side impacts or rear impacts) unless the crash causes sufficient frontal deceleration.
+- The design of the front seatbelt pretensioners is to activate in frontal, near-frontal and side crashes, and in rollovers. The design of the rear seatbelt pretensioners is to activate in frontal crashes and in rollovers.
+- The design of the knee airbag(s) is to deploy based on crash severity and occupant conditions.
+- The design of the side airbags is to inflate in certain side impact crashes or rollover events. Side airbags may activate in other types of crashes if the vehicle experiences sufficient sideways motion or deformation.
+- The design of the Safety Canopy is to inflate in certain side impact crashes or rollover events. The Safety Canopy may activate in other types of crashes if the vehicle experiences sufficient sideways motion or deformation, or a certain likelihood of rollover.
+
+## DISPOSING OF AIRBAGS
+
+Contact your authorized dealer as soon as possible. Airbags must be disposed of by qualified personnel.
+
+## WHAT IS THE PEDESTRIAN ALERT SYSTEM
+
+Due to the quiet operation of hybrid and electric vehicles at low speeds, the system creates a subtle sound to alert pedestrians.
+
+The system is on when your vehicle is running and not in park (P). Some sound may be audible in the passenger compartment.
+
+## WHAT IS 911 ASSIST
+
+911 Assist is a SYNC system feature that can call for help.
+
+For more information, visit www.owner.ford.com.
+
+## EMERGENCY CALL REQUIREMENTS
+
+WARNING: Do not wait for 911 Assist to make an emergency call if you can do it yourself. Dial emergency services immediately to avoid delayed response time which could increase the risk of serious injury or death after a crash. If you do not hear 911 Assist within five seconds of the crash, the system or phone may be damaged or non-functional.
+
+WARNING: Always place your phone in a secure location in your vehicle so it does not become a projectile or get damaged in a crash. Failure to do so may cause serious injury to someone or damage the phone which could prevent 911 Assist from working properly.
+
+WARNING: Unless the 911 Assist setting is set on before a crash, the system will not dial for help which could delay response time, potentially increasing the risk of serious injury or death after a crash.
+
+- SYNC is powered and working properly at the time of the incident and throughout feature activation and use.
+- The 911 Assist feature must be set on before the incident.
+- You must pair and connect a Bluetooth® enabled and compatible cell phone to SYNC.
+- A connected Bluetooth® enabled phone must have the ability to make and maintain an outgoing call at the time of the incident.
+- A connected Bluetooth® enabled phone must have adequate network coverage, battery power and signal strength.
+- The vehicle must have battery power and be located in the U.S., Canada or in a territory in which 911 is the emergency number.
+
+Note: If any user sets 911 Assist to on or off, that setting applies for all paired phones. If 911 Assist is off and the phone connected to SYNC, an icon displays on the status bar.
+
+Note: Every phone operates differently. While SYNC 911 Assist works with most cellular phones, some may have trouble using this feature.
+
+## EMERGENCY CALL LIMITATIONS
+
+The SYNC 911 Assist feature only operates in the U.S., Canada or in a territory in which 911 is the emergency number. The following are limitations of this feature:
+
+- Your cellular phone or 911 Assist hardware sustains damage in a crash.
+- The vehicle's battery or the SYNC system has no power.
+- The phone(s) thrown from your vehicle are the ones paired and connected to the system.
+
+## KEYS AND REMOTE CONTROLS
+
+## REMOTE CONTROL LIMITATIONS
+
+Changes or modifications not expressively approved by the party responsible for compliance could void the user's authority to operate the equipment. The term "IC:" before the radio certification number only signifies that Industry Canada technical specifications were met.
+
+WARNING:
+
+This device complies with Part 15 of the FCC Rules and with Industry Canada license-exempt RSS standard(s). Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) This device must accept any interference received, including interference that may cause undesired operation.
+
+Make sure a valid remote control is within 5 ft (1.5 m) from the front door handles and rear of vehicle.
+
+The system may not function if:
+
+- The remote control remains stationary for about a minute.
+- The vehicle battery has no charge.
+- The remote control battery has no charge.
+- There is interference causing issues with the remote control frequencies.
+- The remote control is too close to metal objects or electronic devices, for example keys or a cell phone.
+
+## USING THE REMOTE CONTROL
+
+Use your remote control to access various vehicle systems.
+
+Note: The buttons on your remote may vary depending on the vehicle region or options.
+
+### Unlock
+
+Remote Control (page 69).
+
+### Lock
+
+Press the button to lock all doors. See Unlocking and Locking the Doors Using the Remote Control (page 69).
+
+### Remote Start (If Equipped)
+
+Press the button to remote start. See Remotely Starting and Stopping the Vehicle (page 134).
+
+### Liftgate (If Equipped)
+
+Press the button to open or close the liftgate. See Opening the Liftgate Using the Remote Control (page 81).
+
+### Panic Alarm
+
+Press the button to sound the panic alarm. See Sounding the Panic Alarm (page 59).
+
+## OPENING AND CLOSING THE FLIP KEY
+
+### Opening Your Flip Key
+## KEY FUNCTIONS
+
+### Extending and Closing Your Flip Key
+Press the round button on the remote control to extend the flip key.  
+Press and hold the round button on the remote control to fold the key blade when not in use.
+
+### Unlocking and Locking the Doors
+Press the button to unlock all doors. See Unlocking and Locking the Doors Using the.
+
+### Sounding the Panic Alarm
+Press the button to sound the panic alarm. Press the button again, or switch the ignition on to turn it off.  
+Note: The panic alarm only operates when the ignition is off.
+
+### Locating Your Vehicle
+Press the lock button twice within three seconds. The turn signal lamps flash.  
+Note: We recommend you use this method to locate your vehicle.
+
+## REMOVING THE KEY BLADE
+Push the release button on your passive key and pull the key blade out.
+
+## CHANGING THE REMOTE CONTROL BATTERY
+
+### Vehicles with: Push Button Start
+WARNING: Keep batteries away from children to prevent ingestion. Failure to follow this instruction could result in personal injury or death. If ingested, immediately seek medical attention.  
+WARNING: If the battery compartment does not securely close, stop using the remote control and replace it as soon as possible. In the meantime, keep the remote control away from children. Failure to follow this instruction could result in personal injury or death.
+
+The remote control uses one coin-type 3-volt lithium battery CR2450 or equivalent.
+
+1. Push the release button and pull the key blade out.
+2. Twist a thin coin under the tab hidden behind the key blade head to remove the battery cover.
+3. Insert a screwdriver, and carefully remove the battery.
+4. Install a new battery with the + facing upward.
+5. Reinstall the battery housing cover onto the transmitter and install the key blade.
+
+Dispose of old batteries in an environmentally friendly way. Seek advice from your local authority about recycling old batteries.  
+Note: Do not wipe off any grease on the battery terminals or on the back surface of the circuit board.  
+Note: Replacing the battery does not erase the programmed key from your vehicle. The remote control should operate normally.
+
+### Vehicles with: Flip Key
+WARNING: Keep batteries away from children to prevent ingestion. Failure to follow this instruction could result in personal injury or death. If ingested, immediately seek medical attention.  
+WARNING: If the battery compartment does not securely close, stop using the remote control and replace it as soon as possible. In the meantime, keep the remote control away from children. Failure to follow this instruction could result in personal injury or death.
+
+#### Battery Replacement Procedure
+The remote control uses one coin-type 3-volt lithium battery CR2032 or equivalent.  
+Press the button to release the key blade before beginning the procedure.
+
+1. Insert a screwdriver, in the position shown and gently push the clip.
+2. Press the clip down to release the battery cover.
+3. Carefully remove the cover.
+4. Insert a screwdriver as shown to release the battery.
+5. Remove the battery.
+6. Install a new battery with the + facing up.
+7. Replace the battery cover.
+
+Dispose of old batteries in an environmentally friendly way. Seek advice from your local authority about recycling old batteries.  
+Note: Do not wipe off any grease on the battery terminals or on the back surface of the circuit board.  
+Note: Replacing the battery does not erase the programmed key from your vehicle. The remote control should operate normally.
+
+## REPLACING A LOST KEY OR REMOTE CONTROL
+You can purchase replacement keys or remote controls from an authorized dealer. Authorized dealers can program remote controls for your vehicle.  
+Note: Your vehicle keys came with a security label that provides important key cut information. Keep the label in a safe place for future reference.
+
+## PROGRAMMING THE REMOTE CONTROL
+Contact an authorized dealer to program remote controls for your vehicle.
+
+## KEYS AND REMOTE CONTROLS - TROUBLESHOOTING
+### Keys and Remote Controls - Information Messages
+| Message                     | Action                          |
+|-----------------------------|---------------------------------|
+| Key Battery LowReplace Soon | Replace remote control battery. |
+
+## WHAT IS MYKEY
+MyKey allows you to program keys with restricted driving modes to promote good driving habits.
+
+## MYKEY SETTINGS
+
+### Non-Configurable MyKey Settings
+#### Seatbelt Reminder or BeltMinder™
+MyKey mutes the audio system until the front seat passengers buckle the front seat belts.  
+Note: If your vehicle includes an AM/FM radio or a very basic audio system, then the radio may not mute.
+
+#### Satellite Radio (If Equipped)
+Some Satellite radio channels have restricted access to adult radio content.
+
+#### Early Low Fuel
+The low fuel level warning lamp turns on earlier.
+
+#### Driving and Parking Aids
+You cannot configure settings for parking aids, blind spot information system, and cross traffic alert. These systems turn on when the vehicle turns on, and you cannot switch them off with a MyKey.  
+You cannot configure settings for pre-collision assist and lane keeping. These systems turn on when the vehicle turns on, but you can switch them off with a MyKey.  
+A new destination in the navigation system can only be set using voice commands when using a MyKey, and with your vehicle moving.  
+Note: MyKey drivers may be able to switch the lane departure warning feature off, but this feature turns back on automatically with every new key cycle.
+
+### Configurable MyKey Settings
+You can configure the following settings after creating a MyKey. See Creating a MyKey (page 65).
+
+#### Speed Limit
+WARNING: Do not set MyKey maximum speed limit to a limit that will prevent the driver from maintaining a safe speed considering posted speed limits and prevailing road conditions. The driver is always responsible to drive in accordance with local laws and prevailing conditions. Failure to do so could result in accident or injury.  
+You can set a speed limit for your vehicle. Warning messages appear in the information display and a tone sounds if your vehicle reaches the set speed. You cannot override the set speed when using a MyKey.
+
+#### Speed Minder
+You can set a speed reminder for your vehicle. Warning messages appear in the information display and a tone sounds if your vehicle exceeds the set speed.
+
+#### Audio System Volume Limit
+The audio system maximum volume reduces. A message appears in the information display if you attempt to exceed the volume limit. Automatic volume control turns off.
+
+### MyKey™
+#### Emergency Assistance
+If you set emergency assistance to always on, you cannot switch it off with a MyKey.
+
+#### Do Not Disturb
+If you set do not disturb to always on, you cannot switch it off with a MyKey.  
+Note: If a phone is connected using Apple CarPlay or Android Auto while driving with a MyKey, the driver can receive phone calls and text messages even if the do not disturb restriction is on, and if the vehicle comes with satellite radio, there is no restriction on the adult content.
+
+#### Traction and Stability Control
+If you set traction control or stability control to always on, you cannot switch it off with a MyKey.
+## MYKEY
+
+### CREATING A MYKEY VEHICLES WITH: PUSH BUTTON START
+
+1. Remove the mat covering the backup location.
+2. Remove the key blade from the transmitter.
+3. Place the passive key in the position shown, with the buttons facing upward.
+4. Switch the ignition on.
+5. Using your touchscreen, press Menu.
+6. Press Vehicle.
+7. Press Settings.
+8. Press MyKey.
+9. Press Create MyKey.
+10. Press Yes if you want to create the key as MyKey. A confirmation message will appear on the screen.
+11. Switch the ignition off.
+
+Note: We recommend that you label this key.
+
+### CREATING A MYKEY VEHICLES WITH: FLIP KEY
+
+1. Switch the ignition on using an admin key.
+2. Using your touchscreen select Menu.
+3. Select the Vehicle.
+4. Select Settings.
+5. Select MyKey.
+6. Select Create MyKey.
+7. Press and hold the OK button until a confirmation message appears in the information display.
+8. Switch the ignition off.
+
+Note: We recommend that you label this key.
+
+### PROGRAMMING A MYKEY
+
+You can program any remote control to become a restricted MyKey, but you must leave one unmodified as an admin key.
+
+1. Switch the ignition on using an admin key.
+2. Press Settings on the touchscreen.
+3. Press Vehicle Settings.
+4. Press MyKey.
+5. Select a setting and press the OK button.
+6. Configure the setting.
+
+### CLEARING ALL MYKEYS
+
+When you clear all MyKeys, you remove all restrictions and return all MyKeys to their original admin key status.
+
+1. Switch the ignition on using an admin key.
+2. Press Settings on the touchscreen.
+3. Press Vehicle Settings.
+4. Press MyKey.
+5. Press Clear All MyKeys.
+6. Press Yes.
+
+### MYKEY - TROUBLESHOOTING
+
+### MYKEY - INFORMATION MESSAGES - VEHICLES WITH: PUSH BUTTON START
+
+| Message                                                   | Description                                                                                                                  |
+|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Place Key in Backup Location                              | Displays when trying to create a MyKey and the admin key is not placed in the backup position. See Creating a MyKey (page 65). |
+| Key is Already a MyKey                                    | Displays when trying to create a MyKey with a key already designated as a MyKey.                                             |
+| This Key restricted at Next Key Cycle. Label Key as MyKey | Displays to confirm that the key is restricted after you switch the ignition off.                                            |
+
+### CHECKING MYKEY SYSTEM STATUS
+
+You can find information about the distance traveled using a MyKey, and the number of admin keys and MyKeys created for your vehicle.
+
+1. Switch the ignition on.
+2. Press Settings on the touchscreen.
+3. Press Vehicle Settings.
+4. Press MyKey.
+5. Press MyKey Information.
+
+### USING MYKEY WITH REMOTE START SYSTEMS
+
+MyKey is not compatible with unapproved, aftermarket remote start systems. If you choose to install a remote start system, see an authorized dealer for an approved remote start system.
+
+### MYKEY - INFORMATION MESSAGES - VEHICLES WITH: FLIP KEY
+
+| Message                                                   | Description                                                                       |
+|-----------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Key is Already a MyKey                                    | Displays when trying to create a MyKey with a key already designated as a MyKey.  |
+| This Key restricted at Next Key Cycle. Label Key as MyKey | Displays to confirm that the key is restricted after you switch the ignition off. |
+
+### MYKEY - FREQUENTLY ASKED QUESTIONS - VEHICLES WITH: PUSH BUTTON START
+
+#### What is an admin key?
+
+An admin key is a key that you have not created as a MyKey. See Creating a MyKey (page 65).
+
+#### Why am I not able create a MyKey?
+
+You have not placed the admin key in the backup position. The key used to switch the ignition on is not an admin key. The key used to switch the ignition on is the only admin key. There has to be at least one admin key. You did not switch the ignition off after creating the last MyKey.
+
+#### Why am I not able to program a MyKey?
+
+The admin key is not inside your vehicle. The key used to switch the ignition on is not an admin key. You have not created any MyKeys. See Creating a MyKey (page 65).
+
+#### Why am I not able to clear the MyKeys?
+
+The admin key is not inside your vehicle. The key used to switch the ignition on is not an admin key. You have not created any MyKeys. See Creating a MyKey (page 65).
+
+#### Why is the MyKey distance not accumulating?
+
+The key used to start the engine is an admin key. An admin key and a MyKey are inside your vehicle. You have not created any MyKeys. See Creating a MyKey (page 65). You have cleared the MyKeys. See Clearing All MyKeys (page 66).
+
+#### Why am I not able to start the engine with a MyKey?
+
+An admin key and a MyKey are inside your vehicle. The system recognizes only the admin key when both are present.
+
+### MYKEY - FREQUENTLY ASKED QUESTIONS - VEHICLES WITH: FLIP KEY
+
+#### What is an admin key?
+
+An admin key is a key that you have not created as a MyKey. See Creating a MyKey (page 65).
+
+#### Why am I not able to create a MyKey?
+
+The key used to switch the ignition on is not an admin key. The key used to switch the ignition on is the only admin key. There has to be at least one admin key.
+
+#### Why am I not able to program a MyKey?
+
+The key used to switch the ignition on is not an admin key. You have not created any MyKeys. See Creating a MyKey (page 65).
+
+#### Why am I not able to clear the MyKeys?
+
+The key used to switch the ignition on is not an admin key. You have not created any MyKeys. See Creating a MyKey (page 65).
+
+#### Why is the MyKey distance not accumulating?
+
+The key used to start the engine is an admin key. You have not created any MyKeys. See Creating a MyKey (page 65). You have cleared the MyKeys. See Clearing All MyKeys (page 66).
+
+## DOORS AND LOCKS
+
+### OPERATING THE DOORS FROM OUTSIDE YOUR VEHICLE
+
+#### UNLOCKING AND LOCKING THE DOORS USING THE REMOTE CONTROL
+
+You can only use the remote control when your vehicle is stationary.
+
+##### Unlocking the Doors
+
+Press the button to unlock all doors.
+
+##### Locking the Doors
+
+Press the button to lock all doors. One short flash of the turn signal lamps confirms that your vehicle has locked.
+
+Note: For more information on operating the doors from outside your vehicle See Keyless Entry (page 73).
+
+#### UNLOCKING AND LOCKING THE DOORS USING THE KEY BLADE
+
+If there is a power door lock fault, you can use the key blade to lock and unlock the driver door.
+
+- Lock. A
+- Unlock. B
+
+#### INDIVIDUALLY UNLOCKING AND LOCKING THE DOORS USING THE KEY BLADE
+
+If there is a power door lock fault you can use the key blade to lock and unlock the doors.
+
+- Lock. A
+- Unlock. B
+
+### OPERATING THE DOORS FROM INSIDE YOUR VEHICLE
+
+#### UNLOCKING AND LOCKING THE DOORS USING THE CENTRAL LOCKING
+
+The power door lock control is on the driver door.
+
+Press the button to unlock all doors.
+
+Press the button to lock all doors.
+
+#### INDIVIDUALLY UNLOCKING AND LOCKING THE DOORS USING THE LOCKING BUTTON
+
+The power door lock control is on the driver and front passenger door panels.
+
+- Unlock. A
+- Lock. B
+
+#### OPENING THE DOORS FROM INSIDE YOUR VEHICLE
+
+Pull the interior door handle twice to unlock and open a rear door. The first pull unlocks the door and the second pull opens the door.
+
+### AUTOUNLOCK
+
+#### WHAT IS AUTOUNLOCK
+
+Autounlock is an unlocking feature that unlocks the vehicle doors when your vehicle comes to a stop.
+
+#### AUTOUNLOCK REQUIREMENTS
+## AUTOUNLOCK
+
+Autounlock unlocks all the doors when all of the following occur:
+
+- The ignition is on, all the doors are closed and your vehicle is moving at a speed greater than 12 mph (20 km/h).
+- Your vehicle comes to a stop.
+- You open the driver door within 10 minutes of switching the ignition off or to the accessory position.
+
+## SWITCHING AUTOUNLOCK ON AND OFF
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Switch Autounlock on or off.
+
+## AUTOLOCK
+
+### WHAT IS AUTOLOCK
+
+Autolock is a locking feature that locks your vehicle doors when you start driving.
+
+### AUTOLOCK REQUIREMENTS
+
+Autolock locks all the doors when all of the following occur:
+
+- All doors are closed.
+- The ignition is on.
+- Your vehicle reaches a speed greater than 12 mph (20 km/h).
+
+## MISLOCK
+
+### WHAT IS MISLOCK
+
+Mislock is a locking feature that warns you if your vehicle has not locked.
+
+### MISLOCK LIMITATIONS
+
+When you press the lock button once, the direction indicators do not flash if:
+
+- Any door or the liftgate is open.
+- The hood is open.
+
+When you press the lock button twice within three seconds, the horn sounds if:
+
+- Any door or the liftgate is open.
+- The hood is open.
+
+If you switch mislock off, the horn does not sound if you press the lock button on the remote control when a door is open.
+
+## SWITCHING MISLOCK ON AND OFF
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Switch Mislock Chirp on or off.
+
+## DOORS AND LOCKS AUDIBLE WARNINGS
+
+### Door Ajar Audible Warning
+
+Sounds when a door is not fully closed and your vehicle is moving.
+
+## DOORS AND LOCKS TROUBLESHOOTING
+
+### DOORS AND LOCKS - WARNING LAMPS
+
+#### Door Ajar Warning Lamp
+
+It illuminates when you switch the ignition on and remains on if any door or the hood is open.
+
+### DOORS AND LOCKS - INFORMATION MESSAGES
+
+| Message              | Action                                            |
+|----------------------|---------------------------------------------------|
+| Driver Door Ajar     | Displays if a door is open. Fully close the door. |
+| Passenger Door Ajar  | Displays if a door is open. Fully close the door. |
+| Rear Left Door Ajar  | Displays if a door is open. Fully close the door. |
+| Rear Right Door Ajar | Displays if a door is open. Fully close the door. |
+
+## DOORS AND LOCKS FREQUENTLY ASKED QUESTIONS
+
+### Can accessories such as steps or handles be used with the latch assembly?
+
+Do not use the door latch assembly to attach any accessory, such as handles or steps, as this can cause damage to your vehicle.
+
+## KEYLESS ENTRY (If Equipped)
+
+### LOCATING THE KEYLESS ENTRY KEYPAD
+
+The keypad is near the driver window and illuminates when you touch it.
+
+You can use the keypad to:
+
+- Lock or unlock the doors and liftgate.
+- Program and erase user codes.
+- Arm and disarm the anti-theft alarm.
+
+### KEYLESS ENTRY LIMITATIONS
+
+Make sure your remote control is within 3 ft (1 m) from the front door handles and the tailgate.
+
+The system could not function if:
+
+- The remote control remains stationary for about a minute.
+- The vehicle battery has no charge.
+- The remote control battery has no charge.
+- There is interference causing issues with the remote control frequencies.
+- The remote control is too close to metal objects or electronic devices, for example keys or a cell phone.
+
+## MASTER ACCESS CODE
+
+### WHAT IS THE MASTER ACCESS CODE
+
+The master access code is a factory-set five-digit entry code. You can operate the keypad with the master access code at any time. The master access code is on the owner's wallet card in the glove box and is available from an authorized dealer.
+
+### DISPLAYING THE MASTER ACCESS CODE
+
+To display the factory-set code in the information display:
+
+1. Remove the rubber mat.
+2. Insert the first programmed key in the backup slot.
+3. Press the push button ignition switch once and wait a few seconds.
+4. Press the push button ignition switch again and remove the key.
+5. Within 10 seconds, place a second programmed intelligent access key in the backup slot and press the push button ignition switch.
+
+The factory-set code appears in the information display for a few seconds.
+
+Note: You need to have two programmed intelligent access keys for this procedure.
+
+Note: The code may not display until after any other warning messages first display.
+
+## KEYLESS ENTRY SETTINGS
+
+### SWITCHING KEYLESS ENTRY ON AND OFF
+
+1. Switch the ignition on using an original key that has not been created as a MyKey.
+2. Press Settings on the touchscreen.
+3. Press Vehicle Settings.
+4. Press Locks.
+
+### REPROGRAMMING THE UNLOCKING FUNCTION
+
+You can enable two-stage unlocking function allowing you to unlock only the driver door when you touch the unlock sensor.
+
+Press and hold both the lock and unlock buttons on the remote control for four seconds to disable or enable two-stage unlocking.
+
+If you program the unlocking function so that only the driver door unlocks, you can unlock all of the other doors from inside your vehicle using the power door lock control. You can unlock individual doors by pulling the interior door handles on those doors.
+
+### CREATING PERSONAL ACCESS CODES
+
+To create your own personal access code:
+
+1. Enter the factory-set code.
+2. Press 1·2 on the keypad within five seconds.
+3. Enter your personal five-digit code.
+4. Press 1·2 on the keypad to save personal code one.
+
+The doors lock then unlock to confirm that programming was successful.
+
+To program additional personal access codes, repeat Steps 1-3, then for Step 4:
+
+- Press 5·6 to save personal code three.
+- Press 3·4 to save personal code two.
+- Press 7·8 to save personal code four.
+- Press to save personal code five.
+- 9·0 Hints:
+- Do not set a code that uses five of the same number.
+- Do not use five numbers in sequential order.
+- The factory-set code works even if you have set your own personal code.
+
+### CLEARING ALL PERSONAL ACCESS CODES
+
+1. Enter the factory-set five-digit code.
+2. Press and release 1·2 on the keypad within five seconds.
+3. Press and hold 1·2 for a few seconds. This must be done within five seconds of completing Step 2.
+
+All personal codes erase and only the factory-set five-digit code works.
+
+## LOCKING AND UNLOCKING THE DOORS USING KEYLESS ENTRY
+
+### UNLOCKING THE DOORS VEHICLES WITH: KEYLESS ENTRY AND PUSH BUTTON START
+
+With your intelligent access key within 3 ft (1 m) of your vehicle, touch the unlock sensor on the back of the door handle for a brief period and then pull on the door handle to unlock, being careful to not touch the lock sensor at the same time or pulling the door handle too quickly. The intelligent access system requires a brief delay to authenticate your intelligent access key.
+
+### UNLOCKING THE DOORS VEHICLES WITH: KEYPAD
+
+Enter the factory-set five-digit code or your personal code. You must press each number within five seconds of each other.
+
+- Press 3-4 within five seconds to unlock all doors.
+- Press 5-6 within five seconds to release or open the tailgate, if available.
+
+### LOCKING THE DOORS - VEHICLES WITH: KEYLESS ENTRY AND PUSH BUTTON START
+
+With your intelligent access key within 3 ft (1 m) of your vehicle, touch the outer door handle lock sensor for approximately one second to lock, being careful to not touch the unlock sensor on the back of the door handle at the same time. After locking, you can immediately pull on the door handle to confirm locking occurred without inadvertently unlocking.
+
+### LOCKING THE DOORS - VEHICLES WITH: KEYPAD
+
+Press and hold 7·8 and 9·0 at the same time with the driver door closed.
+
+Note: You do not need to enter the five digit code first.
+
+## KEYLESS ENTRY TROUBLESHOOTING
+
+### KEYLESS ENTRY - FREQUENTLY ASKED QUESTIONS
+
+Why does the keypad not accept the access code?
+
+If you enter the access code too fast on the keypad, the unlock function may not work. Slowly re-enter the access code.
+## Passive Key Issues
+
+### Why does the passive key not work?
+The system deactivates passive keys left inside your vehicle when you lock it. You cannot switch the ignition on using a deactivated passive key. Press the unlock button on the remote control to reactivate a passive key.
+
+## Keypad Issues
+
+### Why does the keypad not function?
+The keypad goes into an anti-scan mode if you enter a wrong code seven times. The anti-scan mode disables the keypad for one minute and the red light flashes.
+
+## Easy Entry and Exit Feature
+
+### HOW DOES EASY ENTRY AND EXIT WORK
+This feature moves the driver seat rearward up to 2 in (5 cm) when you switch the ignition off. The driver seat returns to its previous position when you switch the ignition on.
+
+### SWITCHING EASY ENTRY AND EXIT ON AND OFF
+1. Press Settings on the touchscreen.
+2. Press Vehicle.
+3. Select Easy Entry/Exit.
+
+If you press any adjustment or memory button when in easy exit mode, the system cancels the operation.
+
+## Liftgate Operations
+
+### Liftgate - Vehicles With: Manual Liftgate
+
+#### OPENING THE LIFTGATE
+
+##### OPENING THE LIFTGATE FROM OUTSIDE YOUR VEHICLE
+Press the control button to unlatch the liftgate and then lift to open.
+
+Note: Be careful when opening or closing the liftgate in a garage or other enclosed area to avoid damaging the liftgate.
+
+Note: Do not hang anything, for example a bike rack, from the glass or liftgate. This could damage the liftgate and its components.
+
+Note: Do not leave the liftgate open while driving. This could damage the liftgate and its components.
+
+##### OPENING THE LIFTGATE USING THE REMOTE CONTROL
+Press the button twice within three seconds. The liftgate unlocks for 45 seconds, during which time you can open the liftgate using the outside control button.
+
+Note: Be careful when opening or closing the liftgate in a garage or other enclosed area to avoid damaging the liftgate.
+
+Note: Do not hang anything, for example a bike rack, from the glass or liftgate. This could damage the liftgate and its components.
+
+Note: Do not leave the liftgate open while driving. This could damage the liftgate and its components.
+
+#### CLOSING THE LIFTGATE
+
+##### CLOSING THE LIFTGATE FROM OUTSIDE YOUR VEHICLE
+WARNING: It is extremely dangerous to ride in a cargo area, inside or outside of a vehicle. In a crash, people riding in these areas are more likely to be seriously injured or killed. Do not allow people to ride in any area of your vehicle that is not equipped with seats and seatbelts. Make sure everyone in your vehicle is in a seat and properly using a seatbelt. Failure to follow this warning could result in serious personal injury or death.
+
+WARNING: Make sure that you fully close the liftgate to prevent exhaust fumes from entering your vehicle. If you are unable to fully close the liftgate, open the air vents or the windows to allow fresh air to enter your vehicle. Failure to follow this instruction could result in personal injury or death.
+
+A handle is located inside the liftgate to help with closing.
+
+Note: Make sure that you fully close the liftgate to prevent cargo from falling out.
+
+### Liftgate Precautions
+WARNING: It is extremely dangerous to ride in a cargo area, inside or outside of a vehicle. In a crash, people riding in these areas are more likely to be seriously injured or killed. Do not allow people to ride in any area of your vehicle that is not equipped with seats and seatbelts. Make sure everyone in your vehicle is in a seat and properly using a seatbelt. Failure to follow this warning could result in serious personal injury or death.
+
+WARNING: Make sure that you fully close the liftgate to prevent exhaust fumes from entering your vehicle. If you are unable to fully close the liftgate, open the air vents or the windows to allow fresh air to enter your vehicle. Failure to follow this instruction could result in personal injury or death.
+
+WARNING: Keep keys out of reach of children. Do not allow children to operate or play near an open or moving power liftgate. You should supervise the operation of the power liftgate at all times.
+
+### OPENING THE LIFTGATE
+
+#### OPENING THE LIFTGATE FROM INSIDE YOUR VEHICLE
+With the transmission in park (P), press the button on the instrument panel.
+
+Note: Be careful when opening or closing the liftgate in a garage or other enclosed area to avoid damaging the liftgate.
+
+Note: Do not hang anything, for example a bike rack, from the glass or liftgate. This could damage the liftgate and its components.
+
+Note: Do not leave the liftgate open while driving. This could damage the liftgate and its components.
+
+#### OPENING THE LIFTGATE FROM OUTSIDE YOUR VEHICLE
+1. Unlock the liftgate with the remote control or power door unlock control. If a passive key is within 3 ft (1 m) of the liftgate, the liftgate unlocks when you press the liftgate release button.
+2. Press and release the liftgate control button.
+
+Note: Allow the power system to open the liftgate. Manually pushing or pulling the liftgate may activate the system's obstacle detection feature and stop the power operation or reverse its direction, replicate a strut failure, or damage mechanical components.
+
+Note: Be careful when opening or closing the liftgate in a garage or other enclosed area to avoid damaging the liftgate.
+
+Note: Do not hang anything, for example a bike rack, from the glass or liftgate. This could damage the liftgate and its components.
+
+### Liftgate - Vehicles With: Power Liftgate
+
+Note: Do not leave the liftgate open while driving. This could damage the liftgate and its components.
+
+#### Switching the Power Liftgate On or Off
+You can switch the power liftgate on or off through the vehicle settings on your touchscreen.
+
+1. Press Settings.
+2. Press Vehicle Settings.
+3. Press Power Liftgate.
+4. Select your option.
+
+When switched off, the liftgate only unlatches and will not power open or close.
+
+#### OPENING THE LIFTGATE USING THE REMOTE CONTROL
+Press the button twice within three seconds.
+
+Note: Be careful when opening or closing the liftgate in a garage or other enclosed area to avoid damaging the liftgate.
+
+Note: Do not hang anything, for example a bike rack, from the glass or liftgate. This could damage the liftgate and its components.
+
+Note: Do not leave the liftgate open while driving. This could damage the liftgate and its components.
+
+#### OPENING THE HANDS-FREE LIFTGATE (If Equipped)
+Make sure you have the passive key within 3 ft (1 m) of the liftgate.
+
+1. Stand behind your vehicle, and face the liftgate.
+2. Move your foot, in a single-kick motion, without pausing, under and away from the rear bumper detection area.
+3. The liftgate opens.
+
+Avoid the following actions when using the hands-free opening feature:
+- Making physical contact with the bumper.
+- Holding your foot under the bumper.
+- Sweeping your foot from side to side, or kicking at an odd angle.
+
+### Detection Zones
+
+#### Vehicles Without a Trailer Hitch
+The detection area is in the center of the rear bumper.
+
+#### Vehicles With a Trailer Hitch
+The detection area is on the left-hand side and right-hand side of the hitch, between the exhaust and the hitch.
+
+Note: Allow the power system to open the liftgate. Manually pushing or pulling the liftgate may activate the system's obstacle detection feature and stop the power operation or reverse its direction, replicate a strut failure, or damage mechanical components.
+
+Note: Any physical actions that mimic a kicking motion such as splashing water, trailer chains or vacuum hoses may cause the hands-free liftgate to activate. Switch the power liftgate off through your vehicle settings or keep the passive key away from the rear bumper detection area.
+
+### Setting the Liftgate Opening Height
+1. Open the liftgate.
+2. Stop the liftgate movement by pressing the control button on the liftgate when it reaches the desired height.
+## LIFTGATE - Vehicles With: Power Liftgate
+
+### PROGRAMMING THE LIFTGATE HEIGHT
+
+Note: Once the liftgate stops moving, you can manually move it to the desired height.
+
+3. Press and hold the control button on the liftgate until a tone sounds, indicating programming is complete.
+
+Note: You can only use the liftgate control button to program the height.
+
+Note: You cannot program the height if the liftgate position is too low.
+
+4. The power liftgate now opens at the programmed height. To change the programmed height, repeat the steps.
+
+Note: You can fully open the liftgate by manually pushing it upward to the maximum open position if it opens in a lower position.
+
+Note: The system recalls the new programmed height until you reprogram it, even if you disconnect the battery.
+
+### CLOSING THE LIFTGATE
+
+#### CLOSING THE LIFTGATE FROM INSIDE YOUR VEHICLE
+
+WARNING: Make sure all persons are clear of the power liftgate area before using the power liftgate control.
+
+With the transmission in park (P), press the button on the instrument panel.
+
+Note: Make sure that you close the liftgate before operating or moving your vehicle, especially in an enclosure, like a garage or a parking structure. This could damage the liftgate and its components.
+
+Note: Make sure the area behind your vehicle is free from obstruction and that there is enough room for you to operate the liftgate. Objects too close to your vehicle, for example a wall, garage door or another vehicle may come into contact with the moving liftgate. This could damage the liftgate and its components.
+
+Note: Make sure that you fully close the liftgate to prevent cargo from falling out.
+
+#### CLOSING THE LIFTGATE FROM OUTSIDE YOUR VEHICLE
+
+WARNING: Make sure all persons are clear of the power liftgate area before using the power liftgate control.
+
+E291351
+
+Press and release the liftgate button.
+
+Note: Make sure that you close the liftgate before operating or moving your vehicle, especially in an enclosure, like a garage or a parking structure. This could damage the liftgate and its components.
+
+Note: Make sure the area behind your vehicle is free from obstruction and that there is enough room for you to operate the liftgate. Objects too close to your vehicle, for example a wall, garage door or another vehicle may come into contact with the moving liftgate. This could damage the liftgate and its components.
+
+Note: Make sure you fully close the liftgate to prevent cargo from falling out.
+
+#### CLOSING THE LIFTGATE USING THE REMOTE CONTROL
+
+WARNING: Make sure all persons are clear of the power liftgate area before using the power liftgate control.
+
+Press the button twice within three seconds.
+
+Note: Make sure that you close the liftgate before operating or moving your vehicle, especially in an enclosure, like a garage or a parking structure. This could damage the liftgate and its components.
+
+Note: Make sure the area behind your vehicle is free from obstruction and that there is enough room for you to operate the liftgate. Objects too close to your vehicle, for example a wall, garage door or another vehicle may come into contact with the moving liftgate. This could damage the liftgate and its components.
+
+Note: Make sure that you fully close the liftgate to prevent cargo from falling out.
+
+#### CLOSING THE HANDS-FREE LIFTGATE (If Equipped)
+
+Make sure you have the remote control within 3 ft (1 m) of the liftgate.
+
+1. Stand behind your vehicle, and face the liftgate.
+2. Move your foot, in a single-kick motion, without pausing, under and away from the rear bumper detection area.
+3. The liftgate closes.
+
+Avoid the following actions when using the hands-free opening feature:
+
+- Making physical contact with the bumper.
+- Holding your foot under the bumper.
+- Sweeping your foot from side to side, or kicking at an odd angle.
+
+### DETECTION ZONES
+
+#### Vehicles Without a Trailer Hitch
+
+The detection area is in the center of the rear bumper.
+
+#### Vehicles With a Trailer Hitch
+
+The detection area is on the left-hand side and right-hand side of the hitch, between the exhaust and the hitch.
+
+Note: Allow the power system to close the liftgate. Manually pushing the liftgate may activate the system's obstacle detection feature and stop the power operation or reverse its direction, replicate a strut failure, or damage mechanical components.
+
+### STOPPING THE LIFTGATE MOVEMENT
+
+Note: Do not apply sudden excessive force to the liftgate while it is in motion. This could damage the power liftgate and its components.
+
+Note: Selections will vary depending on region or options.
+
+You can stop the liftgate movement by doing any of the following:
+
+- Pressing the liftgate control button on the liftgate.
+- Pressing the liftgate control button inside the vehicle.
+- Pressing the liftgate button on the remote control twice.
+- Pressing the liftgate button on an authorized device.
+- Moving your foot under and away from the center rear bumper in a single-kick motion.
+
+### LIFTGATE OBSTACLE DETECTION
+
+#### Closing the Liftgate
+
+The system stops when it detects an obstacle. A tone sounds and the system reverses to open. Once you remove the obstacle, you can power close the liftgate.
+
+Note: To prevent accidental obstacle detection, let the power liftgate close completely before you enter your vehicle.
+
+#### Opening the Liftgate
+
+The system stops when it detects an obstacle and a tone sounds. Once you remove the obstacle, you can continue to operate the liftgate.
+
+### LIFTGATE TROUBLESHOOTING
+
+#### LIFTGATE - WARNING LAMPS
+
+#### LIFTGATE - INFORMATION MESSAGES
+
+| Message       | Action                                                     |
+|---------------|------------------------------------------------------------|
+| Liftgate Ajar | The liftgate is not completely closed. Close the liftgate. |
+
+### LIFTGATE - FREQUENTLY ASKED QUESTIONS
+
+#### Why won't my power liftgate function?
+
+Make sure the transmission is in park (P), ensure nothing is obstructing the liftgate path and there is not excessive weight on the liftgate. If there are continued issues, the battery voltage may be low or other system issues. See an authorized dealer.
+The perimeter alarm is designed to detect unauthorized access to your vehicle.
+
+## WHAT ARE THE INTERIOR SENSORS
+
+The interior sensors are designed to detect any movement inside your vehicle.
+
+The interior sensors are in the overhead console.
+
+Note: Do not cover the interior sensors.
+
+## WHAT ARE THE INCLINATION SENSORS
+
+The inclination sensor is designed to detect an attempt to raise your vehicle, for example to remove a wheel or to tow it away.
+
+## SECURITY
+
+### WHAT IS THE BATTERY BACKUP ALARM
+
+In all sensors, all equipped sensors are on when you arm the alarm.
+
+The battery backup alarm is an additional alarm sounder that has its own battery. It can detect if the vehicle battery is disconnected to overcome the alarm system.
+
+### ARMING THE ANTI-THEFT ALARM SYSTEM
+
+The alarm is ready to arm when your vehicle is switched off.
+
+Lock your vehicle with your remote control to arm the alarm.
+
+### DISARMING THE ANTI-THEFT ALARM SYSTEM
+
+Disarm the alarm by performing any of the following actions:
+
+- Unlock the doors or luggage compartment with the remote control.
+- Switch your vehicle on or start your vehicle.
+
+### ANTI-THEFT ALARM SYSTEM SETTINGS
+
+#### WHAT ARE THE ALARM SECURITY LEVELS
+
+You can select two levels of alarm security, all sensors and perimeter sensing.
+
+#### All Sensors
+
+All sensors is the standard setting.
+
+Note: Do not arm the alarm with all sensors if passengers, animals or other moving objects are inside your vehicle.
+
+#### Perimeter Sensing
+
+In perimeter sensing, the interior sensors are off when you arm the alarm.
+
+All the other equipped sensors activate when you arm the alarm in this mode.
+
+### SETTING THE ALARM SECURITY LEVEL
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Alarm System.
+4. Press Motion Sensors.
+5. Press a setting.
+
+#### WHAT IS ASK ON EXIT
+
+You can choose which level of security you require after you switch the ignition off.
+
+Note: If you do not choose a setting, the system defaults to all sensors.
+
+### SWITCHING ASK ON EXIT ON AND OFF
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Alarm System.
+4. Switch Ask on Exit on or off.
+
+### SECURITY - TROUBLESHOOTING
+
+### SECURITY - INFORMATION MESSAGES
+
+| Message                                     | Action                                                                       |
+|---------------------------------------------|------------------------------------------------------------------------------|
+| No Key Detected                             | The system has not detected a correctly coded key.                           |
+| Starting System Fault                       | The system has malfunctioned. Have your vehicle checked as soon as possible. |
+| Vehicle Alarm To Stop Alarm, Start Vehicle. | Displays when the alarm has been triggered due to unauthorized entry.       |
+| Alarm Announcement                          | Displays when the alarm has been triggered due to unauthorized entry.       |
+
+### SECURITY - FREQUENTLY ASKED QUESTIONS
+
+#### What should I do if there is any potential alarm problem with my vehicle?
+
+Take all remote controls to an authorized dealer if there is any potential alarm problem with your vehicle.
+
+#### What should I do if the vehicle is unable to start with a correctly coded key?
+
+Have your vehicle checked as soon as possible.
+
+## STEERING WHEEL
+
+### ADJUSTING THE STEERING WHEEL
+
+WARNING: Do not adjust the steering wheel when your vehicle is moving.
+
+Note: Make sure that you are sitting in the correct position. See Sitting in the Correct Position.
+
+1. Unlock the steering column.
+2. Adjust the steering wheel to the desired position.
+3. Lock the steering column.
+
+### HORN
+
+Press on the center of the steering wheel near the horn icon to activate the horn.
+
+### SWITCHING THE HEATED STEERING WHEEL ON AND OFF (IF EQUIPPED)
+
+To activate the heated steering wheel, press the button on the climate control unit.
+
+On some vehicles, an indicator on the button illuminates when the heated steering wheel is on.
+
+Note: A sensor regulates the temperature of the steering wheel.
+
+## WIPERS
+
+### WIPER PRECAUTIONS
+
+Do not operate the wipers on a dry windshield. This could scratch the glass or damage the wiper blades. Use the windshield washers before wiping a dry windshield.
+
+Fully defrost the windshield before you switch the windshield wipers on.
+
+Switch the windshield wipers off before entering a car wash.
+
+### SWITCHING WINDSHIELD WIPERS ON AND OFF
+
+- Single wipe.
+- Intermittent wipe.
+- Normal wipe.
+- High-speed wipe.
+
+Push the lever up or down to operate the windshield wipers.
+
+### AUTOWIPERS (IF EQUIPPED)
+
+#### WHAT ARE AUTOWIPERS
+
+Autowipers turns on and controls the speed and frequency of the windshield wipers.
+
+#### AUTOWIPERS SETTINGS
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Wipers.
+4. Switch Rain Sensing on or off.
+
+Note: When you switch the feature off, the wipers do not operate based on the rain sensor. When you switch on the windshield wipers to the intermittent wipe position with the feature off, the wipers use the wipe speed set by the rotary control.
+
+### ADJUSTING THE SENSITIVITY OF THE RAIN SENSOR
+
+- High sensitivity.
+- Low sensitivity.
+
+Use the rotary control to set the sensitivity of the rain sensor.
+
+When you select high sensitivity, the wipers operate when the sensor detects a small amount of water on the windshield.
+
+When you select low sensitivity, the wipers operate when the sensor detects a large amount of water on the windshield.
+
+### SWITCHING THE REAR WINDOW WIPER ON AND OFF
+
+- Intermittent wipe.
+- Continuous wipe.
+- Rear window wiper off.
+
+### REVERSE WIPE
+
+#### WHAT IS REVERSE WIPE
+
+Reverse wipe turns on the rear window wiper when you shift into reverse (R) and the windshield wipers are on.
+
+#### REVERSE WIPE SETTINGS
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Wipers.
+4. Switch Rear Wiper On (when in Reverse) on or off.
+
+### CHECKING THE WIPER BLADES
+
+Run the tip of your fingers over the edge of the blade to check for roughness.
+
+### REPLACING THE FRONT WIPER BLADES
+
+Make sure your vehicle is off before beginning this procedure.
+
+1. Lift the wiper arm and then press the wiper blade locking buttons together.
+
+Note: Do not hold the wiper blade to lift the wiper arm.
+
+Note: Make sure that the wiper arm does not spring back against the glass when the wiper blade is not attached.
+
+2. Slightly rotate the wiper blade.
+3. Remove the wiper blade.
+4. To install, reverse the removal procedure.
+
+Note: Make sure that the wiper blade locks into place.
+
+## WASHERS
+
+### WASHER PRECAUTIONS
+
+WARNING: If you operate your vehicle in temperatures below 41°F (5°C), use washer fluid with antifreeze protection. Failure to use washer fluid with antifreeze protection in cold weather could result in impaired windshield vision and increase the risk of injury or accident.
+
+Do not operate the washers when the washer reservoir is empty. This could cause the washer pump to overheat.
+
+Keep the outside of the windshield clean. The rain sensor is very sensitive and the wipers may operate if dirt, mist or insects hit the windshield.
+
+### USING THE WINDSHIELD WASHER
+
+Pull the lever toward you to operate the windshield washer.
+## Wipers and Washers
+
+### SWITCHING THE COURTESY WIPE ON AND OFF
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Wipers.
+4. Switch Courtesy Wipe on or off.
+
+Note: A courtesy wipe occurs a short time after the wipers stop to clear any remaining washer fluid when switched on. See Switching the Courtesy Wipe On and Off (page 95).
+
+### USING THE REAR WINDOW WASHER
+
+E242432
+
+Push the lever away from you to operate the rear window washer.
+
+Note: A courtesy wipe occurs a short time after the wipers stop to clear any remaining washer fluid when switched on. See Switching the Courtesy Wipe On and Off (page 95).
+
+### ADDING WASHER FLUID
+
+E334429
+
+### WASHER FLUID SPECIFICATION
+
+See Washer Fluid Specification (page 402).
+
+### WIPERS AND WASHERS TROUBLESHOOTING
+
+### WIPERS AND WASHERS WARNING LAMPS
+
+Illuminates when the windshield washer fluid is low.
+
+### WIPERS AND WASHERS FREQUENTLY ASKED QUESTIONS
+
+Why are there streaks and smears on the windshield?
+
+The wiper blades could be dirty, worn or damaged. Check the wiper blades. See Checking the Wiper Blades (page 94). If the wiper blades are dirty, clean them with washer fluid or water applied with a soft sponge or cloth. If the wiper blades are worn or damaged, install new ones. See Replacing the Front Wiper Blades (page 94).
+
+## Exterior Lighting
+
+### EXTERIOR LIGHTING CONTROL
+
+E327629
+
+- Lamps off. A
+- Parking lamps on. B
+- Autolamps on. C
+- Headlamps on. D
+
+Rotate the control to make a selection.
+
+Note: The lighting control defaults to autolamps every time you switch your vehicle on.
+
+### HEADLAMPS
+
+#### USING THE HIGH BEAM HEADLAMPS
+
+E2253
+
+Push the lever forward again or pull the lever toward you to switch the high beams off.
+
+Slightly pull the lever toward you and release it to flash the headlamps.
+
+#### SWITCHING HEADLAMP EXIT DELAY ON AND OFF
+
+To switch headlamp exit delay on, pull the turn signal lever toward you after switching your vehicle off.
+
+To switch headlamp exit delay off, pull the turn signal lever toward you again or switch your vehicle on.
+
+Note: The headlamps turn off after three minutes with any door open or 30 seconds after the last door closes.
+
+#### HEADLAMP INDICATORS
+
+##### Lamps On
+
+Illuminates when you switch the low beam headlamps or the parking lamps on.
+
+##### Headlamp High Beam
+
+Illuminates when you switch the high beam headlamps on.
+
+Push the lever away from you to switch the high beams on.
+
+#### HEADLAMPS TROUBLESHOOTING
+
+#### HEADLAMPS - FREQUENTLY ASKED QUESTIONS
+
+##### Why is there condensation in the headlamps?
+
+Headlamps have vents to accommodate normal changes in air pressure. Condensation can be a natural by-product of this design. When moist air enters the lamp assembly through the vents, there is a possibility that condensation can occur when the temperature is cold. When normal condensation occurs, a fine mist can form on the interior of the lens. The fine mist eventually clears and exits through the vents during normal operation.
+
+##### How much condensation is acceptable?
+
+The presence of a fine mist, for example no streaks, drip marks or large droplets. A fine mist covers less than 50% of the lens.
+
+##### How long may it take for the acceptable condensation to be cleared?
+
+Clearing time may take as long as 48 hours under dry weather conditions.
+
+##### How much condensation is unacceptable?
+
+A water puddle inside the lamp. Streaks, drip marks or large droplets present on the interior of the lens.
+
+##### What should I do if unacceptable condensation is present?
+
+Have your vehicle checked as soon as possible.
+
+##### Why do my headlamps turn off when I have them switched on when I switch my vehicle off?
+
+The battery saver turns the headlamps off after a short period of time after you switch your vehicle off.
+
+### AUTOLAMPS
+
+#### WHAT ARE AUTOLAMPS
+
+WARNING: The system does not relieve you of your responsibility to drive with due care and attention. You may need to override the system if it does not turn the headlamps on in low visibility conditions, for example daytime fog.
+
+Autolamps turn the headlamps on in low light situations or when the windshield wipers operate.
+
+#### AUTOLAMP SETTINGS
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Lighting.
+4. Press Autolamp Delay.
+5. Press a setting.
+
+### EXTERIOR LAMPS
+
+#### SWITCHING THE TURN SIGNAL LAMPS ON AND OFF
+
+E24276
+
+Push the lever up or down to switch the turn signal lamps on.
+
+Set the lever to the middle position to switch the turn signal lamps off.
+
+Note: Tap the lever up or down to make the turn signal lamps flash three times.
+
+#### SWITCHING THE DAYTIME RUNNING LAMPS ON AND OFF VEHICLES WITH: DAYTIME RUNNING LAMPS (DRL)
+
+WARNING: The daytime running lamps system does not activate the rear lamps and may not provide adequate lighting during low visibility driving conditions. Make sure you switch the headlamps on, as appropriate, during all low visibility conditions. Failure to do so may result in a crash.
+
+Daytime running lamps are always on unless you switch on the headlamps or your vehicle is in park (P).
+
+#### SWITCHING THE DAYTIME RUNNING LAMPS ON AND OFF VEHICLES WITH: CONFIGURABLE DAYTIME RUNNING LAMPS
+
+WARNING: The daytime running lamps system does not activate the rear lamps and may not provide adequate lighting during low visibility driving conditions. Make sure you switch the headlamps on, as appropriate, during all low visibility conditions. Failure to do so may result in a crash.
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Lighting.
+4. Switch Daytime Running Lights on or off.
+
+The daytime running lamps turn on when all of the following occur:
+
+- You switch the system on.
+- You switch your vehicle on.
+- The transmission is not in park (P) for vehicles with automatic transmissions or you release the parking brake for vehicles with manual transmissions.
+- The lighting control is in the autolamps position.
+- The headlamps are off.
+
+Note: Other lighting control positions do not turn on the daytime running lamps.
+
+#### SWITCHING THE FRONT FOG LAMPS ON AND OFF (If Equipped)
+
+The front fog lamp button is on the lighting control.
+
+Press the button to switch the front fog lamps on or off.
+
+### EXTERIOR LAMP INDICATORS
+
+#### Front Fog Lamp
+
+It illuminates when you switch the front fog lamps on.
+
+#### Turn Signal Lamp
+
+It flashes when you switch the turn signal lamps on.
+
+Note: An increase in the rate of flashing warns of a failed turn signal lamp.
+
+### EXTERIOR LAMP AUDIBLE WARNING
+
+#### Exterior Lamps On
+
+Sounds when you open the driver door and the exterior lamps are on.
+
+### AUTOMATIC HIGH BEAM CONTROL
+
+#### HOW DOES AUTOMATIC HIGH BEAM CONTROL WORK
+
+Automatic high beam control turns the high beams on if it is dark enough and no other traffic is present. If it detects an approaching vehicle's headlamps or tail lamps, or street lighting ahead, the system turns the high beams off.
+
+A camera sensor, centrally mounted behind the windshield of your vehicle, continuously monitors conditions to turn the high beams on and off.
+
+E327596
+
+- Without automatic high beam control. A
+- With automatic high beam control. B
+
+#### AUTOMATIC HIGH BEAM CONTROL PRECAUTIONS
+
+#### AUTOMATIC HIGH BEAM CONTROL REQUIREMENTS
+
+The system turns the high beams on if all of the following occur:
+
+- You switch the system on.
+- You set the lighting control to the autolamps position.
+## AUTOMATIC HIGH BEAM CONTROL
+
+### Conditions for High Beam Activation
+- The ambient light level is low enough that you require high beams.
+- There is no traffic in front of your vehicle.
+- The vehicle speed is greater than approximately 32 mph (52 km/h).
+
+### Conditions for High Beam Deactivation
+The system turns the high beams off if any of the following occur:
+- You switch the system off.
+- You set the lighting control to any position except autolamps.
+- The ambient light level is high enough that you do not require high beams.
+- The system detects an approaching vehicle's headlamps or a leading vehicle's tail lamps.
+- The system detects severe rain, snow or fog.
+- The system detects street lighting.
+- The camera has reduced visibility.
+- The vehicle speed falls below approximately 27 mph (44 km/h).
+
+### Switching Automatic High Beam Control On and Off
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Lighting.
+4. Switch Auto Highbeam on or off.
+
+### Automatic High Beam Control Indicators
+Illuminates to confirm when the system is ready to assist.
+
+### Overriding Automatic High Beam Control
+Push the lever away from you to switch the high beams on.  
+Push the lever away from you again to switch the high beams off.  
+Push the lever away from you for a third time to switch automatic high beam control back on.
+
+### Automatic High Beam Control - Troubleshooting
+
+### Automatic High Beam Control - Information Messages
+| Message                                     | Description                                                                                                                                                               |
+|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Front Camera LowVisibility Clean Screen     | The camera has reduced visibility. Clean the windshield. If the message continues to appear, have your vehicle checked as soon as possible.                                |
+| Front Camera Temporarily Not Available      | The camera has malfunctioned. Wait a short period of time for the camera to cool down. If the message continues to appear, have your vehicle checked as soon as possible. |
+| Front Camera Malfunction Service Required   | The camera has malfunctioned. Have your vehicle checked as soon as possible.                                                                                              |
+
+## INTERIOR LIGHTING
+
+### Switching All of the Interior Lamps On and Off
+The lamps turn on under the following conditions:
+- You open any door.
+- You press a button on the remote control.
+- You press the all lamps on button on the overhead console.
+
+Press to switch all interior lamps on or off.
+
+### Switching the Front Interior Lamps On and Off
+Press the edge of the lamp lens.
+
+### Switching the Rear Interior Lamps On and Off
+Press the edge of the lamp lens.  
+Note: If you switch the rear lamps on through the overhead console, you cannot switch them off with the rear lamp switch.
+
+### Interior Lamp Function
+The interior lamp function switches the courtesy and door lamps on or off.
+
+### Switching the Interior Lamp Function On and Off
+Set the switch to the middle position.
+
+### Adjusting the Instrument Panel Lighting Brightness
+The instrument lighting dimmer buttons are on the lighting control.  
+Repeatedly press one of the buttons to adjust the brightness.
+
+### Ambient Lighting
+
+#### Switching Ambient Lighting On and Off
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Ambient Light.
+4. Switch Ambient Light on or off.
+
+#### Adjusting Ambient Lighting
+Drag the slider left or right.
+
+### Interior Lighting Troubleshooting
+
+### Interior Lighting Frequently Asked Questions
+#### Why do my courtesy lamps or interior lamps turn off when I have them switched on when I switch my vehicle off?
+The battery saver turns the courtesy lamps and interior lamps off after a short period of time after you switch your vehicle off.
+
+## OPENING AND CLOSING THE WINDOWS
+
+### Warnings
+WARNING: Do not leave children unattended in your vehicle and do not let them play with the power windows. Failure to follow this instruction could result in personal injury.  
+WARNING: When closing the power windows, verify they are free of obstruction and make sure that children and pets are not in the proximity of the window openings.
+
+Press the window control switch to open the window. Lift the window control switch to close the window.  
+To reduce wind noise or pulsing noise when just one window is open, slightly open the opposite window.
+
+### One-Touch Down (If Equipped)
+Press the window control switch fully and release it. Press again or lift it to stop the window.
+
+### One-Touch Up (If Equipped)
+Lift the window control switch fully and release it. Press or lift it again to stop the window.
+
+### Resetting One-Touch Up
+Start the engine.
+1. Lift and hold the window control switch until you fully close the door window. Continue to hold the window control switch for a few seconds after you close the window.
+2. Release the window control switch.
+3. Press and hold the window control switch until you fully open the door window.
+4. Release the window control switch.
+5. Lift and hold the window control switch until you fully close the window.
+6. Test for correct window operation by carrying out the one-touch down and one-touch up features.
+
+### Accessory Delay
+The window switches remain operational for several minutes when you switch the ignition off or until you open either front door.
+
+### Window Bounce-Back (If Equipped)
+
+#### What is Window Bounce-Back
+The window stops and reverses some distance if it detects an obstacle when closing.
+
+#### Overriding Window Bounce-Back
+WARNING: If you override bounce-back, the window does not reverse if it detects an obstacle. Take care when closing the windows to avoid personal injury or damage to your vehicle.  
+WARNING: Bounce-back is off until you reset the memory. Take care when closing the windows to avoid personal injury or damage to your vehicle.  
+Note: The window stops if you release the switch before the window fully closes.
+
+Pull up the window switch and hold within a few seconds of the window reaching the bounce-back position. The window travels up with no bounce-back protection. The window stops if you release the switch before the window fully closes.
+
+### Locking the Rear Window Controls
+Press the control to lock or unlock the rear window controls.  
+It illuminates when you lock the rear window controls.
+
+## INTERIOR MIRROR PRECAUTIONS
+WARNING: Do not adjust the mirrors when your vehicle is moving. This could result in the loss of control of your vehicle, serious personal injury or death.  
+Note: Do not clean the mirror housing or glass with harsh abrasives, fuel or other petroleum-based cleaning products.
+
+### Manually Dimming the Interior Mirror
+Pull the tab below the mirror toward you to reduce glare at night.
+
+### Auto-Dimming Interior Mirror (If Equipped)
+
+#### What is the Auto-Dimming Interior Mirror
+The mirror dims to reduce the effect of bright light from behind. It returns to normal when the bright light from behind is no longer present or when you shift into reverse (R).
+
+#### Auto-Dimming Interior Mirror Limitations
+Do not block the sensors on the front and back of the mirror.  
+Note: A rear center passenger or raised rear center head restraint could prevent light from reaching the sensor.
+
+### Adjusting the Exterior Mirrors
+WARNING: Do not adjust the mirrors when your vehicle is moving. This could result in the loss of control of your vehicle, serious personal injury or death.
+## MIRROR ADJUSTMENT
+
+E303926
+
+- Left-hand mirror. A
+- Right-hand mirror. B
+
+E30392
+
+To adjust your mirrors, switch your vehicle on, with the ignition in accessory mode or the engine running.
+
+1. Select the mirror you want to adjust. The control light turns on.
+2. Use the adjustment control to adjust the position of the mirror.
+3. Press the mirror control again. The control light turns off.
+
+## FOLDING THE EXTERIOR MIRRORS
+
+Push the mirror toward the door window glass. Make sure that you fully engage the mirror in its support when returning it to its original position.
+
+## OPENING AND CLOSING THE SUN SHADE
+
+WARNING: Do not leave children unattended in your vehicle and do not let them play with the sun shades. Failure to follow this instruction could result in personal injury.
+
+The controls are on the overhead console.
+
+### Opening the Sun Shade
+
+Press and release the switch to activate the one-touch open feature. To stop movement, press the switch a second time. The sun shade also opens when you open the moonroof.
+
+Note: The sun shade stops short of its fully opened position for the comfort of rear passengers. To fully open the sun shade, press the switch again.
+
+### Closing the Sun Shade
+
+Press and release the switch to activate the one-touch close feature. To stop movement, press the switch a second time.
+
+## OPENING AND CLOSING THE MOONROOF
+
+WARNING: Do not leave children unattended in your vehicle and do not let them play with the moonroof. Failure to follow this instruction could result in personal injury.
+
+WARNING: When closing the moonroof, verify that it is free of obstruction and make sure that children and pets are not in the proximity of the roof opening.
+
+The controls are on the overhead console.
+
+### Opening the Moonroof
+
+Press and release the switch to activate the one-touch open feature. To stop movement, press the switch a second time.
+
+Note: The moonroof stops short of the fully opened position to reduce wind noise or rumbling that may happen with the moonroof fully open.
+
+Press and release the switch again to fully open the moonroof.
+
+### Closing the Moonroof
+
+Press and release the switch to activate the one-touch close feature, from either the open or vent positions. To stop movement, press the switch a second time.
+
+## VENTING THE MOONROOF
+
+WARNING: Do not leave children unattended in your vehicle and do not let them play with the moonroof. Failure to follow this instruction could result in personal injury.
+
+The moonroof controls are on the overhead console.
+
+### Moonroof (If Equipped)
+
+With the moonroof in the closed position, press and release the switch to vent the moonroof. To close the moonroof from the vent position, press and release the switch again.
+
+## MOONROOF BOUNCE-BACK
+
+### WHAT IS MOONROOF BOUNCEBACK
+
+The moonroof stops and reverses some distance if it detects an obstacle when closing.
+
+### OVERRIDING MOONROOF BOUNCE-BACK
+
+Press and hold the close button within two seconds after the moonroof comes to a stop.
+
+## INSTRUMENT CLUSTER OVERVIEW
+
+### HYBRID ELECTRIC VEHICLE (HEV), VEHICLES WITH: 6.5 INCH INSTRUMENT CLUSTER DISPLAY SCREEN
+
+- Power gauge. A
+- Information bar. B
+- Speedometer. C
+- Fuel gauge. D
+- Vehicle driving range. E
+- Instrument cluster display. F
+- Engine coolant temperature gauge. G
+
+### HYBRID ELECTRIC VEHICLE (HEV), VEHICLES WITH: 12.3 INCH INSTRUMENT CLUSTER DISPLAY SCREEN
+
+- Coolant temperature gauge. A
+- Speedometer. B
+- Information bar. C
+- Instrument cluster display. D
+- Vehicle driving range. E
+- Power gauge. F
+- Fuel gauge. G
+
+### GASOLINE, VEHICLES WITH: 4.2 INCH INSTRUMENT CLUSTER DISPLAY SCREEN
+
+- Tachometer. A
+- Instrument cluster display. B
+- Speedometer. C
+- Fuel gauge. D
+- Engine coolant temperature gauge. E
+
+### GASOLINE, VEHICLES WITH: 6.5 INCH INSTRUMENT CLUSTER DISPLAY SCREEN
+
+- Tachometer. A
+- Information bar. B
+- Speedometer. C
+- Fuel gauge. D
+- Instrument cluster display. E
+- Engine coolant temperature gauge. F
+
+### GASOLINE, VEHICLES WITH: 12.3 INCH INSTRUMENT CLUSTER DISPLAY SCREEN
+
+- Engine coolant temperature gauge. A
+- Speedometer. B
+- Information bar. C
+- Instrument cluster display. D
+- Tachometer. E
+- Fuel gauge. F
+
+### PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV), VEHICLES WITH: 6.5 INCH INSTRUMENT CLUSTER DISPLAY SCREEN
+
+- Power gauge. A
+- Information bar. B
+- Speedometer. C
+- Fuel gauge. D
+- Battery gauge and vehicle driving range. E
+- Instrument cluster display. F
+- Engine coolant temperature gauge. G
+
+### PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV), VEHICLES WITH: 12.3 INCH INSTRUMENT CLUSTER DISPLAY SCREEN
+
+- Coolant temperature gauge. A
+- Speedometer. B
+- Information bar. C
+- Instrument cluster display. D
+- Battery gauge and vehicle driving range. E
+- Power gauge. F
+- Fuel gauge. G
+
+## TACHOMETER
+
+### EXCLUDING: HYBRID ELECTRIC VEHICLE (HEV)/PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV) (IF EQUIPPED)
+
+Indicates the engine speed.
+
+## POWER GAUGE
+
+### HYBRID ELECTRIC VEHICLE (HEV)/ PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV), VEHICLES WITH: 6.5 INCH INSTRUMENT CLUSTER DISPLAY SCREEN (IF EQUIPPED)
+
+The power gauge displays power to the wheels when accelerating or maintaining speed. When slowing down by lifting your foot off the accelerator pedal or pressing the brake, the gauge displays the power captured by the regenerative braking system and returned to the high voltage battery.
+
+### HYBRID ELECTRIC VEHICLE (HEV)/ PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV), VEHICLES WITH: 12.3 INCH INSTRUMENT CLUSTER DISPLAY SCREEN (IF EQUIPPED)
+
+The power gauge displays power to the wheels when accelerating or maintaining speed. The high voltage battery power and engine power contributions are distinguished by color and added together to indicate total power to the wheels. When slowing down by lifting your foot off the accelerator pedal or pressing the brake, the gauge displays the power captured by the regenerative braking system and returned to the high voltage battery.
+
+## SPEEDOMETER
+
+Indicates the vehicle speed.
+
+## FUEL GAUGE
+
+### WHAT IS THE FUEL GAUGE
+
+Indicates approximately how much fuel is in the fuel tank.
+
+### FUEL GAUGE LIMITATIONS
+
+The fuel gauge may not provide an accurate reading when your vehicle is on an incline.
+
+### LOCATING THE FUEL FILLER DOOR
+
+The arrow adjacent to the fuel pump symbol indicates on which side of your vehicle the fuel filler door is located.
+
+### WHAT IS THE LOW FUEL REMINDER
+
+A low fuel level reminder displays and sounds when the distance to empty reaches 75 mi (120 km) to empty for MyKey, and at 50 mi (80 km), 25 mi (40 km), 12 mi (20 km) and 0 mi (0 km) for all vehicle keys.
+
+Note: The low fuel reminder can appear at different fuel gauge positions depending on fuel economy conditions. This variation is normal.
+
+### WHAT IS DISTANCE TO EMPTY GASOLINE, HYBRID ELECTRIC VEHICLE (HEV)
+
+Indicates the approximate distance your vehicle can travel on the fuel remaining in the tank. Changes in driving pattern can cause the value to not only decrease but also increase or stay constant for periods of time.
+
+## VEHICLE RANGE DISPLAY PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+For plug-in hybrid vehicles, electric only driving range is displayed in addition to the gasoline distance to empty. Vehicle range indicates the estimated distance your vehicle can travel with the energy currently onboard. Estimates vary based on the energy used when driving.
+## CHANGES IN DRIVING PATTERN
+
+Changes in driving pattern can cause the values to not only decrease but also increase or stay constant for periods of time.
+
+The amount of energy being used when driving is affected by:
+
+- Mild or aggressive acceleration or braking.
+- Your vehicle's speed.
+- Use of accessories, such as climate control.
+- Ambient temperature and weather conditions.
+- Driving in a city or on a highway.
+- Driving on hilly road conditions.
+
+Note: It is normal for vehicle range estimates to vary due to changes in average energy usage. This could cause different range estimates each time you fully charge your battery or fill your tank.
+
+## HIGH VOLTAGE BATTERY GAUGE - PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+The high voltage battery gauge displays the total amount of charge associated with your available electric only driving range. A full fill represents the total amount of energy you can get from an external charge, plugging your vehicle in. When the fill reaches empty the powertrain system switches to hybrid mode. See Hybrid Electric Vehicle Information (page 179).
+
+## ENGINE COOLANT TEMPERATURE GAUGE
+
+Indicates the engine coolant temperature.
+
+## WHAT IS THE INFORMATION BAR
+
+The information bar displays information related to the ambient air temperature, odometer, compass, indicators and warning lamps.
+
+## WHAT ARE THE INSTRUMENT CLUSTER WARNING LAMPS
+
+Warning lamps alert you to a vehicle condition that could become serious. Some lamps illuminate when you start your vehicle to make sure they work. If any lamps remain on after starting your vehicle, refer to the respective system warning lamp for further information.
+
+## INSTRUMENT CLUSTER WARNING LAMPS
+
+### Anti-Lock Braking System
+
+If it illuminates when you are driving, this indicates your vehicle requires service. Your vehicle continues to have normal braking without the anti-lock brake system function. Have your vehicle checked as soon as possible.
+
+### Battery
+
+It illuminates when you switch the ignition on. If it illuminates when the engine is running, this indicates your vehicle requires service. Have your vehicle checked as soon as possible.
+
+### Brake System
+
+It illuminates when you apply the parking brake and the ignition is on. If it illuminates when your vehicle is moving, make sure the parking brake is released. If the parking brake is released, this indicates low brake fluid level or the brake system requires service. Have your vehicle checked as soon as possible.
+
+Note: Indicators may vary depending on region.
+
+### Door Ajar
+
+It illuminates when you switch the ignition on and remains on if any door is open.
+
+### Electric Park Brake
+
+It illuminates or flashes when the electric parking brake requires service. Have your vehicle checked as soon as possible.
+
+### Engine or Motor Coolant Temperature
+
+If it illuminates, safely stop your vehicle and switch your vehicle off. Have your vehicle checked as soon as possible.
+
+### Fasten Seatbelt
+
+It illuminates and a tone sounds until you fasten the seatbelts.
+
+### Fasten Rear Seatbelt
+
+It illuminates and a tone sounds until you fasten the rear seatbelts.
+
+### High Voltage Electric System Failure
+
+It illuminates if your vehicle has an electrical component fault or failure that causes your vehicle to shutdown or enter a limited operating mode. A message may appear in the instrument cluster display.
+
+### Hood Ajar
+
+It illuminates when the ignition is on and the hood is not completely closed.
+
+### Liftgate Ajar
+
+It illuminates when the ignition is on and the liftgate is not completely closed.
+
+### Low Beam Warning
+
+It illuminates when the low beam headlamp requires service. Have the system checked as soon as possible.
+
+### Low Fuel Level
+
+It illuminates when the fuel level is low.
+
+### Low Tire Pressure Warning
+
+It illuminates when your tire pressure is low. If illuminated, check your tire pressure as soon as possible. If it begins to flash at any time, have the system checked as soon as possible.
+
+### Low Washer Fluid
+
+It illuminates when the washer fluid is low.
+
+### Malfunction Indicator Lamp
+
+It illuminates when the ignition is on and the engine is off, this is normal operation. If it illuminates when the engine is on this indicates that the emission control system requires service. If it flashes, have your vehicle checked immediately. See Starting and Stopping the Engine - Warning Lamps (page 176).
+
+### Oil Pressure
+
+It illuminates when the engine oil pressure is low.
+
+### Powertrain Fault
+
+Illuminates when the powertrain requires service. Have the system checked as soon as possible.
+
+### Vehicle Plugged In (If Equipped)
+
+It illuminates when your vehicle is plugged in.
+
+## WHAT ARE THE INSTRUMENT CLUSTER INDICATORS
+
+Indicators notify you of various features that are active on your vehicle.
+
+## INSTRUMENT CLUSTER INDICATORS
+
+### Adaptive Cruise Control
+
+### Automatic High Beam Control
+
+### Auto Hold
+
+### Auto-Start-Stop
+
+### Blind Spot Monitor
+
+### Cruise Control
+
+### EV Charge
+
+### EV Later
+
+### EV Now
+
+### Front Airbag
+
+### Front Fog Lamps
+
+### High Beam
+
+### Lamps On
+
+### Ready to Drive
+
+### Stability Control
+
+### Turn Signal
+
+## INSTRUMENT CLUSTER DISPLAY
+
+## USING THE INSTRUMENT CLUSTER DISPLAY CONTROLS
+
+WARNING: Driving while distracted can result in loss of vehicle control, crash and injury. We strongly recommend that you use extreme caution when using any device that may take your focus off the road. Your primary responsibility is the safe operation of your vehicle. We recommend against the use of any hand-held device while driving and encourage the use of voice-operated systems when possible. Make sure you are aware of all applicable local laws that may affect the use of electronic devices while driving.
+
+The controls are on the steering wheel.
+
+- Return button. A
+- OK button. B
+- Menu button. C
+
+### Return Button
+
+Press to go back or exit a menu.
+
+### OK Button
+
+Press to make a selection.
+
+### Toggle Buttons
+
+Press the toggle up or down button to scroll through menu items.
+
+### Status Indicator
+
+Menu items with a check box indicate a feature's status. A check in the box indicates the feature is on, and unchecked indicates the feature is off.
+
+## INSTRUMENT CLUSTER DISPLAY MAIN MENU VEHICLES WITH: 6.5 INCH INSTRUMENT CLUSTER DISPLAY SCREEN
+
+| MenuItem       |
+|----------------|
+| Select Screens |
+| Audio          |
+| Navigation     |
+| Phone          |
+| Settings       |
+| Display Setup  |
+## Instrument Cluster Display
+
+| MenuItem       | MenuItem   |
+|----------------|------------|
+| Trip 1         | Trip 1     |
+| MyView         | MyView     |
+| Driver Assist. |            |
+| Navigation     | Navigation |
+| Audio          | Audio      |
+| Phone          | Phone      |
+| Settings       | Settings   |
+
+Depending on your vehicle options, some menu items can appear different or not at all.
+
+Note: For your safety, some features are speed-dependent and could be unavailable when your vehicle is above a certain speed.
+
+| MenuItem       |
+|----------------|
+| Select Screens |
+| Phone          |
+| Navigation     |
+
+| MenuItem      |
+|---------------|
+| Audio         |
+| Settings      |
+| Display Setup |
+
+## Customizing the Instrument Cluster Display
+
+1. Using the information display controls on the steering wheel, select MyView.
+2. Press the menu button.
+3. Select a screen.
+4. Press the OK button.
+
+## Adding Screens Using Select Screens
+
+1. Select Select Screens.
+2. Use the controls on the steering wheel to highlight a screen to add.
+3. Press the OK button.
+
+Note: The amount of screens you can add is limited; if the selected screen does not appear, you must deselect screens from the select screens menu.
+
+## Select Screens Options
+
+| Select Screens      |
+|---------------------|
+| Calm Screen         |
+| Fuel Economy        |
+| Trip 1              |
+| Trip 2              |
+| This Trip           |
+| Traffic Signs       |
+| EV Coach            |
+| Electric Efficiency |
+| Eco Behavior        |
+| Tire Pressure       |
+| Intelligent4WD      |
+| Off-Road            |
+| Trailer Light Check |
+| Seatbelts           |
+| Average Speed       |
+| Auto Startstop      |
+
+Note: Some options may appear slightly different or not at all if items are optional.
+
+## Configuring Gauges
+
+1. Select Display Setup.
+2. Select a setting.
+
+## Personalized Settings
+
+### Changing the Instrument Cluster Display Language
+
+You can change the language using the instrument cluster display.
+
+1. Select Settings and press the menu button.
+2. Select Display.
+3. Select Language.
+4. Select a language.
+
+You can change the language using the touchscreen.
+
+1. Press General.
+2. Press Language.
+3. Select a language.
+
+Note: Available languages vary by region.
+
+### Changing the Measure Unit
+
+You can change the measurement unit using the instrument cluster display.
+
+1. Select Settings and press the menu button.
+2. Select Display.
+3. Select Measurement Unit.
+4. Select a measurement unit.
+
+You can change the measurement unit using the touchscreen.
+
+1. Press General.
+2. Press Measurement Units.
+3. Select a measurement unit.
+
+### Changing the Temperature Unit
+
+You can change the temperature unit using the instrument cluster display.
+
+1. Select Settings and press the menu button.
+2. Select Display.
+3. Select Temperature Unit.
+4. Select a temperature unit.
+
+You can change the temperature unit using the touchscreen.
+
+1. Press General.
+2. Press Temperature Units.
+3. Select a temperature unit.
+
+### Changing the Tire Pressure Unit
+
+You can change the tire pressure unit using the instrument cluster display.
+
+1. Select Settings and press the menu button.
+2. Select Display.
+3. Select Tire Pressure.
+4. Select a tire pressure unit.
+
+You can change the tire pressure unit using the touchscreen.
+
+1. Press General.
+2. Press Tire Pressure Units.
+3. Select a pressure unit.
+
+## Fuel Economy Display
+
+An instant fuel economy gauge is provided along with average fuel economy. Average fuel economy is continuously averaged since the last reset.
+
+When the gasoline engine is off, the instant fuel economy gauge is replaced with an electric driving message.
+
+Note: Press and hold the OK button on the controls on the steering wheel to reset your average fuel economy.
+
+### Fuel Economy Display Plug-In Hybrid Electric Vehicle (PHEV)
+
+An instant fuel economy gauge is provided along with average fuel economy. Average fuel economy is continuously averaged since the last reset.
+
+Both the electric only and hybrid operation are included in the calculation. More electric only driving results in a greater average fuel economy.
+
+When the gasoline engine is off, the instant fuel economy gauge is replaced with an electric driving message.
+
+Note: Press and hold the OK button on the controls on the steering wheel to reset your average fuel economy.
+
+### Fuel Economy Display Gasoline
+
+An instant fuel economy gauge is provided along with average fuel economy. Average fuel economy is continuously averaged since the last reset.
+
+Note: Press and hold the OK button on the controls on the steering wheel to reset your average fuel economy.
+
+## EV Coach - Hybrid Electric Vehicle (HEV)/Plug-In Hybrid Electric Vehicle (PHEV)
+
+EV coach can help you get the most out of your vehicle's electric driving capabilities.
+
+Note: EV coach is a selectable screen. See Customizing the Instrument Cluster Display.
+
+When you are accelerating or maintaining speed, you see a blue or white solid bar indicating vehicle power. You may also see a blue rectangular box which shows the power level at which the engine turns on.
+
+- When the power level is within the box, the color of the bar is blue. This means you are in electric operation and the engine is off.
+- When the power level is outside of the box, the color of the bar is white. This means you are in hybrid operation with a combination of the electric motor and the engine providing vehicle power.
+
+When you are decelerating with either your foot off the accelerator pedal or on the brake pedal, a green or white solid bar displays indicating the power being used to slow down your vehicle. You may also see a green rectangular box which shows the amount of power that can be recaptured by the regenerative braking system and returned to the high voltage battery.
+
+- When the power level is within the box, the color of the bar will be all green. This means that the regenerative braking system is being used to efficiently slow your vehicle down and return the maximum percentage of energy to the high voltage battery.
+- When the power level is outside of the box, then the bar is white. This means both the regenerative braking system and conventional braking system are being used.
+
+## What is Electric Efficiency - Plug-In Hybrid Electric Vehicle (PHEV)
+
+This screen shows your average driving distance per kilowatt-hour of electricity used on your plug-in hybrid vehicle. The value is calculated only when your available electric range is being used and the gasoline engine is off.
+## DISTANCE PER FULL CHARGE
+
+Distance per full charge is also shown. This is an estimate of the electric range you would have if you plugged in and fully charged your vehicle right now. The higher your electric efficiency, the higher your distance per full charge.
+
+Your electric efficiency is affected by your driving style and route, climate control use, outside temperature and other factors. Best efficiency is achieved with mild to moderate acceleration and braking, moderate speeds and low climate control usage.
+
+Note: Electric efficiency is a selectable screen. See Customizing the Instrument Cluster Display (page 124).
+
+## WHAT IS BRAKE COACH HYBRID ELECTRIC VEHICLE (HEV)/PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+The brake coach appears after your vehicle has come to a stop. It coaches you to brake in a manner that maximizes the amount of energy returned through the regenerative braking system.
+
+The percent displayed is an indication of the regenerative braking efficiency with 100% representing the maximum amount of energy recovered. You can switch brake coach on or off in the settings menu. See Instrument Cluster Display Main Menu (page 124).
+
+## WHAT IS THE TRIP SUMMARY - HYBRID ELECTRIC VEHICLE (HEV)/PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+The trip summary displays upon shutting off your vehicle. The values are cumulative since you last started your vehicle.
+
+The information shown is the same as the This Trip screen. See Trip Data (page 129).
+
+## VEHICLE CHARGING STATUS - PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+The vehicle charge status displays when you switch off your vehicle and when you switch on your vehicle when plugged in. Charging status includes the charge start or charge end time as appropriate. You can modify your charge settings though the touchscreen. See SYNC™ 3 (page 431).
+
+## TRIP COMPUTER
+
+### ACCESSING THE TRIP COMPUTER - VEHICLES WITH: 4.2 INCH INSTRUMENT CLUSTER DISPLAY SCREEN
+
+1. Press and hold the OK button until the system reset confirmation appears.
+2. Use the instrument cluster display controls to navigate the home screen.
+3. Select the trip screen.
+4. Press the menu button on the steering wheel.
+5. Select Trip 1 or Trip 2.
+
+### ACCESSING THE TRIP COMPUTER - VEHICLES WITH: 6.5 INCH INSTRUMENT CLUSTER DISPLAY SCREEN/ 12.3 INCH INSTRUMENT CLUSTER DISPLAY SCREEN
+
+### USING SELECT SCREENS
+
+1. Use the instrument cluster display controls to navigate the home menu.
+2. Select Select Screens.
+3. Use the control on the steering wheel to navigate the menu. See Customizing the Instrument Cluster Display (page 124).
+
+### USING THE HOME SCREEN
+
+Once the screens have been added, use the instrument cluster display controls on the steering wheel to view each trip screen.
+
+### RESETTING THE TRIP COMPUTER
+
+1. Use the instrument cluster display controls to navigate the home screen.
+2. Select the trip screen you want to reset.
+
+### RESETTING THE INDIVIDUAL TRIP VALUES - VEHICLES WITH: 4.2 INCH INSTRUMENT CLUSTER DISPLAY SCREEN
+
+1. Use the instrument cluster display controls to navigate the home screen.
+2. Select the trip screen.
+3. Press the menu button on the steering wheel.
+4. Select Reset Individual Values.
+5. Select a trip value to reset.
+6. Press and hold the OK button until the system reset confirmation appears.
+
+### CONFIGURING THE TRIP COMPUTER - VEHICLES WITH: 4.2 INCH INSTRUMENT CLUSTER DISPLAY SCREEN
+
+1. Use the instrument cluster display controls to navigate the home screen.
+2. Select the trip screen.
+3. Press the menu button on the steering wheel.
+4. Select Configure View.
+5. Select values to display.
+
+## TRIP DATA
+
+### Trip 1 and 2
+
+Provides trip timer, trip average fuel economy and total trip distance traveled. For hybrid vehicles, the trip also shows the distance traveled on electric power only.
+
+Note: Trip 1 and 2 are selectable screens. See Accessing the Trip Computer (page 129).
+
+### This Trip
+
+Provides trip timer, trip average fuel economy, total trip distance traveled, and distance traveled on electric power only with the engine off. If the gasoline engine has not turned on during the trip then trip average fuel economy is not shown. This Trip resets each time you start your vehicle.
+
+Note: This trip is a selectable screen. See Accessing the Trip Computer (page 129).
+
+## HEAD UP DISPLAY (IF EQUIPPED)
+
+### WHAT IS THE HEAD UP DISPLAY
+
+The system displays information on a display screen in your field of vision, allowing you to keep your eyes on the road. You can select which information the system displays.
+
+### SWITCHING THE HEAD UP DISPLAY ON AND OFF
+
+Press the button on the steering wheel or center console.
+
+### HEAD UP DISPLAY SETTINGS
+
+| MenuItem      | Action                                                                                                                                                                                                                                                             |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Adjustment    | Press the OK button.                                                                                                                                                                                                                                               |
+| Position      | 1. Press the OK button. 2. Use the up and down toggle buttons to adjust the vertical position of the blue frame. • Make sure that you can see all of the blue frame. • Donot physically movethe screen. This can cause damage not covered by the vehicle Warranty. |
+| Brightness    | 1. Press the OK button. 2. Use the up and down toggle buttons to adjust the brightness of the display screen. • The system adjusts the brightness based on how dark it is. If you set the brightness to a high level, the system reduces the brightness at night.  |
+| Vertical Size | 1. Press the OK button. 2. Use the up and down toggle buttons to adjust the vertical size of the display screen. • Asmall vertical size could be more suitable if you sit in a high position.                                                                      |
+
+Note: The head up display menu appears in the information display.
+
+| MenuItem              | Action               |
+|-----------------------|----------------------|
+| Head-Up Display (HUD) | Press the OK button. |
+| Head-Up Display (HUD) | Press the OK button. |
+
+Note: The system remembers the last setting when you start the engine.
+
+### SELECTING WHICH INFORMATION THE SYSTEM DISPLAYS
+
+Start the engine and switch the system on.
+
+Note: Press the head up display button if you do not see the head up display menu in the instrument cluster display.
+
+Note: For your safety, some features are speed-dependent. The system limits their use to when your vehicle is not moving.
+
+Use the instrument cluster display controls on the steering wheel to select which information the system displays.
+
+| MenuItem               | Action               |
+|------------------------|----------------------|
+| Content                | Press the OK button. |
+| Distance Indication    | Press the OK button. |
+| Eco Advice             | Press the OK button. |
+| Incoming Calls         | Press the OK button. |
+| Lane Keeping System    | Press the OK button. |
+| Navigation             | Press the OK button. |
+| Speed Assistance       | Press the OK button. |
+| Speed Sign Recognition | Press the OK button. |
+
+### HEAD UP DISPLAY INDICATORS
+
+Note: The head up display indicator could illuminate to supplement an information message.
+
+### HEAD UP DISPLAY - TROUBLESHOOTING
+
+### HEAD UP DISPLAY - INFORMATION MESSAGES
+
+| Message                                                | Action                                                                                                                                                                                                                                                          |
+|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HeadUpDisplaySystemFaultSeeManual                      | Thesystemismalfunctioningorsomething is obstructing the display. Make sure that theheadupdisplayisfreefromobstruction. If the message continues to appear, have your vehicle checked as soon as possible.                                                       |
+| Head UpDisplay To Position Use the Information Display | Press the button on the steering wheel or center console. The head up display menu appears in the instrument cluster display. Makesure the blue frame is fully visible.Do not manually move the screen. This can causedamagenotcoveredbyyourvehicle's warranty. |
+## WHAT IS REMOTE START
+
+The system allows you to remotely start your vehicle and to adjust the interior temperature according to the settings that you chose.
+
+## REMOTE START PRECAUTIONS
+
+WARNING: Do not start the engine in a closed garage or in other enclosed areas. Exhaust fumes are toxic. Always open the garage door before you start the engine. Failure to follow this instruction could result in personal injury or death.
+
+## REMOTE START LIMITATIONS
+
+Remote start does not work under the following conditions:
+
+- The alarm horn is sounding.
+- The hood is open.
+- The transmission is not in park (P).
+- The ignition is on.
+- The battery voltage is below the minimum operating voltage.
+- Remote start is not enabled.
+
+Note: Do not use remote start if the fuel level is low.
+
+Note: You can use remote start with FordPass. See Connecting the Vehicle to a Wi-Fi Network (page 405).
+
+## ENABLING REMOTE START
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Remote Start Setup.
+4. Switch Remote Start on or off.
+
+Note: To remote start with FordPass, make sure that the modem is enabled. See Connected Vehicle Requirements (page 405).
+
+## REMOTELY STARTING AND STOPPING THE VEHICLE
+
+### Remotely Starting the Vehicle
+
+Press the button on the remote control.
+
+Within three seconds, press the button twice on the remote control.
+
+Note: You can also use the FordPass App to start the vehicle.
+
+Note: The turn signals flash twice.
+
+Note: The parking lamps turn on when the vehicle is running.
+
+Note: The horn sounds if the system fails to start.
+
+Note: All other vehicle systems remain off when you have remotely started the vehicle.
+
+Note: The vehicle remains secured when you have remotely started the vehicle. A valid key must be inside your vehicle to switch the ignition on and drive your vehicle.
+
+### Remotely Stopping the Vehicle
+
+Within three seconds, press the button twice on the remote control.
+
+## EXTENDING THE REMOTE START DURATION
+
+To extend the remote start duration during remote start, do the following:
+
+Press the button on the remote control.
+
+Within three seconds, press the button on the remote control.
+
+E138625 Within three seconds, press the button again.
+
+If the duration is set to 15 minutes, the duration extends by another 15 minutes. This provides a total of 30 minutes.
+
+Note: Remote start can only be extended once.
+
+Note: A maximum of two remote starts, or one remote start with an extension, are allowed. To reset the restart procedure switch the vehicle to on, then to off.
+
+## REMOTE START REMOTE CONTROL INDICATORS
+
+### Remote Control Feedback
+
+An LED on the remote control provides status feedback of remote start or stop commands.
+
+| LED             | Status                                |
+|-----------------|---------------------------------------|
+| Solid green.    | Remote start successful.              |
+| Solid red.      | Remote stop successful.               |
+| Blinking red.   | Request failed or status not received. |
+| Blinking green. | Status incomplete.                    |
+
+## REMOTE START SETTINGS
+
+### SWITCHING CLIMATE CONTROL AUTO MODE ON AND OFF
+
+1. Press Settings on the touchscreen.
+2. Press Remote Start Setup.
+3. Press Climate Control.
+4. Select Vehicle.
+5. Switch Auto on or off.
+
+Note: If you switch the auto mode on, the system attempts to heat or cool the interior to 72°F (22°C).
+
+Note: When you switch the ignition on, the climate control system returns to the last used settings.
+
+### SWITCHING CLIMATE CONTROL LAST SETTINGS ON AND OFF
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Remote Start Setup.
+4. Switch Last settings on or off.
+
+Note: If you switch the last settings on, the system remembers the last used settings.
+
+### SWITCHING THE HEATED SEAT SETTINGS ON AND OFF
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Remote Start Setup.
+4. Press Seats.
+5. Switch Auto on or off.
+
+Note: If you switch the heated seat settings on, the heated seats turn on during cold weather.
+
+### SWITCHING THE HEATED STEERING WHEEL SETTINGS ON AND OFF
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Remote Start Setup.
+4. Press Seats and Steering Wheel.
+5. Switch Auto on or off.
+
+Note: If you switch the heated steering wheel settings on, the heated steering wheel turns on during cold weather.
+
+### SETTING THE REMOTE START DURATION
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Press Remote Start Setup.
+4. Press Duration.
+
+Note: Wait a few seconds before remotely starting the vehicle after the vehicle stops running.
+
+## MANUAL CLIMATE CONTROL
+
+Note: Depending on your vehicle option package, the controls may look different from what you see here.
+
+### Directing the Airflow
+
+Press and release the button to direct airflow to the windshield air vents and de-mister.
+
+Press and release the button to direct airflow to the instrument panel air vents.
+
+Press and release the button to direct airflow to the footwell air vents.
+
+You can direct air through any combination of these air vents.
+
+### Setting the Blower Motor Speed
+
+Turn the control to adjust the volume of air circulated in the vehicle.
+
+### Setting the Temperature
+
+Turn the control to set the temperature.
+
+### Switching the Air Conditioning On and Off
+
+Press and release the button to switch the air conditioning on or off.
+
+Use air conditioning with recirculated air to improve cooling performance and efficiency.
+
+Note: In certain conditions, for example, maximum defrost, the air conditioning compressor may continue to operate even though you switch off the air conditioning.
+
+### Switching the Climate Control On and Off
+
+Press and release the button.
+
+### Switching Maximum Air Conditioning On and Off
+
+Turn the temperature control counterclockwise to the lowest setting for maximum cooling.
+
+The left-hand and right-hand settings set to LO, recirculated air flows through the instrument panel air vents, air conditioning turns on and the blower motor adjusts to the highest speed.
+
+### Switching Maximum Defrost On and Off
+
+Turn the temperature control clockwise to the highest setting for maximum defrosting.
+
+The left-hand and right-hand settings set to HI, air flows through the windshield air vents, and the blower motor adjusts to the highest speed. You can also use this setting to defog and clear the windshield of a thin covering of ice. The heated rear window also turns on when you select maximum defrost.
+
+Note: To prevent window fogging, you cannot select recirculated air when maximum defrost is on.
+
+### Switching Recirculated Air On and Off
+
+Press and release the button to switch between outside air and recirculated air.
+
+The air currently in the passenger compartment recirculates. This may reduce the time needed to cool the interior, when used with A/C, and reduce unwanted odors from entering your vehicle.
+
+Note: Recirculated air may turn off, or prevent you from switching on, in all air flow modes except MAX A/C to reduce the risk of fogging. Recirculation may also turn on and off in various air distribution control combinations during hot weather to improve cooling efficiency.
+
+## AUTOMATIC CLIMATE CONTROL - VEHICLES WITH: DUAL AUTOMATIC TEMPERATURE CONTROL (DATC)
+
+Note: Depending on your vehicle option package, the controls may look different from what you see here.
+
+Note: For Hybrid vehicles, the air conditioning compressor may run and airflow may be felt when the climate control is off to provide cooling to the battery.
+## Climate Control
+
+### Directing the Airflow
+
+Press and release the button to direct airflow to the windshield air vents and de-mister.
+
+Press and release the button to direct airflow to the instrument panel air vents.
+
+Press and release the button to direct airflow to the footwell air vents.
+
+You can direct air through any combination of these air vents.
+
+### Setting the Blower Motor Speed
+
+Press and release + or - to adjust the volume of air circulated in the vehicle.
+
+### Setting the Temperature
+
+Turn the control on the left-hand side of the climate control to set the left-hand temperature.
+
+Note: This control also sets the right-hand side temperature when you switch off dual zone mode.
+
+Turn the control on the right-hand side of the climate control to set the right-hand temperature.
+
+### Switching Auto Mode On and Off
+
+Press and release the button to switch on automatic operation. Repeatedly press the button to adjust auto mode.
+
+The system adjusts the blower motor speed, air distribution, air conditioning operation, and outside or recirculated air to reach and maintain the temperature you have set.
+
+Adjust the blower motor control to turn auto mode off.
+
+Note: The system starts at the previous setting when you switch on AUTO mode.
+
+### Auto Mode Indicator Status
+
+| AutoModeIndicator Status        | Description                                                                                                                                                                  |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| One indicator illuminated.       | • The blower motor speed is reduced. • Use this setting to minimize the amount of noise from the blower motor. • This setting increases the time taken to cool the interior.          |
+| Two indicators illuminated.      | • The blower motor speed is moderate.                                                                                                                                        |
+| Three indicators illuminated.    | • The blower motor speed is increased. • This setting increases the amount of noise from the blower motor. • Use this setting to reduce the time taken to cool the interior. |
+
+### Switching the Air Conditioning On and Off
+
+Press and release the button to switch the air conditioning on or off.
+
+Use air conditioning with recirculated air to improve cooling performance and efficiency.
+
+Note: In certain conditions, for example, maximum defrost, the air conditioning compressor may continue to operate even though you switch off the air conditioning.
+
+### Switching the Climate Control On and Off
+
+Press and release the button.
+
+Note: The button may be on the temperature control.
+
+### Switching Dual Zone Mode On and Off
+
+Press and release the button to switch on temperature control for the right-hand side of the vehicle.
+
+Note: The button may be on the temperature control.
+
+### Switching Maximum Air Conditioning On and Off
+
+Press and release the button for maximum cooling.
+
+The system sets the left-hand and right-hand settings to LO, recirculated air flows through the instrument panel air vents, air conditioning turns on and the blower motor adjusts to the highest speed.
+
+### Switching Maximum Defrost On and Off
+
+Press and release the button to switch on maximum defrost.
+
+The system sets the left-hand and right-hand settings to HI, air flows through the windshield air vents, and the blower motor adjusts to the highest speed. You can also use this setting to defog and clear the windshield of a thin covering of ice. The heated rear window also turns on when you select maximum defrost.
+
+Note: To prevent window fogging, you cannot select recirculated air when maximum defrost is on.
+
+### Switching Recirculated Air On and Off
+
+Press and release the button to switch between outside air and recirculated air.
+
+The air currently in the passenger compartment recirculates. This may reduce the time needed to cool the interior, when used with A/C, and reduce unwanted odors from entering your vehicle.
+
+Note: Recirculated air may turn off, or prevent you from switching on, in all air flow modes except MAX A/C to reduce the risk of fogging. Recirculation may also turn on and off in various air distribution control combinations to improve heating or cooling efficiency.
+
+## AUTOMATIC CLIMATE CONTROL - VEHICLES WITH: ELECTRONIC AUTOMATIC TEMPERATURE CONTROL (EATC)
+
+Note: Depending on your vehicle option package, the controls may look different from what you see here.
+
+Note: For Hybrid vehicles, the air conditioning compressor may run and airflow may be felt when the climate control is off to provide cooling to the battery.
+## Air Flow and Defrosting
+
+Air flows through the windshield air vents, and the blower motor adjusts to the highest speed. You can also use this setting to defog and clear the windshield of a thin covering of ice.
+
+### Important Notes
+- To prevent window fogging, you cannot select recirculated air when maximum defrost is on.
+- The heated rear window also turns on when you select maximum defrost.
+- Press and release the button to switch between outside air and recirculated air.
+- The air currently in the passenger compartment recirculates. This may reduce the time needed to cool the interior, when used with A/C, and reduce unwanted odors from entering your vehicle.
+- Recirculated air may turn off, or prevent you from switching on, in all air flow modes except MAX A/C to reduce the risk of fogging. Recirculation may also turn on and off in various air distribution control combinations to improve heating or cooling efficiency.
+- Prolonged use of recirculated air may cause the windows to fog up.
+- You may feel a small amount of air from the footwell air vents regardless of the air distribution setting.
+- To reduce humidity build-up inside your vehicle, do not drive with the system switched off or with recirculated air always switched on.
+- Do not place objects under the front seats as this may interfere with the airflow to the rear seats.
+- Remove any snow, ice or leaves from the air intake area at the base of the windshield.
+- To improve the time to reach a comfortable temperature in hot weather, drive with the windows open until you feel cold air through the air vents.
+- Adjusting the settings when your vehicle interior is extremely hot or cold is not necessary. Automatic mode is best recommended to maintain set temperature.
+- The system adjusts to heat or cool the interior to the temperature you select as quickly as possible.
+- For the system to function efficiently, the instrument panel and side air vents should be fully open.
+- If you select AUTO during cold outside temperatures, the system directs air flow to the windshield and side window air vents. In addition, the blower motor may run at a slower speed until the engine warms up.
+- If you select AUTO during hot temperatures and the inside of the vehicle is hot, the system uses recirculated air to maximize interior cooling. Blower motor speed may also reduce until the air cools.
+
+## Operating Instructions
+
+1. Press and release AUTO.
+2. Adjust the temperature function to the setting you prefer.
+
+1. Press and release AUTO.
+2. Adjust the temperature function to the setting you prefer. Use 72°F (22°C) as a starting point, then adjust the setting as necessary.
+
+1. Press and release MAX A/C.
+
+1. Press and release AUTO.
+2. Adjust the temperature function to the setting you prefer. Use 72°F (22°C) as a starting point, then adjust the setting as necessary.
+
+1. Press and release defrost or maximum defrost.
+2. Adjust the temperature control to the setting you prefer. Use 72°F (22°C) as a starting point, then adjust the setting as necessary.
+
+### Additional Notes
+- Prolonged use of recirculated air may cause the windows to fog up.
+- You may feel a small amount of air from the footwell air vents regardless of the air distribution setting.
+- To reduce humidity build-up inside your vehicle, do not drive with the system switched off or with recirculated air always switched on.
+- Do not place objects under the front seats as this may interfere with the airflow to the rear seats.
+- Remove any snow, ice or leaves from the air intake area at the base of the windshield.
+- To improve the time to reach a comfortable temperature in hot weather, drive with the windows open until you feel cold air through the air vents.
+
+## Blower Motor and Temperature Control
+
+1. Adjust the blower motor speed to the highest speed setting.
+2. Adjust the temperature control to the highest setting.
+3. Direct air to the footwell air vents.
+
+1. Adjust the blower motor speed to the center setting.
+2. Adjust the temperature control to the midway point of the hot settings.
+3. Direct air to the footwell air vents.
+
+1. Switch MAX A/C on.
+2. Drive with the windows open for a short period of time.
+
+1. Adjust the blower motor speed to the center setting.
+2. Adjust the temperature control to the midway point of the cold settings.
+3. Direct air to the instrument panel air vents.
+
+1. Apply the parking brake.
+2. Place your vehicle in park (P) or neutral (N).
+3. Switch MAX A/C on.
+4. Adjust the blower motor speed to the lowest speed setting.
+
+1. Direct air to the instrument panel and windshield air vents.
+2. Press and release A/C.
+3. Adjust the temperature control to the setting you prefer.
+4. Adjust the blower motor speed to the highest setting.
+5. Direct air toward the side windows.
+6. Close the instrument panel air vents.
+
+## Heated Windows and Mirrors
+
+When you switch the heated rear window on, the windshield wiper de-icer turns on. Press the button to clear the rear window of thin ice and fog. The heated rear window turns off after a short period of time.
+
+### Important Notes
+- Make sure the engine is on before operating the heated windows.
+- Do not use harsh chemicals, razor blades or other sharp objects to clean or remove decals from the inside of the heated rear window. The vehicle warranty may not cover damage to the heated rear window grid lines.
+
+When you switch the heated rear window on, the heated exterior mirrors turn on.
+
+### Additional Notes
+- Do not remove ice from the mirrors with a scraper or adjust the mirror glass when it is frozen in place.
+- Do not clean the mirror housing or glass with harsh abrasives, fuel or other petroleum-based cleaning products. The vehicle warranty may not cover damage caused to the mirror housing or glass.
+
+## Cabin Air Filter
+
+The cabin air filter improves the quality of air in your vehicle by trapping dust, pollen and other particles. Replace the filter at regular intervals. See Scheduled Maintenance (page 482).
+
+### Accessing the Cabin Air Filter
+The cabin air filter is behind the glove compartment. To remove the lower glove compartment and access the filter:
+
+1. Open the glove compartment.
+2. Press the tab on each side.
+3. Fully lower the glove compartment.
+4. Pull the glove compartment toward you.
+
+## Warnings
+
+WARNING: Sitting improperly, out of position or with the seatback reclined too far can take weight off the seat cushion and affect the decision of the passenger sensing system, resulting in serious injury or death in the event of a crash. Always sit upright against your seat back, with your feet on the floor.
+
+WARNING: Do not recline the seat backrest too far as this can cause the occupant to slide under the seatbelt, resulting in personal injury in the event of a crash.
+
+WARNING: Do not place objects higher than the top of the seat backrest. Failure to follow this instruction could result in personal injury or death in the event of a sudden stop or crash.
+WARNING: Do not adjust the driver seat or seat backrest when your vehicle is moving. This may result in sudden seat movement, causing the loss of control of your vehicle.
+
+## SITTING IN THE CORRECT POSITION
+
+When you use them properly, the seat, head restraint, seatbelt and airbags will provide optimum protection in the event of a crash.
+
+We recommend that you follow these guidelines:
+
+- Sit in an upright position with the base of your spine as far back as possible.
+- Do not recline the seat backrest so that your torso is more than 30 degrees from the upright position.
+- Adjust the head restraint so that the top of it is level with the top of your head and as far forward as possible. Make sure that you remain comfortable.
+- Keep sufficient distance between yourself and the steering wheel. We recommend a minimum of 10 in (25 cm) between your breastbone and the airbag cover.
+- Hold the steering wheel with your arms slightly bent.
+- Bend your legs slightly so that you can press the pedals fully.
+- Position the shoulder strap of the seatbelt over the center of your shoulder and position the lap strap tightly across your hips.
+
+Make sure that your driving position is comfortable and that you can maintain full control of your vehicle.
+
+## MANUAL SEATS
+
+### HEAD RESTRAINT COMPONENTS
+
+The front seat head restraints consists of:
+
+- An energy absorbing head restraint.
+- Two steel stems.
+- Guide sleeve adjust and unlock button.
+
+### ADJUSTING THE HEAD RESTRAINT
+
+Note: Adjust the seat backrest to an upright driving position before adjusting the head restraint. Adjust the head restraint so that the top of it is level with the top of your head and as far forward as possible. Make sure that you remain comfortable. If you are extremely tall, adjust the head restraint to its highest position.
+
+Pull the head restraint up to raise it.
+
+To lower the head restraint:
+
+1. Press and hold the adjust and unlock button.
+2. Push the head restraint down.
+
+To tilt the head restraint (if equipped):
+
+1. Adjust the seat backrest to an upright driving or riding position.
+2. Pivot the head restraint forward toward your head to the preferred position.
+
+After the head restraint reaches the forward-most tilt position, pivot it forward again to release it to the rearward, untilted position.
+
+Note: Do not attempt to force the head restraint backward after it is tilted. Instead, continue tilting it forward until the head restraint releases to the upright position.
+
+### REMOVING THE HEAD RESTRAINT
+
+1. Pull the head restraint up until it reaches its highest position.
+2. Press and hold the adjust and unlock button.
+3. Pull the head restraint up.
+
+### INSTALLING THE HEAD RESTRAINT
+
+Align the steel stems into the guide sleeves and push the head restraint down until it locks.
+
+### MOVING THE SEAT BACKWARD AND FORWARD
+
+WARNING: Make sure the seat fully locks into place by rocking it backward and forward.
+
+### ADJUSTING THE SEAT BACKREST
+
+WARNING: Do not place cargo or any objects behind the seat backrest before returning it to the original position. Pull on the seat backrest to make sure that it has fully latched after returning the seat backrest to its original position. An unlatched seat may become dangerous if you stop suddenly or have a crash.
+
+## Front Seats
+
+### ADJUSTING THE SEAT HEIGHT (If Equipped)
+
+### POWER SEATS (IF EQUIPPED) HEAD RESTRAINT COMPONENTS
+
+The front seat head restraints consists of:
+
+- An energy absorbing head restraint.
+- Two steel stems.
+- Guide sleeve adjust and unlock button.
+
+### ADJUSTING THE HEAD RESTRAINT
+
+WARNING: Fully adjust the head restraint before you sit in or operate your vehicle. This will help minimize the risk of neck injury in the event of a crash. Do not adjust the head restraint when your vehicle is moving.
+
+WARNING: The head restraint is a safety device. Whenever possible it should be installed and properly adjusted when the seat is occupied. Failure to adjust the head restraint properly could reduce its effectiveness during certain impacts.
+
+## Front Seats
+
+WARNING: Adjust the head restraints for all passengers before you drive your vehicle. This will help minimize the risk of neck injury in the event of a crash. Do not adjust the head restraints when your vehicle is moving.
+
+After the head restraint reaches the forward-most tilt position, pivot it forward again to release it to the rearward, untilted position.
+
+Note: Adjust the seat backrest to an upright driving position before adjusting the head restraint. Adjust the head restraint so that the top of it is level with the top of your head and as far forward as possible. Make sure that you remain comfortable. If you are extremely tall, adjust the head restraint to its highest position.
+
+Pull the head restraint up to raise it.
+
+To lower the head restraint:
+
+1. Press and hold the adjust and unlock button.
+2. Push the head restraint down.
+
+To tilt the head restraint (if equipped):
+
+1. Adjust the seat backrest to an upright driving or riding position.
+2. Pivot the head restraint forward toward your head to the preferred position.
+
+Note: Do not attempt to force the head restraint backward after it is tilted. Instead, continue tilting it forward until the head restraint releases to the upright position.
+
+### REMOVING THE HEAD RESTRAINT
+
+1. Pull up the head restraint until it reaches its highest position.
+2. Press and hold the adjust and unlock button.
+3. Pull up the head restraint.
+
+### INSTALLING THE HEAD RESTRAINT
+
+Align the steel stems into the guide sleeves and push the head restraint down until it locks.
+
+### MOVING THE SEAT BACKWARD AND FORWARD
+
+## HEATED SEATS (IF EQUIPPED)
+
+### HEATED SEAT PRECAUTIONS
+
+WARNING: Use caution when using the heated seat if you are unable to feel pain to your skin because of advanced age, chronic illness, diabetes, spinal cord injury, medication, alcohol use, exhaustion or other physical conditions. The heated seat could cause burns even at low temperatures, especially if used for long periods of time. Failure to follow this instruction could result in personal injury.
+
+WARNING: Do not poke sharp objects into the seat cushion or seat backrest. This could damage the heated seat element and cause it to overheat. Failure to follow this instruction could result in personal injury.
+
+WARNING: Do not place anything on the seat that blocks the heat, for example a seat cover or a cushion. This could cause the seat to overheat. Failure to follow this instruction could result in personal injury.
+
+## Do not:
+
+- Place heavy objects on the seat.
+- Operate the heated seat if water or any other liquid spills on the seat. Allow the seat to dry.
+
+### SWITCHING THE HEATED SEATS ON AND OFF
+
+The vehicle must be running to use this feature.
+
+Press the heated seat symbol to cycle through the various heat settings and off. The more indicators that display, the warmer the temperature of the seat.
+
+Note: The heated seats may remain on after you remote start your vehicle, based on your remote start settings. The heated seats may also turn on when you start your vehicle if they were on when you switched your vehicle off.
+
+## MANUAL SEATS
+
+### HEAD RESTRAINT COMPONENTS
+
+## Center Head Restraint
+
+The head restraint consists of:
+
+- An energy absorbing head restraint.
+- Two steel stems.
+- Guide sleeve adjust and unlock button.
+
+## Outermost Head Restraint
+
+The head restraint consists of:
+
+- An energy absorbing head restraint.
+- Two steel stems.
+- Guide sleeve adjust and unlock button.
+- Guide sleeve unlock and remove button.
+
+### ADJUSTING THE HEAD RESTRAINT
+## HEAD RESTRAINT ADJUSTMENT
+
+### Adjusting the Head Restraint
+Note: Adjust the seat backrest to an upright driving position before adjusting the head restraint. Adjust the head restraint so that the top of it is level with the top of your head and as far forward as possible. Make sure that you remain comfortable. If you are extremely tall, adjust the head restraint to its highest position.
+
+Pull the head restraint up to raise it.
+
+To lower the head restraint:
+
+1. Press and hold the adjust and unlock button.
+2. Push the head restraint down.
+
+### Removing the Head Restraint
+
+1. Pull up the head restraint until it reaches its highest position.
+2. Press and hold the adjust and unlock button.
+3. Pull up the head restraint.
+
+### Installing the Head Restraint
+
+1. Fold the seat backrest forward before installing the head restraint.
+2. Align the steel stems into the guide sleeves and push the head restraint down until it locks.
+
+## SEAT ADJUSTMENTS
+
+### Moving the Seat Backward and Forward
+E298125
+
+### Adjusting the Seat Backrest
+With the seat occupied, pull the lever up to recline the seat backward.
+
+### Folding the Seat Backrest
+E331247
+
+With the seat empty, pull the lever up to fold the seat backrest forward. You may need to lower the center head restraint first.
+
+### Unfolding the Seat Backrest
+Pull the seat backrest up to unfold it.
+
+## REAR OCCUPANT ALERT SYSTEM (If Equipped)
+
+### What is the Rear Occupant Alert System
+The rear occupant alert system monitors vehicle conditions and notifies you to check for rear seat occupants when you switch the ignition off.
+
+### How Does the Rear Occupant Alert System Work
+The system monitors when rear doors have been opened and closed to indicate the potential presence of an occupant in the rear seat.
+
+A message displays in the information and entertainment display screen and an audible warning sounds when you switch the ignition off after any of the following conditions have been met:
+
+- A rear door is opened or closed while the ignition is on.
+- You switch the ignition on within 15 minutes of a rear door opening and closing.
+- You switch the ignition on within 15 minutes of the alert having displayed or sounded.
+
+### Rear Occupant Alert System Precautions
+WARNING: On hot days, the temperature inside the vehicle can rise very quickly. Exposure of people or animals to these high temperatures for even a short time can cause death or serious heat related injuries, including brain damage. Small children are particularly at risk.
+
+WARNING: Do not leave children or pets unattended in your vehicle. Failure to follow this instruction could result in personal injury or death.
+
+### Rear Occupant Alert System Limitations
+The system does not detect the presence of objects or passengers in the rear seat. It monitors when rear doors are opened and closed.
+
+Note: It is possible to receive an alert when there is no rear seat occupant, but alert conditions are met.
+
+Note: It is possible to receive no alert when there is an occupant in the rear seat, if alert conditions are not met. For example, if a rear seat occupant does not enter the vehicle through a rear door.
+
+Note: The audible warning does not sound when the front door is opened before you switch the ignition off.
+
+### Switching Rear Occupant Alert System On and Off
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle.
+3. Switch Rear Occupant Alert on or off.
+
+Note: The default setting is on.
+
+Note: Performing a master reset causes the system to switch on again.
+
+### Semiannual Reminder (If Equipped)
+When you switch the system off, a message appears every six months as a reminder that the system is off. You can switch the system back on or leave it off.
+
+### Rear Occupant Alert System Indicators
+E350472
+
+#### Message
+Check rear seats for occupants.
+
+Displays when you switch your vehicle off after the alert conditions are met.
+
+The message displays for a short period of time. Press Close to acknowledge and remove the message.
+
+Note: Depending on your SYNC version, the graphic may look different from what you see here.
+
+### Rear Occupant Alert System Audible Warnings
+Sounds when you switch your vehicle off after the alert conditions are met.
+
+The warning sounds for a short period of time.
+
+## MEMORY FUNCTION
+
+### How Does the Memory Function Work
+The memory function recalls the position of these features:
+
+- Driver seat.
+- Power mirrors.
+
+### Memory Function Precautions
+WARNING: Before activating the memory seat, make sure that the area immediately surrounding the seat is clear of obstructions and that all occupants are clear of moving parts.
+
+WARNING: Do not use the memory function when your vehicle is moving.
+
+### Locating the Memory Function Buttons
+The memory function buttons are on the driver door.
+
+### Saving a Preset Position
+
+1. Switch the ignition on.
+2. Adjust the memory features to your preferred position.
+3. Press and hold the preferred preset button until you hear a single tone.
+
+A confirmation message appears in the information display.
+
+You can save up to three preset memory positions at any time.
+
+### Recalling a Preset Position
+Press and release the preset button.
+
+Note: You can only recall a preset memory position when the ignition is off, or when you place the transmission in park (P) or neutral (N) if the ignition is on and the vehicle is not moving.
+
+You can also recall a preset memory position by:
+
+- Pressing the unlock button on your remote control if you linked it to a preset position.
+- Unlocking the intelligent driver door handle if a linked remote control is present.
+
+Using a linked remote control to recall your memory position when the ignition is off moves the seat to the easy entry position.
+
+Note: Pressing any active memory feature adjustment control, or any preset buttons during a memory recall cancels the operation.
+
+### Linking a Preset Position to your Remote Control or Passive Key
+Your vehicle can save the preset memory positions for up to three remote controls or passive keys.
+
+1. With the ignition on, move the memory features to the position you prefer.
+2. Press and hold a preset button for five seconds. A tone sounds after two seconds. Continue holding until you hear a second tone.
+3. Within three seconds, press the lock button on the remote control you are linking.
+
+To unlink a remote control, follow the same procedure - except in Step 3, press the unlock button on the remote control.
+
+Note: If more than one linked remote control or intelligent access key is in range, the memory function moves to the settings of the first key to initiate a memory recall.
+
+## GARAGE DOOR OPENER
+
+### What is the Garage Door Opener
+
+### HomeLink Wireless Control System
+The universal garage door opener replaces the common hand-held garage door opener with a three-button transmitter integrated into the driver's sun visor.
+
+### How Does the Garage Door Opener Work
+The system includes two primary features, a garage door opener and a platform for remote activation of devices within the home. You can program garage doors as well as entry gate operators, security systems, entry door locks and home or office lighting.
+
+Additional system information can be found online at www.homelink.com or by calling the toll-free help line at 1-800-355-3515.
+
+Note: You can program a maximum of three devices. To change or replace any of the three devices after it has been initially programmed, you must first erase the current settings. See Clearing the Garage Door Opener.
+WARNING: Do not use the system with any garage door opener that does not have the safety stop and reverse feature as required by U.S. Federal Safety Standards (this includes any garage door opener manufactured before April 1, 1982). A garage door opener which cannot detect an object, signaling the door to stop and reverse, does not meet current federal safety standards. Using a garage door opener without these features increases the risk of serious injury or death.
+
+Note: Make sure that the garage door and security device are free from obstruction when you are programming. Do not program the system with your vehicle in the garage.
+
+Note: Make sure you keep the original remote control transmitter for use in other vehicles as well as for future system programming.
+
+Note: We recommend that upon the sale or lease termination of your vehicle, you erase the programmed function buttons for security reasons. See Clearing the Garage Door Opener (page 164).
+
+## GARAGE DOOR OPENER LIMITATIONS
+
+Canadian radio-frequency laws require transmitter signals to time-out (or quit) after several seconds - which may not be long enough for HomeLink to pick up the signal.
+
+U.S. gate operators time-out in the same manner.
+
+## Garage Door Opener
+
+Note: If programming a garage door opener or gate operator, it is advised to unplug the device during the 'cycling' process to prevent possible overheating.
+
+## PROGRAMMING THE GARAGE DOOR OPENER TO YOUR HAND-HELD TRANSMITTER
+
+This process is to program your in-vehicle HomeLink function button with your hand-held transmitter.
+
+Note: The programming steps below assume you will be programming HomeLink that was not previously programmed. If your HomeLink was previously programmed, you may need to erase your HomeLink buttons. See Clearing the Garage Door Opener (page 164).
+
+1. With your vehicle parked outside of the garage, switch your ignition to the on position, but do not start your vehicle.
+2. Press and release one of the three HomeLink function buttons that you would like to program.
+3. Hold your hand-held garage door transmitter 1-3 in (2-8 cm) away from the HomeLink button you want to program.
+4. Press and hold the hand-held transmitter button you want to program while watching the indicator light on HomeLink. Continue to hold the hand-held button until the HomeLink indicator light flashes rapidly or is continuously on.
+
+Note: You may need to use a different method if you live in Canada or have difficulties programming your gate operator or garage door opener. See Programming the Garage Door Opener to Your Gate Opener Motor (page 164).
+
+5. Press and hold the HomeLink button you programmed for two seconds, then release. You may need to do this twice to activate the door.
+
+Note: If the indicator light stays on, the programming is complete.
+
+Note: If the HomeLink indicator flashes rapidly, repeat step 5.
+
+Note: If your device still does not operate, you must program your garage door. See Programming the Garage Door Opener to Your Garage Door Opener Motor (page 163).
+
+6. To program additional buttons, repeat Steps 1 - 4.
+
+## PROGRAMMING THE GARAGE DOOR OPENER TO YOUR GARAGE DOOR OPENER MOTOR
+
+1. Press the learn button on the garage door opener motor, you have 30 seconds to complete the next two steps.
+2. Return to your vehicle.
+3. Press and hold one of the three HomeLink function buttons you want to program for two seconds, then release. Repeat this step. Depending on your brand of garage door opener, you may need to repeat this sequence a third time.
+
+## PROGRAMMING THE GARAGE DOOR OPENER TO YOUR GATE OPENER MOTOR
+
+Canadian radio-frequency laws require transmitter signals to 'time-out' (or quit) after several seconds of transmission which may not be long enough for HomeLink to pick up the signal during programming. Similar to this Canadian law, some U.S. gate operators 'time-out' in the same manner.
+
+Note: If programming a garage door opener or gate operator, it is advised to unplug the device during the 'cycling' process to prevent possible overheating.
+
+1. Press and release, every two seconds, your hand-held transmitter until the HomeLink indicator light changes to a rapidly blinking or continuously on light.
+2. Release the hand-held transmitter button.
+3. Press and hold the HomeLink function button you want to program for two seconds, then release. You may need to do this twice to activate the door.
+
+Note: If the indicator light stays on, the programming is complete.
+
+Note: If the HomeLink indicator flashes rapidly, repeat Step 3.
+
+Note: If your device still does not operate, you must program your garage door. See Programming the Garage Door Opener to Your Garage Door Opener Motor (page 163).
+
+4. To program additional buttons, repeat Steps 1 - 4.
+
+## CLEARING THE GARAGE DOOR OPENER
+
+1. Press and hold the outer two function buttons simultaneously for approximately 10 seconds until the indicator light above the buttons flashes rapidly.
+2. When the indicator light flashes, release the buttons.
+
+Note: You cannot erase individual buttons.
+
+## REPROGRAMMING THE GARAGE DOOR OPENER
+
+To program a device to a previously trained button, follow these steps:
+
+1. Press and hold the desired button. Do NOT release the button.
+2. The indicator light begins to flash after 20 seconds. Without releasing the button, follow programming steps.
+
+## GARAGE DOOR OPENER RADIO FREQUENCIES
+
+Changes or modifications not expressively approved by the party responsible for compliance could void the user's authority to operate the equipment. The term "IC:" before the radio certification number only signifies that Industry Canada technical specifications were met.
+
+WARNING:
+
+This device complies with Part 15 of the FCC Rules and with RSS-210 of Industry Canada. Operation is subject to the following two conditions: (1) this device may not cause harmful interference, and (2) this device must accept any interference received, including interference that could cause undesired operation.
+
+This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. End Users must follow the specific operating instructions for satisfying RF exposure compliance. This transmitter must be at least 8 in (20 cm) from the user and must not be co-located or operating in conjunction with any other antenna or transmitter.
+
+## LOCATING THE USB PORTS
+
+### Data Transfer USB Ports
+
+The USB ports could be in the following locations:
+
+- On the lower instrument panel below the climate control.
+- Inside the center console.
+
+Note: These USB ports can also charge devices.
+
+Note: Not all USB ports in your vehicle have data transfer capabilities.
+
+Note: We recommend using only USB-IF certified cables and adapters. Non-certified cables and adapters may not work.
+
+### Charge Only USB Ports
+
+The USB ports could be in the following locations:
+
+- On the lower instrument panel.
+- On the upper instrument panel.
+- Inside the media bin.
+- Inside the center console.
+- On the rear of the center console.
+- In the cargo area.
+
+## PLAYING MEDIA USING THE USB PORT
+
+WARNING: Driving while distracted can result in loss of vehicle control, crash and injury. We strongly recommend that you use extreme caution when using any device that may take your focus off the road. Your primary responsibility is the safe operation of your vehicle. We recommend against the use of any hand-held device while driving and encourage the use of voice-operated systems when possible. Make sure you are aware of all applicable local laws that may affect the use of electronic devices while driving.
+
+## Connect your device to the USB port.
+
+Press the audio button on the feature bar.
+## Select Sources
+
+Select the USB option.
+
+Press the button to play a track. Press the button again to pause the track.
+
+Press the button to skip to the next track.
+
+Press and hold the button to fast forward through the track.
+
+Press the button once to return to the beginning of a track. Repeatedly press the button to return to previous tracks.
+
+Press and hold the button to fast rewind.
+
+## CHARGING A DEVICE
+
+Connect your device to the USB port.
+
+## Data Transfer USB Ports
+
+You can charge your device through the data transfer USB port when SYNC is on.
+
+## Charge Only USB Ports
+
+You can charge your device through the charge only USB port when the vehicle is in accessory mode or when the vehicle is running.
+
+## WHAT IS THE POWER OUTLET
+
+The power outlet can power devices using a 12 V outlet adapter.
+
+## POWER OUTLET PRECAUTIONS
+
+When you switch the vehicle on, you can use the socket to power 12 V appliances with a maximum current rating of 15 A. Do not use the power point over the vehicle capacity of 12 V DC 180 W or a fuse could blow. Do not plug in any device that supplies power to the vehicle through the power points. This could result in damage to vehicle systems. Do not hang any accessory from the accessory plug. Always keep the power point caps closed when not in use. Do not insert objects other than an accessory plug into the power point.
+
+To prevent the battery from running out of charge:
+
+- Do not use the power point longer than necessary when the vehicle is off.
+- Do not leave devices plugged in overnight or when you park your vehicle for extended periods.
+
+## LOCATING THE POWER OUTLETS
+
+Power outlets may be in the following locations:
+
+- On the lower instrument panel.
+- Inside the center console.
+- On the front of the center console.
+- On the rear of the center console.
+- In the cargo area.
+- On the passenger side floor panel.
+- 3rd row on the quarter trim panels.
+
+## Wireless Accessory Charger (If Equipped)
+
+## WHAT IS THE WIRELESS ACCESSORY CHARGER
+
+The wireless accessory charger allows you to charge one compatible Qi wireless charging device on the charging area.
+
+## WIRELESS ACCESSORY CHARGER PRECAUTIONS
+
+WARNING: Wireless charging devices can affect the operation of implanted medical devices, including cardiac pacemakers. If you have any implanted medical devices, we recommend that you consult with your physician.
+
+Keep the charging area clean and remove foreign objects prior to charging a device.
+
+Do not place items with a magnetic strip or radio-frequency identification chip, for example passports, parking tickets, transportation passes or credit cards, near the charging area when charging a device. Damage could occur to the magnetic strip or radio-frequency identification chip.
+
+Do not place metal objects, for example remote controls, coins and candy wrappers, on or near the charging area when charging a device. Metal objects may heat up and degrade the charging performance, in addition to causing interruptions in charging.
+
+Charging could be interrupted, degraded, or could stop if any of the following occur:
+
+- The system detects a foreign object.
+- The device is misaligned on the charging area.
+- The device moves on the active charging area when the vehicle is in motion.
+- The vehicle ambient temperature is too high.
+- You attempt to charge a non-Qi compatible device on the wireless charger.
+
+Note: During charging, the device and the charger could heat up, this is normal. If the battery gets hotter than usual, the device may stop charging.
+
+## LOCATING THE WIRELESS ACCESSORY CHARGER
+
+The charging area is on the center console or in the media bin below the instrument panel.
+
+## CHARGING A WIRELESS DEVICE
+
+Place the device on the center of the charging surface with the charging side down. The charging stops after your device reaches a full charge.
+
+You can use the charger when the vehicle is in accessory mode, when the vehicle is running, or when SYNC is on.
+
+Displays on the status bar when wireless charging is in progress.
+
+Note: The charging performance may be affected if your device is in a case. It may be necessary to remove the case to wirelessly charge your device.
+
+Note: Software and firmware updates may affect device compatibility, including the use of unofficial software or firmware. You should verify charging functionality with your specific devices in-vehicle.
+
+## CUP HOLDERS
+
+## CUP HOLDER PRECAUTIONS
+
+WARNING: Use caution when stowing items or hot drinks in the cup holders. Items could become loose or spill during hard braking, acceleration or crashes. Failure to follow this instruction could result in personal injury.
+
+## GLASSES HOLDER
+
+## LOCATING THE GLASSES HOLDER
+
+The glasses holder is in the overhead console. Press near the rear edge of the door to open.
+
+## Starting and Stopping the Engine
+
+## STARTING AND STOPPING THE ENGINE - PRECAUTIONS
+
+WARNING: Extended idling at high engine speeds can produce very high temperatures in the engine and exhaust system, creating the risk of fire or other damage.
+
+WARNING: Do not park, idle or drive your vehicle on dry grass or other dry ground cover. The emission system heats up the engine compartment and exhaust system, creating the risk of fire.
+
+WARNING: Do not start the engine in a closed garage or in other enclosed areas. Exhaust fumes are toxic. Always open the garage door before you start the engine. Failure to follow this instruction could result in personal injury or death.
+
+WARNING: Do not use starting fluid, for example ether, in the air intake system. Such fluid could cause immediate explosive damage to the engine and possible personal injury.
+
+WARNING: Exhaust leaks may result in entry of harmful and potentially lethal fumes into the passenger compartment. If you smell exhaust fumes inside your vehicle, have your vehicle inspected immediately. Do not drive if you smell exhaust fumes.
+
+The powertrain control system meets all Canadian interference-causing equipment standard requirements regulating the impulse electrical field or radio noise.
+
+If you stop your vehicle and leave the engine idling for long periods, we recommend that you do one of the following:
+
+- Open the windows at least 1 in (2.5 cm).
+- Set your climate control to outside air.
+
+## IGNITION SWITCH
+
+## Switching the Ignition Off
+
+Turn the key to position 0.
+
+## Switching the Ignition to Accessory Mode
+
+Turn the key to position I. Electrical accessories, for example the radio, operate without the engine running.
+
+## Switching the Ignition On
+
+Turn the key to position II. All electrical circuits and accessories are operational and the warning lamps and indicators illuminate.
+
+## Starting the Engine
+
+Turn the key to position III. Release the key when the engine starts.
+
+## PUSH BUTTON IGNITION SWITCH
+
+## Switching the Ignition Off
+
+When the ignition is on or in accessory mode, press the push button ignition switch once without your foot on the brake pedal.
+
+## Switching the Ignition to Accessory Mode
+
+When the ignition is off, press the push button ignition switch once without your foot on the brake pedal.
+
+All electrical circuits and accessories are operational and the warning lamps and indicators illuminate.
+
+Note: Your vehicle has a battery saver feature that shuts your vehicle off when it detects a certain amount of battery drain, or after approximately 30 minutes of inactivity in accessory mode.
+
+## Starting the Engine
+
+With the transmission in park (P), press the brake pedal and press the push button ignition switch. An indicator light on the button illuminates when the ignition is on and when the engine starts.
+Note: The system may not function if the passive key is close to metal objects or electronic devices, for example keys or a cell phone.
+
+Note: A valid key must be inside your vehicle to switch the ignition on and start the engine.
+
+## STARTING THE ENGINE
+
+### STARTING A GASOLINE ENGINE
+
+#### Vehicles Without Push Button Start
+
+Before starting the engine, check the following:
+
+- Make sure the headlamps and electrical accessories are off.
+- Make sure the parking brake is on.
+- Make sure the transmission is in park (P).
+
+1. Fully press the brake pedal.
+
+Note: Do not touch the accelerator pedal.
+
+E322354
+
+<!-- image -->
+
+2. Turn the key to position III.
+
+Note: The engine may continue cranking for up to 15 seconds or until it starts.
+
+Note: The engine takes longer to start at lower temperatures. It may crank for several seconds when very cold.
+
+### Vehicles With Push Button Start
+
+Before starting the engine, check the following:
+
+- Make sure the headlamps and electrical accessories are off.
+- Make sure the parking brake is on.
+- Make sure the transmission is in park (P).
+
+1. Fully press the brake pedal.
+
+Note: Do not touch the accelerator pedal.
+
+E321258
+
+<!-- image -->
+
+2. Press the push button ignition switch.
+
+Note: The engine may continue cranking for up to 15 seconds or until it starts.
+
+Note: The engine takes longer to start at lower temperatures. It may crank for several seconds when very cold.
+
+### STARTING A HYBRID ELECTRIC VEHICLE SYSTEM
+
+Before starting your vehicle, check the following:
+
+- Make sure the headlamps and electrical accessories are off.
+- Make sure the parking brake is on.
+- Make sure the transmission is in park (P).
+
+Note: Do not touch the accelerator pedal.
+
+1. Fully press the brake pedal.
+
+E321258
+
+<!-- image -->
+
+2. Press the push button ignition switch.
+
+Note: The green ready indicator illuminates letting you know that your vehicle is ready for driving. Since your vehicle is equipped with a silent key start, the engine may not start when your vehicle starts.
+
+When the engine starts for the first time on your drive, the idle speed increases, this helps to warm up the engine. If the engine idle speed does not slow down, have your vehicle checked by an authorized dealer.
+
+The system does not function if:
+
+- The passive key frequencies are jammed.
+- The key battery has no charge.
+
+### RESTARTING THE ENGINE AFTER STOPPING IT
+
+The system allows you to start the engine within 10 seconds of switching it off, even if it does not detect a valid passive key.
+
+Within 10 seconds of switching the engine off, fully press the brake pedal and press the push button ignition switch. After 10 seconds, you can no longer start the engine if the system does not detect a valid passive key.
+
+When you start the engine, it remains running until you press the push button ignition switch, even if your vehicle does not detect a valid passive key. If you open and close a door when the engine is running, the system searches for a valid passive key.
+
+## ENGINE BLOCK HEATER (IF EQUIPPED)
+
+### ENGINE BLOCK HEATER PRECAUTIONS
+
+<!-- image -->
+
+WARNING: Failure to follow engine block heater instructions could result in property damage or serious personal injury.
+
+WARNING: Do not use your heater with ungrounded electrical systems or two-pronged adapters. There is a risk of electrical shock.
+
+WARNING: Do not fully close the hood, or allow it to drop under its own weight when using the engine block heater. This could damage the power cable and may cause an electrical short resulting in fire, injury and property damage.
+
+<!-- image -->
+
+We recommend that you do the following for a safe and correct operation:
+
+- Use a 16-gauge outdoor extension cord that is product certified by Underwriter's Laboratory (UL) or Canadian Standards Association (CSA). This extension cord must be suitable for use outdoors, in cold temperatures, and be clearly marked Suitable for Use with Outdoor Appliances. Do not use an indoor extension cord outdoors. This could result in an electric shock or become a fire hazard.
+- Use as short an extension cord as possible.
+- Do not use multiple extension cords.
+- Make sure that when in operation, the extension cord plug and engine block heater cord plug connections are free and clear of water. This could cause an electric shock or fire.
+- If the engine block heater cord is under the hood, do not remove the wiring from its original location. Do not close the hood on the extension wiring.
+- Park your vehicle in a clean area, clear of combustible materials.
+- Firmly connect the engine block heater cord and the extension cord.
+- Check the extension cord for heat anywhere when the system has been operating for approximately 30 minutes.
+- Unplug and properly stow the system before starting and driving your vehicle. The protective cover seals the terminals of the engine block heater cord plug when not in use.
+- Check the engine block heater system for proper operation before winter.
+
+### HOW DOES THE ENGINE BLOCK HEATER WORK
+
+The engine block heater warms the engine coolant. This allows the climate control system to quickly respond. The equipment includes a heater element installed in the engine block and a wire harness. You can connect the system to a grounded 220-240 volt AC electrical source.
+
+Note: The engine block heater is most effective when outdoor temperatures are below 0°F (-18°C).
+
+### USING THE ENGINE BLOCK HEATER
+
+Make sure the receptacle terminals are clean and dry prior to use. Clean them with a dry cloth if necessary.
+
+## STOPPING THE ENGINE
+
+### STOPPING THE ENGINE WHEN YOUR VEHICLE IS STATIONARY
+
+#### Vehicles Without Push Button Start
+
+1. Shift into park (P).
+2. Apply the parking brake.
+3. Wait until the engine reaches idle speed.
+
+E322405
+
+<!-- image -->
+
+4. Turn the key to position 0.
+
+#### Vehicles With Push Button Start
+
+1. Shift into park (P).
+2. Apply the parking brake.
+3. Wait until the engine reaches idle speed.
+
+E321258
+
+<!-- image -->
+
+4. Press the push button ignition switch.
+
+### STOPPING THE ENGINE WHEN YOUR VEHICLE IS MOVING
+
+<!-- image -->
+
+WARNING: Switching off the engine when your vehicle is still moving results in a significant decrease in braking assistance. Higher effort is required to apply the brakes and to stop your vehicle. A significant decrease in steering assistance could also occur. The steering does not lock, but higher effort could be required to steer your vehicle. When you switch the ignition off, some electrical circuits, for example airbags, also turn off. If you unintentionally switch the ignition off, shift into neutral (N) and restart the engine.
+
+#### Vehicles Without Push Button Start
+
+E322405
+
+<!-- image -->
+
+1. Turn the key to position 0.
+2. Shift into neutral and use the brakes to bring your vehicle to a safe stop.
+3. Shift into park (P).
+4. Apply the parking brake.
+
+#### Vehicles With Push Button Start
+
+E321258
+
+<!-- image -->
+
+1. Press and hold the push button ignition switch until the engine stops, or press it three times within two seconds.
+
+## AUTOMATIC ENGINE STOP (IF EQUIPPED)
+
+### WHAT IS AUTOMATIC ENGINE STOP
+
+Automatic engine stop is a feature that switches the engine off if it has been idling for an extended period to help you save fuel.
+
+### HOW DOES AUTOMATIC ENGINE STOP WORK
+Automatic engine stop turns the engine off. The ignition also turns off in order to save battery power. Before the engine shuts down, a message appears in the information display showing a timer counting down. If you do not intervene within 30 seconds, the engine shuts down. Another message appears in the information display to inform you that the engine has shut down in order to save fuel. Start your vehicle as you normally do.
+
+## SWITCHING AUTOMATIC ENGINE STOP ON AND OFF
+
+1. Press Settings on the touchscreen.
+2. Press Vehicle Settings.
+3. Switch 30min Max Idle on or off.
+
+Note: You cannot permanently switch off the automatic shutdown. If you switch it off, it turns on each time you switch the ignition on.
+
+## OVERRIDING AUTOMATIC ENGINE STOP
+
+You can stop the engine shutdown, or reset the timer, at any point before the 30-second countdown has expired by doing any of the following:
+
+- Pressing the brake pedal or accelerator pedal.
+- Pressing the OK or RESET button during the countdown.
+
+Note: You cannot permanently switch off the automatic engine shutdown feature. When you switch it off temporarily, it turns on at the next ignition cycle.
+
+## STARTING AND STOPPING THE ENGINE - WARNING LAMPS
+
+### Malfunction Indicator Lamp
+
+If it illuminates when the engine is running, the on-board diagnostics system is detecting a malfunction of the vehicle emission control system.
+
+If it flashes, engine misfire could be occurring. Increased exhaust gas temperatures could damage the catalytic converter or other vehicle components. Avoid heavy acceleration and deceleration, and have your vehicle checked as soon as possible.
+
+### Powertrain Warning Lamp
+
+If it illuminates when the engine is running, this indicates a powertrain or four-wheel drive fault. If it flashes when you are driving, immediately reduce the vehicle speed. Avoid heavy acceleration and deceleration, and have your vehicle checked as soon as possible.
+
+If both lamps illuminate when the engine is running, stop your vehicle as soon as it is safe to do so. Continuing to drive your vehicle could cause reduced power or the engine to stop. Switch the ignition off and attempt to restart the engine. Have your vehicle checked as soon as possible.
+
+## STARTING AND STOPPING THE ENGINE - INFORMATION MESSAGES
+
+| Message                | Action                                                                                                                                                                                                |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cranking Time Exceeded | Displays if you exceed the starting time limit. You cannot attempt to start the engine for 15 minutes. If you cannot start the engine after 15 minutes passes, have your vehicle immediately checked. |
+| Starting System Fault  | Displays if you are unable to start your vehicle with a correctly coded key. The system has detected a fault that requires service. Have your vehicle checked as soon as possible.                               |
+| No Key Detected        | Displays if the system does not detect a valid passive key.                                                                                                                                           |
+
+## STARTING AND STOPPING THE ENGINE - FREQUENTLY ASKED QUESTIONS
+
+### Why is the engine idle speed high when I am starting the engine?
+
+The speed at which the engine idles immediately after starting is optimized to minimize vehicle emissions and maximize cabin comfort and fuel economy.
+
+### Why does the engine not crank?
+
+You can only attempt to start the engine for a limited amount of time before the starting system temporarily disables. If you exceed the starting time limit, a message may appear and you cannot attempt to start the engine for at least 15 minutes.
+
+### Why do I experience different driving characteristics?
+
+If you disconnect the battery, your vehicle may exhibit some unusual driving characteristics for approximately 5 mi (8 km) after you reconnect it. This is because the engine management system must realign itself with the engine. You can disregard any unusual driving characteristics during this period.
+
+### Why can I not start the engine?
+
+If you cannot start the engine after 3 attempts, wait 10 seconds and do the following:
+
+#### Vehicles Without Push Button Start
+
+1. Fully press the brake pedal.
+
+   Note: Make sure that the parking brake is applied.
+
+   Note: Make sure that the transmission is in park (P).
+
+2. Fully press the accelerator pedal and hold it there.
+3. Turn the key to position III and wait until the engine stops cranking.
+4. Release the accelerator pedal.
+5. Turn the key to position III.
+
+#### Vehicles With Push Button Start
+
+1. Fully press the brake pedal.
+
+   Note: Make sure that the parking brake is applied.
+
+   Note: Make sure that the transmission is in park (P).
+
+2. Fully press the accelerator pedal and hold it there.
+3. Press the push button ignition switch.
+
+   Note: The engine cranks for a short period of time and then it stops.
+
+4. Release the accelerator pedal.
+5. Press the push button ignition switch.
+
+### Why does the system not detect a passive key?
+
+If the system does not detect a passive key and you are unable to start the engine, insert the passive key into the backup position and press the push button ignition switch to start the engine.
+
+## Hybrid Electric Vehicle Information (If Equipped)
+
+### WHAT IS A HYBRID ELECTRIC VEHICLE
+
+A hybrid vehicle has an electric motor and a high voltage battery combined with a gasoline engine.
+
+### HOW DOES A HYBRID ELECTRIC VEHICLE WORK
+
+The hybrid vehicle combines electric and gasoline propulsion to provide optimal performance and improved efficiency.
+
+### HYBRID ELECTRIC VEHICLE DRIVING CHARACTERISTICS
+
+The gasoline engine starts and stops to provide power when required and to save fuel when not needed. When coasting at low speeds, coming to a stop or standing, the gas engine normally shuts down and your vehicle operates in electric-only mode.
+
+Conditions that may cause the gasoline engine to start or remain running include:
+
+- Considerable vehicle acceleration.
+- Driving uphill.
+- The high voltage battery charge level is low.
+- Heating or cooling the vehicle interior in high or low outside temperatures.
+- The gasoline engine is below normal operating temperature.
+- Towing a trailer.
+- Certain selectable drive modes could cause the engine to run.
+
+Your hybrid vehicle also comes with standard hydraulic braking and regenerative braking. Regenerative braking is performed by your transmission and captures brake energy and stores it in the high voltage battery.
+
+You could also notice that your engine continues to run instead of shutting off during extended downhill driving. The engine stays on during this engine braking but is not using any fuel.
+
+You could also hear a slight whine or whistle when operating your vehicle. This is the normal operation of the electric motor in the hybrid system.
+
+### HYBRID ELECTRIC VEHICLE INDICATORS
+
+When you start your vehicle, a green READY indicator light appears in the instrument cluster letting you know that your vehicle is ready for driving.
+
+The engine may not start because your vehicle has a silent key start feature. This fuel saving feature allows your vehicle to be ready to drive without requiring the gas engine to be running.
+The indicator remains on when your vehicle is on, whether the engine is running or not, to indicate your vehicle is capable of movement using the electric motor, gas engine or both.
+
+Typically, the engine does not start unless the vehicle is cold, a climate control change is requested or you press the accelerator pedal.
+
+## HYBRID ELECTRIC VEHICLE INFORMATION
+
+### WARNING LAMPS
+
+It illuminates if your vehicle has an electrical component fault or failure that causes your vehicle to shutdown or enter a limited operating mode. A message may appear in the instrument cluster display.
+
+### INFORMATION MESSAGES
+
+| Message        | Action                                                                                                                                                                |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Stop Safely Now | Displays when a malfunction occurs in the high voltage electric system. Stop your vehicle as soon as it is safe to do so. Have your vehicle checked as soon as possible. |
+
+### HIGH VOLTAGE BATTERY SYSTEM
+
+#### How long is the high voltage battery system designed to last?
+
+The high voltage battery system is designed to last the life of your vehicle.
+
+#### Does the high voltage battery require maintenance?
+
+The high voltage battery does not require maintenance.
+
+#### What should I do if the vehicle runs out of fuel and the high voltage battery is out of charge?
+
+Refuel and start your vehicle normally. The engine will recharge the high voltage battery.
+
+### ENGINE OPERATION
+
+#### Why does the engine sometimes start at key-on?
+
+The vehicle's computer will determine if an engine start is required at key-on. It starts the engine when necessary for cabin heating, windshield defrost, or if the outside temperature is low.
+
+#### Why does it take a long time before the engine shuts down?
+
+There are several reasons the engine stays on for an extended amount of time when you first start it. One common reason is to make sure that the emissions components are warm enough to minimize tailpipe emission. As the climate gets cooler, the engine-on time is extended.
+
+#### Why does my engine stay on when it is extremely cold outside?
+
+In order to make sure that the climate control system can begin heating the cabin or defrosting the windshield as soon as a driver requests it, the engine coolant temperature has to be kept sufficiently hot. Keeping the engine on is required to maintain the correct coolant temperature.
+
+## PLUG-IN HYBRID ELECTRIC VEHICLE INFORMATION
+
+### WHAT IS A PLUG-IN HYBRID ELECTRIC VEHICLE
+
+A plug-in hybrid electric vehicle combines a gasoline engine with an electric motor and rechargeable high voltage battery allowing you to use only electricity to power your vehicle.
+
+### HOW DOES A PLUG-IN HYBRID ELECTRIC VEHICLE WORK
+
+Charging your vehicle adds electrical energy that propels the vehicle. Regularly plug in your vehicle to get optimal electric-only range capability from the high voltage battery. The system maximizes the use of electric-only operation in normal drive mode whenever possible. System conditions could require the engine to operate when necessary.
+
+When the electric-only range reaches zero, the powertrain system switches to hybrid operation. This means that you have depleted the energy you gained from plugging in and charging your vehicle. Both the gasoline engine and electric motor power your vehicle and maximize fuel economy during hybrid operation. You receive some electric-only driving with hybrid operation as the powertrain system maintains the high voltage battery charge within functional limits.
+
+### PLUG-IN HYBRID ELECTRIC VEHICLE DRIVING CHARACTERISTICS
+
+The gasoline engine starts and stops to provide power when required and to save fuel when not needed. Restarting your vehicle is not required. Simply step on the accelerator when you are ready to drive. When coasting at low speeds, coming to a stop or standing, the gas engine normally shuts down and your vehicle operates in electric-only mode.
+
+Conditions that may cause the gasoline engine to start or remain running include:
+
+- Considerable vehicle acceleration.
+- Driving uphill.
+- The high voltage battery charge level is low.
+- Heating or cooling the vehicle interior in high or low outside temperatures.
+- The gasoline engine is below normal operating temperature.
+- Towing a trailer.
+- Certain drive modes could cause the engine to run. 
+
+Note: Having your engine running is not always an indication of inefficiency. In some cases, it is actually more efficient than driving in electric mode.
+
+Your plug-in hybrid electric vehicle has several EV drive modes to enhance your driving experience. 
+
+Your hybrid vehicle also comes with standard hydraulic braking and regenerative braking. Regenerative braking is performed by your transmission and captures brake energy and stores it in the high voltage battery.
+
+You could also notice that your engine continues to run instead of shutting off during extended downhill driving. The engine stays on during this engine braking but is not using any fuel.
+
+You could also hear a slight whine or whistle when operating your vehicle. This is the normal operation of the electric motor in the hybrid system.
+
+### PLUG-IN HYBRID ELECTRIC VEHICLE INDICATORS
+
+When you start your vehicle, a green ready indicator light appears in the instrument cluster letting you know that your vehicle is ready for driving.
+
+The engine may not start because your vehicle has a silent key start feature. This fuel saving feature allows your vehicle to be ready to drive without requiring the gas engine to be running.
+
+Typically, the engine does not start unless the vehicle is cold, a climate control change is requested or you press the accelerator pedal.
+
+### WHAT IS LOW ENGINE USE MODE
+
+Low engine use mode maintains proper engine lubrication at sufficient temperature and activates when you drive your vehicle with limited engine operation.
+
+### HOW DOES LOW ENGINE USE MODE WORK
+
+When in low engine use mode, your vehicle runs the engine as necessary. When low engine use mode begins, a message appears in the information display. If low engine use mode does not complete before you switch your vehicle off, it continues the next time you start your vehicle and the message reappears.
+
+Note: EV now mode is not available when in low engine use mode.
+
+Note: Cold temperatures affect the engine warm up time and the low engine use mode may operate more frequently.
+
+Note: An oil change is not required but gives you the option of not running a low engine use cycle. Resetting the oil life monitoring system suspends the low engine use mode.
+
+## PLUG-IN HYBRID ELECTRIC VEHICLE INFORMATION WARNING LAMPS
+
+It illuminates if your vehicle's electrical system requires service to identify the cause for your vehicle.
+## Hybrid Electric Vehicle Information (If Equipped)
+
+## PLUG-IN HYBRID ELECTRIC VEHICLE INFORMATION MESSAGES
+
+| Message                                 | Action                                                                                                                                                                                        |
+|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Vehicle Plugged In ? Yes No             | Your vehicle needs confirmation that you unplugged it before allowing a start. You must make sure your vehicle is unplugged and you respond to the message prompt before starting your vehicle. |
+| Unplug Prior to Starting Vehicle        | Your vehicle detects it is still plugged in after you attempt to start it.                                                                                                                  |
+| Engine Enabled Due to Defrost Setting   | Your vehicle enables the engine due to the climate control defrost setting. This is normal operation.                                                                                         |
+| Press EV Button for Full Defrost        | For full defrost heat, press the EV button to select either EV Later or EV Auto. The engine may run to provide more cabin heat.                                                               |
+| Engine Enabled for System Performance    | Your vehicle enables the engine for system performance. This is normal operation.                                                                                                            |
+
+| Message                                                                         | Action                                                                                                                                                                |
+|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Press OK to Enable Engine                                                        | You can press OK to enable the engine temporarily for increased performance when in EV Now mode.                                                                        |
+| In Neutral Depletes HV Battery, Shift Out of Neutral for Full Vehicle Function   | Displays when in neutral gear with the vehicle on. Shift out of neutral to maintain full vehicle function.                                                               |
+| Fuel Freshness Engine may run to maintain fuel freshness                        | EV functionality is disabled and the engine is running to maintain fuel freshness.                                                                                     |
+| Stop Safely Now                                                                  | Displays when a malfunction occurs in the high voltage electric system. Stop your vehicle as soon as it is safe to do so. Have your vehicle checked as soon as possible. |
+
+## Auto-Start-Stop
+
+## WHAT IS AUTO-START-STOP
+
+The system helps reduce fuel consumption by stopping and restarting the engine when your vehicle has stopped. The engine restarts when you release the brake pedal.
+
+In some situations, your vehicle could restart before you release the brake pedal, for example:
+
+- To maintain interior comfort.
+- To recharge the battery.
+
+## AUTO-START-STOP PRECAUTIONS
+
+WARNING: Apply the parking brake, shift into park (P), switch the ignition off and remove the key before you leave your vehicle. Failure to follow this instruction could result in personal injury or death.
+
+WARNING: Apply the parking brake, shift into park (P), switch the ignition off and remove the key before you open the hood or have any service or repair work completed. If you do not switch the ignition off, the engine could restart at any time. Failure to follow this instruction could result in personal injury or death.
+
+## SWITCHING AUTO-START-STOP ON AND OFF
+
+The system turns on when you switch the ignition on.
+
+Press the button to switch the system off.
+
+Note:
+
+OFF illuminates in the switch.
+
+Note: Deactivating the system using the button lasts only one key cycle.
+
+Press the button again to switch the system back on.
+
+Note: The system turns off if it detects a malfunction. If the system malfunctions, have your vehicle checked as soon as possible.
+
+## STOPPING THE ENGINE
+
+Stop your vehicle, keep your foot on the brake pedal and the transmission in drive (D).
+
+Note: Power assist steering turns off when the engine stops.
+
+## RESTARTING THE ENGINE
+
+Release the brake pedal or press the accelerator pedal.
+
+A message appears in the information display if the system requires you to take action.
+
+## AUTO-START-STOP INDICATORS
+
+WARNING: The system may require the engine to automatically restart when the auto-start-stop indicator illuminates green or flashes amber. Failure to follow this instruction could result in personal injury.
+
+The Auto-Start-Stop indicator illuminates green when the engine stops. It flashes amber and a message appears when you need to take action.
+
+## AUTO-START-STOP TROUBLESHOOTING
+
+## AUTO-START-STOP INFORMATION MESSAGES
+
+A message appears in the information display if the system requires you to take action.
+
+| Message                                      | Condition                                                          | Action                                                                |
+|----------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Auto Start Stop Press Brake to Start Engine   | The system needs to restart the engine but requires your confirmation. | Press the brake pedal to restart the engine.                          |
+| Auto Start Stop Press a Pedal to Start Engine | The system needs to restart the engine but requires your confirmation. | Press the brake pedal or the accelerator pedal to restart the engine. |
+
+## AUTO-START-STOP FREQUENTLY ASKED QUESTIONS
+
+## Why does the engine not always stop when I expect it to?
+
+The system is designed to work in a way that complements other vehicle systems, allowing them to operate at optimum performance.
+
+The system does not stop the engine if:
+
+- The driver door is open.
+- Your vehicle is at high altitude.
+- The heated windshield is on.
+- The engine is warming up.
+- The outside temperature is too low or too high.
+- The battery charge is low.
+- The battery temperature is outside the optimal operating range.
+- The engine is required to run to maintain interior climate and reduce fogging.
+
+## Why does the engine sometimes restart when I do not expect it to?
+
+The system is designed to work in a way that complements other vehicle systems, allowing them to operate at optimum performance.
+
+The system restarts the engine if:
+
+- You switch the heated windshield on.
+- You switch maximum defrost on.
+- Your vehicle starts to roll downhill in neutral.
+- The engine is required to run to maintain adequate brake system assistance.
+- The engine is required to run to maintain interior climate and reduce fogging.
+No.  The system plays an important role in reducing the fuel consumption and the CO 2 emissions.
+
+## Engine Start Concerns
+
+### Will the frequent engine starts cause parts to wear out?
+Your vehicle has an enhanced battery and starter motor that are designed for the increased number of engine starts.
+
+## Fuel and Refueling Precautions
+
+### Guidelines for Refueling
+Follow these guidelines when refueling:
+
+- Extinguish all smoking materials and any open flames before refueling your vehicle.
+- Switch the engine off before refueling.
+- Automotive fuels can be harmful or fatal if swallowed. Fuel is highly toxic and if swallowed can cause death or permanent injury. If fuel is swallowed immediately call a physician, even if no symptoms are immediately apparent. The toxic effects of fuel may not be apparent for hours.
+- Avoid inhaling fuel vapors. Inhaling fuel vapor can lead to eye and respiratory tract irritation. In severe cases, excessive or prolonged breathing of fuel vapor can cause serious illness and permanent injury.
+- Avoid getting fuel in your eyes. If you splash fuel in your eyes, immediately remove contact lenses, if worn, flush with water for 15 minutes and seek medical attention. Failure to seek proper medical attention could lead to permanent injury.
+- Fuels can be harmful if absorbed through the skin. If you splash fuel on your skin, clothing or both, promptly remove contaminated clothing and thoroughly wash your skin with soap and water. Repeated or prolonged skin contact causes skin irritation.
+- Be particularly careful if you are taking Antabuse or other forms of Disulfiram for the treatment of alcoholism. Breathing fuel vapors could cause an adverse reaction, serious personal injury or sickness. Immediately call a physician if you experience any adverse reactions.
+
+## Fuel Quality
+
+### Selecting the Correct Fuel
+Your vehicle operates on regular unleaded gasoline with a minimum pump (R+M)/2 octane rating of 87.
+
+Some fuel stations, particularly those in high altitude areas, offer fuels posted as regular unleaded gasoline with an octane rating below 87. The use of these fuels could result in engine damage that will not be covered by the vehicle warranty.
+
+For best overall vehicle and engine performance, premium fuel with an octane rating of 91 or higher is recommended. The performance gained by using premium fuel is most noticeable in hot weather as well as other conditions, for example when towing a trailer.
+
+Do not be concerned if the engine sometimes knocks lightly. However, if the engine knocks heavily while using fuel with the recommended octane rating, contact an authorized dealer to prevent any engine damage.
+
+We recommend Top Tier detergent gasolines, where available to help minimize engine deposits and maintain optimal vehicle and engine performance. For additional information, refer to www.toptiergas.com.
+
+### Fuel and Refueling
+Note: Use of any fuel for which the vehicle was not designed can impair the emission control system, cause loss of vehicle performance, and cause damage to the engine which may not be covered by the vehicle Warranty.
+
+### Do Not Use:
+- Diesel fuel.
+- Fuels containing kerosene or paraffin.
+- Fuel containing more than 15% ethanol or E85 fuel.
+- Fuels containing methanol.
+- Fuels containing metallic-based additives, including manganese-based compounds.
+- Fuels containing the octane booster additive, methylcyclopentadienyl manganese tricarbonyl (MMT).
+- Leaded fuel, using leaded fuel is prohibited by law.
+
+The use of fuels with metallic compounds such as methylcyclopentadienyl manganese tricarbonyl (commonly known as MMT), which is a manganese-based fuel additive, will impair engine performance and affect the emission control system.
+
+### Choosing the Right Fuel - Flex Fuel Vehicles
+Flex fuel vehicles have one of the following identifiers:
+
+- Yellow fuel filler cap.
+- Yellow bezel around the fuel filler inlet.
+- Yellow fuel filler housing.
+- Yellow E85 label on the fuel tank filler door.
+
+## Locating the Fuel Filler Funnel
+The fuel filler funnel is under the luggage compartment floor covering.
+
+## Running Out of Fuel
+
+### Filling a Portable Fuel Container
+WARNING: Flow of fuel through a fuel pump nozzle can produce static electricity. This can cause a fire if you are filling an ungrounded fuel container.
+
+Your vehicle operates on regular unleaded gasoline with a minimum pump (R+M)/2 octane rating of 87 or regular unleaded gasoline blended with a maximum of 85% ethanol (E85).
+
+Some fuel stations, particularly those in high altitude areas, offer fuels posted as regular unleaded gasoline with an octane rating below 87. The use of these fuels could result in engine damage that will not be covered by the vehicle warranty.
+
+For best overall vehicle and engine performance, premium fuel with an octane rating of 91 or higher is recommended. The performance gained by using premium fuel is most noticeable in hot weather as well as other conditions, for example when towing a trailer.
+
+Do not be concerned if the engine sometimes knocks lightly. However, if the engine knocks heavily while using fuel with the recommended octane rating, contact an authorized dealer to prevent any engine damage.
+
+We recommend Top Tier detergent gasolines, where available to help minimize engine deposits and maintain optimal vehicle and engine performance. For additional information, refer to www.toptiergas.com.
+
+Note: Use of any fuel for which the vehicle was not designed can impair the emission control system, cause loss of vehicle performance, and cause damage to the engine which may not be covered by the vehicle Warranty.
+
+Use the following guidelines to avoid electrostatic charge build-up, which can produce a spark, when filling an ungrounded fuel container:
+
+- Only use an approved fuel container to transfer fuel to your vehicle. Place the container on the ground when filling it.
+- Do not fill a fuel container when it is inside your vehicle (including the cargo area).
+- Keep the fuel pump nozzle in contact with the fuel container when filling it.
+- Do not use a device that holds the fuel pump nozzle lever in the fill position.
+
+### Adding Fuel from a Portable Fuel Container
+WARNING: Do not insert the nozzle of a fuel container or an aftermarket funnel into the fuel filler neck. This may damage the fuel system filler neck or its seal and cause fuel to run onto the ground.
+
+WARNING: Do not pry open the fuel tank filler valve. This could damage the fuel system. Failure to follow this instruction could result in fire, personal injury or death.
+
+WARNING: Do not dispose of fuel in the household refuse or the public sewage system. Use an authorized waste disposal facility.
+
+When refueling the vehicle fuel tank from a fuel container, use the fuel filler funnel included with your vehicle. See Locating the Fuel Filler Funnel.
+
+Note: Do not use aftermarket funnels as they may not work with the capless fuel system and can damage it.
+
+When refueling the vehicle fuel tank from a fuel container, do the following:
+
+1. Fully open the fuel filler door.
+2. Fully insert the fuel filler funnel into the fuel filler inlet.
+3. Add fuel to your vehicle from the fuel container.
+4. Remove the fuel filler funnel.
+## REFUELING
+
+### REFUELING SYSTEM OVERVIEW
+
+- Fuel filler door. A  
+- Fuel filler inlet. B  
+- Fuel tank filler pipe. C  
+
+### REFUELING YOUR VEHICLE EXCLUDING: PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+WARNING: When refueling always shut the engine off and never allow sparks or open flames near the fuel tank filler valve. Never smoke or use a cell phone while refueling. Fuel vapor is extremely hazardous under certain conditions. Avoid inhaling excess fumes.
+
+WARNING: The fuel system may be under pressure. If you hear a hissing sound near the fuel filler inlet, do not refuel until the sound stops. Otherwise, fuel may spray out, which could cause serious personal injury.
+
+#### Fuel and Refueling
+
+1. Fully open the fuel filler door.  
+2. Select the correct fuel pump nozzle for your vehicle.  
+3. Insert the fuel pump nozzle up to the first notch on the nozzle A. Keep the fuel pump nozzle resting on the fuel tank filler pipe.  
+4. Hold the fuel pump nozzle in position B when refueling. Holding the fuel pump nozzle in position A can affect the flow of fuel and shut off the fuel pump nozzle before the fuel tank is full.  
+5. Operate the fuel pump nozzle within the area shown.  
+6. When the nozzle shuts off, wait at least 5 seconds, then slightly raise the fuel pump nozzle and slowly remove it.  
+7. Fully close the fuel filler door.
+
+Do not attempt to start the engine if you have filled the fuel tank with incorrect fuel. Incorrect fuel use could cause damage not covered by the vehicle Warranty. Have your vehicle immediately checked.
+
+### REFUELING YOUR VEHICLE HYBRID ELECTRIC VEHICLE (HEV)/PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+WARNING: When refueling always shut the engine off and never allow sparks or open flames near the fuel tank filler valve. Never smoke or use a cell phone while refueling. Fuel vapor is extremely hazardous under certain conditions. Avoid inhaling excess fumes.
+
+#### Fuel and Refueling
+
+1. When you stop your vehicle, shift into park (P) and switch the ignition off.
+2. Press the button on the left side of the instrument panel next to the headlamp switch to open the fuel filler door. The fuel filler door can take up to 15 seconds to open before you can insert a fuel filler nozzle.
+3. Insert the fuel pump nozzle up to the first notch on the nozzle A. Keep it resting on the cover of the fuel tank filler pipe opening.
+4. Hold the fuel pump nozzle in position B when refueling. Holding the fuel pump nozzle in position A can affect the flow of fuel and shut off the fuel pump nozzle before the fuel tank is full.
+5. Operate the fuel pump nozzle within the area shown.
+6. When the nozzle shuts off, wait at least 5 seconds, then slightly raise the fuel pump nozzle and slowly remove it.  
+7. Fully close the fuel filler door.
+
+Note: Leaving the fuel door open could set a check engine lamp. See Fuel and Refueling - Troubleshooting (page 196).
+
+Complete the refueling process within 20 minutes. If 20 minutes elapses, press the button on the left side of the instrument panel again. Fuel pump nozzle automatic shut off could occur if you do not press the button on the left side of the instrument panel.
+
+Do not attempt to start the engine if you have filled the fuel tank with incorrect fuel. Incorrect fuel use could cause damage not covered by the vehicle Warranty. Have your vehicle immediately checked.
+
+### MANUALLY OPENING THE FUEL FILLER DOOR - EXCLUDING: HYBRID ELECTRIC VEHICLE (HEV)/PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+Your vehicle does not have a fuel tank filler cap.
+
+- Left-hand side. To open the fuel filler door, press the center rear edge of the fuel filler door and then release. A  
+- Right-hand side. To open the fuel filler door, press the center rear edge of the fuel filler door and then release. B  
+
+#### Fuel and Refueling
+
+- Left-hand side. Pull the rear of the fuel filler door to open it. C  
+- Right-hand side. Pull the rear of the fuel filler door to open it. D  
+
+### MANUALLY OPENING THE FUEL FILLER DOOR
+
+WARNING: The fuel system may be under pressure. If you hear a hissing sound near the fuel filler inlet, do not refuel until the sound stops. Otherwise, fuel may spray out, which could cause serious personal injury.
+
+Note: The transmission must be in park (P) or neutral (N).
+
+When using the manual override lever do the following:
+
+1. Switch the ignition on.
+
+Note: The manual override lever is in the driver side rear wheel well area.
+
+2. Pull the manual override lever.  
+3. Switch the ignition off.  
+4. Complete the refueling process within 20 minutes.
+
+Note: Only follow this procedure if the fuel filler door fails to open. If the problem remains, have your vehicle checked as soon as possible.
+
+## FUEL TANK CAPACITY
+
+### Advertised Capacity
+
+The advertised capacity is the maximum amount of fuel that you can add to the fuel tank when the fuel gauge indicates empty.
+
+#### Fuel and Refueling
+
+In addition, the fuel tank contains an empty reserve. The empty reserve is an unspecified amount of fuel that remains in the fuel tank when the fuel gauge indicates empty.
+
+Note: The amount of fuel in the empty reserve varies and should not be relied upon to increase driving range.
+
+## FUEL AND REFUELING TROUBLESHOOTING
+
+### FUEL AND REFUELING WARNING LAMPS
+
+If it illuminates when you are driving, refuel as soon as possible.
+
+### FUEL AND REFUELING - INFORMATION MESSAGES - EXCLUDING: HYBRID ELECTRIC VEHICLE (HEV)/PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+| Message                                                   | Action                                                                                                               |
+|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Fuel Level Low                                            | An early reminder of a low fuel condition.                                                                           |
+| Check Fuel Fill Inlet                                     | The fuel fill inlet may not be properly closed.                                                                      |
+| Fuel doorajar Close fully to avoid ""Check Engine"" light | A reminder to close the fuel door. Failure to follow this instruction can cause the check engine light to illuminate. |
+| Refuel Error See Manual                                   | There is an error in attempting to refill your vehicle.                                                              |
+
+### FUEL AND REFUELING - INFORMATION MESSAGES - HYBRID ELECTRIC VEHICLE (HEV)/PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+| Message                                                   | Action                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Fuel Level Low                                            | An early reminder of a low fuel condition.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Check Fuel Fill Inlet                                     | The fuel fill inlet may not be properly closed.                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Please wait for fuel door to open                         | The information message appears while the fuel system is depressurizing with the fuel filler door closed. Wait for the fuel system to depressurize and for the fuel filler door to unlatch.                                                                                                                                                                                                                                                                                  |
+| Fuel Door Open                                            | The information message appears when the fuel system has depressurized and opened the fuel filler door. Fully open the fuel filler door to refuel and fully close the fuel filler door when refueling is complete.                                                                                                                                                                                                                                                            |
+| Fuel doorajar Close fully to avoid ""Check Engine"" light | Your vehicle is equipped with a sealed fuel system that requires the fuel filler door to be fully closed after refueling. This warning message appears when the fuel filler door is ajar. Please fully close the fuel filler door to avoid a "Check Engine" Light. If you see this message and a "Check Engine" lamp illuminates, please fully close the fuel filler door. The "Check Engine" Light should clear within five seconds. If the "Check Engine" light persists, please see your dealer. |
+| Refuel Error See Manual                                   | The information message appears when the fuel system fails to depressurize, or the fuel filler door fails to open. You could have to use the fuel filler door manual override lever when opening the fuel door.                                                                                                                                                                                                                                                                    |
+
+### Additional Notes
+
+- Fully close the fuel filler door.  
+- Clean the fuel filler funnel and place it back in your vehicle or correctly dispose of it.
+
+Note: If your vehicle runs out of fuel add a minimum of 1.3 gal (5 L) of fuel to restart the engine.
+
+Note: You may need to switch the ignition from off to on several times after refueling to allow the fuel system to pump the fuel from the tank to the engine. When restarting, cranking time takes a few seconds longer than normal.
+
+Note: Extra funnels can be purchased from an authorized dealer if you choose to dispose of the funnel.
+## WHAT IS THE CATALYTIC CONVERTER
+
+The catalytic converter is part of your vehicle's emissions system and filters harmful pollutants from the exhaust gas.
+
+## CATALYTIC CONVERTER PRECAUTIONS
+
+WARNING: Do not park, idle or drive your vehicle on dry grass or other dry ground cover. The emission system heats up the engine compartment and exhaust system, creating the risk of fire.
+
+WARNING: The normal operating temperature of the exhaust system is very high. Never work around or attempt to repair any part of the exhaust system until it has cooled. Use special care when working around the catalytic converter. The catalytic converter heats up to a very high temperature after only a short period of engine operation and stays hot after the engine is switched off.
+
+WARNING: Exhaust leaks may result in entry of harmful and potentially lethal fumes into the passenger compartment. If you smell exhaust fumes inside your vehicle, have your vehicle inspected immediately. Do not drive if you smell exhaust fumes.
+
+To avoid damaging the catalytic converter:
+
+- Do not crank the engine for more than 10 seconds at a time.
+- Do not run the engine with a spark plug lead disconnected.
+- Do not push-start or tow-start your vehicle. Use booster cables. See Jump Starting the Vehicle (page 311).
+- Use the correct fuel. See Fuel and Refueling (page 187).
+- Do not switch the ignition off when your vehicle is moving.
+- Avoid running out of fuel.
+- Have the items listed in scheduled maintenance information performed according to the specified schedule.
+
+Note: Do not make any unauthorized changes to your vehicle or engine. By law, vehicle owners and anyone who manufactures, repairs, or services a fleet of vehicles are not permitted to intentionally remove an emission control device or prevent it from working.
+
+## CATALYTIC CONVERTER TROUBLESHOOTING
+
+## CATALYTIC CONVERTER WARNING LAMPS
+
+Your vehicle has an on-board diagnostics system that monitors the emission control system. If any of the following warning lamps illuminate, this may indicate that the on-board diagnostics system has detected an emission control system malfunction.
+
+Continuing to drive your vehicle may cause reduced power or the engine to stop. Failure to respond to a warning lamp may cause damage that your vehicle Warranty may not cover. Have your vehicle checked as soon as possible.
+
+## WHAT IS THE HIGH VOLTAGE BATTERY
+
+The high voltage battery is a highly sophisticated lithium ion battery system, used to store electrified energy to power the vehicle.
+
+## HIGH VOLTAGE BATTERY PRECAUTIONS
+
+WARNING: This battery pack should only be serviced by an authorized electric vehicle technician. Improper handling can result in personal injury or death.
+
+WARNING: Keep your hands and clothing clear of the cooling fan.
+
+WARNING: Apply the parking brake, shift into park (P), switch the ignition off and remove the key before you open the hood or have any service or repair work completed. If you do not switch the ignition off, the engine could restart at any time. Failure to follow this instruction could result in personal injury or death.
+
+WARNING: Do not touch the electronic ignition system parts after you have switched the ignition on or when the engine is running. The system operates at high voltage. Failure to adhere to this warning could result in serious personal injury or death.
+
+Your vehicle consists of various high-voltage components and wiring. All of the high-voltage power flows through specific wiring assemblies labeled as such or covered with a solid orange convolute, or orange striped tape, or both. Do not come in contact with these components.
+
+## WHAT IS AC CHARGING
+
+AC charging is the preferred method of charging. AC charging preserves the health of the battery for longer battery life.
+
+## CHARGING YOUR VEHICLE PRECAUTIONS
+
+WARNING: In Canada, do not use the 120 volt convenience cord in commercial garages.
+
+WARNING: This equipment has arcing or sparking parts. Do not expose to flammable vapors. Position this equipment at least 18 in (450 mm) above the floor.
+
+WARNING: The AC wall plug must fit firmly into the AC outlet. If the connection feels loose, worn or the AC outlet is damaged, please have a qualified electrician replace the AC outlet. Using a convenience cord with a worn outlet may cause burns, property damage and increase the risk of electric shock.
+
+WARNING: Do not use the 120 V convenience cord with an extension cord, two-prong adapter, surge protector, timer or other adapter.
+
+WARNING: Do not allow charging equipment to be immersed in water or liquids. Failure to follow this warning could result in fire, serious personal injury or death.
+
+WARNING: Do not attempt to open the charging equipment. Failure to follow this instruction could result in personal injury, death or property damage.
+
+WARNING: Do not use the charging equipment if it is faulty or has been damaged. Failure to follow this instruction could result in personal injury, death or property damage.
+
+WARNING: You risk death or serious injury to yourself and others if you do not follow the instruction highlighted by the warning symbol. Failure to follow the specific warnings and instructions could result in personal injury.
+
+WARNING: Install charging equipment in compliance with local regulations. Failure to follow this warning could result in fire, serious personal injury or death.
+
+WARNING: Do not use an ungrounded wall outlet. If you suspect that the wall outlet is not properly grounded, have a qualified electrician inspect the wall outlet. Failure to follow this instruction could result in personal injury or death.
+
+WARNING: Do not modify the convenience cord plug. If the convenience cord plug does not properly fit into the wall outlet, have a qualified electrician install the correct wall outlet. Failure to follow this instruction could result in personal injury or death.
+
+## CHARGING EQUIPMENT
+
+- Read all the instructions before using this product.
+- Supervise this device when in use around children.
+- Do not put fingers into the electric vehicle connector.
+- Do not use this product if the flexible power cord or electric vehicle cable has broken insulation, or any other signs of damage.
+- Do not use this product if the enclosure or the electric vehicle connector is broken, cracked, open, or shows any other indication of damage.
+
+Note: Ground this product. If it malfunctions or breaks down, grounding provides a path of least resistance for electric current to reduce the risk of electric shock. This product comes with a cord having an equipment grounding conductor and a grounding plug. Make sure you plug it into an appropriate outlet that is properly installed and grounded in accordance with all local codes and ordinances.
+
+Note: You need to plug the convenience cord into a dedicated outlet.
+
+Note: Firmly fit the AC wall plug into the AC outlet. If the connection feels loose, worn or the AC outlet is damaged, please have a qualified electrician replace the AC outlet. Using a convenience cord with a worn outlet could cause burns, property damage and increase the risk of electric shock.
+
+Note: Do not use the 120 volt convenience cord with an extension cord, two-prong adapter, surge protector, timer or other adapter.
+## Safety Warnings
+
+FIRE Use a three-prong AC outlet that is properly grounded, 15-20 amps or greater, and in good condition. Use a dedicated line. You cannot have other appliances connected to the same circuit. If you do not use a dedicated circuit, the circuit breaker could trip or open. If you do not have a dedicated circuit, contact a licensed professional electrician for proper installation.
+
+Note: Make sure the electrical source meets the requirements for the high-voltage batteries to charge.
+
+## Charging Instructions
+
+Make sure that the convenience cord is completely unwrapped before charging. Always plug the cord into the AC outlet before connecting the charged coupler into the charge port on your vehicle.
+
+Note: When you plug the convenience cord into an outlet, use the following table to determine your vehicle charge status. If the power indicator light is off after plugging in the convenience cord, use a different outlet.
+
+## Charging Your Vehicle - Plug-In Hybrid Electric Vehicle (PHEV) (If Equipped)
+
+| Convenience Cord LED Indicators | Convenience Cord LED Indicators | Convenience Cord LED Indicators | What it Means                                                                                                                                                                            | What to Do                                                           |
+|---------------------------------|---------------------------------|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Power (Green)                   | Fault (Red)                     | Check Outlet (Amber)            |                                                                                                                                                                                        |                                                                    |
+| Off                             | Off                             | Off                             | If the LED indicators are off after plugging in the convenience cord and the plug is experiencing a no power condition from the wall outlet, use a different outlet.                      | Use a different wall outlet.                                       |
+| On                              | Off                             | Off                             | The convenience cord is plugged into the wall outlet and ready to charge your vehicle. Reference the charge port section below for information on vehicle charging.                                | No action required.                                                  |
+| On                              | Flashing                        | On                              | The convenience cord AC plug is experiencing an overheating condition. The convenience cord is in retry mode to return to normal condition. If the fault persists, you have a bad wall outlet. | Check the outlet. If the problem persists, use a different outlet. |
+| On                              | Off                             | Flashing                       | The convenience cord is charging at a reduced current rate due to a wall outlet over temperature condition.                                                                            | Check the outlet. If the problem persists, use a different outlet. |
+| On                              | On                              | Flashing                       | The convenience cord AC plug has overheated. The cord set retry mode has been exhausted. Your vehicle is not charging. You have a bad wall outlet.                                           | Check the outlet. If the problem persists, use a different outlet. |
+| On                              | Flashing                        | Off                             | The convenience cord is experiencing a ground fault at the charge port. The convenience cord is in retry mode to return to normal condition. Your vehicle is not charging.                     | Unplug and re-plug to vehicle charge port.                        |
+
+## Additional Charging Information
+
+| Convenience Cord LED Indicators | Convenience Cord LED Indicators | Convenience Cord LED Indicators | What it Means                                                                                                                                                 | What to Do                                                                                                              |
+|---------------------------------|---------------------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Power (Green)                   | Fault (Red)                     | Check Outlet (Amber)            | What it Means                                                                                                                                                 | What to Do                                                                                                              |
+| On                              | On                              | Off                             | The convenience cord is experiencing a ground fault at the charge port. The cord set retry mode has been exhausted. Your vehicle is not charging. Call for service. | Request vehicle service.                                                                                              |
+| On                              | On/Two flash interval           | Two flash interval              | Missing ground at AC outlet. Your vehicle is not charging. The convenience cord is in retry mode.                                                                | Connect to a properly grounded AC outlet. If fault still exists for more than two minutes, return cord set for service. |
+| On                              | On/Flashing                    | Off                             | The convenience cord is experiencing an internal fault. Call for service.                                                                                   | Wait two minutes. If fault is still present, request cord set service. Replace the cord set.                            |
+
+Note: If charging for your plug-in vehicle fails, please call the Customer Relationship Center, or click on Call for support or Live chat at our website.
+
+## Moving and Storage Instructions
+
+Note: Do not hold the convenience cord by the flexible power cable.
+
+Make sure that you completely wrap the convenience cord after charging.
+
+When complete, replace the convenience cord in the luggage compartment.
+
+Note: Store the convenience cord in a clean, dry place between the temperature of -39.9-193.9°F (-40-90°C).
+
+## Locating the Charge Port
+
+The charge port is between the front left-hand side door and the front left-hand wheel well. To open, press the center right edge of the charge port door, and then release.
+
+## Charge Port Indicators
+
+The charge status indicator around the charge port indicates the charge status of the high voltage battery in your vehicle.
+
+Divided into five zones, the charge status indicator displays the state of charge in 20 percent increments.
+
+We use the color white as a courtesy light to help with plugging in and to acknowledge actions such as plugging in, unplugging or pressing the charge times button.
+## CHARGING STATUS INDICATOR
+
+We use the color blue when you plug the vehicle in and are either charging or waiting to charge.
+
+We use the color orange to indicate charge faults.
+
+The charge status indicator displays how far along the charge is:
+
+- When the bottom zone is pulsing, the charge is between 0-20 percent.
+- When the bottom zone illuminates and the next is pulsing, the charge is between 20-40 percent.
+- When two zones illuminate and the next is pulsing, the charge is between 40-60 percent.
+- When three zones illuminate and the next is pulsing, the charge is between 60-80 percent.
+- When four zones illuminate and the top zone is pulsing, the charge is between 80-100 percent.
+- When all zones illuminate, the charge is 100 percent.
+
+E301197
+
+- 80%-100% state of charge. A.
+- 60%-80% state of charge. B.
+- 40%-60% state of charge. C.
+- 20%-40% state of charge. D.
+- 0%-20% state of charge. E.
+
+Note: When charging stops, the charge status indicator shows all the completed zones solidly lit up in a blue color for 30 seconds before turning off. For example, if charging stops at 70 percent, then the bottom three zones light up solidly to indicate a battery charge level of at least 60 percent but less than 80 percent. Charging stops when complete or when paused due to preferred charge settings or charge station actions.
+
+## AC CHARGING
+
+### CONNECTING THE CHARGER
+
+To charge the high-voltage battery:
+
+1. Put the vehicle in park (P).
+2. Press the center right edge of the charge port door and then release to open the door.
+3. Plug the charging coupler into the charge port receptacle on your vehicle. Make sure the button clicks confirming that you have completely engaged the coupler.
+
+E295257
+
+4. Verify that the cord acknowledgment feature activates. This indicates the beginning of a normal charge cycle. The charge status indicator lights up each zone alternately from bottom to top and from bottom to top again.
+5. If using a charging station, follow the instructions on the charge station to begin the charging process.
+
+Note: You can identify charging faults by the color orange on the charge status indicator. Faults can occur within the vehicle charging system or outside the vehicle, such as with the charge cord, charge station or electrical supply.
+
+Note: If the system detects a fault in the vehicle charging system at any point in a charge cycle, the entire charge status indicator lights up solidly in an orange color for 30 seconds and then turns off. If this happens, unplug the charging coupler and then plug it back into the charge port receptacle. If the problem persists, have your vehicle checked as soon as possible.
+
+Note: If the system detects a fault outside the vehicle, such as with the charge station or charge cord, the entire charge status indicator flashes continuously for 30 seconds and then turns off. If this happens, check the charge cord and the charge station or electrical supply.
+
+Note: Put your vehicle in park (P) to charge, and for the charge status indicator to illuminate.
+
+### Locking the Charging Coupler
+
+Note: You need a padlock or a combination lock with a shackle diameter of 0.2 in (5 mm) or less, and the straight portion of the shackle of 1.0 in (25.4 mm) of length or more.
+
+1. Insert the lock through the hole in the charging coupler button.
+2. Lock the padlock or combination lock.
+
+### STOPPING CHARGING
+
+1. If you have installed a padlock or combination lock, then remove it.
+2. Press the button on the charging coupler.
+3. While holding the button, remove the charging coupler from the charge port receptacle.
+
+E295444
+
+4. Press the center right edge of the charge port door to close.
+
+Note: Do not pull the wall plug from the wall when your vehicle is charging. Doing so could damage the outlet and the cord.
+
+### SETTING THE CHARGING SCHEDULE AND PREFERENCES
+
+Note: Select charge settings on the home page of the touchscreen or under the vehicle settings menu to access charge preferences.
+
+Charging may not begin upon plugging in if you have set up preferred charge times for this vehicle location. Your vehicle could delay charging to take advantage of off-peak electricity rates. Your vehicle optimizes the charge schedule to be complete by your next departure time.
+
+When waiting to charge, plugged in and not currently charging, the charge status indicator shows the present state of charge of the high voltage battery by lighting up all completed zones for 30 seconds before turning off. For example, if the battery is at 70 percent charge then the bottom three zones solidly light up to indicate a battery charge level of at least 60 percent but less than 80 percent. When the current state of charge is less than 20 percent, none of the zones light up.
+
+Note: When your vehicle is waiting to charge, the charge status indicator turns off 30 seconds after displaying the present state of charge. When your vehicle begins charging, the charge status indicator turns on and displays the status of the charge, as described above.
+
+### Charge Times Button
+
+Use the charge times button to either turn off or turn on your charge times settings for this location. Select charge settings on the home page of your touchscreen or under the vehicle settings menu to access charge preferences.
+
+## CHARGING YOUR VEHICLE - TROUBLESHOOTING
+
+## CHARGING YOUR VEHICLE - INFORMATION MESSAGES
+
+| Message                                                     | Action                                                                                                                                                                         |
+|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Vehicle Plugged In ? Yes No                                 | Your vehicle needs confirmation that you unplugged it before allowing a start. You must make sure your vehicle is unplugged and you respond to the message before starting your vehicle. |
+| Unplug Prior to Starting Vehicle                            | Your vehicle detects it is still plugged in after you attempt to start it.                                                                                                     |
+| Charge Station Fault See Manual                             | A charging fault has been detected. Check the charging cord and the charge station or electrical supply.                                                                        |
+| Charge Station Communication Error Contact Station Provider | The charging station cannot communicate with your vehicle. Contact the station provider.                                                                                       |
+
+## CHARGING YOUR VEHICLE FREQUENTLY ASKED QUESTIONS
+
+### Why does my vehicle have a hum or fan noise when charging?
+
+A hum or a fan noise could be present when charging the high voltage battery. This is a normal operation as your vehicle is keeping the battery cool while charging.
+WARNING: When your vehicle is stationary, keep the brake pedal fully pressed when shifting gears. Failure to follow this instruction could result in personal injury, death or property damage.
+
+WARNING: Do not apply the brake pedal and accelerator pedal simultaneously. Applying both pedals simultaneously for more than a few seconds will limit power, which may result in difficulty maintaining speed in traffic and could lead to serious injury.
+
+WARNING: Apply the parking brake, shift into park (P), switch the vehicle off and remove the key or remote control before you leave your vehicle. Failure to follow this instruction could result in personal injury or death.
+
+Note: You may not be able to shift out of park (P) unless the intelligent access key is inside your vehicle.
+
+## AUTOMATIC TRANSMISSION POSITIONS
+
+### PARK (P)
+
+WARNING: Move the transmission selector lever to park (P) only when your vehicle is stationary.
+
+This position locks the driveline. Come to a complete stop before shifting into and out of park (P).
+
+The electric parking brake could apply when you shift to park (P) without the brake pedal fully pressed. The electric parking brake applies when you shift to park (P) on large slopes. The electric parking brake releases with the drive away release function.
+
+Note: A tone sounds if you attempt to exit your vehicle without the transmission in park (P).
+
+Note: Your vehicle may not shift out of park (P) if the vehicle battery has run out of charge.
+
+Note: Your vehicle may not shift out of park (P) if a fuse is blown.
+
+Note: Your vehicle may not shift out of park (P) unless the key or remote control is inside your vehicle.
+
+Note: Your vehicle shifts into park (P) if you attempt to exit your vehicle without the transmission in park (P).
+
+Note: If you shift into park (P) without fully pressing the brake, the parking brake could apply. If you shift into park (P) on a slope, the parking brake could apply.
+
+Note: You can start your vehicle in this position.
+
+Note: A tone could sound when you select park (P).
+
+### REVERSE (R)
+
+WARNING: Move the transmission selector lever to reverse (R) only when your vehicle is stationary and the engine is at idle speed.
+
+This position allows your vehicle to move backward. Come to a complete stop before shifting into and out of reverse (R).
+
+### NEUTRAL (N)
+
+In neutral (N) power is not transmitted to the driven wheels.
+
+### DRIVE (D)
+
+This position, drive (D), is the normal driving position, and allows your vehicle to move forward.
+
+### LOW (L)
+
+This mode is for driving on steep slopes. The transmission will hold low gear for maximum torque driving uphill and maximum engine braking driving downhill. You can enter this mode at any vehicle speed.
+
+Note: Prolonged use of this mode could lower fuel economy. With your vehicle in drive (D), press the L button to enter this mode.
+
+## SHIFTING YOUR VEHICLE INTO GEAR
+
+Your vehicle has an electronic transmission selector. The transmission selector is on the center console. The gears are selected by rotating the transmission selector to PRNDL.
+
+- Park (P)
+- Reverse (R)
+- Neutral (N)
+- Drive (D)
+- Low (L)
+
+Putting your vehicle in gear:
+
+1. Fully press down the brake pedal.
+2. Rotate the transmission selector to the position you want and release.
+3. The transmission position you select illuminates.
+4. Release the brake pedal and your transmission remains in the selected gear.
+
+## AUTOMATIC TRANSMISSION POSITION INDICATORS
+
+The instrument cluster displays the current position.
+
+## Automatic Transmission
+
+1. Bring your vehicle to a complete stop.
+2. Press and hold the brake pedal.
+3. Shift into neutral (N).
+
+Note: An instructional message appears.
+
+4. Press the low (L) button.
+
+Note: A confirmation message appears when your vehicle enters the mode.
+
+5. Release the brake pedal.
+
+Note: Your vehicle is free to roll.
+
+6. Switch your vehicle off.
+
+Note: Do not tow your vehicle in this mode.
+
+Note: The neutral (N) indicator on the transmission selector may flash in this mode.
+
+## EXITING TEMPORARY NEUTRAL MODE
+
+1. Press the brake pedal.
+2. Shift into park (P), or power your vehicle on and shift into drive (D) or reverse (R).
+
+## AUTOMATIC RETURN TO PARK (P)
+
+### WHAT IS AUTOMATIC RETURN TO PARK (P)
+
+Your vehicle shifts into park (P) if you attempt to exit your vehicle without the transmission in park (P).
+
+Note: The position could illuminate on the transmission selector.
+
+## TEMPORARY NEUTRAL MODE
+
+### WHAT IS TEMPORARY NEUTRAL MODE
+
+This mode keeps your vehicle in neutral (N) when you switch your vehicle off. Use this mode at an automatic car wash if you exit your vehicle, or switch your vehicle off.
+
+Note: Do not tow your vehicle in this mode.
+
+Note: Automatic return to park (P) is delayed when your vehicle is in this mode.
+
+### TEMPORARY NEUTRAL MODE LIMITATIONS
+
+Your vehicle could shift to park (P) after 30 minutes, or when the vehicle battery charge level is low. Prolonged use of this mode can cause the vehicle battery to run out of charge.
+
+Do not tow your vehicle in this mode. Failure to follow these instructions could result in vehicle damage not covered by the vehicle warranty.
+
+### ENTERING TEMPORARY NEUTRAL MODE
+
+1. Power your vehicle on.
+
+## Automatic Transmission
+
+### HOW DOES AUTOMATIC RETURN TO PARK (P) WORK
+
+Your vehicle shifts into park (P) when your vehicle is stationary and any of the following occur:
+
+- You switch the vehicle off.
+- You open the driver door with your seatbelt unlatched.
+- You unlatch the driver seatbelt when the driver door is open.
+
+Note: Do not use automatic return to park (P) when your vehicle is moving, except in an emergency.
+
+### AUTOMATIC RETURN TO PARK (P) LIMITATIONS
+
+Automatic return to park may not work if the door ajar switch is malfunctioning.
+
+See an authorized dealer if any of the following occur:
+
+- Door ajar indicator does not illuminate with the driver door open.
+- Door ajar indicator illuminates with the driver door closed.
+- Transmission not in park message appears with the driver door closed, after you shift out of park (P).
+
+## GRADE ASSIST - HYBRID ELECTRIC VEHICLE (HEV)
+
+### WHAT IS GRADE ASSIST
+
+Provides additional grade braking with a combination of engine motoring and high-voltage battery charging to help maintain vehicle speed when descending a grade.
+
+### SWITCHING GRADE ASSIST ON AND OFF
+
+1. Press Settings on the touchscreen.
+2. Select Driver Assistance Settings.
+3. Select Grade Assist.
+
+The grade assist lamp appears in the instrument cluster.
+
+Your vehicle determines the amount of engine motoring and high-voltage battery charging. You could notice the engine speed increasing and decreasing to help maintain your vehicle speed when descending a slope.
+
+## GRADE ASSIST INDICATORS
+
+## MANUAL PARK RELEASE GASOLINE
+
+### WHAT IS MANUAL PARK RELEASE
+
+Manual park release is used to move your transmission from the park (P) position in the event of an electrical malfunction or emergency.
+
+### MANUAL PARK RELEASE PRECAUTIONS
+
+WARNING: When doing this procedure, you need to take the transmission out of park (P) which means your vehicle can roll freely. To avoid unwanted vehicle movement, always fully apply the parking brake prior to doing this procedure. Use wheel chocks if appropriate.
+WARNING: If the parking brake is fully released, but the brake warning lamp remains illuminated, the brakes may not be working properly. Have your vehicle checked as soon as possible.
+
+WARNING: Do not drive your vehicle until you verify that the stoplamps are working.
+
+## USING MANUAL PARK RELEASE
+
+### Activating the Manual Park Release Cable
+
+Note: If the vehicle battery is dead, for example, no electrical power is available, you could use an external power source to apply the parking brake.
+
+1. Locate the manual park release cable access cover on the lower instrument panel dash to the bottom left hand side of the steering column.  
+2. Using a tool, carefully open the access cover.
+
+Note: Do not pull the tether until you are in the driver seat.
+
+3. Switch the ignition on, but do not start your vehicle.  
+4. Once in the driver seat, fully press the brake pedal and hold. Do not release. Pull the orange tether towards the driver seat until the tether gets locked in the override position. Then leave the tether.  
+5. If done correctly a message should display on the instrument cluster screen.
+
+Note: Your vehicle is now out of the park (P) position and is free to roll.
+
+6. With your foot still fully applied on the brake pedal, disengage the parking brake.  
+7. Your vehicle remains in neutral (N) for emergency towing purposes.  
+8. Switch off the ignition.  
+9. Once safe to do so, and there is no risk that your vehicle will roll, disconnect the negative (black) battery cable from the battery.
+
+Note: If the vehicle detects wheel movement before the battery is disconnected, the electric parking brake could apply.
+
+10. Apply the parking brake.
+
+### Returning Your Vehicle to Normal Mode
+
+1. Once it is safe to do so, reconnect the negative (black) battery cable to the battery.  
+2. Apply the parking brake.
+
+Note: If the vehicle battery is dead, for example, no electrical power is available, you could use an external power source to apply the parking brake.
+
+3. Fully apply the brake pedal and hold. Do not release. Pull the orange tether outward towards the driver seat to release it from the override position.  
+4. The cable will release and retract back to its original rest position.  
+5. Stow the manual park release cable tether back inside the instrument panel dash hole, install the access cover by pressing it back in position.  
+6. With your foot fully applied on the brake pedal, start your vehicle. Confirm that your vehicle is in the park (P) position and that the instrument cluster indicates park (P).  
+7. If the instrument cluster is not displaying the park (P) position or a message displays on the instrument cluster screen, make sure you apply the parking brake before exiting your vehicle. Contact an authorized dealer for service.
+
+## AUTOMATIC TRANSMISSION AUDIBLE WARNINGS
+
+### Transmission Not In Park (P) Audible Warning
+
+Sounds if you open the driver door before shifting into park (P).
+
+## AUTOMATIC TRANSMISSION - TROUBLESHOOTING
+
+### AUTOMATIC TRANSMISSION INFORMATION MESSAGES
+
+| Message                                                     | Description                                                                                                                                                      |
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Park Brake Not Applied                                      | The electric parking brake is not fully applied.                                                                                                               |
+| Transmission Not in Park                                    | A reminder to shift into park. In addition, this message is typically after reconnecting or recharging the battery until you cycle the ignition to the on mode. |
+| SHIFT SYS FAULT Apply Park Brake Before Exiting the Vehicle | Displays when there is a system fault and the park brake needs to be depressed before exiting the vehicle. See your authorized dealer.                          |
+| Transmission Malfunction Service Now                        | The system has detected a fault that requires service. Have your vehicle checked as soon as possible.                                                            |
+
+| Message                                | Description                                                                                           |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Select L To Confirm Stay In Neutral Mode  | Displays when you shift into neutral (N).                                                             |
+| Stay in Neutral Mode Engaged           | Displays to confirm that your vehicle has entered Stay in Neutral Mode.                               |
+| Select M To Confirm Stay In Neutral Mode | The system has detected a fault that requires service. Have your vehicle checked as soon as possible. |
+
+## HOW DOES ALL-WHEEL DRIVE WORK
+
+Your all-wheel drive vehicle is not intended for off-road use. The AWD feature gives your vehicle some limited off-road capabilities in which driving surfaces are relatively level, obstruction-free and otherwise similar to normal on-road driving conditions. Operating your vehicle in conditions other than those could subject the vehicle to excess stress which might result in damage which is not covered under your warranty.
+
+## ALL-WHEEL DRIVE PRECAUTIONS
+
+WARNING: Do not become overconfident in the ability of all-wheel drive vehicles. Although an all-wheel drive vehicle may accelerate better than a two-wheel drive vehicle in low traction situations, it won't stop any faster than two-wheel drive vehicles. Always drive at a safe speed.
+
+## ALL-WHEEL DRIVE LIMITATIONS
+
+Using different size tires other than the provided spare could cause system damage or disable the all-wheel drive system.
+
+## ALL-WHEEL DRIVE - TROUBLESHOOTING
+
+## ALL-WHEEL DRIVE - INFORMATION MESSAGES
+
+| Message                         | Action                                                                                                                                                        |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AWD Temporarily Disabled         | The all-wheel drive system temporarily turns off to protect itself from overheating.                                                                          |
+| AWD Restored                     | The all-wheel drive system will resume normal function and clear this message after driving a short distance with the road tire re-installed or after the system cools. |
+| AWD OFF                          | The all-wheel drive system temporarily turns off to protect itself from overheating or if you are using the temporary spare tire.                               |
+| AWD Malfunction Service Required | The all-wheel drive system is not operating properly. If the warning stays on or continues to come on, contact an authorized dealer.                          |
+
+## BRAKE PRECAUTIONS
+
+WARNING: Driving your vehicle with the warning lamp on is dangerous. A significant decrease in braking performance may occur. It may take you longer to stop your vehicle. Have your vehicle checked as soon as possible. Driving extended distances with the parking brake engaged can cause brake failure and the risk of personal injury.
+Wet brakes result in reduced braking efficiency. Gently press the brake pedal a few times when leaving a car wash or driving from standing water to dry the brakes.
+
+Note: Depending on applicable laws and regulations in the country for which your vehicle was originally built, the stoplamps could flash during heavy braking. Following this, the hazard warning flashers could also turn on when your vehicle comes to a stop.
+
+## ANTI-LOCK BRAKING SYSTEM
+
+### ANTI-LOCK BRAKING SYSTEM LIMITATIONS
+
+The anti-lock braking system does not eliminate the risk of crash when:
+
+- You drive too closely to the vehicle in front of you.
+- Your vehicle is hydroplaning.
+- You take corners too fast.
+- The road surface is poor.
+
+Note: If the system activates, the brake pedal could pulse and travel further. Maintain pressure on the brake pedal.
+
+### ANTI-LOCK BRAKING SYSTEM INDICATORS
+
+This system helps you maintain steering control during emergency stops by keeping the brakes from locking.
+
+If it illuminates when you are driving, this indicates a malfunction. Your vehicle continues to have normal braking without the anti-lock brake system function. Have your vehicle checked as soon as possible.
+
+It also momentarily illuminates when you switch the ignition on to confirm the lamp is functional. If it does not illuminate when you switch the ignition on, or begins to flash at any time, have the system checked by an authorized dealer.
+
+It illuminates when you engage the parking brake and the ignition is on.
+
+If it illuminates when your vehicle is moving, make sure the parking brake is disengaged. If the parking brake is disengaged, this indicates low brake fluid level or a brake system fault. Have your vehicle checked as soon as possible.
+
+It also momentarily illuminates when you switch the ignition on to confirm the lamp is functional. If it does not illuminate when you switch the ignition on, or begins to flash at any time, have the system checked by an authorized dealer.
+
+## BRAKE OVER ACCELERATOR
+
+In the event the accelerator pedal becomes stuck or entrapped, apply steady and firm pressure to the brake pedal to slow the vehicle and reduce engine power. If you experience this condition, apply the brakes and bring your vehicle to a safe stop. Move the transmission to park (P), switch the engine off and apply the parking brake. Inspect the accelerator pedal for any interference. If none are found and the condition persists, have your vehicle towed to the nearest authorized dealer.
+
+## LOCATING THE BRAKE FLUID RESERVOIR
+
+See Under Hood Overview.
+
+## CHECKING THE BRAKE FLUID
+
+WARNING: Do not use any fluid other than the recommended brake fluid as this will reduce brake efficiency. Use of incorrect fluid could result in the loss of vehicle control, serious personal injury or death.
+
+WARNING: Only use brake fluid from a sealed container. Contamination with dirt, water, petroleum products or other materials may result in brake system damage or failure. Failure to adhere to this warning could result in the loss of vehicle control, serious personal injury or death.
+
+WARNING: Do not allow the fluid to touch your skin or eyes. If this happens, rinse the affected areas immediately with plenty of water and contact your physician.
+
+WARNING: The brake system could be affected if the brake fluid level is below the MIN mark or above the MAX mark on the brake fluid reservoir.
+
+1. Park your vehicle on a level surface.
+2. Look at the brake fluid reservoir to see where the brake fluid level is relative to the MIN and the MAX marks on the reservoir.
+
+Note: To avoid fluid contamination, the reservoir cap must remain in place and fully tight, unless you are adding fluid.
+
+Only use fluid that meets our specifications.
+
+## BRAKE FLUID SPECIFICATION
+
+See Brake Fluid Specification.
+
+## BRAKES TROUBLESHOOTING
+
+## BRAKES - WARNING LAMPS
+
+If the ABS indicator illuminates when you are driving, this indicates a malfunction. Your vehicle continues to have normal braking without the anti-lock braking system function. See an authorized dealer.
+
+It also momentarily illuminates when you switch the ignition on to confirm the lamp is functional. If it does not illuminate when you switch the ignition on, or begins to flash at any time, have the system checked by an authorized dealer.
+
+The brake indicator momentarily illuminates when you switch the ignition on to confirm the lamp is functional. It may also illuminate when you apply the parking brake and the ignition is on. If it illuminates when your vehicle is moving, make sure the parking brake is disengaged. If the parking brake is disengaged, this indicates low brake fluid level or a brake system fault. See an authorized dealer.
+
+## BRAKES - FREQUENTLY ASKED QUESTIONS
+
+### Is brake dust on the wheels normal?
+
+Brake dust could accumulate on the wheels, even under normal driving conditions. Some dust is inevitable as the brakes wear and does not contribute to brake noise.
+
+### Will wet driving conditions affect my braking abilities?
+
+Wet brakes result in reduced braking efficiency. Gently press the brake pedal a few times when driving from a car wash or standing water to dry the brakes.
+
+### Is brake noise considered normal?
+
+Occasional brake noise is normal. If a metal-to-metal, continuous grinding or continuous squeal sound is present, the brake linings may be worn-out and an authorized dealer should check them. If the vehicle has continuous vibration or shudder in the steering wheel while braking, an authorized dealer should check your vehicle.
+
+### When should you replace the brake fluid?
+
+Brake fluid absorbs water over time which degrades the effectiveness of the brake fluid. Change the brake fluid at the specified intervals to prevent degraded braking performance.
+
+## WHAT IS THE ELECTRIC PARKING BRAKE
+
+The electric parking brake is used to hold your vehicle on slopes and flat roads.
+
+## APPLYING THE ELECTRIC PARKING BRAKE
+
+WARNING: Always fully apply the parking brake and make sure you shift into park (P). Failure to follow this instruction could result in personal injury or death.
+
+WARNING: If you drive extended distances with the parking brake applied, you could cause damage to the brake system.
+
+WARNING: The electric parking brake does not operate if the vehicle battery has run out of charge.
+
+The electronic parking brake switch is on the center console.
+
+1. Pull the switch up.
+
+The red warning lamp flashes during operation and illuminates when the parking brake is applied.
+
+Note: You can apply the electric parking brake when the power is off.
+
+Note: The electric parking brake could apply when you shift into park (P).
+
+## APPLYING THE ELECTRIC PARKING BRAKE IN AN EMERGENCY
+
+You can use the electric parking brake to slow or stop your vehicle in an emergency.
+
+1. Pull the switch up and hold it.
+
+The electric parking brake continues to slow your vehicle down unless you release the switch.
+
+The red warning lamp illuminates, a tone sounds and the stoplamps turn on when you use the electric parking brake in an emergency.
+
+Note: Do not apply the electric parking brake when your vehicle is moving, except in an emergency. If you repeatedly use the electric parking brake to slow or stop your vehicle, you could cause damage to the brake system.
+
+## MANUALLY RELEASING THE ELECTRIC PARKING BRAKE
+
+1. Switch the ignition on.
+2. Press and hold the brake pedal.
+3. Push the switch down.
+
+The red warning lamp turns off.
+
+## Pulling Away on a Hill When Towing a Trailer
+
+1. Press and hold the brake pedal.
+2. Pull the switch upward and hold it.
+## Electric Parking Brake
+
+### Automatically Releasing the Electric Parking Brake
+
+1. Close the driver door.  
+2. Shift into gear.  
+3. Press the accelerator pedal and pull away in a normal manner.  
+
+### Electric Parking Brake Audible Warning
+
+Sounds when the parking brake is on and your vehicle is moving. If the warning tone continues after you have released the parking brake, this indicates a malfunction. Have your vehicle checked as soon as possible.  
+
+### Releasing the Electric Parking Brake if the Vehicle Battery Has Run Out of Charge
+
+See Jump Starting the Vehicle (page 311).  
+
+### Electric Parking Brake Troubleshooting
+
+### Electric Parking Brake Warning Lamps
+
+It illuminates red when you apply the parking brake and your vehicle is on. If the lamp flashes when the parking brake has been released, this indicates the parking brake system requires service. Have your vehicle checked as soon as possible.  
+
+Note: Lamps may vary depending on region.  
+
+When the lamp illuminates yellow, it indicates a malfunction in the electric parking brake. Have your vehicle checked as soon as possible.  
+
+### Electric Parking Brake - Information Messages Park Brake
+
+| Message                                     | Action                                                                                                                                                             |  
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
+| Park Brake Malfunction ServiceNow           | The electric parking brake has malfunctioned. Have your vehicle checked as soon as possible.                                                                       |  
+| Park Brake Not Released                     | The electric parking brake has not released. Manually release the electric parking brake. If the message continues to appear, have your vehicle checked as soon as possible. |  
+| Park Brake Not Applied                      | The electric parking brake has not applied. Apply the electric parking brake. If the message continues to appear, have your vehicle checked as soon as possible.    |  
+| Park Brake Use Switch to Release            | The electric parking brake has not automatically released. Manually release the electric parking brake.                                                            |  
+| To Release: Press Brake and Switch          | You have not pressed the brake pedal. Press the brake pedal to release the parking brake.                                                                          |  
+| Park Brake Limited Function Service Required | The electric parking brake has malfunctioned. Have your vehicle checked as soon as possible.                                                                       |  
+| Park Brake System Overheated                 | The electric parking brake has overheated. Wait for the electric parking brake to cool down.                                                                     |  
+| Park Brake Off                              | The electric parking brake is released.                                                                                                                            |  
+| Release Park Brake                          | The electric parking brake has not released. Manually release the electric parking brake. If the message continues to appear, have your vehicle checked as soon as possible. |  
+| Park Brake On                                | The electric parking brake is applied.                                                                                                                             |  
+
+## Hill Start Assist
+
+### What is Hill Start Assist
+
+Hill Start Assist makes it easier for you to pull away when your vehicle is on a slope without using the parking brake.  
+
+### How Does Hill Start Assist Work
+
+When the system activates, your vehicle remains stationary for a few seconds after you release the brake pedal. This gives you time to move your foot from the brake pedal to the accelerator pedal. The brakes release when the engine has developed sufficient torque to prevent your vehicle from rolling down the slope.  
+
+### Hill Start Assist Precautions
+
+WARNING: The system does not replace the parking brake. When you leave your vehicle, always apply the parking brake.  
+
+WARNING: You must remain in your vehicle when the system turns on. At all times, you are responsible for controlling your vehicle, supervising the system and intervening, if required. Failure to take care may result in the loss of control of your vehicle, serious personal injury or death.  
+
+WARNING: The system will turn off if a malfunction is apparent. Failure to take care may result in the loss of control of your vehicle, serious personal injury or death.  
+
+### Hill Start Assist Troubleshooting
+
+### Hill Start Assist Information Messages
+
+| Message                      | Action                                                                                  |  
+|------------------------------|-----------------------------------------------------------------------------------------|  
+| Hill Start Assist Not Available | Displays when system is not available. Have your vehicle checked as soon as possible. |  
+
+## Auto Hold
+
+### How Does Auto Hold Work
+
+Auto Hold applies the brakes to hold your vehicle after you stop it and release the brake pedal. This can help when waiting on a hill or in traffic.  
+
+1. Release the brake pedal. The system holds your vehicle at a standstill. The auto hold active indicator remains illuminated in the information display.  
+
+### Switching Auto Hold On and Off
+
+WARNING: The system does not replace the parking brake. When you leave your vehicle, always apply the parking brake.  
+
+WARNING: You must remain in your vehicle when the system turns on. At all times, you are responsible for controlling your vehicle, supervising the system and intervening, if required. Failure to take care may result in the loss of control of your vehicle, serious personal injury or death.  
+
+You can switch the system on or off by accessing the menu in the SYNC display screen.  
+
+1. Press Features on the touchscreen.  
+2. Press Driver Assistance.  
+
+Note: You can only switch the system on after you close the driver door, and fasten your seatbelt.  
+
+Note: The system remembers the last setting when you start your vehicle.  
+
+Note: Make sure you switch the system off before using an automatic car wash.  
+
+### Using Auto Hold
+
+1. Bring your vehicle to a complete stop. The auto hold active indicator illuminates in the information display.  
+2. Pull away in the normal manner. The system releases the brakes and the auto hold active indicator switches off.  
+
+Note: The system only activates if you apply enough brake pressure on the brake pedal.  
+
+Note: Under certain conditions, the system could apply the electric parking brake. The brake system warning lamp illuminates. The electric parking brake releases when you press the accelerator pedal.  
+
+Note: The system switches off if you shift into reverse (R) and press the brake pedal.  
+
+There could be actions that can cause the auto hold system not to work when the following occur:  
+
+- When you use active park assist.  
+- Your vehicle is in stay in neutral mode.  
+- The driver door is open.  
+- You have not fastened your seatbelt.  
+- You shift into reverse (R) before the system is active.  
+
+### Auto Hold Indicators
+
+Illuminates when the system is active.  
+
+## Additional Steps for Electric Parking Brake
+
+1. Shift into gear.  
+2. Press the accelerator pedal until engine has developed sufficient torque to prevent your vehicle from rolling down the hill.  
+3. Release the switch and pull away in a normal manner.  
+## Traction Control
+
+### HOW DOES TRACTION CONTROL WORK
+
+If your vehicle begins to slide, the system applies the brakes to individual wheels and, when needed, reduces power at the same time. If the wheels spin when accelerating on slippery or loose surfaces, the system reduces power in order to increase traction.
+
+### SWITCHING TRACTION CONTROL ON AND OFF
+
+WARNING: The stability and traction control light illuminates steadily if the system detects a failure. Make sure you did not manually disable the traction control system using the information display controls or the switch. If the stability control and traction control light is still illuminating steadily, have the system serviced by an authorized dealer immediately. Operating your vehicle with the traction control disabled could lead to an increased risk of loss of vehicle control, vehicle rollover, personal injury and death.
+
+The traction control system turns on each time you switch the power on.
+
+If your vehicle is stuck in mud or snow, switching traction control off may be beneficial as this allows the wheels to spin.
+
+Note: When you switch traction control off, stability control remains fully active.
+
+Your vehicle could have MyKey restrictions regarding this feature.
+
+### TRACTION CONTROL INDICATOR
+
+### TRACTION CONTROL TROUBLESHOOTING
+
+### TRACTION CONTROL - WARNING LAMPS
+
+## System Messages
+
+E138639 The traction control light temporarily illuminates on start-up and flashes when activated by a driving condition.
+
+The traction control off light temporarily illuminates on start-up and stays on:
+
+- When you switch the traction control system off.
+- When you select an alternative stability control mode.
+- If a problem occurs in the system.
+
+### TRACTION CONTROL - INFORMATION MESSAGES AdvanceTrac™ and Traction Control
+
+| Message               | Action                                                                                              |
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| Service AdvanceTrac   | The system detects a condition that requires service. Contact an authorized dealer as soon as possible. |
+| AdvanceTrac Off       | The status of the AdvanceTrac system after you switched it off.                                     |
+| AdvanceTrac On        | The status of the AdvanceTrac system after you switched it on.                                      |
+| AdvanceTrac SPORT MODE | The status of the AdvanceTrac sport mode after you switched it on.                                   |
+| Traction Control Off  | The status of the traction control system after you switched it off.                                |
+| Traction Control On   | The status of the traction control system after you switched it on.                                 |
+
+## HOW DOES STABILITY CONTROL WORK
+
+WARNING: Vehicle modifications involving braking system, aftermarket roof racks, suspension, steering system, tire construction and wheel and tire size may change the handling characteristics of your vehicle and may adversely affect the performance of the electronic stability control system. In addition, installing any stereo loudspeakers may interfere with and adversely affect the electronic stability control system. Install any aftermarket stereo loudspeaker as far as possible from the front center console, the tunnel, and the front seats in order to minimize the risk of interfering with the electronic stability control sensors. Reducing the effectiveness of the electronic stability control system could lead to an increased risk of loss of vehicle control, vehicle rollover, personal injury and death.
+
+WARNING: Remember that even advanced technology cannot defy the laws of physics. It's always possible to lose control of a vehicle due to inappropriate driver input for the conditions. Aggressive driving on any road condition can cause you to lose control of your vehicle increasing the risk of personal injury or property damage. Activation of the electronic stability control system is an indication that at least some of the tires have exceeded their ability to grip the road; this could reduce the operator's ability to control the vehicle potentially resulting in a loss of vehicle control, vehicle rollover, personal injury and death. If your electronic stability control system activates, SLOW DOWN.
+
+If a driving condition activates either the stability control or the traction control system you may experience the following conditions:
+
+- The stability and traction control light flashes.
+- Your vehicle slows down.
+- Reduced engine power.
+
+### Electronic Stability Control
+
+Electronic stability control enhances your vehicle's ability to prevent skids or lateral slides by applying brakes to one or more of the wheels individually and, if necessary, reducing engine power.
+
+### Roll Stability Control
+
+Roll stability control enhances your vehicle's ability to prevent rollovers by detecting your vehicle's roll motion and the rate at which it changes by applying the brakes to one or more wheels individually.
+
+### Curve Control
+
+Curve control enhances your vehicle's ability to follow the road when cornering severely or avoiding objects in the roadway. Curve control operates by reducing engine power and, if necessary, applying brakes to one or more of the wheels individually.
+
+### Traction Control
+
+Traction control enhances your vehicle's ability to maintain traction of the wheels by detecting and controlling wheel spin.
+
+### Stability Control
+
+E72903
+
+- Vehicle without stability control skidding off its intended route. A
+- Vehicle with stability control maintaining control on a slippery surface. B
+
+### SWITCHING STABILITY CONTROL ON AND OFF
+
+The system turns on each time you switch the ignition on.
+
+When you shift the transmission into reverse (R), the systems are disabled.
+
+You can switch the traction control system off or on independently.
+
+### STABILITY CONTROL INDICATOR
+
+The system turns on each time you switch the ignition on. You can switch off the traction control portion of the system independently.
+
+### STABILITY CONTROL TROUBLESHOOTING
+
+### STABILITY CONTROL - WARNING LAMPS
+
+## Stability Control
+
+It flashes when the system is active. If it remains illuminated or does not illuminate when you switch the ignition on, this indicates a system error. During a system error the system switches off. Have the system checked by an authorized dealer immediately.
+
+### Stability Control Off
+
+E130458 Illuminates when you switch the system off. It goes out when you switch the system back on or when you switch the ignition off.
+
+## STEERING - TROUBLESHOOTING
+
+## STEERING - INFORMATION MESSAGES
+
+| Message                                | Action                                                                                                                   |
+|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Steering Fault Service Now              | The power steering system has detected a condition that requires service. Have your vehicle checked as soon as possible. |
+| Steering Loss Stop Safely              | The power steering system is not working. Stop your vehicle in a safe place. Have your vehicle checked as soon as possible.   |
+| Steering Assist Fault Service Required | The power steering system has detected a condition that requires service. Have your vehicle checked as soon as possible. |
+| Steering Lock Malfunction Service Now   | The steering system has detected a condition that requires service. Have your vehicle checked as soon as possible.       |
+## Parking Aids
+
+## PARKING AID PRECAUTIONS
+
+WARNING: To help avoid personal injury, always use caution when in reverse (R) and when using the sensing system.
+
+Note: If your vehicle sustains damage leaving the sensors misaligned, this will cause inaccurate measurements or false alerts.
+
+WARNING: The system may not detect objects with surfaces that absorb reflection. Always drive with due care and attention. Failure to take care may result in a crash.
+
+WARNING: Traffic control systems, fluorescent lamps, inclement weather, air brakes, external motors and fans may affect the correct operation of the sensing system. This may cause reduced performance or false alerts.
+
+WARNING: The system may not detect small or moving objects, particularly those close to the ground.
+
+WARNING: The parking aid system can only assist you to detect objects when your vehicle is moving at parking speeds. To help avoid personal injury you must take care when using the parking aid system.
+
+WARNING: The system may not function if the sensor is blocked.
+
+WARNING: In cold and severe weather conditions the system may not function. Rain, snow and spray can all limit sensor performance.
+
+WARNING: If damage occurs in the immediate area surrounding the sensor, have your vehicle checked as soon as possible.
+
+When you connect a trailer to your vehicle, the rear parking aid detects the trailer and provides an alert. Disable the parking aid when you connect a trailer to prevent the alert.
+
+Note: Certain add-on devices installed around the bumper or fascia may create false alerts, for example, large trailer hitches, bike or surfboard racks, license plate brackets, bumper covers or any other device that could block the normal detection zone of the parking aid system. Aftermarket spare tires or spare tire covers mounted to the rear tailgate could cause false alerts from the park aid system. Remove the add-on device to prevent false alerts.
+
+Note: Keep the sensors free from snow, ice and large accumulations of dirt. If the sensors are covered, the system's accuracy can be affected.
+
+Do not clean the sensors with sharp objects.
+
+Note: When using a programmed MyKey, you cannot switch the parking aids off. See MyKey™ (page 64).
+
+## REAR PARKING AID (IF EQUIPPED)
+
+### WHAT IS THE REAR PARKING AID
+
+Rear parking sensors detect objects behind your vehicle when in reverse (R).
+
+### REAR PARKING AID LIMITATIONS
+
+There is a decreased coverage area at the outer corners.
+
+When using a programmed MyKey, you cannot switch the rear parking aid off.
+
+The rear parking aid sensors are active when your vehicle is in reverse (R) and the vehicle speed is less than 5 mph (8 km/h).
+
+The sensor coverage area is up to 71 in (180 cm) from the rear bumper.
+
+The rear parking aid detects large objects when you shift into reverse (R) and any of the following occur:
+
+- Your vehicle is moving backward at a low speed.
+- Your vehicle is stationary but an object is approaching the rear of your vehicle at a low speed.
+- Your vehicle is moving backward at a low speed and an object is moving towards your vehicle, for example another vehicle at a low speed.
+
+The system shall provide no audible warning for the object behind the vehicle when in neutral (N) gear.
+
+### LOCATING THE REAR PARKING AID SENSORS
+
+E130178
+
+The rear parking aid sensors are in the rear bumper.
+
+### REAR PARKING AID AUDIBLE WARNINGS
+
+A warning tone sounds when your vehicle approaches an object. As your vehicle moves closer to an object, the rate of the tone increases. The warning tone continuously sounds when an object is 12 in (30 cm) or less from the rear bumper.
+
+If your vehicle remains stationary for a few seconds, the audible warning turns off. If your vehicle moves backward the tone sounds again.
+
+Note: When the parking aid system sounds a tone, the audio system could reduce the set volume.
+
+## FRONT PARKING AID (IF EQUIPPED)
+
+### WHAT IS THE FRONT PARKING AID
+
+Front parking sensors detect objects in front of your vehicle.
+
+### FRONT PARKING AID LIMITATIONS
+
+The front parking aid sensors are active when your vehicle is in any position other than park (P) and the vehicle speed is less than 5 mph (8 km/h).
+
+The sensor coverage area is up to 28 in (70 cm) from the bumper.
+
+If your vehicle is in reverse (R), the front parking aid detects objects when your vehicle is moving at a low speed or an object is moving toward your vehicle and provides an audio warning, for example another vehicle at a low speed. Once your vehicle reaches a stop, the audio warning stops after a few seconds. Visual indication is always active in reverse (R).
+
+If your vehicle is in any forward gear, the front parking aid provides audible warnings and visual indication when your vehicle is moving at a speed of 5 mph (8 km/h) or below and the system detects an object within the detection zone. Once your vehicle reaches a stop, the visual indication and audio warning stops after a few seconds.
+
+If your vehicle is in neutral (N), the front and rear sensors provide visual indication only when your vehicle is moving below a speed of 5 mph (8 km/h) and obstacles are detected inside the detection areas. Once your vehicle stops, the visual indication and audio warning stops after a few seconds.
+
+### LOCATING THE FRONT PARKING AID SENSORS
+
+E187330
+
+The front parking aid sensors are in the front bumper.
+
+### FRONT PARKING AID AUDIBLE WARNINGS
+
+A warning tone sounds when there is an object within 28 in (70 cm) from the front bumper. As your vehicle moves closer to an object, the rate of the tone increases.
+
+The warning tone continuously sounds when an object is 12 in (30 cm) or less from the front bumper.
+
+Note: If the detected object is 12 in (30 cm) or less from your vehicle, visual indication remains on.
+
+## SIDE PARKING AID - VEHICLES WITH: ACTIVE PARK ASSIST
+
+### WHAT IS THE SIDE PARKING AID
+
+The front and rear outermost parking aid sensors map objects that are near to the sides of your vehicle.
+
+### SIDE PARKING AID LIMITATIONS
+
+The sensor coverage is up to 24 in (60 cm) from the sides of your vehicle.
+
+The side parking aid may not function if:
+
+- Your vehicle remains stationary for over two minutes.
+- The anti-lock brake system activates.
+- The traction control system activates.
+- Your vehicle is in park (P).
+- The steering wheel angle information is not available. You must drive at least 492 ft (150 m) above 19 mph (30 km/h) to reset the steering wheel angle information.
+
+Note: If you switch traction control off, the side sensing system also turns off.
+
+To reinitialize the system, drive the length of your vehicle.
+
+The side parking aid does not detect an object that is moving toward the side of your vehicle, for example another vehicle moving at a low speed, if it does not pass a front or rear parking aid sensor.
+
+### SIDE PARKING AID OPERATION
+
+If the transmission is in reverse (R), the side sensing system provides audible warnings. When your vehicle is moving slowly, obstacles are detected within 24 in (60 cm) and are inside the driving path of your vehicle. Once your vehicle reaches a standstill condition, the audible warning stops after a few seconds. Visual indication is always present in reverse (R).
+
+If your vehicle is in neutral (N), the side sensing system provides visual indication only when your vehicle is moving slowly and there is a front or rear park aid obstacle detected, and the side obstacle is within 24 in (60 cm) from the side of your vehicle. Once your vehicle reaches a stop, the visual indication stops after a few seconds.
+## SIDE PARKING AID
+
+### SIDE PARKING AID AUDIBLE WARNINGS
+
+If the transmission is in drive (D) or any other forward gear, the side sensing system provides audible and visual warnings. When your vehicle is moving slowly, obstacles are detected within 24 in (60 cm) and are inside the driving path of your vehicle. Once your vehicle reaches a standstill condition, the audible warning and visual indication stops after a few seconds.
+
+When the side parking aid detects an object within the coverage area and the driving path of your vehicle, an audible warning sounds. As your vehicle moves closer to the object, the rate of the tone increases.
+
+### LOCATING THE SIDE PARKING AID SENSORS
+
+The side parking sensors are in the front and rear bumpers on both sides of the vehicle.
+
+### PARKING AID INDICATORS
+
+The system provides object distance indication through the information and entertainment display.
+
+- As the distance to the object decreases, the indicator waves and the lines move toward the vehicle icon.
+- If there is no object detected, the distance indicator lines are grey.
+
+Visual indication remains on when your vehicle is in reverse (R). In any other gear, when you stop your vehicle, visual indication turns off after four seconds.
+
+If the parking aids are not available, the side distance indicator lines do not display.
+
+### PARKING AIDS TROUBLESHOOTING
+
+### PARKING AIDS - INFORMATION MESSAGES
+
+If a fault is present in the parking aids, a warning message appears in the instrument cluster or the information and entertainment display.
+
+| Message              | Action                                                                                           |
+|----------------------|--------------------------------------------------------------------------------------------------|
+| Check Front Park Aid | The system detects a condition that requires service. Have your vehicle checked as soon as possible. |
+| Check Rear Park Aid  | The system detects a condition that requires service. Have your vehicle checked as soon as possible. |
+| Front Park Aid OnOff | Displays the park aid status.                                                                    |
+| Rear Park Aid OnOff  | Displays the park aid status.                                                                    |
+
+## REAR VIEW CAMERA
+
+### WHAT IS THE REAR VIEW CAMERA
+
+The rear view camera provides a video image of the area behind your vehicle when the transmission is in reverse (R).
+
+### REAR VIEW CAMERA PRECAUTIONS
+
+WARNING: The rear view camera system is a reverse aid supplement device that still requires the driver to use it in conjunction with the interior and exterior mirrors for maximum coverage.
+
+WARNING: Objects that are close to either corner of the bumper or under the bumper, might not be seen on the screen due to the limited coverage of the camera system.
+
+WARNING: Reverse your vehicle slowly. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: Use caution when the rear cargo door is ajar. If the rear cargo door is ajar, the camera will be out of position and the video image could be incorrect. All guide lines disappear when the rear cargo door is ajar. Failure to follow this instruction could result in personal injury.
+
+WARNING: Use caution when turning camera features on or off when the transmission is not in park (P). Make sure your vehicle is not moving.
+
+Note: When towing, the camera only sees what you are towing. This might not provide adequate coverage and you might not see some objects. In some vehicles, the guide lines may disappear when you connect the trailer tow connector.
+
+### LOCATING THE REAR VIEW CAMERA
+
+The rear view camera is located on the cargo door. It provides a video image of the area behind your vehicle.
+
+### REAR VIEW CAMERA GUIDE LINES
+
+Note: Active guide lines and fixed guide lines are only available when the transmission is in reverse (R).
+
+Note: The centerline is only available if the active or fixed guide lines are on.
+
+- A. Active guide lines.
+- B. Centerline.
+- C. Fixed guide line: Green zone.
+- D. Fixed guide line: Yellow zone.
+- E. Fixed guide line: Red zone.
+- F. Rear bumper.
+
+Active guide lines only show with fixed guide lines. To use active guide lines, turn the steering wheel to point the guide lines toward an intended path. If the steering wheel position changes while reversing, your vehicle might deviate from the intended path.
+
+The fixed and active guide lines fade in and out depending on the steering wheel position. The active guide lines do not display when the steering wheel position is straight.
+
+Use caution while reversing. Objects in the red zone are closest to your vehicle and objects in the green zone are farther away. Objects get closer to your vehicle as they move from the green zone to the yellow or red zones. Use the side view mirrors and rear view mirror to get better coverage on both sides and rear of your vehicle.
+
+### REAR VIEW CAMERA OBJECT DISTANCE INDICATORS
+
+The system provides an image of your vehicle and the sensor zones. The zones highlight green, yellow, and red when the parking aid sensors detect an object in the coverage area.
+
+### REAR VIEW CAMERA SETTINGS
+
+#### ZOOMING THE REAR VIEW CAMERA IN AND OUT
+
+WARNING: When manual zoom is on, the full area behind your vehicle may not show. Be aware of your surroundings when using the manual zoom feature.
+
+Selectable settings for this feature are zoom in (+) and zoom out (-). Press the symbol on the camera screen to change the view. The default setting is zoom off.
+
+This allows you to get a closer view of an object behind your vehicle. The zoomed image keeps the bumper in the image to provide a reference. The zoom is only active while the transmission is in reverse (R).
+
+Note: Manual zoom is only available when the transmission is in reverse (R).
+
+Note: Only the centerline shows when you enable manual zoom.
+
+#### SWITCHING REAR VIEW CAMERA DELAY ON AND OFF
+
+1. Press Features on the touchscreen.
+2. Press Driver Assistance.
+3. Press Rear View Camera.
+4. Switch Rear View Camera Delay on or off.
+
+When shifting the transmission out of reverse (R) and into any gear other than park (P), the camera image remains in the display until:
+
+- Your vehicle speed reaches approximately 5 mph (8 km/h).
+- You shift your vehicle into park (P).
+
+## ACTIVE PARK ASSIST
+
+### WHAT IS ACTIVE PARK ASSIST
+
+Assists you with parking in and out of parking spaces.
+
+### HOW DOES ACTIVE PARK ASSIST WORK
+
+Active park assist uses sensors to detect parking spaces. Active park assist controls steering, acceleration, braking and shifting as required to maneuver into or out of a parking space when activated.
+
+### ACTIVE PARK ASSIST PRECAUTIONS
+
+WARNING: You must remain in your vehicle when the system turns on. At all times, you are responsible for controlling your vehicle, supervising the system and intervening, if required. Failure to take care may result in the loss of control of your vehicle, serious personal injury or death.
+
+WARNING: The sensors may not detect objects in heavy rain or other conditions that cause interference.
+
+WARNING: You are responsible for controlling your vehicle at all times. The system is designed to be an aid and does not relieve you of your responsibility to drive with due care and attention. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: Do not use the system with accessories that extend beyond the front or rear of your vehicle, for example a trailer hitch or bike rack. The system is not able to make corrections for the additional length of the accessories.
+Press the active park assist button to bring up full screen notifications.
+
+Press the soft keys on the touchscreen to switch between parallel park in, perpendicular park in or parallel park out parking modes.
+
+## Active Park Assist
+
+### Cancelling Active Park Assist
+
+To cancel parking assistance at any time:
+
+- Press the active park assist button during operation.
+- Grab the steering wheel during operation.
+- Drive above 22 mph (35 km/h) for a short period of time when searching for a parking space.
+- Drive above 6 mph (9 km/h) during operation.
+- Switch traction control off.
+
+### Entering a Parallel Parking Space
+
+1. Press the parking aid button.
+
+   Note: The system detects other vehicles and curbs to find a parking space.
+
+2. Press the active park assist icon on the touchscreen.
+3. Select parallel parking.
+
+#### Active Park Assist (If Equipped)
+
+4. Use the turn signal lever to search for a parking space on the driver or passenger side of your vehicle.
+
+   Note: If you do not use the turn signal lever, the system searches for a parking space on the passenger side of your vehicle.
+
+5. Drive your vehicle approximately 3 ft (1 m) away from and parallel to the other parked vehicles when searching for a parking space.
+
+   Note: A tone sounds and a message appears in the information and entertainment display when active park assist finds a suitable parking space.
+
+6. Press and hold the brake pedal.
+7. Release the steering wheel and shift into neutral (N).
+8. Press and hold the active park assist button.
+9. Release the brake pedal to allow your vehicle to park.
+
+   Note: You can slow down your vehicle at any time by pressing the brake pedal.
+
+   Note: When parallel parking between objects, the system parks closer to the object in front of your vehicle to allow easier access to the luggage compartment.
+
+   Note: When parking is complete, your vehicle shifts into park (P).
+
+### Entering a Perpendicular Parking Space
+
+1. Press the active park assist button.
+
+   Note: Active park assist does not recognize parking space lines and centers your vehicle between objects.
+
+2. Select perpendicular parking.
+3. Use the turn signal lever to search for a parking space on the driver or passenger side of your vehicle.
+
+   Note: If you do not use the turn signal lever, the system searches for a parking space on the passenger side of your vehicle.
+
+4. Drive your vehicle approximately 3 ft (1 m) away from and perpendicular to the other parked vehicles when searching for a parking space.
+
+   Note: A tone sounds and a message appears in the information and entertainment display when active park assist finds a parking space.
+
+5. Press and hold the brake pedal.
+6. Release the steering wheel and shift into neutral (N).
+7. Press and hold the active park assist button.
+8. Release the brake pedal to allow the vehicle to park.
+
+   Note: Active park assist backs your vehicle into parking spaces.
+
+   Note: Active park assist aligns the front end of your vehicle with the lane side of the object next to it.
+
+   Note: When the system detects only one object, it allows enough distance to open the door on either side.
+
+   Note: You can slow down your vehicle at any time by pressing the brake pedal.
+
+   Note: When parking is complete, your vehicle shifts into park (P).
+
+### Exiting a Parking Space
+
+Active park assist only assists leaving parallel parking spaces.
+
+1. Press the active park assist button.
+2. Select parallel park exit.
+3. Use the turn signal to choose the direction to exit the parking space.
+4. Press and hold the brake pedal.
+
+#### Active Park Assist (If Equipped)
+
+5. Release the steering wheel and shift into neutral (N).
+6. Release the parking brake.
+7. Press and hold the active park assist button.
+8. Release the brake pedal to allow your vehicle to move.
+
+   Note: After active park assist drives your vehicle to a position where you can exit the parking space in a forward movement, a message appears instructing you to take full control of your vehicle.
+
+9. Take control of your vehicle.
+
+   Note: You can slow down your vehicle at any time by pressing the brake pedal.
+
+## Active Park Assist Troubleshooting
+
+### Active Park Assist Information Messages
+
+| Message           | Action                                                                      |
+|-------------------|-----------------------------------------------------------------------------|
+| Active Park Fault | The system requires service. Have your vehicle checked as soon as possible. |
+
+### Active Park Assist Frequently Asked Questions
+
+#### Why does active park assist not operate correctly?
+
+The system is unable to detect a vehicle, curb or object to park next to or in between. The system needs boundary objects to operate correctly.
+
+#### Why does active park assist not search for a parking space?
+
+You have switched traction control off.
+
+#### Why does active park assist not search for a parking space?
+
+The transmission is in reverse (R). Your vehicle must be moving forward to be able to detect a parking space.
+
+#### Why does active park assist not offer a parking space?
+
+The sensors could be blocked. For example, snow, ice or large accumulations of dirt. Blocked sensors can affect how the system functions.
+
+#### Why does active park assist not offer a parking space?
+
+The sensors in the front or rear bumper could be damaged.
+
+#### Why does active park assist not offer a parking space?
+
+There is not enough room in the parking space for your vehicle to safely park.
+
+#### Why does active park assist not offer a parking space?
+
+There is not enough space for the parking maneuver on the opposite side of the parking space.
+
+#### Why does active park assist not offer a parking space?
+
+The parking space is more than 5 ft (1.5 m) or less than 2 ft (0.5 m) away from your vehicle.
+
+#### Why does active park assist not offer a parking space?
+
+Your vehicle's speed is greater than 22 mph (35 km/h) for parallel parking or greater than 19 mph (30 km/h) for perpendicular parking.
+
+#### Active Park Assist (If Equipped)
+
+#### Why does active park assist not offer a parking space?
+
+You recently disconnected or replaced the battery. After you reconnect the battery you must drive your vehicle on a straight road for a short period of time.
+
+#### Why does active park assist not correctly position the vehicle into a parking space?
+
+An irregular curb along the parking space prevents the system from correctly aligning your vehicle.
+
+#### Why does active park assist not correctly position the vehicle into a parking space?
+
+Vehicles or objects bordering the space could not be correctly parked.
+
+#### Why does active park assist not correctly position the vehicle into a parking space?
+
+Your vehicle stopped too far past the parking space.
+
+#### Why does active park assist not correctly position the vehicle into a parking space?
+
+The tires are not correctly installed or maintained. For example, using a spare tire, not inflated correctly, improper size, or of different sizes.
+
+#### Why does active park assist not correctly position the vehicle into a parking space?
+
+A repair or alteration changed the detection capabilities.
+
+#### Why does active park assist not correctly position the vehicle into a parking space?
+
+A parked vehicle has a high attachment. For example, a salt sprayer, snowplow or moving truck bed.
+
+#### Why does active park assist not correctly position the vehicle into a parking space?
+
+The parking space length, or position of parked objects, changes after your vehicle passes the space.
+
+#### Why does active park assist not correctly position the vehicle into a parking space?
+
+The temperature around your vehicle quickly changes. For example, driving from a heated garage into a cold outside temperature, or after leaving a car wash.
+
+## What is Cruise Control
+
+Cruise control lets you maintain a set speed without keeping your foot on the accelerator pedal.
+
+### Requirements
+
+Use cruise control when the vehicle speed is greater than 20 mph (30 km/h).
+
+### Switching Cruise Control On and Off
+WARNING: Do not use cruise control on winding roads, in heavy traffic or when the road surface is slippery. This could result in loss of vehicle control, serious injury or death.
+
+## Cruise Control Overview
+
+The cruise controls are on the steering wheel.
+
+### Switching Cruise Control On
+
+Press the button to put the system in standby mode.
+
+### Switching Cruise Control Off
+
+Press the button when in standby mode or switch the ignition off.  
+**Note:** When you switch cruise control off the set speed clears.
+
+## Setting the Cruise Control Speed
+
+WARNING: When you are going downhill, your vehicle speed could increase above the set speed. The system does not apply the brakes.
+
+1. Drive to the speed you prefer.
+2. Press the toggle button upward or downward to set the current speed.
+3. Take your foot off the accelerator pedal.  
+   **Note:** The indicator changes color in the information display.
+
+### Changing the Set Speed
+
+- Press and release the toggle button upward to increase the set speed in small increments.
+- Press and hold the toggle button upward to accelerate. Release the button when you have reached your preferred speed.
+- Press and release the toggle button downward to decrease the set speed in small increments.
+- Press and hold the toggle button downward to decelerate. Release the button when you have reached your preferred speed.  
+  **Note:** If you accelerate by pressing the accelerator pedal, the set speed does not change. When you release the accelerator pedal, your vehicle returns to the speed that you previously set.
+
+### Canceling the Set Speed
+
+Press the button, or tap the brake pedal to cancel the set speed.  
+**Note:** The system remembers the set speed.  
+**Note:** The system cancels if the vehicle speed drops below 10 mph (16 km/h) under the set speed when driving uphill.
+
+### Resuming the Set Speed
+
+Press the button.
+
+### Cruise Control Indicators
+
+Illuminates when you switch the system on.
+
+## Adaptive Cruise Control (If Equipped)
+
+### How Does Adaptive Cruise Control with Stop and Go Work
+
+Adaptive cruise control with stop and go uses radar and camera sensors to maintain a set gap between your vehicle and the vehicle in front of you while following it to a complete stop. Stop and go can also be set to follow a vehicle directly in front of you and adjust the set speed, while you are at a complete stop.
+
+### Adaptive Cruise Control Precautions
+
+WARNING: You are responsible for controlling your vehicle at all times. The system is designed to be an aid and does not relieve you of your responsibility to drive with due care and attention. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: Do not use adaptive cruise control on winding roads, in heavy traffic or when the road surface is slippery. This could result in loss of vehicle control, serious injury or death.
+
+WARNING: Pay close attention to changing road conditions such as entering or leaving a highway, on roads with intersections or roundabouts, roads without visible lanes of travel, roads that are unpaved, or steep slopes. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: The system is not a crash warning or avoidance system.
+
+WARNING: Do not use the system when towing a trailer that has aftermarket electronic trailer brake controls. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: Do not use tire sizes other than those recommended because this can affect the normal operation of the system. Failure to do so may result in a loss of vehicle control, which could result in serious injury.
+
+WARNING: Do not use the system with a snow plow blade installed.
+
+WARNING: Do not use the system in poor visibility, for example fog, heavy rain, spray or snow.
+
+### When Following a Vehicle
+
+WARNING: When following a vehicle that is braking, your vehicle does not always decelerate quickly enough to avoid a crash without driver intervention. Apply the brakes when necessary. Failure to follow this instruction could result in personal injury or death.
+
+### Hilly Condition Usage
+
+Select a lower gear when the system is active in situations such as prolonged downhill driving on steep slopes, for example in mountainous areas.
+
+## Adaptive Cruise Control Limitations
+
+### Sensor Limitations
+
+WARNING: On rare occasions, detection issues can occur due to the road infrastructures, for example bridges, tunnels and safety barriers. In these cases, the system may brake late or unexpectedly. At all times, you are responsible for controlling your vehicle, supervising the system and intervening, if required.
+
+WARNING: If the system malfunctions, have your vehicle checked as soon as possible.
+
+WARNING: Large contrasts in outside lighting can limit sensor performance.
+
+WARNING: The system only warns of vehicles detected by the radar sensor. In some cases there may be no warning or a delayed warning. Apply the brakes when necessary. Failure to follow this instruction could result in personal injury or death.
+
+WARNING: The system may not detect stationary or slow moving vehicles below 6 mph (10 km/h).
+
+WARNING: The system does not detect pedestrians or objects in the road.
+
+WARNING: The system does not detect oncoming vehicles in the same lane.
+
+WARNING: The system may not operate properly if the sensor is blocked. Keep the windshield free from obstruction.
+
+WARNING: The sensor may incorrectly track lane markings as other structures or objects. This can result in a false or missed warning.
+
+The camera is mounted on the windshield behind the interior mirror.
+
+The radar sensor is in the lower grille.  
+**Note:** You cannot see the sensor. It is behind a fascia panel.  
+**Note:** Keep the front of your vehicle free of dirt, metal badges or objects. Vehicle front protectors, aftermarket lights, additional paint or plastic coatings could also degrade sensor performance.
+
+A message displays if something obstructs the camera or the sensor. When something blocks the sensor, the system cannot detect a vehicle ahead and does not function.
+
+The radar sensor has a limited field of view. It may not detect vehicles at all or detect a vehicle later than expected in some situations. The lead vehicle image does not illuminate if the system does not detect a vehicle in front of you.
+
+### Detection Issues Can Occur:
+
+- When driving on a different line than the vehicle in front.
+- With vehicles that edge into your lane. The system can only detect these vehicles once they move fully into your lane.
+- There may be issues with the detection of vehicles in front when driving into and coming out of a bend or curve in the road.
+
+In these cases, the system may brake late or unexpectedly.
+
+If something hits the front end of your vehicle or damage occurs, the radar-sensing zone may change. This could cause missed or false vehicle detection.
+
+Optimal system performance requires a clear view of the road by the windshield-mounted camera.
+
+Optimal performance may not occur if:
+
+- The camera is blocked.
+- There is poor visibility or lighting conditions.
+- There are bad weather conditions.
+## Cruise Control Overview
+
+The cruise controls are on the steering wheel. See What Is Cruise Control (page 242).
+
+## Adaptive Cruise Control (If Equipped)
+
+### Switching Adaptive Cruise Control On
+
+Press the button to set the system in standby mode.
+
+The indicator, current gap setting and set speed appear in the information display.
+
+### Switching Adaptive Cruise Control Off
+
+Press the button when the system is in standby mode, or switch the ignition off.
+
+Note: You erase the set speed when you switch the system off.
+
+### Adaptive Cruise Control Automatic Cancellation
+
+The system may cancel if:
+
+- The tires lose traction.
+- You apply the parking brake.
+
+The system may cancel and set the parking brake if:
+
+- You unbuckle the seatbelt and open the driver door after you stop your vehicle.
+- Your vehicle is at a stop continuously for more than three minutes.
+
+The system may deactivate or prevent activating when requested if:
+
+- The vehicle has a blocked sensor.
+- The brake temperature is too high.
+- There is a failure in the system or a related system.
+
+### Setting the Adaptive Cruise Control Speed
+
+Drive to the speed you prefer.
+
+Press the toggle button upward or downward to set the current speed.
+
+Take your foot off the accelerator pedal. The indicator, current gap setting and set speed appear in the information display.
+
+A vehicle image illuminates if there is a vehicle detected in front of you.
+
+Note: When adaptive cruise control is active, the speedometer may vary slightly from the set speed displayed in the information display.
+
+### Setting the Adaptive Cruise Speed from a Complete Stop
+
+Press the toggle button upward or downward while keeping the brake pedal fully pressed.
+
+The set speed adjusts to 20 mph (30 km/h).
+
+The indicator, current gap setting and set speed appear in the information display.
+
+Note: The system activates from a complete stop only when it detects a lead vehicle in close proximity.
+
+### Manually Changing the Set Speed
+
+Press and release the toggle button upward to increase the set speed in small increments.
+
+Press and hold the toggle button upward to increase the set speed in large increments. Release the button when the set speed is equal to your desired speed.
+
+Press and release the toggle button downward to decrease the set speed in small increments.
+
+Press and hold the toggle button downward to decrease the set speed in large increments. Release the button when the set speed is equal to your desired speed.
+
+You can also press the accelerator or brake pedal until you reach the speed you prefer. Press the toggle button upward or downward to select the current speed as the set speed.
+
+The system may apply the brakes to slow the vehicle to the new set speed. The set speed continuously displays in the information display when the system is active.
+
+### Setting the Adaptive Cruise Control Gap
+
+Press the button to cycle through the four gap settings.
+
+The selected gap appears in the instrument cluster display as shown by the bars in the image.
+
+Note: The gap setting is time dependent and therefore, the distance adjusts with your vehicle speed.
+
+Note: It is your responsibility to select a gap appropriate to the driving conditions.
+
+#### Adaptive Cruise Control Gap Settings
+
+| Graphic Display, Bars Indicated Between Vehicles | Gap Distance | Dynamic Behavior |
+|--------------------------------------------------|--------------|------------------|
+| 1                                                | Closest.     | Sport.           |
+| 2                                                | Close.       | Normal.          |
+| 3                                                | Medium.      | Normal.          |
+| 4                                                | Far.         | Comfort.         |
+
+Each time you switch the system on, it selects the last chosen gap setting.
+
+### Following a Vehicle
+
+When a vehicle ahead of you enters the same lane or a slower vehicle is ahead in the same lane, the vehicle speed adjusts to maintain the gap setting.
+
+Note: When you are following a vehicle and you switch on a turn signal lamp, adaptive cruise control may provide a small, temporary acceleration to help you pass.
+
+Your vehicle maintains a consistent gap from the vehicle ahead until:
+
+- The vehicle in front of you accelerates to a speed above the set speed.
+- The vehicle in front of you moves out of the lane you are in.
+- You set a new gap distance.
+
+The system applies the brakes to slow down your vehicle to maintain a safe gap distance from the vehicle in front of you. The system only applies limited braking. You can override the system by applying the brakes.
+
+Note: The brakes may emit noise when applied by the system.
+
+If the system determines that its maximum braking level is not sufficient, an audible warning sounds, a message appears in the instrument cluster display and an indicator flashes when the system continues to brake. Take immediate action.
+
+### Canceling the Set Speed
+
+Press the button or tap the brake pedal.
+
+The set speed does not erase.
+
+### Resuming the Set Speed
+
+Press the button.
+
+Your vehicle speed returns to the previously set speed and gap setting. The set speed displays continuously in the information display when the system is active.
+
+Note: Only use resume if you are aware of the set speed and intend to return to it.
+
+### Resuming the Set Speed from a Complete Stop
+
+If your vehicle follows a vehicle to a complete stop and remains stationary for less than three seconds, your vehicle accelerates from a stationary position to follow the vehicle ahead.
+
+If your vehicle follows a vehicle to a complete stop and remains stationary for more than three seconds, press and release the button or press the accelerator pedal to follow the vehicle ahead.
+
+### Overriding the Set Speed
+
+WARNING: If you override the system by pressing the accelerator pedal, it does not automatically apply the brakes to maintain a gap from any vehicle ahead.
+
+When you press the accelerator pedal, you override the set speed and gap distance.
+
+Use the accelerator pedal to intentionally exceed the set speed limit.
+
+When you override the system, the green indicator illuminates and the vehicle icon does not appear in the instrument cluster display.
+
+The system resumes operation when you release the accelerator pedal. The vehicle speed decreases to the set speed, or a lower speed if following a slower vehicle.
+
+### Adaptive Cruise Control Indicators
+
+Illuminates when you switch adaptive cruise control on. The color of the indicator changes to indicate the system status.
+
+White indicates the system is on but inactive.
+
+Green indicates that you set the speed and the system is active.
+
+### Switching from Adaptive Cruise Control to Cruise Control
+
+WARNING: Normal cruise control will not brake when your vehicle is approaching slower vehicles. Always be aware of which mode you have selected and apply the brakes when necessary.
+
+Use the touchscreen to select the following:
+
+1. Select Settings.
+2. Select Driver Assist.
+3. Select Cruise Control.
+4. Select Normal.
+
+The cruise control indicator replaces the adaptive cruise control indicator if you select normal cruise control. The gap setting does not display, and the system does not respond to lead vehicles. Automatic braking remains active to maintain set speed. The system remembers the last setting when you start your vehicle.
+## ADAPTIVE CRUISE CONTROL WITH LANE CENTERING
+
+Adaptive cruise control with lane centering uses radar and camera sensors to help keep your vehicle in the middle of the lane by applying continuous assistance steering torque input toward the lane center on highways.
+
+Note: The adaptive cruise control gap setting operates normally.
+
+If you drive off-center within the lane, the system sets and maintains that preferred lane position. The system provides continuous assistance steering torque input toward the preferred position.
+
+Note: The system can only set preferred lane positions within the lane.
+
+Note: If the system cancels, the preferred position erases. On the next activation, the system provides continuous assistance steering torque input toward the lane center.
+
+## LANE CENTERING PRECAUTIONS
+
+WARNING: Do not use the system when towing a trailer. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+## ADAPTIVE CRUISE CONTROL (IF EQUIPPED)
+
+WARNING: Do not use the system if any changes or modifications to the steering wheel have been made. Any changes or modifications to the steering wheel could affect the functionality or performance of the system. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+Adaptive cruise control precautions apply to lane centering unless stated otherwise or contradicted by a lane centering precaution.
+
+## LANE CENTERING REQUIREMENTS
+
+You must keep your hands on the steering wheel at all times.
+
+The system only activates when all of the following occur:
+
+- You have adaptive cruise control with stop and go on.
+- You have your hands on the steering wheel.
+- The system detects both lane markings.
+
+Note: If it does not detect valid lane markings, the system stays inactive until valid markings are available.
+
+## LANE CENTERING LIMITATIONS
+
+Adaptive cruise control limitations apply to lane centering unless stated otherwise or contradicted by a lane centering limitation.
+
+Lane Centering may not correctly operate in any of the following conditions:
+
+- The lane is too narrow or wide.
+- The system does not detect at least one lane marking or when lanes merge or split.
+- Limited steering torque input is applied.
+- Areas under construction or new infrastructure.
+- When modifications to the steering system have been made.
+- When using a spare tire.
+- In high wind conditions.
+
+Note: The driving assistance torque is limited and may not be sufficient for all driving situations such as driving through tight curves or driving through curves at high speeds.
+
+Note: In exceptional conditions, the system may deviate from the center line.
+
+## SWITCHING LANE CENTERING ON AND OFF
+
+You must keep your hands on the steering wheel at all times.
+
+The controls are on the steering wheel.
+
+Press the button.
+
+The indicator appears in the information display. When the system is on, the color of the indicator changes to indicate the system status.
+
+You can override the system at any time by steering your vehicle.
+
+Note: The correct requirements must be met before you can switch the system on.
+
+## ADAPTIVE CRUISE CONTROL (IF EQUIPPED)
+
+Note: Adaptive cruise control must be switched on before you can switch lane centering on.
+
+When the system is active and the direction indicator is switched on, the system immediately cancels. The system remains in standby mode as long as the direction indicator is engaged. The system automatically re-activates once the vehicle is centered in a lane and the direction indicator is switched off.
+
+## LANE CENTERING ALERTS
+
+You must keep your hands on the steering wheel at all times.
+
+When the system is active and detects no steering activity for a period of time, the system alerts you to put your hands on the steering wheel. If you do not react to the warnings the system cancels and slows your vehicle down to idle speeds while maintaining steering control.
+
+The system also alerts you if your vehicle crosses lane markings without detected steering activity.
+
+Note: The system could detect a light grip or touch on the steering wheel as hands-off driving.
+
+When the system cancels due to an external condition, for example, no lane markings are available and your hands are not on the steering wheel, the system immediately alerts you to take control of the vehicle. If you ignore this alert, the system slows the vehicle while maintaining steering control.
+
+## LANE CENTERING AUTOMATIC CANCELLATION
+
+When an external condition cancels the system, for example, no lane markings available, a tone sounds and a message appears in the instrument cluster display.
+
+If your vehicle starts to slow down, you must provide steering input to the wheel.
+
+Automatic cancellation can also occur if:
+
+- The lane becomes too wide or too narrow.
+- The system cannot detect valid lane markings.
+- Lane markings cross over one another.
+
+Note: The system disables until the next key cycle if your vehicle slows down due to driver inactivity twice within a key cycle.
+
+## LANE CENTERING INDICATORS
+
+Illuminates when you switch lane centering on. The color of the indicator changes to indicate the system status.
+
+Gray indicates the system is on but inactive.
+
+Green indicates the system is active and applying steering torque assistance input to keep your vehicle in the center of the lane.
+
+Amber with an audible tone and then gray indicates a system automatic cancellation.
+
+## INTELLIGENT ADAPTIVE CRUISE CONTROL
+
+### HOW DOES INTELLIGENT ADAPTIVE CRUISE CONTROL WORK
+
+Intelligent adaptive cruise control combines speed sign recognition and navigation map data with adaptive cruise control to adjust the cruise set speed to the speed limit detected by the speed sign recognition system. As the system detects new speed signs, the set speed updates.
+
+There are limitations that affect the accuracy of the speed sign recognition system and its ability to determine the current speed limit.
+
+Note: The adaptive cruise control gap setting operates normally when the feature is enabled.
+
+### INTELLIGENT ADAPTIVE CRUISE CONTROL PRECAUTIONS
+
+WARNING: You are responsible for controlling your vehicle at all times. The system is designed to be an aid and does not relieve you of your responsibility to drive with due care and attention. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+### INTELLIGENT ADAPTIVE CRUISE CONTROL REQUIREMENTS
+
+Traffic sign recognition must be enabled for intelligent adaptive cruise control to be active.
+
+### INTELLIGENT ADAPTIVE CRUISE CONTROL LIMITATIONS
+
+The speed limit information provided by the navigation map data could be inaccurate or out of date.
+
+The system may not detect and read speed limit signs with conditional information, for example, when a sign is flashing, during specific time ranges, or when children are present.
+
+Note: The system does not set the vehicle speed to speed limits shown with a supplementary traffic sign.
+
+Under certain conditions, the system may not adjust the vehicle speed until after your vehicle passes the speed limit.
+
+### SWITCHING INTELLIGENT MODE ON AND OFF
+
+1. Press Settings on the touchscreen.
+2. Press Driver Assistance.
+3. Press Cruise Control.
+4. Press Intelligent.
+
+### ADJUSTING THE SET SPEED TOLERANCE
+
+You can set a permanent speed tolerance that is above or below the detected speed limit.
+## SETTINGS FOR CRUISE CONTROL
+
+1. Press Settings on the touchscreen.  
+2. Press Driver Assistance.  
+3. Press Cruise Control.  
+4. Press Intelligent.  
+
+## ADAPTIVE CRUISE CONTROL (If Equipped)
+
+5. Press Tolerance.  
+6. Use + and - to set the tolerance.  
+
+**Note:** You cannot set the tolerance more than 20 mph (30 km/h) above or below the recognized speed.  
+
+## INTELLIGENT ADAPTIVE CRUISE CONTROL ALERTS
+
+If you increase the set speed beyond the speed limit or speed limit plus a positive tolerance value, the set speed indicator flashes.  
+
+The warning does not occur if:  
+
+- You override the set speed using the accelerator pedal.  
+- The vehicle speed exceeds the set speed due to being on a downhill slope.  
+
+## INTELLIGENT ADAPTIVE CRUISE CONTROL INDICATORS
+
+E337564  
+
+The set speed limit displays next to the detected speed limit in the instrument cluster.  
+
+## ADAPTIVE CRUISE CONTROL - TROUBLESHOOTING
+
+### ADAPTIVE CRUISE CONTROL INFORMATION MESSAGES VEHICLES WITH: LANE CENTERING
+
+**Note:** Depending on your vehicle options and instrument cluster type, not all messages display or are available.  
+
+**Note:** The system could abbreviate or shorten certain messages depending upon which cluster type you have.  
+
+| Message                                                  | Action                                                                             |  
+|----------------------------------------------------------|------------------------------------------------------------------------------------|  
+| Keep Hands on Steering Wheel                             | Make sure you return your hands to the steering wheel and provide steering input.  |  
+| Lane Centering Assist Not Available                      | Lane centering assist conditions exist preventing the system from being available. |  
+| For Lane Centering Assist to work Turn On Adaptive Cruise | Adaptive cruise control must be on before lane centering can be switched on.       |  
+
+### ADAPTIVE CRUISE CONTROL INFORMATION MESSAGES VEHICLES WITH: STOP AND GO
+
+**Note:** Depending on your vehicle options and instrument cluster type, not all messages display or are available.  
+
+**Note:** The system could abbreviate or shorten certain messages depending upon which cluster type you have.  
+
+| Message                                                 | Action                                                                                                                                                                                                                                                                                                                                                                                                                                            |  
+|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
+| Adaptive Cruise Malfunction                             | A malfunction is preventing the adaptive cruise from engaging.                                                                                                                                                                                                                                                                                                                                                                                  |  
+| Front Sensor Not Aligned                                | Contact an authorized dealer to have the radar checked for proper coverage and operation.                                                                                                                                                                                                                                                                                                                                                         |  
+| Adaptive Cruise Not Available                           | Conditions exist preventing the system from being available.                                                                                                                                                                                                                                                                                                                                                                                      |  
+| Adaptive Cruise Not Available Sensor Blocked See Manual | You have a blocked radar because of poor radar visibility due to inclement weather or ice, mud, or water in front of the radar. You can typically clean the sensor to resolve this. Due to the nature of radar technology, it is possible to get a blockage warning with no actual block. This happens, for example, when driving in sparse rural or desert environments. A false blocked condition either self clears, or clears after you restart your vehicle. |  
+| Normal Cruise Active Adaptive Braking Off               | You have selected normal cruise control. The system does not brake or react to traffic.                                                                                                                                                                                                                                                                                                                                                           |  
+| Adaptive Cruise - Driver Resume Control                 | Displays when the adaptive cruise control is going to cancel and you must take control.                                                                                                                                                                                                                                                                                                                                                           |  
+| Adaptive Cruise Speed Too Low to Activate               | Displays when the vehicle speed is too slow to activate the adaptive cruise control and there is no lead vehicle in range.                                                                                                                                                                                                                                                                                                                        |  
+
+### ADAPTIVE CRUISE CONTROL INFORMATION MESSAGES VEHICLES WITH: INTELLIGENT ADAPTIVE CRUISE CONTROL
+
+**Note:** Depending on your vehicle options and instrument cluster type, not all messages display or are available.  
+
+**Note:** Certain messages may be abbreviated or shortened depending upon which cluster type you have.  
+
+| Message                                                       | Action                                                       |  
+|---------------------------------------------------------------|--------------------------------------------------------------|  
+| Intelligent Cruise Control Speed Sign Recognition Not Available | Conditions exist preventing the system from being available. |  
+
+## WHAT IS DRIVE MODE CONTROL
+
+The system delivers a driving experience through a suite of sophisticated electronic vehicle systems. These systems optimize steering, handling, and powertrain response. This provides a single location to control multiple systems performance settings.  
+
+Changing the drive mode changes the functionality of the following systems:  
+
+- Electric power-assisted steering system adjusts steering effort and feel based on the mode you select. See Electric Power Steering Precautions (page 229).  
+## DRIVE MODES
+
+### General Information
+- Electronic stability control and traction control maintain your vehicle control in adverse conditions or high performance driving. See Stability Control (page 227).
+- Electronic throttle control enhances the powertrain response to your driving inputs.
+- Transmission controls become optimized with shift schedules tuned to each mode.
+- Four-wheel drive settings are optimized and tuned to each mode.
+- Electric vehicle mode selections may be limited.
+
+The system tailors your vehicle configuration for each mode you select.
+
+**Note:** Not all settings may be available.
+
+**Note:** The system has diagnostic checks that continuously monitor the system for proper operation. If a mode is unavailable due to a system fault or change in gear shifter position, the mode defaults to Normal.
+
+### SELECTING A DRIVE MODE EXCLUDING: PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+**Note:** Drive mode changes may not be available when the ignition is off.
+
+**Note:** Button icon shown may vary from your vehicle.
+
+**Note:** Selected drive mode displays in the information display.
+
+E306303
+
+To select drive modes, use the console mounted control.
+
+### SELECTING A DRIVE MODE
+E356781
+
+To select drive modes, use the console mounted control.
+
+### Drive Mode Control
+**Note:** Drive mode changes may not be available when the ignition is off.
+
+**Note:** Button icon shown may vary from your vehicle.
+
+**Note:** Selected drive mode displays in the information cluster display.
+
+### DEEP SNOW/SAND (If Equipped)
+Use this mode to aid you in getting your vehicle unstuck from deep snow or sand.
+
+**Note:** The intent of your all-wheel drive vehicle is not for off-road use. The all-wheel drive feature allows for driving on relatively level surfaces, obstruction free and similar to normal on-road driving conditions. Operating your vehicle in other conditions could lead to excessive stress that could result in damage not covered by the warranty.
+
+**Note:** This mode is not intended for driving on snowy roads. For snowy roads use slippery mode.
+
+**Note:** Using deep snow/sand mode on dry, hard surfaces could produce some vibration, driveline bind up, and potential excessive tire wear. This mode is for slippery and loose surfaces.
+
+### ECO
+For efficient driving. This mode helps deliver maximum fuel efficiency and helps to increase driving range.
+
+### NORMAL
+For everyday driving. This mode is a perfect balance of excitement, comfort and convenience. This is the default mode after each ignition cycle.
+
+### SLIPPERY
+For less than ideal road conditions such as snow or ice covered roads. This mode lowers throttle response, adjusts transmission shift points, and optimizes vehicle stability controls to help mitigate wheel spin and maintain vehicle control when driving in winter conditions.
+
+**Note:** Using slippery mode on dry, hard surfaces could produce some vibration, driveline bind up, and potential excessive tire wear.
+
+### SPORT
+For sporty driving with improved performance handling and response. This mode increases accelerator pedal response, enhances steering to provide a sportier feel, and adjusts transmission shift points for quicker vehicle acceleration.
+
+## PLUG-IN HYBRID ELECTRIC VEHICLE DRIVE MODES
+
+### SELECTING A PLUG-IN HYBRID ELECTRIC VEHICLE DRIVE MODE
+Your vehicle contains selectable electric vehicle (EV) modes. Press the button on the center console to change the mode.
+
+Depending on your drive mode selection some EV modes may not be available. EV Now and EV Later modes are only available when you have electric-only driving range available.
+
+### AUTO EV
+This mode provides an automatic use of high voltage battery power during the drive, staying in electric mode when possible and running the engine when needed.
+
+### EV CHARGE
+This mode uses your vehicle's engine to charge the high voltage battery versus plugging the vehicle into a utility grid.
+
+The electric range gained through the EV Charge allows you to switch to Auto EV or EV Now for full electric operation later in your drive. The battery cannot completely charge to 100% when in EV Charge mode. This is to allow for full operation of the regenerative braking system. When the battery reaches its EV Charge limit, the vehicle remains in EV Charge mode and maintains that charge level, until you select another EV Mode, or until you switch your vehicle off.
+
+When you enable EV Charge, a white EV Charge icon appears in the information display.
+
+EV Charge resets to Auto EV when you switch off your vehicle. You may select EV Charge again using the EV button during your next drive.
+
+### EV LATER
+In EV Later, your vehicle runs on the engine as needed and saves most of the available electric range for later use in Auto EV or EV Now mode.
+
+For example, your initial drive is at high speeds on open roads, but later your drive is at low speeds in an urban area where electric only driving is most efficient. In this case, you can select EV Later for the higher speed portion of your trip and then select Auto EV or EV Now for the urban portion.
+
+When you enable EV Later, a white EV Later icon appears in the information display. EV Later resets to Auto EV when you switch off your vehicle. You may select EV Later again using the EV button during your next drive.
+
+### EV NOW
+This mode provides an electric only driving experience. Do not use EV Now when towing a trailer. The electric drive system is not designed for towing. An EV Now information on demand screen appears. This screen allows you to enable your engine while in EV Now mode.
+
+Your vehicle could accelerate slower and the top speed could be lower than when in Auto EV mode.
+
+You can enable your engine at any time by using one of the following methods:
+- Press the OK button on the steering wheel when viewing the EV Now information on demand screen. Your vehicle enables the engine as needed and returns to EV Now mode when no longer needed.
+- Fully press the accelerator pedal. A pop-up message appears. Press the OK button on the steering wheel to enable the engine. When the engine is no longer needed, your vehicle returns to EV Now. The message disappears if you release the accelerator pedal.
+- Press the EV button. This exits EV Now mode and permits engine operation. To return to EV Now mode, select it again using the EV button.
+
+Your vehicle could enter Engine Enabled mode if system conditions require it. A message displays if this occurs. This is a normal function of the system and your vehicle returns to EV Now mode when possible.
+
+When you enable EV Now mode, a blue EV Now icon appears in the information display. If your vehicle is in Engine Enabled mode, the EV Now icon is amber. EV Now exits when your available electric range reaches zero.
+
+## LANE KEEPING SYSTEM
+
+### WHAT IS THE LANE KEEPING SYSTEM
+The lane keeping system alerts you by providing temporary steering assistance or steering wheel vibration when it detects an unintended lane departure.
+
+### HOW DOES THE LANE KEEPING SYSTEM WORK
+The lane keeping system uses a forward looking camera mounted on the windshield to monitor vehicle movement within the travel lane.
+
+When the camera detects a drift out of the travel lane, the lane keeping system alerts the driver by vibrating the steering wheel, or aids the driver by providing a small steering input to move the vehicle back into the travel lane.
+
+The driver can select one of three modes:
+- Alert (If Equipped)
+- Aid
+- Alert + Aid
+
+### LANE KEEPING SYSTEM PRECAUTIONS
+WARNING: You are responsible for controlling your vehicle at all times. The system is designed to be an aid and does not relieve you of your responsibility to drive with due care and attention. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: The system will not operate if the sensor cannot track the road lane markings.
+
+WARNING: The sensor may incorrectly track lane markings as other structures or objects. This can result in a false or missed warning.
+
+WARNING: In cold and severe weather conditions the system may not function. Rain, snow and spray can all limit sensor performance.
+
+WARNING: The system may not operate properly if the sensor is blocked. Keep the windshield free from obstruction.
+
+WARNING: If damage occurs in the immediate area surrounding the sensor, have your vehicle checked as soon as possible.
+
+WARNING: The system may not correctly operate if your vehicle is fitted with a suspension kit not approved by us.
+
+WARNING: Large contrasts in outside lighting can limit sensor performance.
+
+## LANE KEEPING SYSTEM LIMITATIONS
+
+The lane keeping system only operates when the vehicle speed is greater than 40 mph (64 km/h).
+
+The system works when the camera can detect at least one lane marking.
+
+The lane keeping system may not correctly operate in any of the following conditions:
+
+- The lane keeping system does not detect at least one lane marking.
+- You switch the turn signal on.
+
+## Lane Keeping System Conditions
+
+The lane keeping system may not correct lane positioning in any of the following conditions:
+
+- You apply direct steering, accelerate fast or brake hard.
+- The vehicle speed is less than 40 mph (64 km/h).
+- The anti-lock brake, stability control or traction control system activates.
+- The lane is too narrow.
+- Something is obscuring the camera or it is unable to detect the lane markings due to environment, traffic or vehicle conditions.
+
+The lane keeping system may not correct lane positioning in any of the following conditions:
+
+- High winds.
+- Uneven road surfaces.
+- Heavy or uneven loads.
+- Incorrect tire pressure.
+
+## SWITCHING THE LANE KEEPING SYSTEM ON AND OFF
+
+E288067
+
+To activate the lane keeping system, press the button on the direction indicator stalk.
+
+To deactivate the lane keeping system, press the button again.
+
+Note: When switching the system on or off a message appears in the information and entertainment display to show the status.
+
+Note: The system stores the on or off setting until manually changed, unless it detects a MyKey™. If the system detects a MyKey™, it defaults to the last setting for that MyKey™.
+
+Note: If the system detects a MyKey™, pressing the button does not affect the on or off status of the system. You can only change the mode and intensity settings.
+
+## SWITCHING THE LANE KEEPING SYSTEM MODE
+
+The lane keeping system has different settings that you can view or adjust using the information display.
+
+The system stores the last known selection for each of these settings. You do not need to readjust your settings each time you switch on the system.
+
+To change the lane keeping system mode, use the touchscreen:
+
+1. Press Settings on the touchscreen.
+2. Press Driver Assistance.
+3. Press Lane-Keeping System.
+4. Press Lane-Keeping Mode.
+5. Select a mode.
+
+Note: The system remembers the last setting when you start your vehicle. If the system detects a MyKey™, it defaults to the last setting for that MyKey™.
+
+## ALERT MODE
+
+### WHAT IS ALERT MODE
+
+Alert mode vibrates the steering wheel when it detects an unintended lane departure.
+
+### HOW DOES ALERT MODE WORK
+
+E165515
+
+When in alert mode, the lane keeping system alerts you by vibrating the steering wheel. The intensity of the vibration is set through the lane keeping system menu.
+
+## AID MODE
+
+### WHAT IS AID MODE
+
+Aid mode provides temporary steering assistance toward the center of the lane.
+
+### HOW DOES AID MODE WORK
+
+E165516
+
+The lane keeping system aids you when an unintentional lane departure occurs. The system provides a small steering input to move the vehicle towards the center of the lane.
+
+## ALERT AND AID MODE
+
+### WHAT IS ALERT AND AID MODE
+
+Alert and aid mode uses multiple features to keep you in your lane. The system first provides a small steering input to bring your vehicle back towards the center of the lane. If your vehicle moves too far out of the center of the lane the system alerts you with vibration in the steering wheel.
+
+### HOW DOES ALERT AND AID MODE WORK
+
+A
+
+B
+
+Alert.
+
+Aid.
+
+The lane keeping system detects a lane departure and provides aid when the vehicles enters B and applies the additional alert warning if A is entered.
+
+## LANE KEEPING SYSTEM INDICATORS
+
+E294544
+
+If you switch the lane keeping system on, a graphic with lane markings appears in the information display.
+
+When you switch the system off, the lane marking graphics do not display.
+
+Note: The overhead vehicle graphic may still display if adaptive cruise control is enabled.
+
+While the lane keeping system is on, the color of the lane markings change to indicate the system status.
+
+| Gray                                                                                                               | White                                                                                                       | Yellow                                                                                       | Red                                                                                       |
+|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Indicates that the system is temporarily unavailable to provide a warning or intervention on the indicated side. | Indicates that the system is available or ready to provide a warning or intervention on the indicated side. | Indicates that the system is providing or has just provided a lane keeping aid intervention. | Indicates that the system is providing or has just provided a lane keeping alert warning. |
+
+## LANE KEEPING SYSTEM - TROUBLESHOOTING
+
+## LANE KEEPING SYSTEM - INFORMATION MESSAGES
+
+| Message                                        | Action                                                                                                      |
+|------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Lane Keeping Sys. Malfunction Service Required | The system has malfunctioned. Have your vehicle checked as soon as possible.                                |
+| Front Camera Temporarily Not Available         | The system has detected a condition that has caused the system to be temporarily unavailable.               |
+| Front Camera Low Visibility Clean Screen       | The system has detected a condition that requires you to clean the windshield in order for it to operate properly. |
+| Front Camera Malfunction Service Required      | The system has malfunctioned. Have your vehicle checked as soon as possible.                                |
+| Keep Hands on Steering Wheel                   | The system requests that you keep your hands on the steering wheel.                                         |
+## LANE KEEPING SYSTEM - FREQUENTLY ASKED QUESTIONS
+
+| Why is the feature not available (lane markings are gray) when I can see the lane markings on the road?   |
+|-----------------------------------------------------------------------------------------|
+| Your vehicle speed is less than 40 mph (65 km/h).                                        |
+| The sun is shining directly into the camera lens.                                       |
+| A quick intentional lane change has occurred.                                            |
+| Your vehicle stays too close to the lane markings for an extended interval of time.     |
+| Driving at high speeds in curves.                                                       |
+| The last alert warning or aid intervention occurred a short time ago.                   |
+| Ambiguous lane markings, for example, in construction zones.                            |
+| Rapid transition from light to dark, or from dark to light.                             |
+| Sudden offset in lane markings.                                                         |
+| ABS or AdvanceTrac™ is active.                                                          |
+| There is a camera blockage due to dirt, grime, fog, frost or water on the windshield.   |
+| You are driving too close to the vehicle in front of you.                               |
+| Transitioning between no lane markings to lane markings, or vice versa.                 |
+| There is standing water on the road.                                                    |
+| Faint lane markings, for example, partial yellow lane markings on concrete roads.       |
+| Lane width is too narrow or too wide.                                                   |
+| You have not calibrated the camera after a windshield replacement.                      |
+| Driving on tight or on uneven roads.                                                    |
+
+## Lane Keeping System
+
+| Why does the vehicle not come back toward the middle of the lane, as expected, in the Aid, or Aid + Alert mode?   |
+|----------------------------------------------------------------------------------------------|
+| High cross winds are present.                                                                |
+| There is a large road crown.                                                                 |
+| Rough roads, grooves or shoulder drop-offs.                                                  |
+| Heavy, uneven loading of the vehicle or improper tire inflation pressure.                    |
+| You changed the tires or modified the suspension.                                            |
+
+## BLIND SPOT INFORMATION SYSTEM
+
+### WHAT IS BLIND SPOT INFORMATION SYSTEM
+
+Blind spot information system detects vehicles that may have entered the blind spot zone.
+
+### HOW DOES BLIND SPOT INFORMATION SYSTEM WORK
+
+Blind spot information system uses sensors on both sides of your vehicle, detecting rearward from the exterior mirrors to approximately 13 ft (4 m) beyond the rear bumper. The detection area extends to approximately 59 ft (18 m) beyond the rear bumper when the vehicle speed is greater than 30 mph (48 km/h) to alert you of faster approaching vehicles.
+
+### BLIND SPOT INFORMATION SYSTEM PRECAUTIONS
+
+WARNING: Do not use the blind spot information system as a replacement for using the interior and exterior mirrors or looking over your shoulder before changing lanes. The blind spot information system is not a replacement for careful driving.
+
+WARNING: The system may not operate properly during severe weather conditions, for example snow, ice, heavy rain and spray. Always drive with due care and attention. Failure to take care may result in a crash.
+
+Note: Blind spot information system does not prevent contact with other vehicles. It does not detect parked vehicles, pedestrians, animals or other infrastructure.
+
+### BLIND SPOT INFORMATION SYSTEM LIMITATIONS
+
+Blind spot information system does not operate in park (P) or reverse (R).
+
+The system may not alert you if a vehicle quickly passes through the detection zone.
+
+### BLIND SPOT INFORMATION SYSTEM REQUIREMENTS
+
+Blind spot information system turns on when all the following occur:
+
+- You start your vehicle.
+- You shift into drive (D).
+- The vehicle speed is greater than 6 mph (10 km/h).
+
+### SWITCHING BLIND SPOT INFORMATION SYSTEM ON AND OFF
+
+To switch blind spot information system on or off, use the touchscreen:
+
+1. Press Settings on the touchscreen.
+2. Press Driver Assistance.
+3. Switch Blind Spot Information System on or off.
+
+### Blind Spot Information System
+
+When you switch blind spot information system off, a warning lamp illuminates and a message displays. When you switch the system on or off, the alert indicators flash twice.
+
+Note: The system remembers the last setting when you start your vehicle.
+
+To permanently switch the system off, contact an authorized dealer.
+
+### LOCATING THE BLIND SPOT INFORMATION SYSTEM SENSORS
+
+The sensors are behind the rear bumper on both sides of your vehicle.
+
+Note: Keep the sensors free from snow, ice and large accumulations of dirt.
+
+Note: Do not cover the sensors with bumper stickers, repair compound or other objects.
+
+Note: Blocked sensors may affect system accuracy.
+
+Note: Bike and cargo racks could cause false alerts due to obstruction of the sensor. We recommend switching the feature off when using a bike or cargo rack.
+
+If the sensors become blocked, a message may appear in the information display. The alert indicators remain illuminated but the system does not alert you.
+
+### BLIND SPOT INFORMATION SYSTEM INDICATORS
+
+When blind spot information system detects a vehicle, an alert indicator illuminates in the exterior mirror on the side the approaching vehicle is coming from. If you turn the turn signal on for that side of your vehicle, the alert indicator flashes.
+
+### BLIND SPOT INFORMATION SYSTEM - TROUBLESHOOTING
+
+### BLIND SPOT INFORMATION SYSTEM - INFORMATION MESSAGES
+
+| Message                                            | Action                                                                                                                                                                                                               |
+|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Blind Spot System Fault                            | A fault with the system has occurred. Have your vehicle checked as soon as possible.                                                                                                                                  |
+| Blind Spot Not Available Sensor Blocked See Manual | Something is blocking the sensors. Clean the sensors.                                                                                                                                                                |
+| Blind Spot Alert Deactivated Trailer Attached      | The system automatically turns off and displays this message when you connect a trailer to the vehicle that does not have a trailer blind spot system or when you switch the trailer blind spot system off through the touchscreen. |
+
+### WHAT IS CROSS TRAFFIC ALERT
+
+The system alerts you of vehicles approaching from the sides behind your vehicle when you shift into reverse (R).
+
+### HOW DOES CROSS TRAFFIC ALERT WORK
+
+Cross traffic alert detects vehicles that approach at a speed between 4-37 mph (6-60 km/h). Coverage decreases when the sensors are partially, mostly or fully obstructed.
+## CROSS TRAFFIC ALERT
+
+Zone coverage also decreases when parking at narrow angles. The sensor on the left-hand side is mostly obstructed and zone coverage on that side is severely reduced.
+
+Note: Slowly reversing helps increase the coverage area and effectiveness.
+
+### CROSS TRAFFIC ALERT PRECAUTIONS
+
+WARNING: Do not use the cross traffic alert system as a replacement for using the interior and exterior mirrors or looking over your shoulder before reversing out of a parking space. The cross traffic alert system is not a replacement for careful driving.
+
+WARNING: The system may not operate properly during severe weather conditions, for example snow, ice, heavy rain and spray. Always drive with due care and attention. Failure to take care may result in a crash.
+
+### CROSS TRAFFIC ALERT LIMITATIONS
+
+Cross traffic alert may not correctly operate when any of the following occur:
+
+- Something is blocking the sensors.
+- Adjacently parked vehicles or objects are obstructing the sensors.
+- Vehicles approach at speeds less than 4 mph (6 km/h) or greater than 37 mph (60 km/h).
+- Your vehicle speed is greater than 7 mph (12 km/h).
+- You reverse out of an angled parking space.
+
+### SWITCHING CROSS TRAFFIC ALERT ON AND OFF
+
+To switch cross traffic alert on or off use the touchscreen.
+
+1. Press Settings on the touchscreen.
+2. Press Driver Assistance.
+
+### LOCATING THE CROSS TRAFFIC ALERT SENSORS
+
+The sensors are behind the rear bumper on both sides of your vehicle.
+
+Note: Keep the sensors free from snow, ice and large accumulations of dirt.
+
+Note: Do not cover the sensors with bumper stickers, repair compound or other objects.
+
+Note: Blocked sensors could affect system performance.
+
+Note: Bike and cargo racks could cause false alerts due to obstruction of the sensor. We recommend switching the feature off when using a bike or cargo rack.
+
+If the sensors are blocked, a message may appear in the information display when you shift into reverse (R).
+
+### CROSS TRAFFIC ALERT INDICATORS
+
+When the cross traffic alert detects an approaching vehicle, a tone sounds, a warning lamp illuminates in the relevant exterior mirror and arrows appear in the information display to show which side the vehicle is approaching from.
+
+If the system malfunctions, a warning lamp illuminates in the instrument cluster and a message appears in the information display. Have your vehicle checked as soon as possible.
+
+Note: If arrows do not display, a message appears in the information display.
+
+Note: In some conditions, the system could alert you, even when there is nothing in the detection zone, for example a vehicle passing further away from your vehicle.
+
+### CROSS TRAFFIC ALERT - TROUBLESHOOTING
+
+### CROSS TRAFFIC ALERT - INFORMATION MESSAGES
+
+| Message                                               | Action                                                                                                                                                      |
+|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cross Traffic Alert                                   | Displays instead of indication arrows when the system detects a vehicle. Check for approaching traffic.                                                      |
+| Cross Traffic Not Available Sensor Blocked See Manual | Indicates blocked cross traffic alert system sensors. Clean the sensors. If the message continues to appear, have your vehicle checked as soon as possible. |
+| Cross Traffic System Fault                            | The system has malfunctioned. Have your vehicle checked as soon as possible.                                                                                |
+| Cross Traffic Alert Deactivated Trailer Attached      | Displays if you attach a trailer to your vehicle.                                                                                                           |
+
+## WHAT IS PRE-COLLISION ASSIST
+
+Pre-collision assist detects and warns of approaching hazards in the roadway. If your vehicle is rapidly approaching another stationary vehicle, a vehicle traveling in the same direction as yours, or a pedestrian within your driving path, the system provides multiple levels of assistance to help avoid a collision.
+
+### HOW DOES PRE-COLLISION ASSIST WORK
+
+The system warns the driver of potential hazards by providing three levels of assistance.
+
+If your vehicle is rapidly approaching potential hazards, the system provides the following levels of functionality:
+
+1. Alert.
+2. Brake Support.
+3. Automatic Emergency Braking.
+
+**Alert:** When active, a flashing visual warning appears and an audible warning tone sounds.
+
+**Brake Support:** The system is designed to help reduce the impact speed by preparing the brakes for rapid braking. The system does not automatically apply the brakes. If you press the brake pedal, the system could apply additional braking up to maximum braking force, even if you lightly press the brake pedal.
+
+**Automatic Emergency Braking:** Automatic emergency braking may activate if the system determines that a collision is imminent.
+
+Note: If you perceive pre-collision assist alerts as being too frequent or disturbing, then you can reduce the alert sensitivity, though the manufacturer recommends using the highest sensitivity setting where possible. Setting lower sensitivity would lead to fewer and later system warnings.
+
+Each system has various level of detection capabilities. See Pre-Collision Assist Limitations.
+
+### PRE-COLLISION ASSIST PRECAUTIONS
+
+WARNING: You are responsible for controlling your vehicle at all times. The system is designed to be an aid and does not relieve you of your responsibility to drive with due care and attention. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: The system does not detect vehicles that are driving in a different direction, cyclists or animals. Apply the brakes when necessary. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: The system does not operate during hard acceleration or steering. Failure to take care may lead to a crash or personal injury.
+
+WARNING: The system may fail or operate with reduced function during cold and severe weather conditions. Snow, ice, rain, spray and fog can adversely affect the system. Keep the front camera and radar free of snow and ice. Failure to take care may result in the loss of control of your vehicle, serious personal injury or death.
+
+WARNING: Take additional care if your vehicle is heavily loaded or you are towing a trailer. These conditions could result in reduced performance of this system. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: The system cannot help prevent all crashes. Do not rely on this system to replace driver judgment and the need to maintain a safe distance and speed.
+WARNING: In situations where the vehicle camera has limited detection capability, this may reduce system performance. These situations include but are not limited to direct or low sunlight, vehicles at night without tail lights, unconventional vehicle types, pedestrians with complex backgrounds, running pedestrians, partly obscured pedestrians, or pedestrians that the system cannot distinguish from a group. Failure to take care may result in the loss of control of your vehicle, serious personal injury or death.
+
+## PRE-COLLISION ASSIST LIMITATIONS
+
+Pre-collision assist depends on the detection ability of its camera and sensors. Any obstructions or damage to these areas can limit detection or prevent the system from functioning. See Locating the Pre-Collision Assist Sensors (page 276).
+
+The system is active at speeds above 3 mph (5 km/h).
+
+Note: The pre-collision assist system disables when you select four-wheel drive low or manually disable AdvanceTrac™.
+
+Note: Brake support and automatic emergency braking are active at speeds up to 80 mph (130 km/h). If the vehicle has a radar sensor included with adaptive cruise control, then brake support and automatic emergency braking are active up to the maximum speed of the vehicle.
+
+## PEDESTRIAN DETECTION LIMITATIONS
+
+Pedestrian detection is active at speeds up to 50 mph (80 km/h).
+
+Pedestrian detection functions optimally when detected hazards are clearly identifiable. System performance may reduce in situations where pedestrians are running, partly obscured, have a complex background, or cannot be distinguished from a group.
+
+## SWITCHING PRE-COLLISION ASSIST ON AND OFF
+
+You cannot switch the system off.
+
+## PRE-COLLISION ASSIST
+
+## ADJUSTING THE PRE-COLLISION ASSIST SETTINGS
+
+You can adjust the following settings by using the touchscreen controls in the pre-collision assist menu:
+
+- Change alert and distance alert sensitivity to one of three possible settings.
+- Switch distance indication and alert on or off.
+- If required, switch automatic emergency braking on or off.
+- If required, switch evasive steering assist on or off.
+
+Note: Automatic emergency braking and evasive steering automatically turns on every time you switch the ignition on.
+
+Note: If you switch automatic emergency braking off, evasive steering assist switches off.
+
+## LOCATING THE PRE-COLLISION ASSIST SENSORS
+
+E307090
+
+- Camera. 1.
+- Radar sensor (if equipped). 2.
+
+If a message regarding a blocked sensor or camera appears in the information display, something is obstructing the radar signals or camera images. The radar sensor is behind the fascia cover in the center of the lower grille. With a blocked sensor or camera, the system may not function, or performance may reduce.
+
+Note: Proper system operation requires a clear view of the road by the camera. Repair any windshield damage in the area of the camera's field of view.
+
+## PRE-COLLISION ASSIST - INFORMATION MESSAGES (page 280)
+
+Note: If something hits the front end of your vehicle or damage occurs and your vehicle has a radar sensor, the radar sensing zone could change. This could cause missed or false vehicle detections. Have your vehicle serviced to have the radar checked for proper coverage and operation.
+
+Note: If your vehicle detects excessive heat at the camera or a potential misalignment condition, a message could display in the information display indicating temporary sensor unavailability. When operational conditions are correct, the message deactivates. For example, when the ambient temperature around the sensor decreases or the sensor recalibrates successfully.
+
+## DISTANCE INDICATION
+
+## WHAT IS DISTANCE INDICATION
+
+Distance indication displays the gap between your vehicle and the vehicle ahead of you.
+
+Note: The graphic does not display if you switch on cruise control or adaptive cruise control.
+
+| Vehicle Speed      | System Sensitivity   | Distance Indicator Color   | Distance Gap                | Time Gap                 |
+|-------------------|-----------------------|------------------------------|----------------------------|-------------------------|
+| 62 mph (100 km/h) | Normal.               | Gray.                        | Greater than 82 ft (25 m). | Greater than 0.9 seconds. |
+| 62 mph (100 km/h) | Normal.               | Yellow.                      | 56-82 ft (17-25 m).        | 0.6-0.9 seconds.        |
+| 62 mph (100 km/h) | Normal.               | Red.                         | Less than 56 ft (17 m).    | Less than 0.6 seconds.  |
+
+## SWITCHING DISTANCE INDICATION ON AND OFF
+
+To switch the system on or off, use the touchscreen:
+
+1. Press Settings on the touchscreen.
+2. Press Driver Assistance.
+3. Press Pre-Collision Assist.
+4. Press Distance Indication.
+
+## DISTANCE INDICATION INDICATOR
+
+The indicator displays the time gap between your vehicle and vehicles traveling in the same direction ahead of you.
+
+## DISTANCE ALERT
+
+## WHAT IS DISTANCE ALERT
+
+The system alerts you with a warning lamp if the distance to the vehicle ahead is small.
+
+Note: The warning lamp does not illuminate if cruise control or adaptive cruise control is active.
+
+## ADJUSTING THE SENSITIVITY OF DISTANCE ALERT
+
+To adjust the sensitivity of the system, use the touchscreen:
+
+1. Press Settings on the touchscreen.
+2. Press Driver Assistance.
+3. Press Pre-Collision Assist.
+4. Press Alert Sensitivity.
+5. Press a setting.
+
+## AUTOMATIC EMERGENCY BRAKING
+
+## WHAT IS AUTOMATIC EMERGENCY BRAKING
+
+Automatic emergency braking may activate if the system determines that a collision is imminent. The system may help reduce impact damage to avoid the crash completely.
+
+Automatic emergency braking is only available up to certain speeds.
+
+## SWITCHING AUTOMATIC EMERGENCY BRAKING ON AND OFF
+
+To switch the system on or off, use the touchscreen:
+
+1. Press Settings on the touchscreen.
+2. Press Driver Assistance.
+3. Press Pre-Collision Assist.
+4. Press Active Braking.
+5. Switch the feature on or off.
+
+## EVASIVE STEERING ASSIST (IF EQUIPPED)
+
+## WHAT IS EVASIVE STEERING ASSIST
+
+If your vehicle is rapidly approaching a road user, evasive steering assist helps you steer around the road user.
+
+After you turn the steering wheel in an attempt to avoid a crash with the road user, the system applies additional steering torque to help you steer around the road user. After you pass the road user, the system applies steering torque when you turn the steering wheel to steer back into the lane. The system deactivates after you fully pass the road user.
+
+Note: Road users are defined as another stationary vehicle in the same lane or a vehicle traveling in the same lane in the same direction as you.
+
+## EVASIVE STEERING ASSIST LIMITATIONS
+
+Evasive steering assist only activates when all the following occur:
+
+- Automatic emergency braking and evasive steering assist are on.
+- The system detects a road user ahead and starts to apply the brakes.
+- You significantly turn the steering wheel to steer around a road user.
+
+Note: Evasive steering assist does not automatically steer around a road user. If you do not turn the steering wheel, evasive steering assist does not activate.
+
+Note: Evasive steering assist does not activate if the distance to the road user ahead is too small and the system cannot avoid a crash.
+
+Note: Evasive steering does not activate with cyclists or pedestrians.
+
+## SWITCHING EVASIVE STEERING ASSIST ON AND OFF
+
+To switch the system on or off, use the touchscreen:
+
+1. Press Settings on the touchscreen.
+2. Press Driver Assistance.
+3. Press Pre-Collision Assist.
+4. Press Evasive Steering.
+5. Switch the feature on or off.
+
+Note: If you switch automatic emergency braking off, evasive steering assist turns off.
+Note: Automatic emergency braking and evasive steering assist turn on every time you switch the ignition on.
+
+## PRE-COLLISION ASSIST
+
+### TROUBLESHOOTING
+
+### INFORMATION MESSAGES
+
+| Message                                           | Action                                                                                                                                     |
+|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| Pre-Collision Assist Not Available Sensor Blocked | You have a blocked sensor due to bad weather, ice, mud or water in front of the radar sensor. You can typically clean the sensor to resolve. |
+| Pre-Collision Assist Not Available                | A fault with the system has occurred. Have your vehicle checked as soon as possible.                                                        |
+
+### Camera Troubleshooting
+
+#### The windshield in front of the camera is dirty or obstructed.
+
+Clean the outside of the windshield in front of the camera.
+
+#### The windshield in front of the camera is clean, but the message remains in the instrument cluster display.
+
+Wait a short time. It could take several minutes for the camera to detect that there is no obstruction.
+
+### Radar Troubleshooting (If Equipped)
+
+#### The surface of the radar in the grille is dirty or obstructed.
+
+Clean the grille surface in front of the radar or remove the object causing the obstruction.
+
+#### The surface of the radar in the grille is clean, but the message remains in the instrument cluster display.
+
+Wait a short time. It could take several minutes for the radar to detect that there is no obstruction.
+
+#### Heavy rain, spray or fog is interfering with the radar signals.
+
+The pre-collision assist system is temporarily disabled. Pre-collision assist reactivates a short time after the weather conditions improve.
+
+#### Swirling water or snow or ice on the surface of the road could interfere with the radar signals.
+
+The pre-collision assist system is temporarily disabled. Pre-collision assist reactivates a short time after the weather conditions improve.
+
+#### Radar is out of alignment due to a front end impact.
+
+Have your vehicle serviced to have the radar checked for proper coverage and operation.
+
+## DRIVER ALERT
+
+### WHAT IS DRIVER ALERT
+
+Driver alert alerts you if it determines that you are becoming drowsy or if your driving deteriorates.
+
+### HOW DOES DRIVER ALERT WORK
+
+Driver Alert calculates your alertness level based on your driving behavior in relation to the lane markings and other factors through use of the front camera sensor behind the interior mirror.
+
+### DRIVER ALERT PRECAUTIONS
+
+WARNING: You are responsible for controlling your vehicle at all times. The system is designed to be an aid and does not relieve you of your responsibility to drive with due care and attention. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: Take regular rest breaks if you feel tired. Do not wait for the system to warn you.
+
+Note: If something is blocking the camera or damaged the windshield, Driver Alert may not function.
+
+### DRIVER ALERT LIMITATIONS
+
+Driver alert may not function correctly if:
+
+- The sensor cannot track the road lane markings.
+- Your vehicle's speed is less than approximately 40 mph (65 km/h).
+
+### SWITCHING DRIVER ALERT ON AND OFF
+
+1. Press Settings on the touchscreen.
+2. Press Driver Assistance.
+3. Switch Driver Alert on or off.
+
+Note: The system remains on or off depending on how it was last set.
+
+### Resetting Driver Alert
+
+You can reset the system by either:
+
+- Switching the ignition off and on.
+- Stopping the vehicle and then opening and closing the driver door.
+
+### DRIVER ALERT INDICATORS
+
+#### System Warnings
+
+The warning system has two stages:
+
+1. A temporary warning is issued to advise you to take a rest. This message only appears for a short time.
+2. If you do not rest and the system continues to detect that your driving deteriorates, it issues a further warning. This remains in the instrument cluster display until you cancel it.
+
+Note: The system does not warn you if the vehicle speed falls below approximately 40 mph (65 km/h).
+
+### TROUBLESHOOTING
+
+### INFORMATION MESSAGES
+
+| Message                             | Action                                        |
+|-------------------------------------|-----------------------------------------------|
+| Driver Alert Warning Rest Now       | Stop and rest as soon as it is safe to do so. |
+| Driver Alert Warning Rest Suggested  | Take a rest soon.                             |
+
+## SPEED SIGN RECOGNITION (If Equipped)
+
+### WHAT IS SPEED SIGN RECOGNITION
+
+Speed sign recognition detects speed limit signs to inform you of the current speed limit. Detected speed signs appear in the information display.
+
+### HOW DOES SPEED SIGN RECOGNITION WORK
+
+Speed sign recognition uses a sensor behind the interior mirror to detect speed signs.
+
+If your vehicle has speed sign recognition with navigation, stored speed sign data may influence the indicated speed limit value.
+
+### SPEED SIGN RECOGNITION PRECAUTIONS
+
+WARNING: You are responsible for controlling your vehicle at all times. The system is designed to be an aid and does not relieve you of your responsibility to drive with due care and attention. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: In cold and severe weather conditions the system may not function. Rain, snow and spray can all limit sensor performance.
+
+WARNING: The system may not operate properly if the sensor is blocked. Keep the windshield free from obstruction.
+
+Note: Do not carry out windshield repairs in the immediate area surrounding the sensor.
+
+Note: If your vehicle has a suspension kit not approved by us, the system may not correctly function.
+
+Note: The system may not detect all speed signs and may incorrectly read signs.
+
+Note: Always fit our original parts when replacing headlamp bulbs. Other bulbs may reduce system performance.
+
+### SPEED SIGN RECOGNITION LIMITATIONS
+
+Speed sign recognition may not operate correctly due to:
+
+- Outdated map data.
+- Incorrect recognition of speed limits by the sensor of signs on parallel roads or exit ramps.
+- Missed recognition of faded, dirty, or distorted signs.
+
+### SPEED SIGN RECOGNITION INDICATORS
+
+When the system detects a speed limit sign, it appears in the information display.
+
+### SETTING THE SPEED SIGN RECOGNITION SPEED WARNING
+
+To set the speed warning, use the touchscreen.
+
+1. Press Settings on the touchscreen.
+2. Press Driver Assistance.
+3. Press Speed Sign Recognition.
+4. Switch the feature on or off.
+
+### SETTING THE SPEED SIGN RECOGNITION SPEED TOLERANCE
+
+To set the tolerance of the speed warning, use the touchscreen.
+
+1. Press Settings on the touchscreen.
+2. Press Driver Assistance.
+3. Press Speed Sign Recognition.
+4. Press Tolerance.
+5. Use + and - to set the tolerance.
+
+### TROUBLESHOOTING
+
+### INFORMATION MESSAGES
+
+| Message                                     | Action                                                                                                                                                                                                                                  |
+|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Traffic Sign Reduced Performance See Manual | The traffic sign data provided by the navigation system is unavailable due to weak or no signal. Wait for a short period of time for the signal to improve. If the message continues to appear, have the system checked as soon as possible. |
+## SPEED SIGN RECOGNITION FREQUENTLY ASKED QUESTIONS
+
+### Why does the speed limit change without any sign on the road?
+The speed limit changes due to the speed limit data stored in the map data.
+
+### Why does speed sign recognition show a wrong speed limit?
+The system shows a wrong speed limit due to incorrect and outdated map data or due to incorrect recognition of the speed limits by the camera.
+
+## LOAD CARRYING PRECAUTIONS
+Keep your loaded vehicle weight within its design rating capability, with or without a trailer. Properly loading your vehicle provides maximum return of vehicle design performance. Before you load your vehicle, become familiar with the following terms for determining your vehicle's weight rating, with or without a trailer, from the vehicle's Tire and Loading Information label or Safety Compliance Certification label.
+
+**WARNING:** The appropriate loading capacity of your vehicle can be limited either by volume capacity (how much space is available) or by payload capacity (how much weight the vehicle should carry). Once you have reached the maximum payload of your vehicle, do not add more cargo, even if there is space available. Overloading or improperly loading your vehicle can contribute to loss of vehicle control and vehicle rollover.
+
+**WARNING:** Exceeding the Safety Compliance Certification label vehicle weight limits can adversely affect the performance and handling of your vehicle, cause vehicle damage and can result in the loss of control of your vehicle, serious personal injury or death.
+
+**WARNING:** Do not use replacement tires with lower load carrying capacities than the original tires because they may lower your vehicle's GVWR and GAWR limitations. Replacement tires with a higher limit than the original tires do not increase the GVWR and GAWR limitations.
+
+**WARNING:** Do not exceed the GVWR or the GAWR specified on the certification label.
+
+**WARNING:** Exceeding any vehicle weight rating can adversely affect the performance and handling of your vehicle, cause vehicle damage and can result in the loss of control of your vehicle, serious personal injury or death.
+
+**WARNING:** When loading the roof racks, we recommend you evenly distribute the load, as well as maintain a low center of gravity. Loaded vehicles, with higher centers of gravity, may handle differently than unloaded vehicles. Take extra precautions, such as slower speeds and increased stopping distance, when driving a heavily loaded vehicle.
+
+The gross combined weight must never exceed the Gross Combined Weight Rating.
+
+## LOCATING THE SAFETY COMPLIANCE CERTIFICATION LABELS
+
+### Safety Compliance Certification Label Example:
+E198828
+
+The Safety Compliance Certification label is located on the door hinge pillar, door-latch post, or the door edge that meets the door-latch post, next to the driver seating position.
+
+DEXK/X  
+MFO.SYFORDMOTORCO  
+HUAECANR/WSEAR  
+EE  
+XXO/AOOI  
+AXIAXE  
+AE/MFPAC.OO/  
+XOOODOLLDCOLUXX  
+TPEX0/10OO  
+T  
+TOOX  
+S  
+XOODCE  
+
+## WHAT IS THE GROSS AXLE WEIGHT RATING
+
+### GAWR (Gross Axle Weight Rating)
+GAWR is the maximum allowable weight that a single axle (front or rear) can carry. These numbers are on the Safety Compliance Certification label.
+
+## WHAT IS THE GROSS VEHICLE WEIGHT RATING
+GVWR is the maximum allowable weight of the fully loaded vehicle. This includes all options, equipment, passengers and cargo. It appears on the Safety Compliance Certification label.
+
+## WHAT IS THE GROSS COMBINED WEIGHT RATING
+Gross Combined Weight Rating (GCWR) is the maximum allowable weight of the vehicle and the loaded trailer, including all cargo and passengers, that the vehicle can handle without risking damage. (Important: The towing vehicle's braking system is rated for operation at Gross Vehicle Weight Rating, not at Gross Combined Weight Rating.) Separate functional brakes should be used for safe control of towed vehicles and for trailers where the Gross Combined Weight of the towing vehicle plus the trailer exceed the Gross Vehicle Weight Rating of the towing vehicle.
+
+| RV&TrailerTowingGuideOnline | RV&TrailerTowingGuideOnline | Note: For trailer towing information refer to the RV and Trailer Towing Guide available at an authorized dealer, or online at the website that follows. |
+|------------------------------|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Website                      | www.fleet.ford.com/towing-guides | www.fleet.ford.com/towing-guides                                                                                                                          |
+
+## CALCULATING PAYLOAD
+
+### Tire and Loading Label Information Example:
+E198719
+
+Payload is the combined weight of cargo and passengers that your vehicle is carrying. The maximum payload for your vehicle appears on the Tire and Loading label. The label is either on the B-pillar or the edge of the driver door. Vehicles exported outside the US and Canada may not have a tire and loading label. Look for 'The combined weight of occupants and cargo should never exceed XXX kg or XXX lb' for maximum payload. The payload listed on the Tire and Loading Information label is the maximum payload for your vehicle as built by the assembly plant. If you install any additional equipment on your vehicle, you must determine the new payload. Subtract the weight of the equipment from the payload listed on the Tire and Loading label. When towing, trailer tongue weight or king pin weight is also part of payload.
+
+## CALCULATING THE LOAD LIMIT
+Steps for determining the correct load limit:
+
+1. Locate the statement "The combined weight of occupants and cargo should never exceed XXX kg or XXX lb." on your vehicle's placard.
+2. Determine the combined weight of the driver and passengers that will be riding in your vehicle.
+3. Subtract the combined weight of the driver and passengers from XXX kg or XXX lb.
+4. The resulting figure equals the available amount of cargo and luggage load capacity. For example, if the 'XXX' amount equals 1,400 lb. and there will be five 150 lb. passengers in your vehicle, the amount of available cargo and luggage load capacity is 650 lb. (1400-750 (5 x 150) = 650 lb.)
+5. Determine the combined weight of luggage and cargo being loaded on the vehicle. That weight may not safely exceed the available cargo and luggage load capacity calculated in Step 4.
+## Load Carrying
+
+If your vehicle will be towing a trailer, load from your trailer will be transferred to your vehicle. Consult this manual to determine how this reduces the available cargo and luggage load capacity of your vehicle.
+
+## Helpful examples for calculating the available amount of cargo and luggage load capacity
+
+Suppose your vehicle has a 1400-pound (635-kilogram) cargo and luggage capacity. You decide to go golfing. Is there enough load capacity to carry you, four of your friends and all the golf bags? You and four friends average 220 pounds (99 kilograms) each and the golf bags weigh approximately 30 pounds (13.5 kilograms) each. The calculation would be: 1400 - (5 x 220) - (5 x 30) = 1400 - 1100 - 150 = 150 pounds. Yes, you have enough load capacity in your vehicle to transport four friends and your golf bags. In metric units, the calculation would be: 635 - (5 x 99) - (5 x 13.5) = 635 - 495 - 67.5 = 72.5 kilograms.
+
+Suppose your vehicle has a 1400-pound (635-kilogram) cargo and luggage capacity. You and one of your friends decide to pick up cement from the local home improvement store to finish that patio you have been planning for the past two years. Measuring the inside of the vehicle with the rear seat folded down, you have room for twelve 100-pound (45-kilogram) bags of cement. Do you have enough load capacity to transport the cement to your home? If you and your friend each weigh 220 pounds (99 kilograms), the calculation would be: 1400 - (2 x 220) - (12 x 100) = 1400 - 440 - 1200 = -240 pounds. No, you do not have enough cargo capacity to carry that much weight. In metric units, the calculation would be: 635 - (2 x 99) - (12 x 45) = 635 - 198 - 540 = -103 kilograms. You will need to reduce the load weight by at least 240 pounds (104 kilograms). If you remove three 100-pound (45-kilogram) cement bags, then the load calculation would be: 1400 - (2 x 220) - (9 x 100) = 1400 - 440 - 900 = 60 pounds. Now you have the load capacity to transport the cement and your friend home. In metric units, the calculation would be: 635 - (2 x 99) - (9 x 45) = 635 - 198 - 405 = 32 kilograms.
+
+The above calculations also assume that the loads are positioned in your vehicle in a manner that does not overload the front or the rear gross axle weight rating specified for your vehicle on the Safety Compliance Certification label.
+
+## ROOF RACK (IF EQUIPPED)
+
+### ROOF RACK PRECAUTIONS
+
+WARNING: Read and follow the manufacturer's instructions when you are fitting a roof rack.
+
+WARNING: When loading the roof racks, we recommend you evenly distribute the load, as well as maintain a low center of gravity. Loaded vehicles, with higher centers of gravity, may handle differently than unloaded vehicles. Take extra precautions, such as slower speeds and increased stopping distance, when driving a heavily loaded vehicle.
+
+Note: If you use a roof rack, the fuel consumption of your vehicle will be higher and you may experience different driving characteristics.
+
+Note: Never place loads directly on the roof panel. The roof panel is not designed to directly carry a load.
+
+You must place loads directly on the crossbars fitted to the roof rack side rails. When using the roof rack system, we recommend that you use genuine Ford accessory crossbars specifically designed for your vehicle.
+
+Make sure that you securely fasten the load. Check the tightness of the load before driving and at each fuel stop.
+
+### REMOVING AND INSTALLING ROOF RACK CROSSBARS
+
+Note: For less wind noise and better aerodynamics, only install the crossbars when you need them for carrying cargo.
+
+### ADJUSTING A ROOF RACK CROSSBAR
+
+1. Loosen the crossbar bolt by using the supplied tool or similar tool.
+2. Move the crossbar to the new position.
+3. Tighten the bolt by using the supplied tool or similar tool.
+
+Note: For less wind noise and better aerodynamics, only install the crossbars when you need them for carrying cargo.
+
+### ROOF RACK LOAD CAPACITIES
+
+Do not install crossbars if your vehicle has a moonroof. Do not place any load on your vehicle if it has a moonroof. Using crossbars or loading the vehicle roof may void your vehicle's warranty.
+
+| Description                 | Maximum Recommended Load   |
+|-----------------------------|----------------------------|
+| Vehicles with a moonroof    | 0 lb (0 kg)                |
+| Vehicles without a moonroof | 100 lb (45 kg)             |
+
+Note: The maximum roof load is based on the load being evenly distributed on the crossbars.
+
+Note: When using a roof rack system, you must subtract the weight of the roof rack system from the maximum recommended load to determine your actual maximum cargo load. See the roof rack system manufacturer for more information.
+
+## INSTALLING AND REMOVING THE LUGGAGE COMPARTMENT COVER
+
+WARNING: Make sure that you properly secure the luggage cover. Failure to follow this instruction could result in personal injury in the event of a sudden stop or crash.
+
+WARNING: Do not place objects on the luggage cover. Failure to follow this instruction could result in personal injury or death in the event of a sudden stop or crash.
+
+### Installing the Luggage Cover
+
+1. Insert the luggage cover.
+2. Insert the retaining clips into the liftgate trim panel.
+
+Note: Make sure to support the luggage cover when inserting the retaining clips.
+
+3. Attach the retaining cord to the luggage compartment trim panel.
+
+### Removing the Luggage Cover
+
+1. Open the liftgate.
+2. Detach the retaining cord on the luggage compartment trim panel.
+
+Note: Support the luggage cover when detaching the retaining cord.
+
+3. Detach the retaining clips on the liftgate trim panel.
+4. Lift the luggage cover out of the liftgate.
+
+The luggage cover can be stowed in the luggage compartment.
+
+## Connecting a Trailer
+
+### CONNECTING A TRAILER PRECAUTIONS
+
+Do not tow a trailer until you drive your vehicle at least 1,000 mi (1,600 km).
+
+Consult your local motor vehicle laws for towing a trailer.
+
+See the instructions included with towing accessories for the proper installation and adjustment specifications.
+
+Service your vehicle more frequently if you tow a trailer.
+
+If you use a rental trailer, follow the instructions the rental agency gives you.
+
+When attaching the trailer wiring connector to your vehicle, only use a proper fitting connector that works with the vehicle and trailer functions.
+
+Account for the trailer coupler weight as part of your vehicle load when calculating the total vehicle weight.
+
+Do not exceed the load limits.
+
+### CONNECTING A TRAILER
+
+Trailer Towing Connector (If Equipped)
+
+When attaching the trailer wiring connector to your vehicle, only use a proper fitting connector that works with the vehicle and trailer functions.
+
+Note: Install the waterproof protection cap back onto the trailer towing connector whenever it is not in use. This helps to prevent water damage and trailer towing connector malfunction.
+
+Note: You cannot use a seven-pin trailer wiring connector for your vehicle and the trailer lighting equipment.
+
+### Trailer Lamps
+
+WARNING: Never connect any trailer lamp wiring to the vehicle's tail lamp wiring; this may damage the electrical system resulting in fire. Contact your authorized dealer as soon as possible for assistance in proper trailer tow wiring installation. Additional electrical equipment may be required.
+
+Trailer lamps are required on most towed vehicles. Make sure all running lights, brake lights, turn signals and hazard lights are working.
+## TOWING A TRAILER PRECAUTIONS
+
+WARNING: Do not exceed the GVWR or the GAWR specified on the certification label.
+
+WARNING: Towing trailers beyond the maximum recommended gross trailer weight exceeds the limit of your vehicle and could result in engine damage, transmission damage, structural damage, loss of vehicle control, vehicle rollover and personal injury.
+
+WARNING: Do not exceed the lowest rating capacity for your vehicle or trailer hitch. Overloading your vehicle or trailer hitch can impair your vehicle stability and handling. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: Make sure that the vertical load on the tow ball is between the minimum and maximum recommended weight at all times. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: Do not cut, drill, weld or modify the trailer hitch. Modifying the trailer hitch could reduce the hitch rating.
+
+WARNING: The anti-lock brake system does not control the trailer brakes.
+
+## TRAILER BRAKE PRECAUTIONS
+
+WARNING: Do not connect a trailer's hydraulic brake system directly to your vehicle's brake system. Your vehicle may not have enough braking power and your chances of having a collision greatly increase.
+
+WARNING: Do not tow a trailer fitted with electric trailer brakes unless your vehicle is fitted with a compatible aftermarket electronic trailer brake controller. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death. For additional information and assistance, we recommend that you contact an authorized dealer.
+
+Electric brakes and manual, automatic or surge-type trailer brakes are safe if you install them properly and adjust them to the manufacturer's specifications. The trailer brakes must meet local and federal regulations.
+
+The rating for the tow vehicle's braking system operation is at the gross vehicle weight rating, not the gross combined weight rating.
+
+## Towing a Trailer
+
+Certain states require functioning trailer brakes for trailers over a specified weight. Be sure to check state regulations for this specified weight.
+
+Ford Motor Company recommends separate functioning brake systems for trailers weighing more than 1,500 lb (680 kg) when loaded.
+
+## TOWING A TRAILER LIMITATIONS
+
+The vehicle's load capacity designation is by weight, not by volume, so you cannot necessarily use all available space when loading a vehicle or trailer.
+
+Note: Your vehicle could have reduced performance when operating at high altitudes and when heavily loaded or towing a trailer. When driving at elevation, to match driving performance as perceived at sea level, reduce gross vehicle weight and gross combination weight by 2% per 1,000 ft (300 m) elevation.
+
+## LOADING YOUR TRAILER
+
+To help minimize how trailer movement affects your vehicle when driving:
+
+- Load the heaviest items closest to the trailer floor.
+- Load the heaviest items centered between the left and right side trailer tires.
+- Load the heaviest items above the trailer axles or just slightly forward toward the trailer tongue. Do not allow the final trailer tongue weight to go above or below 10-15% of the loaded trailer weight. The trailer tongue weight should never exceed 10% of the maximum towing capacity.
+- Select a ball mount with the correct rise or drop. When both the loaded vehicle and trailer are connected, the trailer frame should be level, or slightly angled down toward your vehicle, when viewed from the side.
+
+## TRAILER TOWING HINTS
+
+Towing a trailer places an extra load on your vehicle's engine, transmission, axle, brakes, tires and suspension. Periodically inspect these components during and after any towing operation.
+
+When driving with a trailer or payload, a slight takeoff vibration or shudder may be present due to the increased payload weight.
+
+Your vehicle may have a temporary or conventional spare tire. A temporary spare tire is different in diameter or width, tread-type, or is from a different manufacturer than the road tires on your vehicle. Consult information on the tire label or Safety Compliance label for limitations when using.
+
+## When towing a trailer:
+
+- Obey country specific regulations for towing a trailer.
+- Do not drive faster than 70 mph (113 km/h) during the first 500 mi (800 km).
+- Do not make full-throttle starts.
+- Check your hitch, electrical connections and trailer wheel lug nuts thoroughly after you have traveled 50 mi (80 km).
+- When stopped in congested or heavy traffic during hot weather, place the transmission in park (P) to aid engine and transmission cooling and to help A/C performance.
+- Turn off the speed control with heavy loads or in hilly terrain. The speed control may turn off when you are towing on long, steep slopes.
+- Shift to a lower gear when driving down a long or steep hill. Do not continuously apply the brakes, as they may overheat and become less effective.
+- If your transmission has Grade Assist or Tow/Haul, use this feature when towing. This provides engine braking and helps eliminate excessive transmission shifting for optimum fuel economy and transmission cooling.
+- Your vehicle has AdvanceTrac with roll stability control. When towing a trailer, additional loads could cause the AdvanceTrac system to engage during cornering maneuvers. Reduce cornering speeds to make sure that you can maintain control of the vehicle and trailer if the AdvanceTrac system engages.
+
+## Towing a Trailer
+
+- Allow more distance for stopping with a trailer attached. Anticipate stops and gradually brake.
+- Avoid parking on a slope. However, if you must park on a slope, turn the steering wheel to point your vehicle tires away from traffic flow, set the parking brake, place the transmission in park (P) and place wheel chocks in front and back of the trailer wheels.
+
+Note: Chocks are not included with your vehicle.
+
+## LAUNCHING OR RETRIEVING A BOAT OR PERSONAL WATERCRAFT
+
+When backing down a ramp during boat launching or retrieval:
+
+- Do not allow the static water level to rise above the bottom edge of the rear bumper.
+- Do not allow waves to break higher than 6 in (15 cm) above the bottom edge of the rear bumper.
+
+Exceeding 6 in (15 cm) could allow water to enter vehicle components, causing internal damage to the components and affecting driveability, emissions and reliability.
+
+Note: Replace the rear axle lubricant anytime the rear axle has been submerged in water.
+
+Note: Disconnect the trailer wiring connector before backing the trailer into the water.
+
+Note: Reconnect the trailer wiring connector after removing the trailer from the water.
+
+## TOWING WEIGHTS AND DIMENSIONS
+
+## RECOMMENDED TOWING WEIGHTS
+
+| Market                   | Website                                   |
+|--------------------------|-------------------------------------------|
+| United States of America | https://www.fleet.ford.com/towing-guides/ |
+| Canada                   | https://www.fleet.ford.ca/towing-guides/  |
+
+## WHAT IS THE MAXIMUM LOADED TRAILER WEIGHT
+
+The maximum loaded trailer weight is the highest possible weight of a fully loaded trailer the vehicle can tow.
+
+## CALCULATING THE MAXIMUM LOADED TRAILER WEIGHT FOR YOUR VEHICLE
+
+1. Start with the gross combined weight rating for your vehicle model and axle ratio.
+2. Subtract all of the following that apply to your vehicle:
+   - Vehicle curb weight.
+
+## INSTALLING TRAILER SAFETY CHAINS
+
+Note: Do not attach safety chains to the bumper. Always connect the safety chains to the frame or hook retainers of your trailer hitch.
+
+Install trailer safety chains to the trailer hitch as recommended by the manufacturer. Cross the chains under the trailer coupler and allow enough slack for turning tight corners. Do not allow the chains to drag on the ground.
+
+E265060
+
+If the trailer safety chain hook has a latch, make sure the latch is fully closed.
+## Weight Considerations
+
+- Hitch hardware weight, for example a draw bar, ball, locks or weight distributing hardware.
+- Driver weight.
+- Passenger weight.
+- Payload, cargo and luggage weight.
+- Aftermarket equipment weight.
+
+This equals the maximum loaded trailer weight for this combination.
+
+**Note:** The trailer tongue load is considered part of the payload for your vehicle. Reduce the total payload by the final trailer tongue weight.
+
+**Note:** Consult an authorized dealer to determine the maximum trailer weight allowed for your vehicle if you are not sure.
+
+## Trailer Sway Control
+
+### HOW DOES TRAILER SWAY CONTROL WORK
+
+The system applies the brakes to the individual wheels and reduces engine torque to aid vehicle stability.
+
+If the trailer begins to sway, the stability control lamp flashes and the message Trailer Sway Reduce Speed appears in the information display.
+
+Stop your vehicle as soon as it is safe to do so. Check the vertical weight on the tow ball and trailer load distribution.
+
+### TRAILER SWAY CONTROL PRECAUTIONS
+
+**WARNING:** Turning off trailer sway control increases the risk of loss of vehicle control, serious injury or death. Ford does not recommend disabling this feature except in situations where speed reduction may be detrimental (such as hill climbing), the driver has significant trailer towing experience, and can control trailer sway and maintain safe operation.
+
+**Note:** This feature only activates when significant trailer sway occurs.
+
+**Note:** This feature does not prevent trailer sway, but reduces it once it begins.
+
+**Note:** This feature cannot stop all trailers from swaying.
+
+**Note:** In some cases, if vehicle speed is too high, the system may activate multiple times, gradually reducing vehicle speed.
+
+### SWITCHING TRAILER SWAY CONTROL ON AND OFF
+
+1. Press Features on the touchscreen.
+2. Press Towing.
+3. Switch Trailer Sway Control on or off.
+
+The system turns on each time you start your vehicle.
+
+## Cold Weather Precautions
+
+The functional operation of some components and systems can be affected at temperatures below approximately -13°F (-25°C).
+
+## Breaking-In
+
+You need to break in new tires for approximately 300 mi (480 km). During this time, your vehicle may exhibit some unusual driving characteristics.
+
+## Driving Economically
+
+The following helps to improve fuel consumption:
+
+- Drive smoothly, accelerate gently and anticipate the road ahead to avoid heavy braking.
+- Regularly check your tire pressures and make sure that they are inflated to the correct pressure.
+- Follow the recommended maintenance schedule and carry out the recommended checks.
+- Plan your journey and check the traffic before you set off. It is more efficient to combine errands into a single trip whenever possible.
+- Avoid idling the engine in cold weather or for extended periods. Start the engine only when you are ready to set off.
+- Do not carry unnecessary weight in your vehicle as extra weight wastes fuel.
+- Do not add unnecessary accessories to the exterior of your vehicle, for example running boards. If you use a roof rack, remember to fold it down or remove it when not in use.
+- Do not shift into neutral when you are braking or when your vehicle is slowing down.
+- Shut all windows when driving at high speeds.
+- Switch off all electric systems when not in use, for example air conditioning. Make sure that you unplug any accessories from the auxiliary power points when not in use.
+
+## Driving in Special Conditions
+
+### EMERGENCY MANEUVERS
+
+In an unavoidable emergency where you must make a sudden sharp maneuver, turn the steering wheel only as rapidly and as far as required to avoid the emergency. Apply smooth pressure to the accelerator pedal or brake pedal as needed. Avoid abrupt steering, acceleration and braking changes. Abrupt changes could increase the risk of vehicle roll over, loss of vehicle control and personal injury. If possible, use any available road surfaces to bring your vehicle under control.
+
+### DRIVING THROUGH MUD AND WATER
+
+#### Mud
+
+Be cautious of sudden changes in vehicle speed or direction when you are driving in mud. Even all-wheel drive and four-wheel drive vehicles can lose traction in mud. If your vehicle slides, steer in the direction of the slide until you regain control of your vehicle. After driving through mud, clean off residue stuck to rotating driveshafts and tires. Excess residue can cause an imbalance that could damage drive components.
+
+**Note:** If your vehicle gets stuck in mud, it could be rocked out by shifting between forward and reverse gears, stopping between shifts in a steady pattern. Press lightly on the accelerator in each gear.
+
+Although natural obstacles could make it necessary to travel diagonally up or down a hill or steep incline, you should try to drive straight up or straight down.
+
+**Note:** Do not rock your vehicle if the engine is not at normal operating temperature, as damage to the transmission could occur.
+
+**Note:** Do not rock your vehicle for more than a minute, as damage to the transmission and tires could occur or the engine could overheat.
+
+#### Water
+
+If you must drive though deep water, drive slowly. The water could limit traction or brake capability.
+
+When driving though water, determine the depth and avoid water higher than the center of the wheel.
+
+Once through water, always try the brakes. Wet brakes do not stop your vehicle as quickly as dry brakes. Apply light pressure to the brake pedal while slowly moving the vehicle to dry the brakes.
+
+**Note:** Driving through deep water could cause damage to the transmission. If the front or rear axle is submerged in water, have the axle lubricant and power transfer unit lubricant checked and changed if necessary.
+
+### DRIVING ON HILLY OR SLOPING TERRAIN
+
+**WARNING:** Extreme care should be used when steering the vehicle in reverse down a slope so as not to cause the vehicle to swerve out of control.
+
+**Note:** Avoid turning on steep slopes or hills. A danger lies in losing traction, slipping sideways and possible vehicle roll over. Whenever driving on a hill, determine beforehand the route you can use. Do not drive over the crest of a hill without seeing what conditions are on the other side. Do not drive in reverse over a hill without the aid of an observer.
+
+Apply just enough power to the wheels to climb the hill. Too much power causes the tires to slip, spin or lose traction, and you could lose control of your vehicle. When descending a steep hill, do not descend the hill in neutral. Avoid sudden hard braking to keep the front wheels rolling and to maintain your vehicle's steering.
+
+**Note:** Your vehicle has anti-lock brakes, apply the brakes steadily. Do not pump the brakes.
+
+**Note:** If your vehicle gets stuck driving on hilly or sloping terrain, it could be rocked out by shifting between forward and reverse gears, stopping between shifts in a steady pattern. Press lightly on the accelerator in each gear.
+
+**Note:** Do not rock your vehicle if the engine is not at normal operating temperature, as damage to the transmission could occur.
+
+**Note:** Do not rock your vehicle for more than a minute, as damage to the transmission and tires could occur or the engine could overheat.
+
+### DRIVING IN SAND
+
+When driving over sand, try to keep all four wheels on the most solid area of the trail. Steadily drive through the terrain. Apply the accelerator slowly and avoid excessive wheel slip. Do not drive your vehicle in deep sand for an extended period of time. This could overheat the system. A message appears in the instrument cluster display.
+
+**Note:** If your vehicle gets stuck driving on hilly or sloping terrain, it could be rocked out by shifting between forward and reverse gears, stopping between shifts in a steady pattern. Press lightly on the accelerator in each gear.
+
+**Note:** Do not rock your vehicle if the engine is not at normal operating temperature, as damage to the transmission could occur.
+## DRIVING THROUGH SHALLOW WATER
+
+WARNING: Do not attempt to cross a deep or flowing body of water. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+Note: Driving through standing water can cause vehicle damage.
+
+Note: Engine damage can occur if water enters the air filter.
+
+Before driving through standing water, check the depth. Never drive through water that is higher than the bottom of the front rocker area of your vehicle.
+
+### Driving Hints
+
+When driving through standing water, drive very slowly and do not stop your vehicle. Your brake performance and traction could be limited. After driving through water and as soon as it is safe to do so:
+
+- Lightly press the brake pedal to dry the brakes and to check that they work.
+- Turn the steering wheel to check that the steering power assist works.
+
+Check the function of the following:
+
+- Horn
+- Exterior lights
+
+## FLOOR MATS
+
+WARNING: Use a floor mat designed to fit the footwell of your vehicle that does not obstruct the pedal area. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: Pedals that cannot move freely can cause loss of vehicle control and increase the risk of serious personal injury.
+
+WARNING: Secure the floor mat to both retention devices so that it cannot slip out of position and interfere with the pedals. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+Note: Regularly check the floor mats to make sure they are secure.
+
+WARNING: Do not place additional floor mats or any other covering on top of the original floor mats. This could result in the floor mat interfering with the operation of the pedals. Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: Always make sure that objects cannot fall into the driver foot well while your vehicle is moving. Objects that are loose can become trapped under the pedals causing a loss of vehicle control.
+
+E142666
+
+To install floor mats that have eyelets, position the floor mat eyelet over the retention post and press down to lock in position. Repeat for all eyelets on the floor mat.
+
+To remove the floor mats, reverse the installation procedure.
+
+## ROADSIDE ASSISTANCE
+
+### Vehicles Sold in the United States: Getting Roadside Assistance
+
+To fully assist you should you have a vehicle concern, Ford Motor Company offers a complimentary roadside assistance program. This program is separate from the New Vehicle Limited Warranty.
+
+### The service is available:
+
+- 24 hours a day, seven days a week.
+- For the coverage period supplied with your vehicle.
+
+### Roadside Assistance covers:
+
+- A flat tire change with a good spare (except vehicles supplied with a tire inflation kit).
+- Battery jump start.
+- Lock-out assistance (key replacement cost is the customer's responsibility).
+- Fuel delivery - independent service contractors, if not prohibited by state, local or municipal law, shall deliver up to 2 gal (8 L) of gasoline or 5 gal (20 L) of diesel fuel to a disabled vehicle. Roadside assistance limits fuel delivery service to two no-charge occurrences within a 12-month period.
+- Winch out - available within 100 ft (30 m) of a paved or county maintained road, no recoveries.
+- Towing - independent service contractors, if not prohibited by state, local or municipal law, shall tow Ford eligible vehicles to an authorized dealer within 35 mi (56 km) of the disablement location or to the nearest authorized dealer. If a member requests a tow to an authorized dealer that is more than 35 mi (56 km) from the disablement location, the member shall be responsible for any mileage costs in excess of 35 mi (56 km).
+- Roadside Assistance includes up to $200 for a towed trailer if the disabled eligible vehicle requires service at the nearest authorized dealer. If the towing vehicle is operational but the trailer is not, then the trailer does not qualify for any roadside services.
+
+### Vehicles Sold in the United States: Using Roadside Assistance
+
+Complete the roadside assistance identification card and place it in your wallet for quick reference. This card is in the Owner's Manual kit.
+
+United States vehicle customers who require Roadside Assistance, call 1-800-241-3673.
+
+If you need to arrange roadside assistance for yourself, Ford Motor Company reimburses a reasonable amount for towing to the nearest dealership within 35 mi (56 km). To obtain reimbursement information, United States vehicle customers call 1-800-241-3673. Customers need to submit their original receipts.
+
+### Crash and Breakdown Information
+
+## Vehicles Sold in Canada: Getting Roadside Assistance
+
+To fully assist you should you have a vehicle concern, Ford Motor Company of Canada, Limited offers a complimentary roadside assistance program. This program is eligible within Canada or the continental United States.
+
+The service is available 24 hours a day, seven days a week.
+
+This program is separate from the New Vehicle Limited Warranty, but the coverage is concurrent with the powertrain coverage period of your vehicle. Canadian roadside coverage and benefits may differ from the U.S. coverage.
+
+If you require more information, please call us in Canada at 1-800-665-2006, or visit our website at www.ford.ca.
+
+## HIGH VOLTAGE BATTERY VEHICLE PRECAUTIONS HYBRID ELECTRIC VEHICLE (HEV)
+
+In the event of damage or fire involving an electric vehicle or hybrid-electric vehicle:
+
+- Assume the high-voltage battery and associated components are energized and fully charged.
+- Exposed electrical components, wires and high-voltage batteries present potential high-voltage shock hazards.
+- Venting high-voltage battery vapors are potentially toxic and flammable.
+- Physical damage to the vehicle or high-voltage battery could result in immediate or delayed release of toxic, flammable gases and fire.
+
+Vehicle information and general safety practices include reviewing the owner's manual and becoming familiar with your vehicle's safety information and recommended safety practices.
+
+### Crashes
+
+A crash or impact significant enough to require an emergency response for conventional vehicles would also require the same response for an electric or hybrid-electric vehicle.
+
+### If Possible:
+
+1. Move your vehicle to a safe, nearby location and remain on the scene.
+2. Roll down the windows before you switch your vehicle off.
+3. Place your vehicle in park (P), set the parking brake, switch off the vehicle, activate the hazard flashers and move your key(s) at least 16 ft (5 m) away from the vehicle.
+
+### Always:
+
+- Call emergency assistance if needed and advise that an electric or hybrid-electric vehicle is involved.
+- Avoid contact with leaking fluids and gases, and remain out of the way of oncoming traffic until emergency responders arrive.
+- When emergency responders arrive, tell them that the vehicle involved is an electric vehicle or hybrid-electric vehicle.
+
+### Fires
+
+As with any vehicle, call emergency assistance immediately if you see sparks, smoke or flames coming from the vehicle. Remain a safe distance from the vehicle and try to stay clear of the smoke.
+
+### Crash and Breakdown Information
+
+1. Exit the vehicle immediately.
+2. Advise emergency assistance that an electric or hybrid-electric vehicle is involved.
+3. As with any vehicle fire, do not inhale smoke, vapors or gas from the vehicle, as they may be hazardous.
+
+### Post-Incident
+
+1. Do not store a severely damaged vehicle with a lithium-ion battery inside a structure or within 49 ft (15 m) of any structure or vehicle.
+## SAFETY PRECAUTIONS
+
+1. Make sure that passenger and luggage compartments remain ventilated.  
+2. Call emergency assistance if you observe leaking fluids, sparks, smoke or flames, or hear gurgling or bubbling from the high-voltage battery.
+
+## SWITCHING THE HAZARD FLASHERS ON AND OFF
+
+The hazard flashers operate when the ignition is in any position, or if the key is not in the ignition. The battery loses charge and may have insufficient power to restart your vehicle if your vehicle is in use or if the key is not in the ignition.
+
+E308147
+
+The flasher control is on the instrument panel. Use your hazard flashers when your vehicle is creating a safety hazard for other road users.
+
+Switch the hazard flashers on and all front and rear direction indicators flash.
+
+Press the button again to switch them off.
+
+## JUMP STARTING THE VEHICLE
+
+### JUMP STARTING PRECAUTIONS
+
+WARNING: Batteries normally produce explosive gases which can cause personal injury. Therefore, do not allow flames, sparks or lighted substances to come near the battery. When working near the battery, always shield your face and protect your eyes. Always provide correct ventilation.
+
+WARNING: Keep batteries out of reach of children. Batteries contain sulfuric acid. Avoid contact with skin, eyes or clothing. Shield your eyes when working near the battery to protect against possible splashing of acid solution. In case of acid contact with skin or eyes, flush immediately with water for a minimum of 15 minutes and get prompt medical attention. If acid is swallowed, call a physician immediately.
+
+WARNING: Use only adequately sized cables with insulated clamps.
+
+WARNING: Make sure that the cables are clear of any moving parts and fuel delivery system parts.
+
+WARNING: Connect batteries with only the same nominal voltage.
+
+### Crash and Breakdown Information
+
+WARNING: If the engine is running while the hood is open, stay clear of moving engine components. Failure to follow this warning could result in serious personal injury or death.
+
+Do not attempt to push-start an automatic transmission vehicle. This could cause transmission damage.
+
+Do not disconnect the battery of the disabled vehicle. This could damage your vehicle's electrical system.
+
+### PREPARING THE VEHICLE
+
+Use only a 12 volt supply to start your vehicle.
+
+Park the booster vehicle close to the hood of the disabled vehicle, making sure the two vehicles do not touch.
+
+### JUMP STARTING THE VEHICLE EXCLUDING: PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+#### Connecting the Jumper Cables
+
+WARNING: Do not connect the negative jumper cable to any other part of your vehicle. Use the ground point.
+
+Note: If you are using a jump pack or booster box, follow the manufacturer's instructions.
+
+1. Pull the red rubber boot backward. Connect the positive (+) jumper cable to the positive (+) terminal of the discharged battery.  
+2. Connect the other end of the positive (+) jumper cable to the positive (+) terminal of the booster vehicle battery.  
+3. Connect the negative (-) jumper cable to the negative (-) terminal of the booster vehicle battery.  
+4. Make the final connection of the negative (-) jumper cable to an exposed metal part of the disabled vehicle's engine, as shown in the following illustration, away from the battery and fuel injection system, or connect the negative (-) jumper cable to a ground connection point if available.
+
+E338624
+
+### Crash and Breakdown Information
+
+#### Starting the Engine
+
+1. Start the engine of the booster vehicle and moderately rev the engine, or gently press the accelerator to keep the engine speed between 2000 and 3000 RPM, as shown in your tachometer.  
+2. Start the engine of the disabled vehicle.  
+3. Once you start the disabled vehicle, run both vehicle engines for an additional three minutes before disconnecting the jumper cables.
+
+#### Removing the Jumper Cables
+
+Remove the jumper cables in the reverse order that they were connected.
+
+Note: Do not switch the headlamps on when disconnecting the cables. The peak voltage could blow the bulbs.
+
+### JUMP STARTING THE VEHICLE PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+#### Connecting the Jumper Cables
+
+WARNING: Do not connect the negative jumper cable to any other part of your vehicle. Use the ground point.
+
+Note: If you are using a jump pack or booster box, follow the manufacturer's instructions.
+
+1. Pull the red rubber boot backward. Connect the positive (+) jumper cable to the positive (+) terminal of the discharged battery.
+
+### Crash and Breakdown Information
+
+2. Connect the other end of the positive (+) jumper cable to the positive (+) terminal of the booster vehicle battery.  
+3. Connect the negative (-) jumper cable to the negative (-) terminal of the booster vehicle battery.  
+4. Make the final connection of the negative (-) jumper cable to an exposed metal part of the disabled vehicle's engine, as shown in the following illustration, away from the battery and fuel injection system, or connect the negative (-) jumper cable to a ground connection point if available.
+
+E338715
+
+#### Starting the Engine
+
+1. Start the engine of the booster vehicle and moderately rev the engine, or gently press the accelerator to keep the engine speed between 2000 and 3000 RPM, as shown in your tachometer.  
+2. Start the engine of the disabled vehicle.  
+3. Once you start the disabled vehicle, run both vehicle engines for an additional three minutes before disconnecting the jumper cables.
+
+#### Removing the Jumper Cables
+
+Remove the jumper cables in the reverse order that they were connected.
+
+Note: Do not switch the headlamps on when disconnecting the cables. The peak voltage could blow the bulbs.
+
+## POST-CRASH ALERT SYSTEM
+
+### WHAT IS THE POST-CRASH ALERT SYSTEM
+
+The system helps draw attention to your vehicle in the event of a serious impact.
+
+### HOW DOES THE POST-CRASH ALERT SYSTEM WORK
+
+The system is designed to turn the hazard flashers on and to intermittently sound the horn in the event of a serious impact that deploys an airbag or the seatbelt pretensioners.
+
+### POST-CRASH ALERT SYSTEM LIMITATIONS
+
+Depending on applicable laws in the country your vehicle was built for, the horn does not sound in the event of a serious impact.
+
+### SWITCHING THE POST-CRASH ALERT SYSTEM OFF
+
+Press the hazard flasher switch or the unlock button on the remote control to switch the system off.
+
+Note: The alert turns off when the vehicle battery runs out of charge.
+
+### Crash and Breakdown Information
+
+## AUTOMATIC CRASH SHUTOFF
+
+### WHAT IS AUTOMATIC CRASH SHUTOFF
+
+The automatic crash shutoff is designed to stop the fuel going to the engine in the event of a moderate or severe crash.
+
+Note: Not every impact causes a shutoff.
+
+### AUTOMATIC CRASH SHUTOFF PRECAUTIONS
+
+WARNING: If your vehicle has been involved in a crash, have the fuel system checked. Failure to follow this instruction could result in fire, personal injury or death.
+
+### RE-ENABLING YOUR VEHICLE
+
+1. Switch the ignition off.  
+2. Attempt to start your vehicle.  
+3. Switch the ignition off.  
+4. Attempt to start your vehicle.
+
+Note: If your vehicle does not start after the third attempt, have your vehicle checked as soon as possible.
+
+## TRANSPORTING THE VEHICLE
+
+If you need to tow your vehicle, contact a professional towing service or your roadside assistance service provider.
+
+Your manufacturer produces a towing manual for all authorized tow truck operators. Have your tow truck operator refer to this manual for proper hook-up and towing procedures.
+
+We recommend the use of a wheel lift and dollies or flatbed equipment to tow your vehicle. Vehicle damage could occur if towed incorrectly, or by any other means.
+## Towing Guidelines
+
+### General Towing Instructions
+Use the following guidelines when towing your vehicle. Failure to follow this instruction could result in vehicle damage not covered by the vehicle warranty.
+
+- Front-wheel and rear-wheel drive vehicles must have their designated drive wheels off the ground regardless of towing direction. Use tow dollies to prevent damage to the transmission.
+- All-wheel or four-wheel drive vehicles require that all wheels be off the ground using a wheel lift and dollies or flatbed equipment. This prevents damage to the transmission and drive system.
+
+### Recreational Towing
+You cannot recreational tow your vehicle with all wheels on the ground because vehicle or transmission damage could occur. You must recreational tow your vehicle with all four wheels off the ground, such as when using a car-hauling trailer. Otherwise, you cannot recreational tow your vehicle.
+
+- Place the front wheels on a two-wheel tow dolly. If you are using a tow dolly, follow the instructions specified by the equipment provider.
+
+#### Important Notes
+- Note: Make sure you properly secure your vehicle to the tow vehicle.
+- Note: If you are unsure of the vehicle's configuration, contact an authorized dealer.
+- Note: Release the parking brake before towing your vehicle.
+- Note: Put your climate control system in recirculated air mode to prevent exhaust fumes from entering your vehicle.
+
+### Conditions for Towing with All Wheels on the Ground
+You can tow your vehicle with all four wheels on the ground under the following conditions:
+
+- You switch Neutral Tow on.
+- Your vehicle is facing forward for towing in a forward direction.
+- You release the parking brake.
+- You do not exceed 70 mph (113 km/h).
+
+#### Steps to Enable Neutral Tow
+1. Switch your vehicle on in accessory mode.
+2. Press the menu button on the steering wheel to enter the information display main menu.
+3. Select Settings.
+4. Select Neutral Tow.
+5. Follow the instructions on the information display.
+6. Fully press the brake pedal.
+7. Shift into neutral (N).
+8. Switch the ignition off.
+
+#### Important Notes
+- Note: Switching neutral tow on requires battery power.
+- Note: If the parking brake is applied, a message appears in the information display.
+- Note: If your vehicle has an ignition key, you cannot remove the key from the ignition when the transmission is in neutral (N) and your vehicle is off.
+- Note: Start the engine and allow it to run for a few minutes at the beginning of each day, and every six hours or fewer. With the engine running and your foot on the brake, shift into drive (D) and then into reverse (R) before shifting back into neutral (N). Before continuing to tow, switch neutral tow on.
+
+### Flat Towing Conditions
+If your vehicle becomes inoperable without access to wheel dollies or a vehicle transport trailer, it can be flat-towed with all wheels on the ground, regardless of the powertrain and transmission configuration, under the following conditions:
+
+- Your vehicle is facing forward for towing in a forward direction.
+- You switch Neutral Tow on.
+- You release the parking brake.
+- Maximum speed is 35 mph (55 km/h).
+- Maximum distance is 50 mi (80 km).
+
+#### Steps to Enable Neutral Tow for Flat Towing
+1. Switch your vehicle on in accessory mode.
+2. Press the menu button on the steering wheel to enter the instrument cluster display main menu.
+3. Select Settings.
+4. Select Neutral Tow.
+5. Follow the instructions on the information display.
+6. Fully press the brake pedal.
+7. Shift into neutral (N).
+8. Switch the ignition off.
+
+#### Important Notes
+- Note: Failure to follow these instructions could result in damage to the transmission.
+- Note: Switching neutral tow on requires battery power.
+- Note: Put your climate control system in recirculated air mode to prevent exhaust fumes from entering your vehicle.
+
+### Additional Towing Information
+If you need to tow your vehicle, contact a professional towing service or, if you are a member of a roadside assistance program, your roadside assistance service provider.
+
+### Warning Messages
+| Message                                                            | Description                                                           |
+|--------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Neutral Tow Engaged Turn Ignition Off for Towing                   | Reminder to switch off the ignition when in neutral tow.              |
+| Neutral tow engaged DepressBrakeandSelect Park to Exit Neutral Tow | Displays when neutral tow is active and you want to exit neutral tow. |
+| Neutral Tow Remove Park Brake for Towing                           | Reminder to remove park brake when in neutral tow.                    |
+| Neutral Tow Disengaged                                             | Displays when the neutral tow is off.                                 |
+| Neutral Tow Enabled Leave Transmission in Neutral                  | Displays when neutral tow is on.                                      |
+
+### Fuse Information
+1. Pull the latch toward you and remove the top cover.
+2. Pull the connector lever upward.
+3. Pull the connector upward to remove it.
+4. Pull both latches toward you and remove the fuse box.
+5. Turn the fuse box over and open the lid.
+
+|   FuseLocation | FuseRating   | ProtectedComponent                                           |
+|----------------|--------------|--------------------------------------------------------------|
+|              1 | -            | Not used.                                                    |
+|              2 | -            | Not used.                                                    |
+|              3 | -            | Not used.                                                    |
+|              4 | 60A          | Supplemental heater (gas).                                   |
+|              5 | 40A          | Supplemental heater (gas).                                   |
+|              6 | 40A          | Supplemental heater (gas).                                   |
+|              7 | -            | Not used.                                                    |
+|              8 | -            | Not used.                                                    |
+|              9 | -            | Not used.                                                    |
+|             10 | 30A          | Starter motor.                                               |
+|             11 | 15A          | Powertrain control module.                                   |
+|             12 | 15A          | Powertrain control module.                                   |
+|             13 | 15A          | Powertrain control module.                                   |
+|             14 | 15A          | Powertrain control module.                                   |
+|             15 | -            | Not used.                                                    |
+|             16 | -            | Not used.                                                    |
+|             17 | -            | Not used.                                                    |
+|             18 | 10A          | Powertrain control module.                                   |
+|             19 | 10A          | Anti-lock brake system module.                               |
+|             20 | -            | Not used.                                                    |
+|             21 | 5A           | Not used (spare).                                            |
+|             22 | 5A           | Battery electronic control module (hybrid electric vehicle). |
+|             23 | 5A           | Charge port light ring (plug-in hybrid electric vehicle).   |
+|             24 | 20A          | Amplifier.                                                   |
+## Fuse Information
+
+### Unused Fuses
+| FuseLocation | FuseRating | ProtectedComponent |
+|--------------|------------|--------------------|
+| 25           | -          | Not used.          |
+| 26           | -          | Not used.          |
+| 27           | -          | Not used.          |
+| 39           | -          | Not used.          |
+| 40           | -          | Not used.          |
+| 54           | -          | Not used.          |
+| 55           | -          | Not used.          |
+| 56           | -          | Not used.          |
+| 62           | -          | Not used.          |
+| 63           | 30A        | Not used (spare).  |
+| 65           | -          | Not used.          |
+| 66           | -          | Not used.          |
+| 67           | -          | Not used.          |
+| 73           | -          | Not used.          |
+| 77           | -          | Not used.          |
+| 82           | -          | Not used.          |
+| 83           | -          | Not used.          |
+| 86           | -          | Not used.          |
+| 87           | -          | Not used.          |
+| 88           | -          | Not used.          |
+
+### Fuses with Ratings and Components
+| FuseLocation | FuseRating | ProtectedComponent                                                                                  |
+|--------------|------------|-----------------------------------------------------------------------------------------------------|
+| 28           | 10A       | Brake on-off switch.                                                                                |
+| 29           | 5A        | Powertrain control module (hybrid electric vehicle).                                                |
+| 30           | 10A       | Electronic stability control (gas). Transmission oil pump (hybrid electric vehicle).                |
+| 31           | 5A        | Electronic power assist steering.                                                                   |
+| 32           | 30A       | Body control module.                                                                                |
+| 33           | 10A       | Front parking aid camera. Rear view camera. Blind spot information system. Adaptive cruise control. |
+| 34           | 10A       | Not used (spare).                                                                                   |
+| 35           | 15A       | Heated steering wheel.                                                                              |
+| 36           | 10A       | Powertrain control module (hybrid electric vehicle).                                                |
+| 37           | 20A       | Horn.                                                                                               |
+| 38           | 40A       | Blower motor.                                                                                       |
+| 41           | 20A       | Amplifier.                                                                                          |
+| 42           | 30A       | Driver power seat.                                                                                  |
+| 43           | 50A       | Electric water pump (hybrid electric vehicle).                                                     |
+| 44           | 40A       | Trailer tow module.                                                                                 |
+| 45           | 30A       | Passenger power seat.                                                                               |
+| 46           | 20A       | Not used (spare).                                                                                   |
+| 47           | 20A       | Heated seats.                                                                                       |
+| 48           | 40A       | Anti-lock brake control valves.                                                                     |
+| 49           | 60A       | Anti-lock brake control pump.                                                                       |
+| 50           | 60A       | Cooling fan.                                                                                        |
+| 51           | 30A       | Moonroof.                                                                                           |
+| 52           | 5A        | DC/DC converter (hybrid electric vehicle).                                                          |
+| 53           | 10A       | Battery charge control module (hybrid electric vehicle).                                            |
+| 57           | 10A       | Data link connector.                                                                                |
+| 58           | 40A       | Auxiliary power distribution box (hybrid electric vehicle).                                         |
+| 59           | 40A       | Body control module.                                                                                 |
+| 60           | 5A        | USB smart charger.                                                                                  |
+| 61           | 20A       | Rear cargo power point.                                                                             |
+| 64           | 30A       | Power liftgate.                                                                                     |
+| 68           | 5A        | Mass air flow and intake air temperature sensor (gas).                                             |
+| 69           | 15A       | Port fuel injectors.                                                                                 |
+| 70           | 20A       | Rear console power point.                                                                            |
+| 71           | 20A       | Media bin power point.                                                                               |
+| 72           | 20A       | Rear window wiper.                                                                                   |
+| 74           | 30A       | Windshield wiper motor.                                                                              |
+| 75           | 10A       | Heated exterior mirrors.                                                                             |
+| 76           | 30A       | Heated backlight.                                                                                    |
+| 78           | 10A       | Air conditioning clutch.                                                                             |
+| 80           | 20A       | Fuel pump.                                                                                           |
+| 81           | 10A       | Rear window washer pump.                                                                             |
+| 84           | 40A       | Driveline control module.                                                                            |
+| 85           | 5A        | Rain sensor.                                                                                         |
+
+### Additional Fuses
+| FuseLocation | FuseRating | ProtectedComponent                                                                      |
+|--------------|------------|-----------------------------------------------------------------------------------------|
+| 1            | 5A        | Not used (spare).                                                                      |
+| 2            | 5A        | Not used (spare).                                                                      |
+| 3            | 10A       | Not used (spare).                                                                      |
+| 4            | 10A       | Ignition switch.                                                                        |
+| 5            | 20A       | Lock. Unlock.                                                                           |
+| 6            | 10A       | Moonroof.                                                                               |
+| 7            | 30A       | Passenger door module.                                                                  |
+| 8            | 5A        | Parking assist control module.                                                          |
+| 9            | 5A        | Electrochromatic mirror. Image processing module A.                                     |
+| 10           | 10A       | Extended power module.                                                                  |
+| 11           | 5A        | Power liftgate. Hands-free liftgate actuation module. Telematics control unit module.   |
+| 12           | 5A        | Head up display module. Keyless keypad switch.                                          |
+| 13           | 15A       | Driver door lock.                                                                       |
+| 14           | 30A       | Driver door module.                                                                     |
+| 15           | 15A       | Extended power module.                                                                  |
+| 16           | 15A       | Not used (spare).                                                                       |
+| 17           | 15A       | SYNC. Receiver transceiver module. Integrated control panel.                            |
+| 18           | 7.5A      | Wireless accessory charging module.                                                     |
+| 19           | 7.5A      | Headlamp switch pack.                                                                   |
+| 20           | 10A       | Not used (spare).                                                                       |
+| 21           | 7.5A      | Climate control. E-shifter module.                                                      |
+| 22           | 7.5A      | Instrument cluster. Gateway module.                                                     |
+## Fuses
+
+| FuseLocation | FuseRating | ProtectedComponent               |
+|--------------|------------|----------------------------------|
+|              |            | Steering column control module.  |
+|           23 | 20A       | Audio unit.                      |
+|           24 | 20A       | Not used (spare).                |
+|           25 | 30A       | Power windows. Exterior mirrors. |
+
+## When do I need to check a fuse?
+
+If electrical components in the vehicle are not working.
+
+## When do I need to replace a fuse?
+
+If a fuse has blown.
+
+## How do I identify a blown fuse?
+
+You can identify a blown fuse by a broken wire within the fuse.
+
+## MAINTENANCE PRECAUTIONS
+
+Service your vehicle regularly to help maintain its roadworthiness and resale value. There is a large network of authorized dealers that are there to help you with their professional servicing expertise. We believe that their specially trained technicians are best qualified to service your vehicle properly and expertly. They are supported by a wide range of highly specialized tools developed specifically for servicing your vehicle.
+
+If your vehicle requires professional service, an authorized dealer can provide the necessary parts and service. Check your warranty information to find out which parts and services are covered.
+
+Use only recommended fuels, lubricants, fluids and service parts conforming to specifications.
+
+- Do not work on a hot engine.
+- Make sure that nothing gets caught in moving parts.
+- Do not work on a vehicle with the engine running in an enclosed space, unless you are sure you have enough ventilation.
+- Keep all open flames and other burning material, such as cigarettes, away from the battery and all fuel related parts.
+- Set the parking brake, shift the transmission to park (P) and block the wheels.
+
+## OPENING AND CLOSING THE HOOD
+
+### Opening the Hood
+
+1. Open the left-hand front door.
+2. Fully pull the hood release lever and let it completely retract.
+
+   Note: This action releases the hood latch.
+
+3. Fully pull the hood release lever for a second time.
+
+   Note: This action fully releases the hood. 
+4. Open the hood.
+
+   Note: There is no secondary hood release under the hood.
+
+5. Support the hood with the strut.
+
+### Information Messages
+
+| Message   | Action                                                               |
+|-----------|----------------------------------------------------------------------|
+| Hood Ajar | Stop your vehicle as soon as it is safe to do so and close the hood. |
+
+### Closing the Hood
+
+WARNING: Make sure that you fully latch the hood before driving. Failure to follow this instruction could result in personal injury or death.
+
+1. Remove the strut from the catch and secure it correctly in the clip.
+2. Lower the hood and allow it to drop under its own weight for the last 10-14 in (25-35 cm).
+
+### Warning Lamps and Indicators
+
+This lamp illuminates when the ignition is on and the hood is not completely closed.
+
+## UNDER HOOD OVERVIEW - 1.5L ECOBOOST™
+
+1. Windshield washer fluid. See Adding Washer Fluid (page 96). A
+2. Engine oil dipstick. See Engine Oil Dipstick Overview (page 333). C
+3. Engine coolant reservoir. See Checking the Coolant (page 334). B
+4. Engine oil filler cap. See Adding Engine Oil (page 333). D
+5. Battery. See Changing the 12V Battery (page 343). F
+6. Brake fluid reservoir. See Locating the Brake Fluid Reservoir (page 218). E
+7. Engine compartment fuse box. See Fuses (page 319). G
+8. Air filter. See Changing the Engine Air Filter (page 338). H
+
+## UNDER HOOD OVERVIEW - 2.0L ECOBOOST™
+
+1. Windshield washer fluid reservoir. See Adding Washer Fluid (page 96). A
+2. Engine oil dipstick. See Engine Oil Dipstick Overview (page 333). C
+3. Engine coolant reservoir. See Checking the Coolant (page 334). B
+4. Engine oil filler cap. See Adding Engine Oil (page 333). D
+5. Battery. See Changing the 12V Battery (page 343). F
+6. Brake fluid reservoir. See Locating the Brake Fluid Reservoir (page 218). E
+7. Engine compartment fuse box. See Fuses (page 319). G
+8. Air filter assembly. See Changing the Engine Air Filter (page 338). H
+
+## UNDER HOOD OVERVIEW - HYBRID ELECTRIC VEHICLE (HEV)
+
+- Windshield washer fluid reservoir: See Adding Washer Fluid (page 96). A
+- High temperature coolant cap: See Checking the Coolant (page 334). C
+- Low temperature coolant cap: See Checking the Coolant (page 334). B
+- Engine oil filler cap: See Adding Engine Oil (page 333). D
+- Brake fluid reservoir: See Checking the Brake Fluid (page 218). F
+- Engine oil dipstick: See Engine Oil Dipstick Overview (page 333). E
+- Power distribution box: See Under Hood Fuse Box (page 320). G
+- Air filter assembly: See Changing the Engine Air Filter (page 339). H
+
+## ENGINE OIL
+
+Minimum. A
+
+Fill Level.
+
+B
+
+Maximum.
+
+C
+
+## CHECKING THE ENGINE OIL LEVEL
+
+1. Make sure that your vehicle is on level ground.
+2. Check the oil level before starting the engine, or switch the engine off after warming up and wait 10 minutes for the oil to drain into the oil pan.
+3. Remove the dipstick and wipe it with a clean, lint-free cloth.
+4. Reinstall the dipstick and make sure it is fully seated.
+5. Remove the dipstick again to check the oil level.
+
+   Note: If the oil level is between the maximum and minimum marks, the oil level is acceptable. Do not add oil.
+
+6. If the oil level is at the minimum mark, immediately add oil.
+7. Reinstall the dipstick. Make sure it is fully seated.
+
+   Note: The oil consumption of new engines reaches its normal level after approximately 3,000 mi (5,000 km).
+
+## ADDING ENGINE OIL
+
+WARNING: Do not remove the filler cap when the engine is running.
+
+WARNING: Do not add engine oil when the engine is hot. Failure to follow this instruction could result in personal injury.
+
+Do not use supplemental engine oil additives because they are unnecessary and could lead to engine damage that the vehicle warranty may not cover.
+
+1. Clean the area surrounding the engine oil filler cap before you remove it.
+2. Remove the engine oil filler cap.
+3. Add engine oil that meets our specifications. See Capacities and Specifications (page 387).
+4. Reinstall the engine oil filler cap. Turn it clockwise until you feel a strong resistance.
+
+   Note: Do not add oil further than the maximum mark. Oil levels above the maximum mark may cause engine damage.
+
+   Note: Immediately soak up any oil spillage with an absorbent cloth.
+
+| Message   | Action and description                                                                                       |
+|-----------|-------------------------------------------------------------------------------------------------------------|
+|           | If the instrument cluster displays one of the following messages, repeat the process. Not Reset Reset Cancelled |
+
+## RESETTING THE ENGINE OIL CHANGE REMINDER
+
+Use the information display controls on the steering wheel to reset the oil change reminder.
+
+## From the main menu scroll to:
+
+| Message        | Action and description                                                                                      |
+|----------------|------------------------------------------------------------------------------------------------------------|
+| Settings       | Press the right arrow button, then from this menu scroll to the following message.                         |
+| Convenience     | Press the right arrow button, then from this menu scroll to the following message.                         |
+| Oil Life Reset | Press the right arrow button, then from this menu scroll to the following message.                         |
+| Hold OK to Reset | Press and hold the OK button until the instrument cluster displays the following message. Reset Successful |
+| Hold OK to Reset | When the oil change reminder resets the instrument cluster displays 100%. Remaining Life {00}%               |
+## ENGINE OIL CAPACITY AND SPECIFICATION
+
+For filling information, please refer to the Capacities and Specifications section of your owner's manual. See Engine Oil Capacity and Specification (page 392).
+
+## CHECKING THE COOLANT
+
+When the engine is cold, check the concentration and level of the coolant at the intervals listed in the scheduled maintenance information. See Scheduled Maintenance (page 482).
+
+Note: Make sure that the coolant level is between the minimum and maximum marks on the coolant reservoir.
+
+Note: Coolant expands when it is hot. The level may extend beyond the MAX mark.
+
+If the coolant level is at or below the minimum mark, add prediluted coolant immediately.
+
+Maintain coolant concentration within 48% to 50%, which equates to a freeze point between -29°F (-34°C) and -35°F (-37°C). Coolant concentration should be checked using a refractometer. We do not recommend the use of hydrometers or coolant test strips for measuring coolant concentration.
+
+## Adding Coolant
+
+WARNING: Keep your hands and clothing clear of the cooling fan.
+
+WARNING: Do not remove the coolant reservoir cap when the engine is on or the cooling system is hot. Wait 10 minutes for the cooling system to cool down. Cover the coolant reservoir cap with a thick cloth to prevent the possibility of scalding and slowly remove the cap. Failure to follow this instruction could result in personal injury.
+
+WARNING: Do not add engine coolant when the engine is on or the cooling system is hot. Failure to follow this instruction could result in personal injury.
+
+WARNING: Do not add coolant further than the MAX mark.
+
+WARNING: Do not put coolant in the windshield washer reservoir. If sprayed on the windshield, coolant could make it difficult to see through the windshield.
+
+WARNING: Do not allow the fluid to touch your skin or eyes. If this happens, rinse the affected areas immediately with plenty of water and contact your physician.
+
+Note: Do not use stop leak pellets, cooling system sealants, or non-specified additives as they can cause damage to the engine cooling or heating systems. Resulting component damage may not be covered by the vehicle Warranty.
+
+Note: Automotive fluids are not interchangeable.
+
+It is very important to use prediluted coolant approved to the correct specification in order to avoid plugging the small passageways in the engine cooling system. Do not mix different colors or types of coolant in your vehicle. Mixing of engine coolants or using an incorrect coolant may harm the engine or cooling system components and could void the vehicle Warranty.
+
+Note: If prediluted coolant is not available, use the approved concentrated coolant diluting it to 50/50 with deionized or distilled water. Using water that has not been deionized may contribute to deposit formation, corrosion and plugging of the small cooling system passageways.
+
+To top up the coolant level do the following:
+
+1. Unscrew the cap slowly. Any pressure escapes as you unscrew the cap.
+2. Add enough prediluted coolant to reach the correct level.
+
+Note: We do not recommend the use of recycled coolant.
+
+3. Replace the coolant reservoir cap. Turn the cap clockwise until it contacts the hard stop.
+4. Check the coolant level in the coolant reservoir the next few times you drive your vehicle. If necessary, repeat step 2.
+
+If you have to add more than 1.1 qt (1 L) of engine coolant per month, have your vehicle checked as soon as possible. Operating an engine with a low level of coolant can result in engine overheating and possible engine damage.
+
+In case of emergency, you can add a large amount of water without engine coolant in order to reach a vehicle service location. Service your vehicle as soon as possible.
+
+## Maintenance
+
+Water alone, without engine coolant, can cause engine damage from corrosion, overheating or freezing.
+
+Do not use the following as a coolant substitute, as they can cause engine damage from overheating or freezing:
+
+- Alcohol.
+- Methanol.
+- Brine.
+- Any coolant mixed with alcohol or methanol antifreeze.
+
+Do not add extra inhibitors or additives to the coolant. These can be harmful and compromise the corrosion protection of the coolant.
+
+## Severe Climates
+
+If you drive in extremely cold climates, you may need to increase the coolant concentration above 50%.
+
+Note: A coolant concentration of 60% provides improved freeze point protection. Coolant concentrations above 60% decrease the overheat protection characteristics of the coolant and could cause engine damage.
+
+If you drive in extremely hot climates, you may need to decrease the coolant concentration to 40%.
+
+Note: A coolant concentration of 40% provides improved overheat protection. Coolant concentrations below 40% decrease the overheat and corrosion protection characteristics of the coolant and could cause engine damage.
+
+## Coolant Change
+
+WARNING: Do not dispose of coolant in the household refuse or the public sewage system. Use an authorized waste disposal facility.
+
+Note: Dispose of used coolant in the appropriate manner.
+
+Change the coolant at specific mileage intervals. Refer to the scheduled maintenance information. See Normal Scheduled Maintenance (page 485).
+
+Follow your community's regulations and standards for recycling and disposing of automotive fluids.
+
+## Fail-Safe Cooling
+
+Fail-safe cooling allows you to temporarily drive your vehicle before any incremental component damage occurs. The fail-safe distance depends on ambient temperature, vehicle load and terrain.
+
+## How Fail-Safe Cooling Works
+
+If the engine begins to overheat, the coolant temperature gauge moves toward the red zone:
+
+A warning lamp illuminates and a message may appear in the information display.
+
+If the engine reaches a preset over-temperature condition, the engine automatically switches to alternating cylinder operation. Each disabled cylinder acts as an air pump and cools the engine.
+
+When this occurs, your vehicle still operates, however:
+
+- Engine power is limited.
+- The air conditioning system turns off.
+
+Continued operation increases the engine temperature, causing the engine to completely shut down. Your steering and braking effort increases in this situation.
+
+When the engine temperature cools, you can re-start the engine. Have your vehicle checked as soon as possible to minimize engine damage.
+
+## Maintenance
+
+## When Fail-Safe Mode Is Activated
+
+WARNING: Fail-safe mode is for use during emergencies only. Operate your vehicle in fail-safe mode only as long as necessary to bring your vehicle to rest in a safe location and seek immediate repairs. When in fail-safe mode, your vehicle will have limited power, will not be able to maintain high-speed operation, and may completely shut down without warning, potentially losing engine power, power steering assist, and power brake assist, which may increase the possibility of a crash resulting in serious injury.
+
+WARNING: Do not remove the coolant reservoir cap when the engine is on or the cooling system is hot. Wait 10 minutes for the cooling system to cool down. Cover the coolant reservoir cap with a thick cloth to prevent the possibility of scalding and slowly remove the cap. Failure to follow this instruction could result in personal injury.
+
+Your vehicle has limited engine power when in the fail-safe mode, drive your vehicle with caution. Your vehicle does not maintain high-speed operation and the engine could operate poorly.
+
+Remember that the engine is capable of automatically shutting down to prevent engine damage. In this situation:
+
+1. Pull off the road as soon as safely possible and switch the engine off.
+2. If you are a member of a roadside assistance program, we recommend that you contact your roadside assistance service provider.
+## Engine Coolant Temperature Management (If Equipped)
+
+WARNING: To reduce the risk of crash and injury, be prepared that the vehicle speed may reduce and the vehicle may not be able to accelerate with full power until the coolant temperature reduces.
+
+If you tow a trailer with your vehicle, the engine may temporarily reach a higher temperature during severe operating conditions, for example ascending a long or steep grade in high ambient temperatures.
+
+At this time, you may notice the coolant temperature gauge moves toward the red zone and a message may appear in the information display.
+
+You may notice a reduction in vehicle speed caused by reduced engine power in order to manage the engine coolant temperature. Your vehicle may enter this mode if certain high-temperature and high-load conditions take place. The amount of speed reduction depends on vehicle loading, grade and ambient temperature. If this occurs, there is no need to stop your vehicle. You can continue to drive.
+
+The air conditioning may automatically turn on and off during severe operating conditions to protect the engine from overheating. When the coolant temperature decreases to the normal operating temperature, the air conditioning turns on.
+
+If the coolant temperature gauge moves fully into the red zone, or if the coolant temperature warning or service engine soon messages appear in your information display, do the following:
+
+1. Stop your vehicle as soon as it is safe to do so. Fully apply the parking brake, shift into park (P) or neutral (N).
+2. Leave the engine running until the coolant temperature gauge needle returns to the normal position. If the temperature does not drop after several minutes, follow the remaining steps.
+3. Switch the engine off and wait for it to cool. Check the coolant level.
+4. If the coolant level is at or below the minimum mark, add prediluted coolant immediately.
+5. When the engine temperature cools, you can re-start the engine. Have your vehicle checked as soon as possible to minimize engine damage.
+
+Note: Driving your vehicle without repair increases the chance of engine damage.
+
+## CHANGING THE ENGINE AIR FILTER - 1.5L ECOBOOST™/ 2.0L ECOBOOST™
+
+WARNING: To reduce the risk of vehicle damage and personal burn injuries, do not start your engine with the air cleaner removed and do not remove it while the engine is running.
+
+When changing the air filter element, use only parts that meet or exceed our specifications.
+
+For EcoBoost equipped vehicles: When servicing the air cleaner, it is important that no foreign material enter the air induction system. The engine and turbocharger are susceptible to damage from even small particles.
+
+Change the air filter element at the proper interval. See Scheduled Maintenance (page 482).
+
+Note: Failure to use the correct air filter element may result in severe engine damage. The customer warranty may be void for any damage to the engine if the correct air filter element is not used.
+
+1. Using a screwdriver, loosen the clamp on the air filter housing cover.
+2. Gently pull the boot back away from the air filter housing cover.
+3. Release the two clips from the air filter housing cover.
+4. Remove the air filter housing cover.
+5. Remove the air filter element from the air filter housing.
+6. Wipe any dirt or debris from the air filter housing assembly to make sure no dirt gets in the engine and to make sure you have a good seal.
+7. Install a new air filter element. Be careful not to crimp the filter element edges between the air filter housing and cover. This could cause filter damage and allow unfiltered air to enter the engine if it is not properly seated.
+8. Install the air filter housing cover.
+9. Engage the clips to secure the air filter housing cover to the air filter housing.
+10. Reconnect the boot to the air filter housing cover and tighten securely.
+
+## CHANGING THE ENGINE AIR FILTER - 2.5L, HYBRID ELECTRIC VEHICLE (HEV)/ PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+WARNING: To reduce the risk of vehicle damage and personal burn injuries, do not start your engine with the air cleaner removed and do not remove it while the engine is running.
+
+When changing the air filter element, use only parts that meet or exceed our specifications.
+
+Change the air filter element at the proper interval. See Scheduled Maintenance (page 482).
+
+Note: If you do not use the correct air filter element, your vehicle warranty could be void.
+
+1. Using a screwdriver, loosen the clamp on air filter housing cover.
+2. Gently pull the boot back away from the air filter housing cover.
+3. Release the two clips from the air filter housing cover.
+4. Remove air filter housing cover.
+5. Remove the air filter element from the air filter housing.
+6. Wipe any dirt or debris from the air filter housing assembly to make sure no dirt gets in the engine and to make sure you have a good seal.
+7. Install a new air filter element. Be careful not to crimp the filter element edges between the air filter housing and cover. This could cause filter damage and allow unfiltered air to enter the engine if it is not properly seated.
+8. Install the air filter housing cover.
+9. Engage the clips to secure the air filter housing cover to the air filter housing.
+10. Reconnect the boot to the air filter housing cover and tighten securely.
+
+## CHANGING THE FUEL FILTER - GASOLINE, HYBRID ELECTRIC VEHICLE (HEV)
+
+Your vehicle has a lifetime fuel filter that integrates with the fuel tank. It does not need regular maintenance or replacement.
+
+## DRIVE BELT ROUTING OVERVIEW - 1.5L ECOBOOST™
+
+## DRIVE BELT ROUTING OVERVIEW - 2.0L ECOBOOST™
+
+- The long drive belt is on the first pulley groove closest to the engine.
+- The short drive belt is on the second pulley groove farthest from engine.
+
+## 12V BATTERY
+
+## 12V BATTERY PRECAUTIONS
+
+WARNING: Batteries normally produce explosive gases which can cause personal injury. Therefore, do not allow flames, sparks or lighted substances to come near the battery. When working near the battery, always shield your face and protect your eyes. Always provide correct ventilation.
+
+WARNING: When lifting a plastic-cased battery, excessive pressure on the end walls could cause acid to flow through the vent caps, resulting in personal injury and damage to the vehicle or battery. Lift the battery with a battery carrier or with your hands on opposite corners.
+
+WARNING: Keep batteries out of reach of children. Batteries contain sulfuric acid. Avoid contact with skin, eyes or clothing. Shield your eyes when working near the battery to protect against possible splashing of acid solution. In case of acid contact with skin or eyes, flush immediately with water for a minimum of 15 minutes and get prompt medical attention. If acid is swallowed, call a physician immediately.
+
+WARNING: Battery posts, terminals and related accessories contain lead and lead compounds, chemicals known to the State of California to cause cancer and reproductive harm. Wash your hands after handling.
+
+WARNING: This vehicle may have more than one battery. Removing the battery cables from only one battery does not disconnect your vehicle electrical system. Make sure you disconnect the battery cables from all batteries when disconnecting power. Failure to do so may cause serious personal injury or property damage.
+WARNING: For vehicles with Auto-Start-Stop the battery requirement is different. You must replace the battery with one of exactly the same specification.
+
+## WHAT IS THE BATTERY MANAGEMENT SYSTEM
+
+The battery management system monitors battery conditions and takes actions to extend battery life.
+
+## HOW DOES THE BATTERY MANAGEMENT SYSTEM WORK
+
+If excessive battery drain is detected, the system temporarily disables some electrical systems to protect the battery.
+
+Systems included are:
+
+- Heated rear window.
+- Heated seats.
+- Climate control.
+- Heated steering wheel.
+- Audio unit.
+- Navigation system.
+
+A message could appear in the information display to alert you that battery protection actions are active. This message is only for notification that an action is taking place, and not intended to indicate an electrical problem or that the battery requires replacement.
+
+## BATTERY MANAGEMENT SYSTEM LIMITATIONS
+
+After battery replacement, or in some cases after charging the battery with an external charger, the battery management system requires eight hours of vehicle sleep time to relearn the battery state of charge. During this time, your vehicle must remain fully locked with the ignition switched off.
+
+Note: Prior to relearning the battery state of charge, the battery management system could temporarily disable some electrical systems.
+
+## Electrical Accessory Installation
+
+To make sure the battery management system works correctly, do not connect an electrical device ground connection directly to the battery negative post. This can cause inaccurate measurements of the battery condition and potential incorrect system operation.
+
+Note: If you add electrical accessories or components to the vehicle, it could adversely affect battery performance and durability. This could also affect the performance of other electrical systems in the vehicle.
+
+## RESETTING THE BATTERY SENSOR
+
+When you install a new battery, reset the battery sensor by doing the following:
+
+1. Switch the ignition on, and leave the engine off.
+
+Note: Complete Steps 2 and 3 within 10 seconds.
+
+2. Flash the high beam headlamps five times, ending with the high beams off.
+3. Press and release the brake pedal three times.
+
+The battery warning lamp flashes three times to confirm that the reset is successful.
+
+## RECYCLING AND DISPOSING OF THE 12V BATTERY
+
+Make sure that you dispose of old batteries in an environmentally friendly way.
+
+Seek advice from your local authority about recycling old batteries.
+
+## CHANGING THE 12V BATTERY
+
+The battery is in the engine compartment. Your vehicle has a maintenance-free battery. It does not require additional water during service.
+
+For longer, trouble-free operation, keep the top of the battery clean and dry and the battery cables tightly fastened to the battery terminals. If any corrosion is present on the battery or terminals, remove the cables from the terminals and clean with a wire brush. You can neutralize the acid with a solution of baking soda and water.
+
+We recommend that you disconnect the negative battery cable terminal from the battery if you plan to store your vehicle for an extended period.
+
+Note: If you only disconnect the negative battery cable terminal, make sure it is isolated or placed away from the battery terminal to avoid unintended connection or arcing.
+
+To maintain correct operation of the battery management system, if you add any electrical devices to your vehicle, do not connect the ground connection directly to the negative battery terminal. A connection at the negative battery terminal can cause inaccurate measurements of the battery condition and potential incorrect system operation.
+
+Note: If you add electrical accessories or components to your vehicle this may adversely affect battery performance, durability and the performance of other electrical systems on your vehicle.
+
+If you replace the battery make sure it matches the electrical requirements of your vehicle.
+
+If you disconnect or replace the battery and your vehicle has an automatic transmission, it must relearn its adaptive strategy. Because of this, the transmission may shift firmly when first driven. This is normal operation while the transmission fully updates its operation to optimum shift feel.
+
+## Remove and Reinstall the Battery
+
+To disconnect or remove the battery, do the following:
+
+1. Apply the parking brake and switch the ignition off.
+2. Switch all electrical equipment off, for example lights and radio.
+3. Wait a minimum of two minutes before disconnecting the battery.
+
+Note: The engine management system has a power hold function and remains powered for a period of time after you switch the ignition off. This is to allow diagnostic and adaptive tables to be stored. Disconnecting the battery without waiting can cause damage not covered by the vehicle Warranty.
+
+4. Disconnect the negative battery cable terminal.
+5. Disconnect the positive battery cable terminal.
+6. Remove the battery securing clamp.
+7. Remove the battery.
+8. To install, reverse the removal procedure.
+
+Note: Before reconnecting the battery, make sure the ignition remains switched off.
+
+Note: Make sure the battery cable terminals are fully tightened.
+
+Note: After cleaning or replacing the battery, make sure you reinstall the battery cover or shield.
+
+If you disconnect or replace the vehicle battery, you must reset the following features:
+
+- Window bounce-back.
+- Clock settings.
+- Pre-set radio stations.
+- Steering angle sensor.
+
+Note: To calibrate the steering angle sensor, drive the vehicle above 30 mph (50 km/h) for a minimum of 1.2 mi (2 km). Make sure to drive straight ahead for a minimum of 30 seconds. Several vehicle functions are disabled and a warning light could appear until the sensor is calibrated.
+
+## ADJUSTING THE HEADLAMPS
+
+### Vertical Aim Adjustment
+
+The headlamps on your vehicle are properly aimed at the assembly plant. If your vehicle has been in an accident, the alignment of your headlamps should be checked by your authorized dealer.
+
+- 8 feet (2.4 meters) A
+- Center height of lamp to ground B
+- 25 feet (7.6 meters) C
+- Horizontal reference line D
+
+1. Park the vehicle directly in front of a wall or screen on a level surface, approximately 25 ft (7.6 m) away.
+2. Measure the height of the headlamp bulb center from the ground and mark an 8 ft (2.4 m) horizontal reference line on the vertical wall or screen at this height.
+
+Note: To see a clearer light pattern for adjusting, you may want to block the light from one headlamp when adjusting the other.
+
+3. Switch on the low beam headlamps to illuminate the wall or screen and open the hood.
+
+4. On the wall or screen you will observe a flat zone of high intensity light located at the top of the right hand portion of the beam pattern. If the top edge of the high intensity light zone is not at the horizontal reference line, the headlamp does need to be adjusted.
+
+5. Locate the vertical adjuster on each headlamp. Using a Phillips #2 screwdriver, turn the adjuster either clockwise or counterclockwise in order to aim the headlamp. The horizontal edge of the brighter light should touch the horizontal reference line.
+6. Close the hood and switch off the lamps.
+
+### Horizontal Aim Adjustment
+
+Horizontal aim is not required for this vehicle and is non-adjustable.
+
+## EXTERIOR BULBS
+
+### EXTERIOR BULB SPECIFICATION CHART
+
+| Lamp                         | Specification   |
+|------------------------------|-----------------|
+| Base headlamp low beam.      | H9              |
+| Base headlamp high beam.     | HB3             |
+| Base headlamp turn.          | T20 Amber       |
+| Base headlamp side marker. 1 | LED             |
+
+| Lamp                     | Specification   |
+|--------------------------|-----------------|
+| Optional headlamp. 1     | LED             |
+| Base fog lamp.           | H8              |
+| Optional fog lamp. 1     | LED             |
+| Tail, brake lamp. 1      | LED             |
+| Rear turn lamp.          | T20 Amber       |
+| Backup, reverse lamp.    | T20             |
+| Rear side marker.        | W5W             |
+| License plate lamp. 1    | LED             |
+| High-mount brake lamp. 1 | LED             |
+## CHANGING A HEADLAMP BULB
+
+WARNING: Make sure the bulbs have cooled down before removing them. Failure to follow this warning could result in serious personal injury.
+
+Note: Handle a halogen headlamp bulb carefully and keep out of children's reach. Grasp the bulb by only its plastic base and do not touch the glass. The oil from your hand could cause the bulb to break the next time you operate the headlamps.
+
+Note: If you accidentally touch the bulb, clean it with rubbing alcohol before using it.
+
+### Headlamp
+
+- Park/Turn lamp A
+- High beam headlamp B
+- Low beam headlamp C
+
+### High beam headlamp
+
+E307882
+
+1. Remove service cap.
+2. Remove the bulb from the headlamp assembly by turning it counterclockwise, then pull it straight out.
+3. Disconnect the electrical connector.
+4. To install, reverse the removal procedure.
+
+E307883
+
+1. Remove service cap.
+2. Disconnect the electrical connector.
+3. Remove the bulb from the headlamp assembly by turning it counterclockwise, then pull it straight out.
+4. To install, reverse the removal procedure.
+
+## CHANGING A FRONT TURN SIGNAL LAMP BULB
+
+### Headlamp
+
+- Park/Turn lamp A
+- High beam headlamp B
+- Low beam headlamp C
+
+### Park/Turn lamp
+
+E307884
+
+1. Remove service cap, if applicable.
+2. Remove bulb from the headlamp assembly by turning it counterclockwise, then pull it straight out.
+3. Disconnect the electrical connector.
+4. To install, reverse the removal procedure.
+
+## CHANGING A FRONT FOG LAMP BULB
+
+1. If you are replacing the driver side bulb, turn the steering wheel all the way to the right. If you are replacing the passenger side bulb, turn the steering wheel all the way to the left.
+
+E311716
+
+2. Remove the six lower splash shield push pins and pull the splash shield back.
+
+E311715
+
+3. Disconnect the bulb electrical connector.
+4. To remove the bulb from the headlamp assembly, turn it counterclockwise, then pull it straight out.
+5. To install, perform these steps in reverse order.
+
+## CHANGING A REVERSING LAMP BULB
+
+1. Remove the screws with a flathead screwdriver and pull the lamp assembly away from the vehicle.
+2. Remove the bulb by turning the lower bulb socket counterclockwise. Gently pull the bulb straight out of the socket.
+3. To install, reverse the removal procedure.
+
+## INTERIOR BULBS
+
+### INTERIOR BULB SPECIFICATION CHART
+
+Your vehicle has LED lamps. These are not serviceable items. See an authorized dealer if they fail.
+
+## CLEANING PRODUCTS
+
+### Materials
+
+For best results, use the following products or products of equivalent quality:
+
+| Name                                                                               | Specification   |
+|------------------------------------------------------------------------------------|-----------------|
+| Motorcraft® Bug and Tar Remover, ZC-42 (U.S. & Canada)                             | -               |
+| Motorcraft® CustomBright Metal Cleaner, ZC-15 (U.S. & Canada)                      | ESR-M5B194-B    |
+| Motorcraft® Detail Wash, ZC-3-A (U.S. & Canada)                                   | ESR-M14P4-A     |
+| Motorcraft® Engine Shampoo and Degreaser, ZC-20 (U.S.)                             | ESR-M14P3-A     |
+| Motorcraft® Engine Shampoo, CXC-66-A (Canada)                                      | -               |
+| Motorcraft® Premium Leather and Vinyl Cleaner, ZC-56 (U.S. & Canada)               | -               |
+| Motorcraft® Multi-Purpose Cleaner, CXC-101 (Canada)                                | -               |
+| Motorcraft® Premium Windshield Wash Concentrate with Bitterant, ZC-32-B2 (U.S.)    | WSS-M14P19-A    |
+| Motorcraft® Premium Quality Windshield Washer Fluid, CXC-37-F/M (Canada)          | WSS-M14P19-A    |
+| Motorcraft® Professional Strength Carpet & Upholstery Cleaner, ZC-54 (U.S. & Canada) | -               |
+| Motorcraft® Premium Glass Cleaner, CXC-100 (Canada)                                | ESR-M14P5-A     |
+| Motorcraft® Spot and Stain Remover, ZC-14 (U.S.)                                   | -               |
+| Motorcraft® Ultra-Clear Spray Glass Cleaner, ZC-23 (U.S.)                          | ESR-M14P5-A     |
+| Motorcraft® Wheel and Tire Cleaner, ZC-37-A (U.S. & Canada)                       | -               |
+
+## CLEANING THE EXTERIOR
+
+### CLEANING THE EXTERIOR PRECAUTIONS
+
+Immediately remove fuel spillages, additive residuals, bird droppings, insect deposits and road tar. These may cause damage to your vehicle's paintwork or trim over time.
+
+Remove any exterior accessories, for example antennas, before entering a car wash.
+
+### CLEANING HEADLAMPS AND REAR LAMPS
+
+We recommend that you only use cold or lukewarm water containing car shampoo to clean the headlamps and the rear lamps.
+
+Do not scrape the lamps.
+
+Do not wipe lamps when they are dry.
+
+### CLEANING WINDOWS AND WIPER BLADES
+
+To clean the windshield and wiper blades:
+
+- Clean the windshield with a non-abrasive glass cleaner.
+
+Note: When cleaning the interior of the windshield, avoid getting any glass cleaner on the instrument panel or door panels. Wipe any glass cleaner off these surfaces immediately.
+
+- Clean the wiper blades with washer fluid or water applied with a soft sponge or cloth.
+
+Note: Do not use razor blades or other sharp objects to clean or remove decals from the inside of the heated rear window. This can cause damage not covered by the vehicle Warranty.
+
+### CLEANING CHROME, ALUMINIUM OR STAINLESS STEEL
+
+We recommend that you only use a car shampoo, a soft cloth and water on bumpers and other chrome, aluminium or stainless steel parts.
+
+Note: For additional information and assistance, we recommend that you contact an authorized dealer.
+
+Note: Rinse the area well after cleaning.
+
+Note: Do not use abrasive materials, for example steel wool or plastic pads, as they can scratch these surfaces.
+
+Note: Do not use chrome cleaner, metal cleaner or polish on wheels or wheel covers.
+
+### CLEANING WHEELS
+
+Only use a recommended wheel and tire cleaner to clean the wheels weekly. For additional information and assistance, we recommend that you contact an authorized dealer.
+
+1. Use a sponge to remove heavy deposits of dirt and brake dust.
+2. Rinse well after cleaning.
+
+Note: Do not apply a cleaning chemical to warm or hot wheel rims and covers.
+
+If you intend on parking your vehicle for an extended period after cleaning the wheels with a wheel cleaner, drive your vehicle for a few minutes before parking your vehicle. This reduces the risk of corrosion of the brake discs, brake pads and linings.
+
+Do not clean the wheels when they are hot.
+
+Note: Some car washes could damage wheel rims and covers.
+
+Note: Using non-recommended cleaners, harsh cleaning products, chrome wheel cleaners or abrasive materials could damage wheel rims and covers.
+
+### CLEANING THE ENGINE COMPARTMENT
+
+Use a vacuum cleaner to remove debris from the screen area below windshield.
+
+Note: If you are not familiar with the parts around the engine do not wash the engine compartment. Avoid frequent engine washes.
+
+When washing the engine compartment:
+
+- Never wash or rinse the engine while it is hot or running.
+- Never wash or rinse any ignition coil, spark plug wire or spark plug well.
+- Cover the battery, power distribution box, and air filter assembly to prevent water damage.
+
+## Vehicle Care
+
+Note: If your vehicle has an engine cover remove the cover before application of shampoo and degreaser.
+
+- Spray an approved engine shampoo and degreaser on all parts that require cleaning and rinse with water.
+## VEHICLE CLEANING
+
+### Rear Suspension Components
+Rear suspension components may require regular cleaning with a power washer or a thorough rinse with a strong stream of water if the vehicle is operated in dusty or muddy environments. Rear leaf springs or other suspension components may emit squeaking or popping noises while operating the vehicle if particles, such as dirt, rocks, or other debris, are present in the components.
+
+### Washing Your Vehicle
+It is recommended to wash your vehicle by hand; however, pressure washing may be used under the following conditions:
+
+- Use a spray with a 40° wide spray angle pattern.
+- Keep the nozzle at a 12 in (305 mm) distance and 90° angle to your vehicle's surface.
+- Do not use water pressure higher than 2,000 psi (14,000 kPa).
+- Do not use water hotter than 179°F (82°C).
+
+**Note:** Holding the pressure washer nozzle at an angle to the vehicle's surface may damage graphics and cause the edges to peel away from the vehicle's surface.
+
+### Cleaning Camera Lenses and Sensors
+We recommend that you only use lukewarm or cold water and a soft cloth to clean the camera lens and sensors.
+
+**Note:** Do not pressure wash camera lens and sensors.
+
+### Cleaning the Underbody
+Flush the complete underside of your vehicle frequently. Keep body and door drain holes free from packed dirt.
+
+### Cleaning the Interior
+
+#### Cleaning the Instrument Panel
+**WARNING:** Do not use chemical solvents or strong detergents when cleaning the steering wheel or instrument panel to avoid contamination of the airbag system.
+
+We recommend that you only clean the instrument panel and cluster lens with a damp soft cloth. Dry the area with a clean, soft cloth.
+
+For additional information and assistance, we recommend that you contact an authorized dealer.
+
+**Note:** Avoid cleaners or polishes that increase the gloss of the upper portion of the instrument panel. The dull finish in this area helps protect you from undesirable windshield reflection.
+
+#### Cleaning Plastic
+We recommend that you only use a mild soap and water solution on a soft cloth. Dry the area with a clean, soft cloth.
+
+#### Cleaning Displays and Screens
+We recommend that you only use a microfiber cloth in a circular motion to clean off the fingerprint or dust.
+
+If dirt or fingerprints are still on the screen, apply a small amount of alcohol to the cloth and try to clean it again.
+
+**Note:** Do not pour or spray alcohol onto the touchscreen.
+
+**Note:** Do not use detergent or any type of solvent to clean the touchscreen.
+
+#### Cleaning Leather and Vinyl
+We recommend that you only clean the leather and vinyl surfaces in the following way:
+
+1. Remove dust and loose dirt with a vacuum cleaner.
+2. Wipe the surface with a soft, damp cloth and a mild soap and water solution. Dry the area with a clean, soft cloth.
+3. Make sure the leather is dry, then apply a small amount of conditioner to a clean, dry cloth.
+4. Rub the conditioner into the leather until it disappears. Allow the conditioner to dry, then repeat the process for the entire interior. If a film appears, wipe it off with a dry, clean cloth.
+5. For additional information and assistance, we recommend that you contact an authorized dealer.
+
+#### Cleaning Fabric Seats and Headliners
+**WARNING:** On vehicles equipped with seat-mounted airbags, do not use chemical solvents or strong detergents. Such products could contaminate the side airbag system and affect performance of the side airbag in a crash.
+
+We recommend that you only clean the fabric seats and headliners in the following way:
+
+1. Remove dust and loose dirt with a vacuum cleaner.
+2. Wipe the surface with a soft, damp cloth and a mild soap and water solution. Dry the area with a clean, soft cloth.
+3. For additional information and assistance, we recommend that you contact an authorized dealer.
+
+For heavy stains, spot clean the area. If a ring forms on the fabric, clean the entire area immediately, but do not oversaturate or the ring could set.
+
+#### Cleaning Carpets and Floor Mats
+We recommend that you only clean your carpets in the following way:
+
+1. Remove dust and loose dirt with a vacuum cleaner.
+2. Wipe the surface with a soft, damp cloth and a mild soap and water solution. Dry the area with a clean, soft cloth.
+3. For additional information and assistance, we recommend that you contact an authorized dealer.
+
+For heavy stains, spot clean the area. If a ring forms on the fabric, clean the entire area immediately, but do not oversaturate or the ring could set.
+
+### Cleaning Seatbelts
+**WARNING:** Do not use cleaning solvents, bleach or dye on the vehicle's seatbelts, as these actions may weaken the belt webbing.
+
+1. Wipe the surface with a soft, damp cloth and a mild soap and water solution. Dry the area with a clean, soft cloth.
+
+### Cleaning Storage Compartments
+1. Remove dust and loose dirt with a vacuum cleaner.
+2. Wipe the surface with a soft, damp cloth and a mild soap and water solution. Dry the area with a clean, soft cloth.
+
+### Cleaning Moonroof Tracks
+1. Remove debris from the tracks with a vacuum cleaner.
+2. Wipe the bulb seal and mating painted roof metal surface with a soft, damp cloth and a mild soap and water solution.
+
+### Repairing Minor Paint Damage
+Authorized dealers have touch-up paint to match your vehicle's color. Your vehicle color code is printed on a sticker on the front, left-hand side door jamb. Take your color code to your authorized dealer to make sure you get the correct color.
+
+Before repairing minor paint damage, use a cleaner to remove particles such as bird droppings, tree sap, insect deposits, tar spots, road salt and industrial fallout.
+
+Read the instructions before using cleaning products.
+
+### Waxing Your Vehicle
+Wax the high-gloss painted surface of your prewashed vehicle once or twice a year.
+
+We recommend that you only use an approved quality wax that does not contain abrasives. Follow the manufacturer's instructions to apply and remove the wax. For additional information and assistance, we recommend that you contact an authorized dealer.
+
+When washing and waxing, park your vehicle in a shaded area out of direct sunlight.
+
+**Note:** Avoid waxing unpainted or low-gloss black colored parts; they discolor over time.
+
+### Body Styling Kit Precautions
+The distance between the underside of your vehicle and the ground is less than that of other models. Drive with extreme care to avoid damage to your vehicle.
+
+## PREPARING YOUR VEHICLE FOR STORAGE
+If you plan on storing your vehicle for 30 days or more, the following maintenance recommendations ensure your vehicle stays in good operating condition.
+
+Under various conditions, long-term storage may lead to degraded engine performance or failure unless you use specific precautions to preserve your vehicle.
+
+### General
+- Store all vehicles in a dry, ventilated place.
+- If vehicles are stored outside, they require regular maintenance to protect against rust and weather damage.
+- Make sure all linkages, cables, levers and pins under your vehicle are covered with grease to prevent rust.
+- Move vehicles at least 25 ft (7.5 m) every 15 days to lubricate working parts and prevent corrosion.
+- Fill the fuel tank with high-quality fuel until the first automatic shutoff of the fuel pump nozzle.
+
+### Engine
+- Change the engine oil and filter prior to storage because used engine oil contains contaminants which may cause engine damage.
+- Start the engine every 15 days for a minimum of 15 minutes. Run at fast idle with the climate controls set to defrost until the engine reaches normal operating temperature.
+## Vehicle Maintenance
+
+### General Maintenance
+- With your foot on the brake, shift through all the gears while the engine is running.
+
+### Body
+- Wash your vehicle thoroughly to remove dirt, grease, oil, tar or mud from exterior surfaces, rear-wheel housings and the underside of front fenders.
+- Periodically wash your vehicle if it is stored in exposed locations.
+- Touch-up exposed or primed metal to prevent rust.
+- Cover chrome and stainless steel parts with a thick coat of auto wax to prevent discoloration. Re-wax as necessary when you wash your vehicle.
+- Lubricate all hood, door and luggage compartment hinges and latches with a light grade oil.
+- Cover interior trim to prevent fading.
+- Keep all rubber parts free from oil and solvents.
+
+### Hybrid Battery Systems
+We recommend the following actions for your vehicle:
+- When storing your vehicle for greater than 30 days the state of charge should be approximately 50%. Additionally we recommend disconnecting the 12V battery which will reduce system loads on the HV battery.
+
+### 12 Volt Battery
+- Check and recharge as necessary. Keep connections clean.
+
+Note: It is necessary to reset memory features if you disconnect the battery cables.
+
+### Brakes
+Make sure the brakes and parking brake release fully.
+
+### Tires
+- Maintain recommended air pressure.
+
+Note: If you intend on parking your vehicle for an extended period after cleaning the wheels with a wheel cleaner, drive your vehicle for a few minutes before doing so. This reduces the risk of corrosion of the brake discs, brake pads and linings.
+
+## Storing Your Vehicle
+Note: If you intend on parking your vehicle for an extended period after cleaning the wheels with a wheel cleaner, drive your vehicle for a few minutes before doing so to reduce the risk of increased corrosion of the brake discs, brake pads and linings.
+
+## Removing Your Vehicle from Storage
+When your vehicle is ready to come out of storage, do the following:
+- We recommend that you change the engine oil before you use your vehicle again.
+- Wash your vehicle to remove any dirt or grease film build-up on window surfaces.
+- Check windshield wipers for any deterioration.
+- Check under the hood for any foreign material that may have collected during storage such as mice or squirrel nests.
+- Check the exhaust for any foreign material that may have collected during storage.
+- Check tire pressures and set tire inflation per the Tire Label.
+- Check brake pedal operation. Drive your vehicle 15 ft (4.5 m) back and forth to remove rust build-up.
+- Check fluid levels (including coolant, oil and gas) to make sure there are no leaks, and fluids are at recommended levels.
+- If you remove the battery, clean the battery cable ends and check for damage.
+
+Contact an authorized dealer if you have any concerns or issues.
+
+## Wheel and Tire Information
+
+### Locating the Tire Label
+The tire label or safety certification label is on the driver side B-pillar or the edge of the driver door. It contains information on the recommended front and rear tire inflation pressures.
+
+### Department of Transportation Uniform Tire Quality Grades
+E142542
+
+Tire Quality Grades apply to new pneumatic passenger car tires. The Quality grades can be found where applicable on the tire sidewall between tread shoulder and maximum section width. For example: Treadwear 200 Traction AA Temperature A.
+
+These Tire Quality Grades are determined by standards that the United States Department of Transportation has set.
+
+Tire Quality Grades apply to new pneumatic passenger car tires. They do not apply to deep tread, winter-type snow tires, space-saver or temporary use spare tires, light truck or LT type tires, tires with nominal rim diameters of 10 to 12 inches or limited production tires as defined in Title 49 Code of Federal Regulations Part 575.104 (c)(2).
+
+U.S. Department of Transportation Tire quality grades: The U.S. Department of Transportation requires us to give you the following information about tire grades exactly as the government has written it.
+
+### Treadwear
+The treadwear grade is a comparative rating based on the wear rate of the tire when tested under controlled conditions on a specified government test course. For example, a tire graded 150 would wear 1½ times as well on the government course as a tire graded 100. The relative performance of tires depends upon the actual conditions of their use, however, and may depart significantly from the norm due to variations in driving habits, service practices, and differences in road characteristics and climate.
+
+### Traction AA A B C
+WARNING: The traction grade assigned to this tire is based on straight-ahead braking traction tests, and does not include acceleration, cornering, hydroplaning or peak traction characteristics.
+
+The traction grades, from highest to lowest are AA, A, B, and C. The grades represent the tire's ability to stop on wet pavement as measured under controlled conditions on specified government test surfaces of asphalt and concrete. A tire marked C may have poor traction performance.
+
+### Temperature A B C
+WARNING: The temperature grade for this tire is established for a tire that is properly inflated and not overloaded. Excessive speed, underinflation, or excessive loading, either separately or in combination, can cause heat buildup and possible tire failure.
+
+The temperature grades are A (the highest), B and C, representing the tire's resistance to the generation of heat and its ability to dissipate heat when tested under controlled conditions on a specified indoor laboratory test wheel. Sustained high temperature can cause the material of the tire to degenerate and reduce tire life, and excessive temperature can lead to sudden tire failure. The grade C corresponds to a level of performance which all passenger car tires must meet under the Federal Motor Vehicle Safety Standard No. 139. Grades B and A represent higher levels of performance on the laboratory test wheel than the minimum required by law.
+
+### Information on the Tire Sidewall
+Both United States and Canada Federal regulations require tire manufacturers to place standardized information on the sidewall of all tires. This information identifies and describes the fundamental characteristics of the tire and also provides a U.S. DOT Tire Identification Number for safety standard certification and in case of a recall.
+
+### Information on P Type Tires
+E142543
+
+P215/65R15 95H is an example of a tire size, load index and speed rating. The definitions of these items are listed below. (Note that the tire size, load index and speed rating for your vehicle may be different from this example.)
+
+A. P: Indicates a tire, designated by the Tire and Rim Association, that may be used for service on cars, sport utility vehicles, minivans and light trucks. Note: If your tire size does not begin with a letter this may mean it is designated by either the European Tire and Rim Technical Organization or the Japan Tire Manufacturing Association.
+
+B. 215: Indicates the nominal width of the tire in millimeters from sidewall edge to sidewall edge. In general, the larger the number, the wider the tire.
+
+C. 65: Indicates the aspect ratio which gives the tire's ratio of height to width.
+
+D. R: Indicates a radial type tire.
+
+E. 15: Indicates the wheel or rim diameter in inches. If you change your wheel size, you will have to purchase new tires to match the new wheel diameter.
+
+F. 95: Indicates the tire's load index. It is an index that relates to how much weight a tire can carry. You may find this information in your owner's manual. If not, contact a local tire dealer.
+
+Note: You may not find this information on all tires because it is not required by federal law.
+## Tire Speed Ratings
+
+G. H: Indicates the tire's speed rating. The speed rating denotes the speed at which a tire is designed to be driven for extended periods of time under a standard condition of load and inflation pressure. The tires on your vehicle may operate at different conditions for load and inflation pressure. These speed ratings may need to be adjusted for the difference in conditions. The ratings range from 81 mph (130 km/h) to 186 mph (299 km/h). These ratings are listed in the following chart.
+
+| Letter rating   | Speed rating       |
+|-----------------|-------------------|
+| M               | 81 mph (130 km/h)  |
+| N               | 87 mph (140 km/h)  |
+| Q               | 99 mph (159 km/h)  |
+| R               | 106 mph (171 km/h) |
+| S               | 112 mph (180 km/h) |
+| T               | 118 mph (190 km/h) |
+| U               | 124 mph (200 km/h) |
+| H               | 130 mph (210 km/h) |
+| V               | 149 mph (240 km/h) |
+| W               | 168 mph (270 km/h) |
+| Y               | 186 mph (299 km/h) |
+
+Note: For tires with a maximum speed capability over 149 mph (240 km/h), tire manufacturers sometimes use the letters ZR. For those with a maximum speed capability over 186 mph (299 km/h), tire manufacturers always use the letters ZR.
+
+## Tire Identification
+
+H. U.S. DOT Tire Identification Number (TIN): This begins with the letters DOT and indicates that the tire meets all federal standards. The next two numbers or letters are the plant code designating where it was manufactured, the next two are the tire size code and the last four numbers represent the week and year the tire was built. For example, the numbers 317 mean the 31st week of 1997. After 2000, the numbers go to four digits. For example, 2501 means the 25th week of 2001. The numbers in between are identification codes used for traceability. This information is used to contact customers if a tire defect requires a recall.
+
+## Tire Types and Composition
+
+I. M+S or M/S: Mud and Snow, or
+
+J. Tire Ply Composition and Material Used: Indicates the number of plies or the number of layers of rubber-coated fabric in the tire tread and sidewall. Tire manufacturers also must indicate the ply materials in the tire and the sidewall, which include steel, nylon, polyester, and others.
+
+AT: All Terrain, or
+
+AS: All Season.
+
+## Load and Inflation Information
+
+K. Maximum Load: Indicates the maximum load in kilograms and pounds that can be carried by the tire. See the Safety Compliance Certification Label (affixed to either the door hinge pillar, door-latch post, or the door edge that meets the door-latch post, next to the driver's seating position), for the correct tire pressure for your vehicle.
+
+L. Treadwear, Traction and Temperature Grades:
+
+* Treadwear: The treadwear grade is a comparative rating based on the wear rate of the tire when tested under controlled conditions on a specified government test course. For example, a tire graded 150 would wear one and one-half times as well on the government course as a tire graded 100.
+
+* Traction: The traction grades, from highest to lowest are AA, A, B, and C. The grades represent the tire's ability to stop on wet pavement as measured under controlled conditions on specified government test surfaces of asphalt and concrete. A tire marked C may have poor traction performance.
+
+* Temperature: The temperature grades are A (the highest), B and C, representing the tire's resistance to the generation of heat and its ability to dissipate heat when tested under controlled conditions on a specified indoor laboratory test wheel.
+
+M. Maximum Inflation Pressure: Indicates the tire manufacturers' maximum permissible pressure or the pressure at which the maximum load can be carried by the tire. This pressure is normally higher than the vehicle manufacturer's recommended cold inflation pressure which can be found on the Safety Compliance Certification Label (affixed to either the door hinge pillar, door-latch post, or the door edge that meets the door-latch post, next to the driver's seating position), or Tire Label which is located on the B-Pillar or the edge of the driver's door. The cold inflation pressure should never be set lower than the recommended pressure on the vehicle label.
+
+The tire suppliers may have additional markings, notes or warnings such as standard load or radial tubeless.
+
+## Additional Information for LT Type Tires
+
+Note: Tire Quality Grades do not apply to this type of tire.
+
+E142544
+
+LT type tires have some additional information beyond those of P type tires; these differences are described below.
+
+A. LT: Indicates a tire, designated by the Tire and Rim Association, that is intended for service on light trucks.
+
+B. Load Range and Load Inflation Limits: Indicates the tire's load-carrying capabilities and its inflation limits.
+
+C. Maximum Load Dual lb (kg) at psi (kPa) cold: Indicates the maximum load and tire pressure when the tire is used as a dual, defined as four tires on the rear axle (a total of six or more tires on the vehicle).
+
+D. Maximum Load Single lb (kg) at psi (kPa) cold: Indicates the maximum load and tire pressure when the tire is used as a single, defined as two tires (total) on the rear axle.
+
+## Information on T Type Tires
+
+T145/80D16 is an example of a tire size.
+
+Note: The temporary tire size for your vehicle may be different from this example. Tire Quality Grades do not apply to this type of tire.
+
+E142545
+
+T type tires have some additional information beyond those of P type tires; these differences are described below:
+
+A. T: Indicates a type of tire, designated by the Tire and Rim Association, that is intended for temporary service on cars, sport utility vehicles, minivans and light trucks.
+
+B. 145: Indicates the nominal width of the tire in millimeters from sidewall edge to sidewall edge. In general, the larger the number, the wider the tire.
+
+C. 80: Indicates the aspect ratio which gives the tire's ratio of height to width. Numbers of 70 or lower indicate a short sidewall.
+
+D. D: Indicates a diagonal type tire.
+
+E. 16: Indicates the wheel or rim diameter in inches. If you change your wheel size, you will have to purchase new tires to match the new wheel diameter.
+
+R: Indicates a radial type tire.
+
+## Glossary of Tire Terminology
+
+* Tire label: A label showing the original equipment tire sizes, recommended inflation pressure and the maximum weight the vehicle can carry.
+* Tire Identification Number (TIN): A number on the sidewall of each tire providing information about the tire brand and manufacturing plant, tire size and date of manufacture. Also referred to as DOT code.
+* Inflation pressure: A measure of the amount of air in a tire.
+* Standard load: A class of P-metric or Metric tires designed to carry a maximum load at set pressure. For example: For P-metric tires 35 psi (2.4 bar) and for Metric tires 36 psi (2.5 bar). Increasing the inflation pressure beyond this pressure will not increase the tire's load carrying capability.
+* Extra load: A class of P-metric or Metric tires designed to carry a heavier maximum load at 42 psi (2.9 bar). Increasing the inflation pressure beyond this pressure will not increase the tire's load carrying capability.
+* kPa: Kilopascal, a metric unit of air pressure.
+* PSI: Pounds per square inch, a standard unit of air pressure.
+* Cold tire pressure: The tire pressure when the vehicle has been stationary and out of direct sunlight for an hour or more and prior to the vehicle being driven for 1 mi (1.6 km).
+* Recommended inflation pressure: The cold inflation pressure found on the Safety Compliance Certification Label (affixed to either the door hinge pillar, door-latch post, or the door edge that meets the door-latch post, next to the driver's seating position), or Tire Label located on the B-Pillar or the edge of the driver door.
+## TIRE COMPONENTS
+
+* **B-pillar**: The structural member at the side of the vehicle behind the front door.
+* **Bead area of the tire**: Area of the tire next to the rim.
+* **Sidewall of the tire**: Area between the bead area and the tread.
+* **Tread area of the tire**: Area of the perimeter of the tire that contacts the road when mounted on the vehicle.
+* **Rim**: The metal support (wheel) for a tire or a tire and tube assembly upon which the tire beads are seated.
+
+## TIRE REPLACEMENT REQUIREMENTS
+
+Your vehicle is equipped with tires designed to provide a safe ride and handling capability.
+
+WARNING: Only use replacement tires and wheels that are the same size, load index, speed rating and type (such as P-metric versus LT-metric or all-season versus all-terrain) as those originally provided by Ford. The recommended tire and wheel size may be found on either the Safety Compliance Certification Label (affixed to either the door hinge pillar, door-latch post, or the door edge that meets the door-latch post, next to the driver's seating position), or the Tire Label which is located on the B-Pillar or edge of the driver's door. If this information is not found on these labels, then you should contact your authorized dealer as soon as possible. Use of any tire or wheel not recommended by Ford can affect the safety and performance of your vehicle, which could result in an increased risk of loss of vehicle control, vehicle rollover, personal injury and death.
+
+WARNING: To reduce the risk of serious injury, when mounting replacement tires and wheels, you should not exceed the maximum pressure indicated on the sidewall of the tire to set the beads without additional precautions listed below. If the beads do not seat at the maximum pressure indicated, re-lubricate and try again.
+
+WARNING: For a mounting pressure more than 20 psi (1.38 bar) greater than the maximum pressure, a Ford dealer or other tire service professional should do the mounting.
+
+WARNING: Always inflate steel carcass tires with a remote air fill with the person inflating standing at a minimum of 12 ft (3.66 m) away from the wheel and tire assembly.
+
+## Wheel and Tire Information
+
+WARNING: When inflating the tire for mounting pressures up to 20 psi (1.38 bar) greater than the maximum pressure on the tire sidewall, the following precautions must be taken to protect the person mounting the tire:
+
+WARNING: Use only the specified jacking points. If you use other locations, you could damage the body, steering, suspension, engine, braking system or the fuel lines.
+
+- Make sure that you have the correct tire and wheel size.
+- Lubricate the tire bead and wheel bead seat area again.
+- Stand at a minimum of 12 ft (3.66 m) away from the wheel and tire assembly.
+- Use both eye and ear protection.
+
+Important: Remember to replace the wheel valve stems when the road tires are replaced on your vehicle.
+
+It is recommended that the two front tires or two rear tires generally be replaced as a pair if the worn tires still have usable depth.
+
+To avoid potential All-Wheel Drive (AWD) malfunction or (AWD) system damage, it is recommended to replace all four tires rather than mixing significantly worn tires with new tires.
+
+The tire pressure sensors mounted in the wheels (originally installed on your vehicle) are not designed to be used in aftermarket wheels.
+
+The use of wheels or tires not recommended may affect the operation of your tire pressure monitoring system.
+
+If the tire pressure monitoring system indicator is flashing, your system is malfunctioning. Your replacement tire might be incompatible with your tire pressure monitoring system, or some component of the system may be damaged.
+
+## Age
+
+WARNING: Tires degrade over time depending on many factors such as weather, storage conditions, and conditions of use (load, speed, inflation pressure) the tires experience throughout their lives.
+
+In general, tires should be replaced after six years regardless of tread wear. However, heat caused by hot climates or frequent high loading conditions can accelerate the aging process and may require tires to be replaced more frequently.
+
+You should replace your spare tire when you replace the road tires or after six years due to aging even if it has not been used.
+
+## U.S. DOT Tire Identification Number
+
+Both United States and Canada Federal regulations require tire manufacturers to place standardized information on the sidewall of all tires. This information identifies and describes the fundamental characteristics of the tire and also provides a U.S. DOT Tire Identification Number for safety standard certification and in case of a recall.
+
+This begins with the letters DOT and indicates that the tire meets all federal standards. The next two numbers or letters are the plant code designating where it was manufactured, the next two are the tire size code and the last four numbers represent the week and year the tire was built. For example, the numbers 317 mean the 31st week of 1997. After 2000, the numbers go to four digits. For example, 2501 means the 25th week of 2001. The numbers in between are identification codes used for traceability. This information is used to contact customers if a tire defect requires a recall.
+
+## USING SNOW CHAINS
+
+WARNING: Do not exceed 30 mph (50 km/h). Failure to follow this instruction could result in the loss of control of your vehicle, personal injury or death.
+
+WARNING: Do not use snow chains on snow-free roads.
+
+WARNING: Only fit snow chains to specified tires.
+
+WARNING: If your vehicle is fitted with wheel trims, remove them before fitting snow chains.
+
+WARNING: If you are driving in slippery conditions that require tire chains or cables, then it is critical that you drive cautiously. Keep speeds down, allow for longer stopping distances and avoid aggressive steering to reduce the chances of a loss of vehicle control which can lead to serious injury or death. If the rear end of your vehicle slides while cornering, steer in the direction of the slide until you regain control of your vehicle.
+
+## Wheel and Tire Information (Duplicate Section)
+
+WARNING: Remember that even advanced technology cannot defy the laws of physics. It's always possible to lose control of a vehicle due to inappropriate driver input for the conditions. Aggressive driving on any road condition can cause you to lose control of your vehicle increasing the risk of personal injury or property damage. Activation of the electronic stability control system is an indication that at least some of the tires have exceeded their ability to grip the road; this could reduce the operator's ability to control the vehicle potentially resulting in a loss of vehicle control, vehicle rollover, personal injury and death.
+
+WARNING: Wheels and tires must be the same size, load index and speed rating as those originally fitted on the vehicle. Use of any other tire or wheel can affect the safety and performance of your vehicle. Additionally, the use of non-recommended tires and wheels can cause steering, suspension, axle, transfer case or power transfer unit failure. Follow the recommended tire inflation pressures found on the Safety Compliance Certification label, or the Tire Label on the B-Pillar or the edge of the driver door. Failure to follow this instruction could result in loss of vehicle control, vehicle rollover, or personal injury or death.
+
+The tires on your vehicle could have all-weather treads to provide traction in rain and snow. In some climates you will need to use snow tires and chains on your vehicle in emergency situations or if required by law.
+
+Note: The suspension insulation and bumpers will help prevent vehicle damage. Do not remove these components from your vehicle when using snow tires and chains.
+
+Note: Driving too fast for road conditions creates the possibility of loss of vehicle control. Driving at very high speeds for extended periods of time may result in damage to vehicle components.
+## Snow Tires and Chains
+
+Follow these guidelines when using snow tires and chains:
+
+- Chains may damage aluminum wheels.
+- Use ultra low profile cables, 10 mm or less in dimension as measured on the sidewall of your tire, only with 225/60R18 all season tires.
+- Do not use snow chains or cables with 225/55R19, or 245/45R20.
+- Not all S-class snow chains or cables meet these restrictions. Chains of this size restriction will include a tensioning device.
+- Purchase chains or cables from a manufacturer that clearly labels body to tire dimension restrictions. The snow chains or cables must be mounted in pairs on the rear tires only.
+- When driving with snow chains do not exceed 30 mph (50 km/h) or the maximum speed recommended by the chain manufacturer, whichever is less.
+- Install cables securely, verifying that the cables do not touch any wiring or brake lines.
+- Drive cautiously. If you hear the cables rub or bang against the vehicle, stop and retighten them. If this does not work, remove the cables to prevent vehicle damage.
+- Remove the tire chains when they are no longer needed. Do not use tire chains on dry roads.
+
+If you have any questions regarding snow chains or cables, please contact your authorized dealer.
+
+## Checking the Tire Pressures
+
+Safe operation of your vehicle requires that your tires are properly inflated. Every day before you drive, check your tires.
+
+At least once a month and before long trips, inspect each tire and check the tire pressure with a tire gauge. Inflate all tires to the recommended inflation pressure. See Inflating the Tires.
+
+## Inflating the Tires
+
+WARNING: Under-inflation is the most common cause of tire failures and may result in severe tire cracking, tread separation or blowout, with unexpected loss of vehicle control and increased risk of injury. Under-inflation increases sidewall flexing and rolling resistance, resulting in heat buildup and internal damage to the tire. It also may result in unnecessary tire stress, irregular wear, loss of vehicle control and accidents. A tire can lose up to half of its air pressure and not appear to be flat!
+
+WARNING: Do not use the tire pressure displayed in the information display as a tire pressure gauge. Failure to follow this instruction could result in personal injury or death.
+
+Use the recommended cold inflation pressure for optimum tire performance and wear. Under-inflation or over-inflation may cause uneven treadwear patterns.
+
+Inflate your tires to the recommended inflation pressure even if it is less than the maximum inflation pressure information found on the tire. You can find the tire label with the recommended tire inflation pressure next to the tire size on the B-Pillar or the edge of the driver door.
+
+The recommended tire inflation pressure is also found on the Safety Compliance Certification Label, affixed to either the door hinge pillar, door-latch post, or the door edge that meets the door-latch on the B-pillar, or on the edge of the driver door.
+
+Failure to follow the tire pressure recommendations can cause uneven treadwear patterns and adversely affect the way your vehicle handles.
+
+## Inspecting the Tire for Wear
+
+When the tread is worn down to one sixteenth of an inch (2 mm), tires must be replaced to help prevent your vehicle from skidding and hydroplaning. Built-in treadwear indicators, or wear bars, which look like narrow strips of smooth rubber across the tread will appear on the tire when the tread is worn down to one sixteenth of an inch (2 mm).
+
+When the tire tread wears down to the same height as these wear bars, the tire is worn out and must be replaced.
+
+The tires should also be balanced periodically. An unbalanced tire and wheel assembly may result in irregular tire wear.
+
+Periodically inspect the tire treads for uneven or excessive wear and remove objects such as stones, nails or glass that may be wedged in the tread grooves.
+
+## Inspecting the Tire for Damage
+
+Inspect the tire sidewalls for cracking, cuts, bruises and other signs of damage or excessive wear. If internal damage to the tire is suspected, have the tire dismounted and inspected in case it needs to be repaired or replaced. For your safety, tires that are damaged or show signs of excessive wear should not be used because they are more likely to blow out or fail.
+
+Periodically inspect the tire treads and sidewalls for damage, such as bulges in the tread or sidewalls, cracks in the tread groove and separation in the tread or sidewall. If damage is observed or suspected, have the tire inspected by a tire professional.
+
+## Safety Practices
+
+WARNING: If your vehicle is stuck in snow, mud or sand, do not rapidly spin the tires; spinning the tires can tear the tire and cause an explosion. A tire can explode in as little as three to five seconds.
+
+WARNING: Do not spin the wheels at over 34 mph (55 km/h). The tires may fail and injure a passenger or bystander.
+
+## Highway Hazards
+
+No matter how carefully you drive, there is always the possibility that you could eventually have a flat tire on the highway. Drive slowly to the closest safe area out of traffic. This could further damage the flat tire, but your safety is more important.
+
+If you feel a sudden vibration or ride disturbance while driving, or you suspect your tire or vehicle has been damaged, immediately reduce your speed. Drive with caution until you can safely pull off the road. Stop and inspect the tires for damage. If a tire is under-inflated or damaged, deflate it, remove the wheel and replace it with your spare tire and wheel. If you cannot detect a cause, have the vehicle towed to the nearest repair facility or tire dealer to have the vehicle inspected.
+
+## Tire and Wheel Alignment
+
+A bad jolt from hitting a curb or pothole can cause the front end of your vehicle to become misaligned or cause damage to your tires. If your vehicle seems to pull to one side when you are driving, the wheels could be out of alignment. Have an authorized dealer check the wheel alignment periodically.
+
+## Tire Care
+
+Wheel misalignment in the front or the rear can cause uneven and rapid treadwear of your tires and should be corrected by an authorized dealer.
+
+## Inspecting the Wheel Valve Stems
+
+Check the valve stems for holes, cracks, or cuts that could permit air leakage.
+
+## Tire Rotation
+
+WARNING: If the tire label shows different tire pressures for the front and rear tires and the vehicle has a tire pressure monitoring system, then you need to update the settings for the system sensors. Always perform the system reset procedure after tire rotation. If you do not reset the system, it may not provide a low tire pressure warning when necessary.
+
+Rotating your tires at the recommended interval will help your tires wear more evenly, providing better tire performance and longer tire life.
+
+Note: If your tires show any uneven wear have the alignment checked by an authorized dealer before rotating tires.
+
+Note: If you have a dissimilar spare wheel and tire assembly, it is intended for temporary use only and should not be used in a tire rotation.
+
+Note: After having your tires rotated, inflation pressure must be checked and adjusted to the vehicle requirements.
+
+## Tire Rotation Diagram
+
+Follow the diagram indicating the correct tire locations for rotating the tires.
+
+## What is the Tire Sealant and Inflator Kit
+
+The kit consists of an air compressor to re-inflate the tire and a canister of sealing compound that effectively seals most punctures. This kit provides a temporary tire repair allowing you to drive your vehicle up to 120 mi (200 km) at a maximum speed of 50 mph (80 km/h) to reach a tire service location.
+
+## Tire Sealant and Inflator Kit Precautions
+
+WARNING: Failure to follow these guidelines could result in an increased risk of loss of vehicle control, injury or death.
+WARNING: Do not run the engine when operating the air compressor unless the vehicle is outdoors or in a well-ventilated area.
+
+Note: Do not use the kit if a tire has become severely damaged. Only punctures located within the tire tread can be sealed with the kit.
+
+Do not attempt to repair punctures larger than 0.24 in (6 mm) or damage to the tire's sidewall. The tire may not completely seal.
+
+- Drive carefully and avoid abrupt steering maneuvers.
+- Periodically monitor tire inflation pressure in the affected tire; if the tire is losing pressure, have the vehicle towed.
+- Read the information in the Tips for Use of the Kit section to make sure safe operation of the kit and your vehicle.
+
+## LOCATING THE TIRE SEALANT AND INFLATOR KIT
+
+The kit is located under the load floor in the rear of the vehicle.
+
+## TIRE SEALANT AND INFLATOR KIT COMPONENTS
+
+- Air compressor (inside) A  
+- Selector switch B  
+- On and Off button C  
+- Air pressure gauge D  
+- Sealant bottle and canister E  
+- Dual purpose hose: air and repair F  
+- Tire valve connector G  
+
+## Tire Sealant and Inflator Kit (If Equipped)
+
+| H   | Accessory power plug           |
+|-----|--------------------------------|
+| I   | Casing/housing                 |
+| J   | Bike/raft/sports ball adapters |
+
+## USING THE TIRE SEALANT AND INFLATOR KIT
+
+### Tips for use of the kit
+
+To ensure safe operation of the kit:
+
+- Before operating the kit, make sure your vehicle is safely off the road and away from moving traffic.
+- Do not remove any foreign objects, such as nails or screws, from the tire.
+- Do not allow the compressor to operate continuously for more than 15 minutes. This will help prevent the compressor from overheating.
+- Only use the kit when the ambient temperature is between -22°F (-30°C) and 158°F (70°C).
+- Only use the sealing compound before the use-by date. The use-by date is on a label on the sealant canister and can be seen through the rectangular viewing window on the bottom of the compressor. Check the use-by date regularly and replace the canister when the sealant expires.
+
+Note: Sealant compound contains latex. Use appropriate precautions to avoid any allergic reactions.
+
+When inflation only is required for a tire or other objects, the selector must be in the Air position.
+
+### What to do when a tire is punctured
+
+A tire puncture within the tire's tread area can be repaired in two stages with the kit.
+
+- In the first stage, the tire will be reinflated with a sealing compound and air. After the tire has been inflated, you will need to drive the vehicle a short distance approximately 4 mi (6 km) to distribute the sealant in the tire.
+- In the second stage, you will need to check the tire pressure and adjust, if necessary, to the vehicle's specified tire inflation pressure.
+
+### First Stage: Reinflating the Tire with sealing compound and air
+
+WARNING: Do not stand directly over the kit while inflating the tire. If you notice any unusual bulges or deformations in the tire's sidewall during inflation, stop and call roadside assistance.
+
+WARNING: If the tire does not inflate to the recommended tire pressure within 15 minutes, stop and call roadside assistance.
+
+Park the vehicle in a safe, level and secure area, away from moving traffic.
+
+Turn the hazard lights on. Apply the parking brake and power off the vehicle. Inspect the flat tire for visible damage.
+
+If a puncture is located in the tire sidewall, stop and call roadside assistance.
+
+1. Remove the valve cap from the tire valve.
+2. Unwrap the dual purpose hose (black tube) from the back of the compressor housing.
+3. Fasten the hose to the tire valve by turning the connector clockwise. Tighten the connection securely.
+4. Plug the power cable into the 12-volt power point in the vehicle.
+5. Remove the warning sticker found on the casing/housing and place it on the top of the instrument panel or the center of the dash.
+6. Turn dial (A) clockwise to the sealant position. Turn the kit on by pressing the on/off button (B).
+7. Inflate the tire to the pressure listed on the tire label located on the driver door or the door jamb area. The final tire pressure should be checked with the compressor turned off in order to get an accurate pressure reading.
+8. When the recommended tire pressure is reached, turn off the kit, unplug the power cable, and disconnect the hose from the tire valve. Re-install the valve cap on the tire valve and return the kit to the rear of the vehicle.
+9. Drive the vehicle 4 mi (6 km) to distribute the sealant evenly inside the tire.
+
+Note: If you experience any unusual vibration, ride disturbance or noise while driving, reduce your speed until you can safely pull off to the side of the road to call for roadside assistance. Do not proceed to the second stage of this operation.
+
+### Second Stage: Checking the tire pressure with the inflator kit
+
+Check the air pressure of your tires as follows:
+
+1. Remove the valve cap from the tire valve.
+2. Firmly screw the air compressor hose onto the valve stem by turning clockwise.
+3. Push and turn the dial clockwise to the air position.
+4. If required, turn on the compressor and adjust the tire to the recommended inflation pressure.
+5. Unplug the hoses, re-install the valve cap on the tire and return the kit to the rear of the vehicle.
+
+### What to do after the tire has been sealed
+
+After using the kit to seal your tire, you will need to replace the sealant canister. Sealant canisters and spare parts can be obtained at an authorized dealer. Empty sealant canisters may be disposed of at home. However, canisters still containing liquid sealant should be disposed of in accordance with local waste disposal regulation.
+
+### Removal of the sealant canister from the kit
+
+1. Unwrap the dual purpose hose (black tube) from the compressor housing.
+2. Unwrap the power cord.
+3. Remove the back cover.
+4. Rotate the sealant canister up 90 degrees and pull away from casing/housing to remove.
+
+### Installation of the sealant canister to the kit
+
+1. With the canister held perpendicular to the housing, insert the canister nozzle into the connector and push until seated.
+2. Rotate the canister 90 degrees down into the housing/casing.
+3. Snap the back cover back into place.
+4. Wrap the dual purpose hose (black tube) around the channel on the bottom of the housing/casing.
+5. Wrap the power cord around the housing and stow the accessory power plug.
+
+## TIRE PRESSURE MONITORING SYSTEM
+
+### WHAT IS THE TIRE PRESSURE MONITORING SYSTEM
+
+The tire pressure monitoring system measures the vehicle's tire pressures. A warning lamp illuminates if one or more tires are significantly underinflated or if there is a system malfunction.
+
+### TIRE PRESSURE MONITORING SYSTEM OVERVIEW
+
+WARNING: If the tire pressure monitor sensor becomes damaged it may not function.
+
+WARNING: Under-inflation is the most common cause of tire failures and may result in severe tire cracking, tread separation or blowout, with unexpected loss of vehicle control and increased risk of injury. Under-inflation increases sidewall flexing and rolling resistance, resulting in heat buildup and internal damage to the tire. It also may result in unnecessary tire stress, irregular wear, loss of vehicle control and accidents. A tire can lose up to half of its air pressure and not appear to be flat!
+## Tire Pressure Monitoring System
+
+### Tire Pressure Maintenance
+
+WARNING: To determine the required pressure(s) for your vehicle, see the Safety Compliance Certification Label (on the door hinge pillar, door-latch post or the door edge that meets the door-latch post, next to the driver seat) or the Tire Label on the B-Pillar or the edge of the driver door.
+
+Each tire, including the spare (if provided), should be checked monthly when cold and inflated to the inflation pressure recommended by the vehicle manufacturer on the vehicle placard or tire inflation pressure label. (If your vehicle has tires of a different size than the size indicated on the vehicle placard or tire inflation pressure label, you should determine the proper tire inflation pressure for those tires).
+
+As an added safety feature, your vehicle has been equipped with a Tire Pressure Monitoring System (TPMS) that illuminates a low tire pressure telltale when one or more of your tires is significantly under-inflated. Accordingly, when the low tire pressure telltale illuminates, you should stop and check your tires as soon as possible, and inflate them to the proper pressure. Driving on a significantly under-inflated tire causes the tire to overheat and can lead to tire failure. Under-inflation also reduces fuel efficiency and tire tread life, and may affect the vehicle's handling and stopping ability.
+
+Please note that the TPMS is not a substitute for proper tire maintenance, and it is the driver's responsibility to maintain correct tire pressure, even if under-inflation has not reached the level to trigger illumination of the TPMS low tire pressure telltale.
+
+Your vehicle has also been equipped with a TPMS malfunction indicator to indicate when the system is not operating properly. The TPMS malfunction indicator is combined with the low tire pressure telltale. When the system detects a malfunction, the telltale will flash for approximately one minute and then remain continuously illuminated. This sequence will continue upon subsequent vehicle start-ups as long as the malfunction exists.
+
+### Tire Pressure Monitoring System Precautions
+
+WARNING: The tire pressure monitoring system is not a substitute for manually checking tire pressures. You should periodically check tire pressures using a pressure gauge. Failure to correctly maintain tire pressures could increase the risk of tire failure, loss of control, vehicle rollover and personal injury.
+
+Note: The use of tire sealants can damage the tire pressure monitoring system.
+
+### Tire Pressure Monitoring System Limitations
+
+When the outside temperature drops significantly, the tire pressure could decrease and activate the low tire pressure warning lamp.
+
+The warning lamp could also illuminate when you use a spare wheel, or tire sealant from the inflator kit.
+
+Note: Regularly checking the vehicle tire pressures can reduce the possibility for the warning lamp to illuminate due to outside air temperature changes.
+
+Note: After you inflate the tires to the recommended pressure it could take up to two minutes of driving over 20 mph (32 km/h) for the warning indicator to turn off.
+
+### Viewing the Tire Pressures
+
+To view the current tire pressures, use the information display or touchscreen.
+
+### Tire Pressure Monitoring System Troubleshooting
+
+### Tire Pressure Monitoring System - Warning Lamps
+
+The low tire pressure warning lamp has combined functions, as it warns you when your tires need air, and when the system is no longer capable of functioning as intended.
+
+| Warning Lamp                               | Possible Cause                                      | Action Required                                                                                                                                                                                                                         |
+|-------------------------------------------|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Solid warning lamp                        | One or more tires are significantly under inflated | After inflating your tires to the manufacturer's recommended pressure as shown on the tire label, on the edge of driver door or the B-pillar, drive your vehicle for at least two minutes over 20 mph (32 km/h) before the light turns off. |
+| Solid warning lamp or flashing warning lamp | Temporary spare wheel in use                       | Repair the damaged road wheel and tire and refit it to your vehicle to restore operation of the system.                                                                                                                                       |
+| Solid warning lamp or flashing warning lamp | Tire pressure monitoring system malfunction          | If the tires are inflated to the recommended tire pressures and the temporary spare wheel is not in use, the system detected a fault that requires service. Have your vehicle checked as soon as possible.                                 |
+
+### Tire Pressure Monitoring System - Information Messages
+
+| Message                     | Action                                                                                                                                                                                                                                       |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tire Pressure Low           | After inflating your tires to the manufacturer's recommended pressure as shown on the tire label, on the edge of the driver door or the B-pillar, drive your vehicle for at least two minutes over 20 mph (32 km/h) before the light turns off. |
+| Tire Pressure Monitor Fault | The system has detected a fault that requires service. Have your vehicle checked as soon as possible.                                                                                                                                        |
+| Tire Pressure Sensor Fault  | The system has detected a fault that requires service or a spare tire is in use. Have your vehicle checked as soon as possible.                                                                                                              |
+
+### Changing a Flat Tire
+
+WARNING: Never place anything between the vehicle jack and the ground.
+WARNING: Never place anything between the vehicle jack and your vehicle.
+
+WARNING: To help prevent your vehicle from moving when changing a wheel, shift the transmission into park (P), set the parking brake and use an appropriate block or wheel chock to secure the wheel diagonally opposite to the wheel being changed. For example, when changing the front left wheel, place an appropriate block or wheel chock on the right rear wheel.
+
+WARNING: It is recommended that the wheels of the vehicle be chocked, and that no person should remain in a vehicle that is being jacked.
+
+WARNING: Always use the jack provided as original equipment with your vehicle. If using a jack other than the one provided, make sure the jack capacity is adequate for the vehicle weight, including any vehicle cargo or modifications. If you are unsure if the jack capacity is adequate, contact the authorized dealer.
+
+WARNING: The jack supplied with this vehicle is only intended for changing wheels. Do not use the vehicle jack other than when you are changing a wheel in an emergency.
+
+WARNING: Check that the vehicle jack is not damaged or deformed and the thread is lubricated and clean.
+
+WARNING: The jack should be used on level firm ground wherever possible.
+
+WARNING: Use only the specified jacking points. If you use other positions, you may damage the body, steering, suspension, engine, braking system or the fuel lines.
+
+WARNING: Switch the ignition off and apply the park brake fully before lifting vehicle.
+
+WARNING: Park your vehicle so that you do not obstruct the flow of traffic or place yourself in any danger and set up a warning triangle.
+
+WARNING: Do not get under a vehicle that is only supported by a vehicle jack.
+
+WARNING: No person should place any portion of their body under a vehicle that is supported by a jack.
+
+Note: The jack does not require maintenance or additional lubrication over the service life of your vehicle.
+
+## Preparing to Change a Road Wheel
+
+1. Park on a level surface, set the parking brake and activate the hazard flashers.
+2. Place the transmission in park (P) and turn the engine off.
+
+## Changing a Road Wheel (If Equipped)
+
+3. Lift and remove the carpeted cargo area floor to access the spare tire and jack.
+4. Remove the wing nut that secures the spare tire by turning it counterclockwise.
+5. Remove the spare tire and jack kit from the spare tire compartment.
+
+Note: On Plug-in and Full Hybrid Electric Vehicles you can find the jack and wrench to the left of the spare tire.
+
+Note: On Non Plug-in or Full Hybrid Electric Vehicles, you can find the jack and wrench under the spare tire.
+
+6. Remove the jack and the flat tire retainer strap from the jack base.
+
+7. Turn the jack hex nut drive screw counterclockwise to detach the lug wrench from the jack. This lowers the jack and releases the mechanical lock.
+8. Unfold the lug wrench for use.
+
+9. Block the diagonally opposite wheel.
+
+10. Loosen each wheel lug nut one-half turn counterclockwise, but do not remove them until the wheel is raised off the ground.
+
+## Vehicle Jacking Points
+
+Note: Jack at the specified locations to avoid damage to the vehicle.
+
+11. The vehicle jacking points shown here are also depicted on the warning label on the jack. Small arrow-shaped marks on the vehicle sills show the location of the jacking points.
+
+12. Turn the wrench clockwise to raise the vehicle until the flat tire is completely off the ground.
+
+13. Remove the lug nuts with the lug wrench.
+
+Note: For vehicles with full wheel covers with exposed wheel nuts, remove the wheel nuts prior to removing the wheel cover or damage to the wheel cover may occur.
+
+14. Replace the flat tire with the spare tire, making sure the valve stem is facing outward. Reinstall the lug nuts until the wheel is snug against the hub. Do not fully tighten the lug nuts until the wheel has been lowered.
+15. Lower the wheel by turning the jack handle counterclockwise.
+16. Remove the jack and fully tighten the lug nuts in the order shown.
+
+## Stowing the Flat Tire
+
+1. To store the jack kit on Non Plug-in or Full Hybrid Electric Vehicles, fold the jack and wrench handle and engage it to the bracket of the jack base using the lug wrench pin.
+
+Note: To store the jack and wrench on Plug-in and Full Hybrid Electric Vehicles, fold the jack and wrench into the closed position, and place the wrench into the storage compartment. Position the jack assembly into the closed position and make sure the jack is fastened securely before you drive.
+
+2. When attaching the folded wrench on the jack, swing the wrench upward and adjust the jack height until the wrench hook engages the hole on the jack. Tighten the hex nut clockwise until secure.
+
+3. Re-position the jack kit assembly into the original vehicle position and secure with the plastic wing nut. Make sure the jack is fastened securely before you drive.
+4. Unblock the wheels.
+5. Stow the flat tire on the floor in the cargo area. Secure with the flat tire retainer strap by following the next steps:
+
+6. Locate the cargo tie-down near the seatback. Push the loop of the retainer strap through the tie-down. Thread the non-loop end through the loop.
+
+7. Weave the retainer strap through the wheel openings.
+8. Locate the front cargo tie-down at the opposite corner of the cargo area to the tie-down used in Step 4. Thread the retainer strap through the tie-down and pull tight.
+9. Secure by tying a 2-half hitch knot.
+
+## Wheel Nuts
+
+WARNING: When you install a wheel, always remove any corrosion, dirt or foreign materials present on the mounting surfaces of the wheel or the surface of the wheel hub, brake drum or brake disc that contacts the wheel. Make sure to secure any fasteners that attach the rotor to the hub so they do not interfere with the mounting surfaces of the wheel. Installing wheels without correct metal-to-metal contact at the wheel mounting surfaces can cause the wheel nuts to loosen and the wheel to come off while your vehicle is in motion, resulting in loss of vehicle control, personal injury or death.
+
+| Bolt size   | lb.ft(Nm)         |
+|-------------|-------------------|
+| M12 x 1.5   | 100 lb.ft (135Nm) |
+
+* Torque specifications are for nut and bolt threads free of dirt and rust. Use only Ford recommended replacement fasteners.
+
+Retighten the lug nuts to the specified torque within 100 mi (160 km) after any wheel disturbance (such as tire rotation, changing a flat tire, wheel removal).
+
+## Wheel Pilot Bore
+
+Inspect the wheel pilot bore and mounting surface prior to installation. Remove any visible corrosion or loose particles.
+
+## Engine Specifications - 1.5L EcoBoost™
+
+| Engine             | Specification      |
+|--------------------|--------------------|
+| Compression ratio. | 11:1               |
+| Displacement.      | 91 in³ (1,497 cm³) |
+| Firing order.      | 1-2-3              |
+| Ignition system.   | Coil on plug       |
+| Required fuel.     | Minimum 87 octane  |
+| Spark plug gap.    | 0.031 in (0.8mm)   |
+
+## Engine Specifications - 2.0L EcoBoost™
+
+| Engine             | Specification              |
+|--------------------|----------------------------|
+| Compression ratio. | 10:1                       |
+| Displacement.      | 122.0 in³ (1,999 cm³)      |
+| Firing order.      | 1-3-4-2                    |
+| Ignition system.   | Coil on plug               |
+| Spark plug gap.    | 0.028-0.031 in (0.7-0.8mm) |
+
+## Engine Specifications - 2.5L, Hybrid Electric Vehicle (HEV)/Plug-In Hybrid Electric Vehicle (PHEV)
+
+| Engine             | Specification                |
+|--------------------|------------------------------|
+| Compression ratio. | 13.0:1                       |
+| Displacement.      | 152 in³ (2,490 cm³)          |
+| Firing order.      | 1-3-4-2                      |
+| Ignition system.   | Coil on plug                 |
+| Spark plug gap.    | 0.049-0.053 in (1.25-1.35mm) |
+## Motorcraft Parts Recommendations
+
+### Recommended Motorcraft Parts
+| Component               | Motorcraft Part Number                                                |
+|-------------------------|---------------------------------------------------------------------|
+| Air filter element.     | FA-1939                                                             |
+| Battery.                | BAGM-48H6-760                                                       |
+| Cabin air filter.       | FP-89                                                               |
+| Engine oil filter. 1    | FL-910-S                                                            |
+| Spark plug.             | SP-550                                                              |
+| Windshield wiper blade. | WW-2502 (driver side) WW-2051 (passenger side) WW-1112 (rear window) |
+
+### Alternative Motorcraft Parts
+| Component               | Motorcraft Part Number                          |
+|-------------------------|-----------------------------------------------|
+| Air filter element.     | FA-1939                                       |
+| Battery.                | BAGM-48H6-760                                 |
+| Cabin air filter.       | FP-89                                         |
+| Engine oil filter. 1    | FL-910-S                                      |
+| Spark plug.             | SP-578                                        |
+| Windshield wiper blade. | WW-2502 (driver side) WW-2051 (passenger side) |
+
+| Component   | Motorcraft Part Number   |
+|-------------|------------------------|
+|             | WW-1112 (rear window)  |
+
+### Additional Motorcraft Parts
+| Component               | Motorcraft Part Number                                                |
+|-------------------------|---------------------------------------------------------------------|
+| Air filter element.     | FA-1948                                                             |
+| Oil filter. 1           | FL-910-S                                                            |
+| Battery.                | BXT-99RT4-A                                                         |
+| Spark plug.             | SP-530                                                              |
+| Cabin air filter.       | FP-89                                                               |
+| Windshield wiper blade. | WW-2502 (driver side) WW-2051 (passenger side) WW-1112 (rear window) |
+
+## Recommendations and Warnings
+We recommend Motorcraft parts that are available at your authorized dealer or at www.fordparts.com. We engineer these parts for your vehicle to meet or exceed our specifications. Use of other parts could impact vehicle performance, emissions, and durability. Your warranty could be void for any damage related to the use of other parts.
+
+## Oil Specifications
+
+### General Oil Recommendations
+Use oil that meets the defined specification and viscosity grade.
+
+If you do not use oil that meets the defined specification and viscosity grade, it could result in:
+- Component damage that your vehicle warranty does not cover.
+- Longer engine cranking periods.
+- Increased emission levels.
+- Reduced vehicle performance.
+- Reduced fuel economy.
+
+| Variant   | Including the Oil Filter   |
+|-----------|----------------------------|
+| All.      | 5.3 qt (5.05 L)            |
+
+| Name                                                                                                                                                                                                            | Specification   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Motorcraft® SAE 5W-20 Synthetic Blend Motor Oil (U.S.) Motorcraft® SAE 5W-20 Super Premium Motor Oil / Huile moteur de très haute qualité SAE 5W-20 Motorcraft® (Canada) XO-5W20-Q1SP (U.S.) CXO-5W20-LSP6 (Canada) | WSS-M2C960-A1   |
+
+E142732
+
+An oil that displays this symbol conforms to current engine, emission system, and fuel economy performance standards of ILSAC.
+
+We recommend Motorcraft motor oil for your vehicle. If Motorcraft oil is not available, use motor oils of the recommended viscosity grade that display the API Certification Mark for gasoline engines.
+
+Do not use supplemental engine oil additives because they are unnecessary and could lead to engine damage that your vehicle warranty does not cover.
+
+### Cold Weather Oil Recommendations
+To improve engine cold start performance,
+
+| Name                                                                           | Specification   |
+|--------------------------------------------------------------------------------|-----------------|
+| Motorcraft® SAE 0W-20 Full Synthetic Motor Oil (U.S.) (Canada) XO-0W20-QFS (U.S.) | WSS-M2C962-A1   |
+
+Use oil that meets the defined specification and viscosity grade.
+
+If you do not use oil that meets the defined specification and viscosity grade, it could result in:
+- Component damage that your vehicle warranty does not cover.
+- Longer engine cranking periods.
+- Increased emission levels.
+- Reduced vehicle performance.
+- Reduced fuel economy.
+
+E142732
+
+We recommend that you use the following alternative engine oil in extremely cold climates, where the ambient temperature reaches -22.0°F (-30°C) or below.
+
+| Variant   | Including the Oil Filter   |
+|-----------|----------------------------|
+| All.      | 5.5 qt (5.2 L)             |
+
+| Name                                                                                                                                                                                                            | Specification   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Motorcraft® SAE 5W-30 Synthetic Blend Motor Oil (U.S.) Motorcraft® SAE 5W-30 Super Premium Motor Oil / Huile moteur de très haute qualité SAE 5W-30 Motorcraft® (Canada) XO-5W30-Q1SP (U.S.) CXO-5W30-LSP6 (Canada) | WSS-M2C961-A1   |
+
+To improve engine cold start performance, we recommend that you use the following alternative engine oil in extremely cold climates, where the ambient temperature reaches -22.0°F (-30°C) or below.
+
+| Name                                   | Specification   |
+|----------------------------------------|-----------------|
+| Engine Oil - SAE 0W-30-Synthetic Blend | WSS-M2C963-A1   |
+Do not use supplemental engine oil additives because they are unnecessary and could lead to engine damage that your vehicle warranty does not cover.
+
+## ENGINE OIL CAPACITY AND SPECIFICATION - 2.5L, HYBRID ELECTRIC VEHICLE (HEV)/ PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+Use oil that meets the defined specification and viscosity grade.
+
+If you do not use oil that meets the defined specification and viscosity grade, it could result in:
+
+- Component damage that your vehicle warranty does not cover.
+- Longer engine cranking periods.
+- Increased emission levels.
+- Reduced vehicle performance.
+- Reduced fuel economy.
+
+E142732
+
+An oil that displays this symbol conforms to current engine, emission system and fuel economy performance standards of ILSAC.
+
+We recommend Motorcraft motor oil for your vehicle. If Motorcraft oil is not available, use motor oils of the recommended viscosity grade that display the API Certification Mark for gasoline engines.
+
+## Capacities
+
+| Variant   | Including the Oil Filter   |
+|-----------|----------------------------|
+| All.      | 5.7 qt (5.4 L)             |
+
+## Materials
+
+| Name                                                                           | Specification   |
+|--------------------------------------------------------------------------------|-----------------|
+| Motorcraft® SAE 0W-20 Full Synthetic Motor Oil (U.S.) (Canada) XO-0W20-QFS(U.S.) | WSS-M2C962-A1   |
+
+## COOLING SYSTEM CAPACITY AND SPECIFICATION - 1.5L ECOBOOST™
+
+Use coolant that meets the defined specification.
+
+## Capacities
+
+| Variant   | Quantity       |
+|-----------|----------------|
+| All.      | 7.6 qt (7.2 L) |
+
+## Materials
+
+| Name                                                                                                                                                                                                                | Specification   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Motorcraft® Yellow Prediluted Antifreeze/ Coolant (U.S.) Motorcraft® Yellow Prediluted Antifreeze/Coolant / Antigel/liquide de refroidissement prédilué jaune Motorcraft®(Canada) VC-13DL-G(U.S.) CVC-13DL-G(Canada) | WSS-M97B57-A2   |
+
+If you do not use coolant that meets the defined specification, it could result in:
+
+- Component damage that your vehicle warranty does not cover.
+- Reduced vehicle performance.
+
+## COOLING SYSTEM CAPACITY AND SPECIFICATION - 2.0L ECOBOOST™
+
+Use coolant that meets the defined specification.
+
+## Capacities
+
+| Variant   | Quantity       |
+|-----------|----------------|
+| All.      | 8.7 qt (8.2 L) |
+
+## Materials
+
+| Name                                                                                                                                                                                                                | Specification   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Motorcraft® Yellow Prediluted Antifreeze/ Coolant (U.S.) Motorcraft® Yellow Prediluted Antifreeze/Coolant / Antigel/liquide de refroidissement prédilué jaune Motorcraft®(Canada) VC-13DL-G(U.S.) CVC-13DL-G(Canada) | WSS-M97B57-A2   |
+
+## COOLING SYSTEM CAPACITY AND SPECIFICATION - 2.5L, HYBRID ELECTRIC VEHICLE (HEV)/PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+Use coolant that meets the defined specification.
+
+If you do not use coolant that meets the defined specification, it could result in:
+
+- Component damage that your vehicle warranty does not cover.
+- Reduced vehicle performance.
+
+## Capacities
+
+| Variant                                | Quantity        |
+|----------------------------------------|-----------------|
+| HEV-Low temperature cooling circuit.   | 5.0 qt (4.7 L)  |
+| HEV-High temperature cooling circuit.  | 9.6 qt (9.1 L)  |
+| PHEV-Low temperature cooling circuit.  | 6.6 qt (6.2 L)  |
+| PHEV-High temperature cooling circuit. | 10.1 qt (9.6 L) |
+
+## Materials
+
+| Name                                                                                                                                                                                                                | Specification   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Motorcraft® Yellow Prediluted Antifreeze/ Coolant (U.S.) Motorcraft® Yellow Prediluted Antifreeze/Coolant / Antigel/liquide de refroidissement prédilué jaune Motorcraft®(Canada) VC-13DL-G(U.S.) CVC-13DL-G(Canada) | WSS-M97B57-A2   |
+
+## FUEL TANK CAPACITY - EXCLUDING: HYBRID ELECTRIC VEHICLE (HEV)/PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+## Capacities
+
+| Variant                 | Quantity          |
+|-------------------------|-------------------|
+| 1.5L all-wheel drive.   | 15.7 gal (59.5 L) |
+| 1.5L front-wheel drive. | 14.8 gal (56.2 L) |
+| 2.0L all-wheel drive.   | 15.7 gal (59.5 L) |
+| 2.0L front-wheel drive. | 15.7 gal (59.5 L) |
+
+## FUEL TANK CAPACITY - HYBRID ELECTRIC VEHICLE (HEV)/ PLUG-IN HYBRID ELECTRIC VEHICLE (PHEV)
+
+## Capacities
+
+| Variant   | Quantity          |
+|-----------|-------------------|
+| HEV.      | 14.3 gal (54.2 L) |
+| PHEV.     | 11.1 gal (42 L)   |
+
+## AIR CONDITIONING SYSTEM CAPACITY AND SPECIFICATION - 1.5L ECOBOOST™
+
+WARNING: The air conditioning refrigerant system contains refrigerant under high pressure. Only qualified personnel should service the air conditioning refrigerant system.
+
+## Capacities
+
+| Variant   | Refrigerant      | Refrigerant Oil   |
+|-----------|------------------|-------------------|
+| All.      | 17.6 oz (0.5 kg) | 2.7 fl oz (80 ml) |
+
+## Materials
+
+| Name                                                                                                                                                              | Specification   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| R-1234yf Refrigerant (U.S.) R-1234yf Refrigerant/Frigorigène R-1234yf (Canada) YN-33-A (U.S.) HS7Z-19B519-BA (Canada)                                           | WSS-M17B21-A    |
+| Motorcraft® R-1234yf Refrigerant PAG Oil (U.S.) Motorcraft® R-1234yf Refrigerant PAG Oil / Huile PAG pour frigorigène R-1234yf Motorcraft® (Canada) YN-35 (U.S. & Canada) | WSS-M2C300-A2   |
+
+Use refrigerant and oil that meets the defined specifications.
+
+If you do not use refrigerant and oil that meets the defined specifications, it could result in:
+
+- Component damage that your vehicle warranty does not cover.
+- Reduced vehicle performance.
+
+## AIR CONDITIONING SYSTEM CAPACITY AND SPECIFICATION - 2.0L ECOBOOST™
+
+WARNING: The air conditioning refrigerant system contains refrigerant under high pressure. Only qualified personnel should service the air conditioning refrigerant system.
+
+## Capacities
+
+| Variant   | Refrigerant       | Refrigerant Oil    |
+|-----------|-------------------|--------------------|
+| All.      | 19.4 oz (0.55 kg) | 3.4 fl oz (100 ml) |
+## Materials
+
+### Refrigerants
+
+| Name                                                                                                                                                              | Specification   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| R-1234yf Refrigerant(U.S.) R-1234yfRefrigerant/FrigorigèneR-1234yf(Canada) YN-33-A(U.S.) HS7Z-19B519-BA(Canada)                                                   | WSS-M17B21-A    |
+| Motorcraft® R-1234yf Refrigerant PAG Oil(U.S.) Motorcraft® R-1234yf Refrigerant PAG Oil / Huile PAGpourfrigorigèneR-1234yfMotorcraft®(Canada) YN-35(U.S. &Canada) | WSS-M2C300-A2   |
+
+### Refrigerant Oil
+
+| Name                                                                                                                                                            | Specification   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Motorcraft® R-1234yf Refrigerant POE Oil(U.S.) Motorcraft® R-1234yf Refrigerant POE Oil / Huile POEpourfrigorigèneR-1234yfMotorcraft®(Canada) YN-34(U.S. &Canada) | WSS-M2C31-B2    |
+
+### Windshield Wash
+
+| Name                                                                                                                                                                                                                     | Specification   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Motorcraft® Premium Windshield Wash Concentrate with Bitterant(U.S.) Motorcraft® Premium Quality Windshield Washer Fluid / Liquide lave-glace de haute qualité Motorcraft®(Canada) ZC-32-B2(U.S.) CXC-37-F/M(Canada) | WSS-M14P19-A    |
+
+### Brake Fluid
+
+| Name                                                                                                                                                                                                                        | Specification   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Motorcraft® DOT4LV High Performance Motor Vehicle Brake Fluid(U.S.) Motorcraft® DOT4LV High Performance Motor Vehicle Brake Fluid / Liquide de frein automobile haute performance DOT4LVMotorcraft®(Canada) PM-20(U.S. &Canada) | WSS-M6C65-A2    |
+
+## Capacities
+
+### Air Conditioning
+
+| Variant   | Refrigerant        | Refrigerant Oil    |
+|-----------|--------------------|--------------------|
+| HEV.      | 18.5 oz (0.525 kg) | 4.7 fl oz (140 ml) |
+| PHEV.     | 19.4 oz (0.55 kg)  | 4.7 fl oz (140 ml) |
+
+### General
+
+| Variant   | Quantity          |
+|-----------|-------------------|
+| All.      | Fill as required. |
+
+## Warnings and Notes
+
+- The air conditioning refrigerant system can cause personal injury.
+- Use refrigerant and oil that meets the defined specifications.
+- If you do not use refrigerant and oil that meets the defined specifications, it could result in:
+  - Component damage that your vehicle warranty does not cover.
+  - Reduced vehicle performance.
+
+- Use fluid that meets the defined specification and viscosity grade.
+- If you do not use fluid that meets the defined specification and viscosity grade, it could result in:
+  - Component damage that your vehicle warranty does not cover.
+  - Reduced brake performance.
+  
+- Note: We recommend you use Dot 4 Low Viscosity (LV) High Performance Brake Fluid meeting WSS-M6C65-A2 specifications or ISO 4925 Class 6 standards. If you use any fluid other than the recommended fluid, it could cause reduced brake performance and not meet our performance standards. Keep brake fluid clean and dry. Contamination with dirt, water, petroleum products or other materials could result in brake system damage and possible failure.
+
+## Vehicle Identification Number
+
+### Locating the Vehicle Identification Number
+
+The vehicle identification number is on the left-hand side of the instrument panel.
+
+Note: In the illustration, XXXX is representative of your vehicle identification number.
+
+### Vehicle Identification Number Overview
+
+The vehicle identification number contains the following information:
+
+E142477
+
+- World manufacturer identifier. A
+- Brake system, gross vehicle weight rating, restraint devices and their locations. B
+- Make, vehicle line, series, body type. C
+- Engine or motor type. D
+- Check digit. E
+- Model year. F
+- Assembly plant. G
+- Production sequence number. H
+
+## Connected Vehicle Requirements
+
+Connected service and related feature functionality requires a compatible vehicle network.
+
+Some remote features require additional service activation. Log in to your Ford account for details. Some restrictions, third party terms and message or data rates may apply.
+
+## Connected Vehicle Limitations
+
+Evolving technology, cellular networks, or regulations could affect functionality and availability, or continued provision of some features. These changes could even stop some features from functioning.
+
+## Connecting the Vehicle to a Mobile Network
+
+### What is the Modem
+
+The modem allows access to a range of features built into your vehicle.
+
+### Enabling and Disabling the Modem
+
+1. Press Settings.
+2. Press FordPass Connect.
+3. Press Connectivity Settings.
+4. Switch connectivity features on or off.
+
+### Connecting FordPass to the Modem
+
+1. Make sure that the modem is enabled using the vehicle settings menu.
+2. Open the FordPass app on your device and log in.
+3. Add your vehicle or select your vehicle if already added.
+4. Select the option to activate your vehicle.
+5. Make sure that the name on the screen matches the name shown in your FordPass account.
+6. Confirm that FordPass account is connected to the modem.
+
+### Connecting the Vehicle to a Wi-Fi Network
+
+1. Press Settings.
+2. Press Wi-Fi.
+3. Switch Wi-Fi on.
+4. Press View Available Networks.
+5. Select an available Wi-Fi network.
+
+Note: Enter the network password to connect to a secure network.
+
+## Connected Vehicle - Troubleshooting - Vehicles with: Modem
+
+| Symptom                                                             | Possible Cause and Resolution                                                                                                                                         |
+|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I cannot confirm the connection of myFordPass account to the modem. | - Modem is not enabled. • Switch connectivity features on. - Weak network signal. • Move your vehicle closer to a place where the network signal is not obstructed. |
+## CONNECTED VEHICLE - TROUBLESHOOTING - VEHICLES WITH: SYNC 3
+
+### Wi-Fi Connection Issues
+
+| Symptom                                                                  | Possible Cause and Resolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I cannot connect to a Wi-Fi network.                                     | - Password error. • Enter the correct network password. - Weak network signal. • Move your vehicle closer to the Wi-Fi hotspot or to a place where the network signal is not obstructed. - Multiple access points in range with the same SSID. • Use a unique name for your SSID. Do not use the default name unless it contains a unique identifier, for example as part of the MAC address.                                                                                                                                                                                             |
+| The Wi-Fi connection disconnects after successful connection.              | - Weak network signal. • Move your vehicle closer to the Wi-Fi hotspot or to a place where the network signal is not obstructed.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| I am close to a Wi-Fi hotspot but the network signal strength is weak.         | - Obstructed network signal. • If your vehicle has a heated windshield, position your vehicle so that the windshield is not facing the Wi-Fi hotspot. • If your vehicle has metallic tinting on the windows but not on the windshield, position your vehicle so that the windshield is facing the Wi-Fi hotspot or open the windows that are facing the hotspot. • If your vehicle has metallic tinting on the windows and the windshield, open the windows that are facing the hotspot. • If your vehicle is in a garage and you have the garage door closed, open the garage door. |
+| I cannot see a network in the list of available networks that I expect to see. | - Hidden network. • Make the network visible and try again.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+### Software and Connectivity Issues
+
+| Symptom                                                                                                               | Possible Cause and Resolution                                                                                                                                                                                                                                                     |
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I cannot see the Wi-Fi hotspot name when I search for Wi-Fi networks on my cell phone or other device.                      | - System limitation. • Make sure Wi-Fi hotspot visibility is on. • The system does not provide a Wi-Fi hotspot at this time.                                                                                                                                                   |
+| Software downloads take too long.                                                                                     | - Weak network signal. • Move your vehicle closer to the Wi-Fi hotspot or to a place where the network signal is not obstructed. - Wi-Fi hotspot in high demand or has a slow Internet connection. • Use a more reliable Wi-Fi hotspot.                                                 |
+| The system seems to connect to a Wi-Fi network and the signal strength is excellent but the software does not update. | - No software update available. - Wi-Fi network requires a subscription or acceptance of terms and conditions. • Test the connection using another device. If the network requires a subscription or acceptance of terms and conditions, contact the network service provider. |
+
+## Vehicle Wi-Fi Hotspot
+
+### CREATING A VEHICLE WI-FI HOTSPOT
+
+You can create a Wi-Fi hotspot in your vehicle and allow devices to connect to it for access to the Internet.
+
+Press the button to enter the settings menu.
+
+1. Select Connectivity Features.
+2. Select Vehicle Hotspot.
+
+Note: The vehicle hotspot default setting is on.
+
+3. Select Settings.
+4. Make sure that you have Wi-Fi visibility switched on.
+
+Note: The Wi-Fi Visibility default setting is on.
+
+### Finding the Wi-Fi Hotspot Name and Password
+
+Press the button to enter the settings menu.
+
+1. Select Connectivity Features.
+2. Select Vehicle Hotspot.
+3. Select Settings.
+
+Note: The SSID is the hotspot name.
+
+4. Scroll to Hide password.
+5. Uncheck the box.
+
+### Connecting a Device to the Wi-Fi Hotspot
+
+1. On your device, switch on Wi-Fi and select the hotspot from the list of available Wi-Fi networks.
+2. When prompted, enter the password.
+
+### Purchasing a Data Plan
+
+1. Connect a device to the hotspot.
+
+Note: The vehicle network carrier's portal opens on your device.
+
+2. If the portal does not open on your device, open a website and it redirects to the vehicle network carrier's portal.
+
+Note: Secure websites do not redirect.
+
+Note: If you have an active plan, the system does not redirect to the vehicle network carrier's portal when you connect a device. Visit the vehicle network carrier's website to purchase more data.
+
+Note: If data usage information is available in the vehicle hotspot menu, it is approximate.
+
+Note: If you carry out a master reset, the system does not remove your vehicle from your vehicle network carrier's account. To remove your vehicle from the account, contact your vehicle network carrier.
+
+Note: The vehicle network carrier provides Vehicle Hotspot services, subject to your vehicle network carrier agreement, coverage and availability.
+
+### CHANGING THE VEHICLE WIFI HOTSPOT NAME OR PASSWORD
+
+Press the button to enter the settings menu.
+
+1. Select Connectivity Features.
+2. Select Vehicle Hotspot.
+3. Select Settings.
+4. Select SSID: ___.
+5. Enter your required SSID.
+## AUDIO SYSTEM PRECAUTIONS
+
+WARNING: Driving while distracted can result in loss of vehicle control, crash and injury. We strongly recommend that you use extreme caution when using any device that may take your focus off the road. Your primary responsibility is the safe operation of your vehicle. We recommend against the use of any hand-held device while driving and encourage the use of voice-operated systems when possible. Make sure you are aware of all applicable local laws that may affect the use of electronic devices while driving.
+
+Listening to loud audio for long periods of time could damage your hearing.
+
+## AUDIO SYSTEM
+
+### SWITCHING THE AUDIO UNIT ON AND OFF
+
+Press the button on the volume control.
+
+### SELECTING THE AUDIO SOURCE
+
+1. Press your preferred audio source.
+
+Note: Available audio sources are listed along the top of the radio screen.
+
+### PLAYING OR PAUSING THE AUDIO SOURCE
+
+Press to pause playback. Press again to resume playback.
+
+Note: Not all sources can be paused.
+
+Turn to adjust the volume.
+
+### SWITCHING SHUFFLE MODE ON AND OFF
+
+Press the button on the touchscreen to switch shuffle mode on or off.
+
+Note: Not all sources have shuffle mode.
+
+### SWITCHING REPEAT MODE ON AND OFF
+
+Press the button on the touchscreen to switch repeat mode on or off.
+
+Note: Not all sources have repeat mode.
+
+### SETTING A MEMORY PRESET
+
+1. Select a station or channel.
+2. Press and hold a memory preset button on the touchscreen.
+
+Note: The audio mutes briefly while the system saves the preset and returns once it is stored.
+
+Note: You can save presets from multiple sources to the memory preset bar.
+
+### MUTING THE AUDIO
+
+Press the button on the steering wheel to mute the audio.
+
+Press to mute the signal. Press again to restore the signal.
+
+## ADJUSTING THE SOUND SETTINGS
+
+### Balance and Fade (If Equipped)
+
+1. Access the vehicle drawer on the touchscreen.
+2. Press SETTINGS.
+3. Press Sound.
+4. Press Balance / Fade.
+5. Press the arrows to adjust the settings.
+
+### Tone Settings
+
+1. Access the vehicle drawer on the touchscreen.
+2. Press SETTINGS.
+3. Press Sound.
+4. Press Tone Settings.
+5. Use the slider bar to adjust the settings.
+
+### Speed Compensated Volume
+
+1. Access the vehicle drawer on the touchscreen.
+2. Press SETTINGS.
+3. Press Sound.
+4. Press Speed Compensated Volume.
+5. Press a setting.
+
+### Occupancy Mode (If Equipped)
+
+1. Access the vehicle drawer on the touchscreen.
+2. Press SETTINGS.
+3. Press Sound.
+4. Press Occupancy Mode.
+5. Press a setting.
+
+### Sound Mode (If Equipped)
+
+1. Access the vehicle drawer on the touchscreen.
+2. Press SETTINGS.
+3. Press Sound.
+4. Press Sound Mode.
+5. Press a setting.
+
+## SETTING THE CLOCK AND DATE
+
+1. Access the vehicle drawer on the touchscreen.
+2. Press SETTINGS.
+3. Press Clock.
+4. Set the time.
+
+Note: The AM and PM options are not available if 24-hour mode is on.
+
+5. Press the arrows to adjust the settings.
+
+### Switching Automatic Time Updates On and Off
+
+1. Access the vehicle drawer on the touchscreen.
+2. Press SETTINGS.
+3. Press Clock.
+4. Switch Automatic time zone update on or off.
+
+## AM/FM RADIO
+
+### AM/FM RADIO LIMITATIONS
+
+Note: You can only enter a valid station for the audio source you are currently listening to.
+
+The further you travel from an AM or FM station, the weaker the signal and the weaker the reception.
+
+Hills, mountains, tall buildings, bridges, tunnels, freeway overpasses, parking garages, dense tree foliage and thunderstorms can interfere with the reception.
+
+When you pass a ground-based broadcast repeating tower, a stronger signal may overtake a weaker one and result in the audio system muting.
+
+### SELECTING A RADIO STATION
+
+#### Manually Selecting a Radio Station
+
+Turn to search through the radio frequency band.
+
+#### Using Direct Tune
+
+1. Press Direct Tune to open the number pad.
+2. Enter the station you prefer.
+
+#### Using Seek
+
+Press either button. The system stops at the first station it finds in that direction.
+
+#### Using the Station List
+
+1. Press Browse.
+
+Note: Available on FM radio only.
+
+2. Press a station.
+
+## DIGITAL RADIO
+
+### WHAT IS DIGITAL RADIO
+
+HD Radio™ technology is the digital evolution of analog AM/FM radio.
+
+For additional information, visit www.HDRadio.com.
+
+HD Radio Technology is manufactured under license from iBiquity Digital Corporation and foreign patents. HD Radio and the HD and HD Radio logos are proprietary trademarks of DTS. The vehicle manufacturer and DTS are not responsible for the content sent using HD Radio technology. Content may be changed, added or deleted at any time at the station owner's discretion.
+
+### HOW DOES DIGITAL RADIO WORK
+
+Your system has a special receiver that allows it to receive digital broadcasts in addition to analog broadcasts.
+
+HD1 signifies the main programming status and is available in both analog and digital broadcasts. Other multicast stations are only available digitally and could contain new or different content.
+
+4. Switch HD Radio on or off.
+
+Note: When the system first receives an HD1 station, it plays the station in the analog version until it verifies the station is an HD Radio station. Then it shifts to the digital version.
+
+Note: There is an audio mute delay when switching to an HD2 or HD3 station because the system has to reacquire and decode the digital signal.
+
+### DIGITAL RADIO LIMITATIONS
+
+If you are outside the reception area, the system could not work.
+
+If you are on the fringe of the reception area, the station could mute due to weak signal strength.
+
+Note: If you are listening to HD1, the system changes back to the analog broadcast until the digital broadcast is available again. If you are listening to any other multicast channels, the station mutes and stays muted unless it is able to connect to the digital signal again.
+
+Depending on the station quality, you could hear a slight sound change when the station changes between analog and digital audio.
+
+You cannot access a saved HD station if your vehicle is outside the station's reception area.
+
+### SWITCHING DIGITAL RADIO RECEPTION ON AND OFF
+
+1. Access the vehicle drawer on the touchscreen.
+2. Press SETTINGS.
+3. Press Radio.
+
+### DIGITAL RADIO INDICATORS
+
+#### HD Radio Indicator
+
+The indicator appears when HD Radio is on and you tune to a station broadcasting HD Radio technology.
+
+The color of the indicator changes to indicate the system status.
+
+Gray indicates the system is acquiring a digital station.
+
+Orange indicates digital audio is playing.
+
+#### Multicast Indicator
+
+The multicast indicator appears if the current station is broadcasting multiple digital broadcasts. The highlighted numbers indicate additional digital channels available.
+
+Note: For stations that have more than one HD multicast, the HD indicator and radio text appears as a button. Press the button to cycle through all of the HD stations on that specific frequency.
+
+## SATELLITE RADIO
+
+### WHAT IS SATELLITE RADIO
+
+Your factory-installed SiriusXM radio system includes a limited subscription term, which begins on the date of sale or lease of your vehicle. See an authorized dealer for availability.
+
+For additional information about extended subscription terms, visit www.SiriusXM.com in the United States, www.SiriusXM.ca in Canada, or call SiriusXM at 1-888-539-7474.
+
+## ADDITIONAL STEPS
+
+6. Select Done.  
+7. Select Password: ___.  
+8. Enter your required password.  
+9. Select Done.
+## GENERAL INFORMATION
+
+SYNC is an in-vehicle communications system that works with your Bluetooth enabled cellular phone and portable media player. This allows you to:
+
+- Make and receive calls.
+- Access and play music from your portable music player.
+- Use 911 Assist or Emergency Assistance and applications via SYNC AppLink. *
+- Access phonebook contacts and music using voice commands.
+- Stream music from your connected phone.
+- Text message.
+- Use the advanced voice recognition system.
+- Charge your USB device (if your device supports this).
+
+* These features are not available in all markets and may require activation. Available AppLink enabled apps vary by market.
+
+Make sure that you review your device's manual before using it with SYNC.
+
+## SYNC Owner Account
+
+Why do I need a SYNC owner account?
+
+- Essential for keeping up with the latest software downloads available for SYNC.
+- Access to customer support for any questions you may have.
+
+## Support
+
+SYNC support is available at your regional Ford website. See SYNC™ Troubleshooting (page 421).
+
+## SATELLITE RADIO LIMITATIONS
+
+For optimal reception performance, keep the antenna clear of snow and ice build-up and keep luggage and other material as far away from the antenna as possible. Placing luggage over the antenna may reduce performance. Factory-installed and aftermarket vehicle structures including, but not limited to, roof racks and soft top roofs in a partially open position could reduce reception performance.
+
+Hills, mountains, tall buildings, bridges, tunnels, freeway overpasses, parking garages, dense tree foliage and thunderstorms can interfere with your reception.
+
+When you pass a ground-based broadcast-repeating tower, a stronger signal may overtake a weaker one and could result in the audio system muting. Your display could show an error message to indicate the interference.
+
+## LOCATING THE SATELLITE RADIO IDENTIFICATION NUMBER
+
+1. Select SiriusXM as the audio source.
+2. Tune to channel 0.
+
+## DRIVING RESTRICTIONS
+
+For your safety, certain features are speed-dependent and restricted when your vehicle is traveling over 3 mph (5 km/h).
+
+## SAFETY INFORMATION
+
+WARNING: Driving while distracted can result in loss of vehicle control, crash and injury. We strongly recommend that you use extreme caution when using any device that may take your focus off the road. Your primary responsibility is the safe operation of your vehicle. We recommend against the use of any hand-held device while driving and encourage the use of voice-operated systems when possible. Make sure you are aware of all applicable local laws that may affect the use of electronic devices while driving.
+
+## WHEN USING SYNC:
+
+- Do not operate playing devices if the power cords or cables are broken, split or damaged. Place cords and cables out of the way, so they do not interfere with the operation of pedals, seats, compartments or safe driving abilities.
+- Do not leave playing devices in your vehicle during extreme conditions as it could cause them damage. See your device's manual for further information.
+- Do not attempt to service or repair the system. See an authorized dealer.
+
+## PRIVACY INFORMATION
+
+When a cellular phone is connected to SYNC, the system creates a profile within your vehicle that is linked to that cellular phone. This profile is created in order to offer you more cellular features and to operate more efficiently. Among other things, this profile may contain data about your cellular phone book, text messages (read and unread), and call history, including history of calls when your cellular phone was not connected to the system. In addition, if you connect a media device, the system creates and retains an index of supported media content. The system also records a short development log of approximately 10 minutes of all recent system activity. The log profile and other system data may be used to improve the system and help diagnose any problems that may occur.
+
+The cellular profile, media device index, and development log will remain in the vehicle unless you delete them and are generally accessible only in the vehicle when you connect the cellular phone or media player. If you no longer plan to use the system or the vehicle, we recommend you perform a Master Reset to erase all stored information.
+
+No one can access system data without special equipment and access to the vehicle's SYNC module. Ford Motor Company and Ford of Canada will not access the system data for any purpose other than as described absent consent, a court order, or where required by law enforcement, other government authorities, or other third parties acting with lawful authority. Other parties may seek to access the information independently of Ford Motor Company and Ford of Canada. For further privacy information, see the section on 911 Assist. See SYNC™ Applications and Services (page 419).
+
+## USING VOICE RECOGNITION
+
+This system helps you control many features using voice commands. This allows you to keep your hands on the wheel and focus on what is around you.
+
+### Initiating a Voice Session
+
+Press the voice button. A list of available voice commands appear in the display.
+
+### Global Voice Commands
+
+These voice commands are always available. You can say them at any time.
+
+| Global Voice Commands   | Global Voice Commands                                                                                                                               |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Help                    | Gives you available commands you can use on the current screen.                                                                                 |
+| List of Commands        | Gives you a list of possible voice commands.                                                                                                      |
+| Cancel                  | This command ends the voice session. You can also cancel a session by pressing seek up, seek down, or holding the voice button for two or more seconds. |
+
+### Helpful Hints
+
+- Make sure the interior of your vehicle is as quiet as possible. Wind noise from open windows and road vibrations may prevent the system from correctly recognizing spoken commands.
+- Before giving a voice command, wait for the system announcement to finish, followed by a single tone. Any command spoken before this does not register with the system.
+- Speak naturally, without long pauses between words.
+- You can interrupt the system at any time while it is speaking by pressing the voice button. You can cancel a voice session by pressing and holding the voice button.
+
+### System Interaction and Feedback
+
+The system provides feedback through audible tones, prompts, questions and spoken confirmations depending on the situation and the chosen level of interaction. You can customize the voice recognition system to provide more or less instruction and feedback.
+
+The default setting is to a higher level of interaction in order to help you learn to use the system. You can change these settings at any time.
+
+### Adjusting the Interaction Level
+
+Press the voice button. When prompted, say:
+
+| Voice Command              | Action and Description                                                                |
+|----------------------------|--------------------------------------------------------------------------------------|
+| Interaction Mode Standard   | Provides more detailed interaction and guidance. (Recommended for first time users.) |
+| Interaction Mode Advanced   | Provides less audible interaction and guidance.                                    |
+
+## NOTE
+
+SiriusXM reserves the unrestricted right to change, rearrange, add or delete programming including canceling, moving or adding particular channels, and its prices, at any time, with or without notice to you. Neither SiriusXM and its affiliates nor Ford Motor Company and its affiliates will be liable to you or any third party for any such modification, suspension or termination.
+## Phone Confirmation
+
+Using phone confirmations; the system asks you to verify before placing any calls.
+
+### To adjust this setting press the voice button, when prompted say:
+
+| Voice Command           | Action and Description                                                                                      |
+|------------------------|------------------------------------------------------------------------------------------------------------|
+| Phone Confirmation Off | When enabled, this feature prompts you to confirm any voice initiated call command prior to placing the call. |
+| Phone Confirmation On   | The system makes a best guess; occasionally, the system asks you to confirm settings.                         |
+
+## USING SYNC™ WITH YOUR PHONE
+
+Hands-free calling is one of the main features of SYNC. While the system supports a variety of features, many are dependent on your cellular phone's functionality. At a minimum, most cellular phones with Bluetooth wireless technology support the following functions:
+
+- Answering an incoming call.
+- Ending a call.
+- Dialing a number.
+- Redialing.
+- Call waiting notification.
+- Caller identification.
+
+Other features, such as text messaging using Bluetooth® and automatic phonebook download, are phone-dependent features.
+
+## Pairing a Phone
+
+Wirelessly pairing your phone with SYNC allows you to make and receive hands-free calls.
+
+Note: Make sure to switch on the ignition and the radio. Shift the transmission into park (P) for automatic transmission or neutral (N) for manual transmission.
+
+### Using the Audio System
+
+Note: To scroll through the menus, press the up and down arrows on your audio system.
+
+1. Make sure to switch on your phone's Bluetooth® feature before starting the search. See your device's manual if necessary.
+2. Press the Settings button.
+3. Select Bluetooth from the menu.
+4. Press the OK button.
+5. Select the option to add. This starts the pairing process.
+6. When a message to begin pairing appears in the center display, search for SYNC on your device.
+
+Depending on your phone's capability and your market, the system may prompt you with questions, such as setting the current phone as the primary phone and downloading your phonebook.
+
+## Using Voice Commands
+
+Make sure to switch on your phone's Bluetooth® feature before starting the search. See your device's manual if necessary.
+
+### Press the voice button and when prompted say:
+
+| Voice Command   | Action and Description                           |
+|----------------|--------------------------------------------------|
+| Pair Phone     | Follow the instructions on the center display. |
+
+## Phone Voice Commands
+
+Press the voice button. You can do things like place a phone call and access text messages.
+
+When prompted, say a command. See the following table for examples of commands.
+
+| Voice Command        |
+|---------------------|
+| ___ List of Commands |
+| Help                |
+| Call ___            |
+| Dial ___            |
+| Text Messages       |
+
+\_\_ is a dynamic listing, meaning that it could be the name of anything, such as a contact or phone number.
+
+## Phone Controls
+
+Use the phone buttons on your steering wheel to answer, reject, or hang up a call.
+
+## Accessing Features through the Phone Menu
+
+You can access your call history, phonebook, sent text messages, as well as access phone and system settings.
+
+1. Press the PHONE button to enter the phone menu.
+2. Scroll through the menu to view contacts, text messages, and the phone dialer.
+
+## SYNC™ APPLICATIONS AND SERVICES
+
+- SYNC AppLink: Allows you to connect to and use certain applications (if your phone is compatible).
+
+These features may require activation. Available AppLink enabled apps vary by market.
+
+## SYNC Mobile Apps
+
+The system enables voice and steering wheel control of SYNC AppLink enabled smartphone apps. When an app is running through AppLink, you can control main features of the app through voice commands and steering wheel controls.
+
+Note: You must pair and connect your smartphone to SYNC to access AppLink.
+
+Note: Android users need to connect the phone to SYNC using Bluetooth®.
+
+Note: For information on available apps, supported smartphone devices and troubleshooting tips please visit the Ford website.
+
+Note: Availability of SYNC AppLink enabled Apps will vary by region.
+
+Note: Make sure you have an active account for the app that you have downloaded. Some apps work automatically with no setup. Other apps want you to configure your personal settings and personalize your experience by creating stations or favorites. We recommend you do this at home or outside of your vehicle.
+
+## To Access Using the SYNC Menu
+
+### Press the Mobile Apps button to access the menu on-screen. Then select:
+
+| Menu Item        | Action and Description                                                          |
+|------------------|--------------------------------------------------------------------------------|
+| Find Mobile Apps | Scroll through the list of available applications and select a particular app. |
+
+Note: If you cannot find a compatible SYNC AppLink app, make sure the required app is running on the mobile device.
+
+## To Access Using Voice Commands
+
+### Press the voice button, then when prompted say:
+
+| Voice Command        | Action and Description                                                                                                                                                                                                |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Mobile Applications | Say the name of the application after the tone. The app should start. When an app is running through SYNC, you can press the voice button and speak commands specific to the app, for example "Play Playlist Road Trip". |
+| List Applications   | SYNC lists all of the currently available mobile apps.                                                                                                                                                                |
+| Find Applications   | Searches your connected mobile device for SYNC-compatible mobile apps.                                                                                                                                               |
+| Help                | Use this command to discover the available voice commands.                                                                                                                                                            |
+
+## App Permissions
+
+App permissions are organized by groups. You can grant these group permissions individually. You can change a permission group status any time when not driving, by using the settings menu.
+
+When you launch an app using SYNC, the system may ask you to grant certain permissions, for example:
+
+- To allow your vehicle to provide vehicle information to the app such as, but not limited to: Fuel level, fuel economy, fuel consumption, engine speed, rain sensor, odometer, VIN, external temperature, gear position, tire pressure, and head lamp status.
+- To allow your vehicle to provide driving characteristic information such as, but not limited to: MyKey, seatbelt status, engine revolutions per minute, gear position, braking events, steering wheel angle, and accelerator pedal position.
+- To allow your vehicle to provide location information, including: GPS and speed.
+- To allow the app to send push notifications using the vehicle display and voice capabilities while running in a background state. Push notifications may be particularly useful for news or location-based apps.
+
+Note: You only need to grant permissions the first time you use an app with SYNC.
+## Note
+
+Ford is not responsible or liable for any damages or loss of privacy relating to usage of an app, or dissemination of any vehicle data that you approve Ford to provide to an app.
+
+## Enabling SYNC Mobile Apps
+
+In order to enable mobile apps, SYNC requires user consent to send and receive app authorization information and updates using the data plan associated with the connected device.
+
+Data is sent to Ford in the United States through the connected device. The information is encrypted and includes, for example, the vehicle identification number of your vehicle, the SYNC module serial number, odometer, enabled apps, usage statistics and debugging information. Updates may take place.
+
+Note: You must enable mobile apps for each connected device the first time you select a mobile app using the system.
+
+Note: Standard data rates apply. Ford is not responsible for any additional charges you may receive from your service provider, when your vehicle sends or receives data through the connected device. This includes any additional charges incurred due to driving in areas when roaming out of a home network.
+
+## USING SYNC™ WITH YOUR MEDIA PLAYER
+
+SYNC supports digital media sources including: iPod, Bluetooth® devices, and most USB drives. SYNC also supports audio formats, such as MP3, WMA, WAV and ACC.
+
+### Media Sources
+
+The AUX or MEDIA button allows you to view and select available media sources.
+
+Press the AUX or MEDIA button to view your sources. Use the directional arrows and OK button to select your source. You can also use the steering wheel audio controls.
+
+### Audio Voice Commands
+
+Press the voice button. You can do things like play a specific song or album, or tune to a radio station. When prompted, say a command. See the following table for example commands. Not all commands may be available on your vehicle.
+
+| Command             | Command            |
+|---------------------|--------------------|
+| List of Commands     |                    |
+| Help                | Help               |
+| Pause               | Pause              |
+| Play                | Play               |
+| AM                  | AM                 |
+| FM                  | FM                 |
+| CD Player           | CD Player          |
+| Sirius Channel      | Sirius Channel     |
+| USB                 | USB                |
+| Bluetooth Audio     | Bluetooth Audio    |
+
+__ is a dynamic listing, meaning that it could be the name of anything, such as an artist, station, or media source.
+
+## SYNC™ TROUBLESHOOTING
+
+Your SYNC system is easy to use. However, should questions arise, see the tables below.
+
+Use your local Ford website at any time to check your phone's compatibility, register your account and set preferences as well as access a customer representative via an online chat (during certain hours).
+
+| Market        | Website(s)                                              |
+|---------------|---------------------------------------------------------|
+| North America | www.SYNCMyRide.com www.SYNCMyRide.ca www.syncmaroute.ca |
+
+### Phone Issues
+
+| Issue                                                                                    | Possible Cause(s)                                                             | Possible Solution(s)                                                                                                                                                                                                                                                                           |
+|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| There is excessive background noise during a phone call.                                 | The audio control settings on your phone may be affecting SYNC performance.  | Review your phone's manual about audio adjustments.                                                                                                                                                                                                                                           |
+| During a call, I can hear the other person but they cannot hear me.                      | This may be a possible phone malfunction.                                    | Try turning off the device, resetting the device, removing the device's battery, then trying again.                                                                                                                                                                                            |
+| SYNC is not able to download my phonebook.                                               | This is a phone-dependent feature. This may be a possible phone malfunction. | Go to the website to review your phone's compatibility. Try turning off the device, resetting the device or removing the device's battery, then trying again. Try pushing your phonebook contacts to SYNC by using the Add Contacts feature. Use the SYNC my phone feature available on the website. |
+| The system says Phonebook Downloaded but the phonebook in SYNC is empty or missing contacts. | This may be a limitation on your phone's capability.                         | Try pushing your phonebook contacts to SYNC by using the Add Contacts feature. If the missing contacts are stored on your SIM card, try moving them to the device memory.                                                                                                                      |
+
+### Additional Phone Issues
+
+| Issue                                          | Possible Cause(s)                                       | Possible Solution(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|------------------------------------------------|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I am having trouble connecting my phone to SYNC. | This is a phone-dependent feature. This may be a phone | Go to the website to review your phone's compatibility. Try turning off the device, resetting the device or removing the device's battery, then trying again. Try deleting your device from SYNC, deleting SYNC from your device and trying again. Check the security and auto accept and prompt always settings relative to the SYNC Bluetooth® connection on your phone. Update your device's firmware. Turn off the Auto phonebook download setting. |
+## Phone Issues
+
+| Issue                                                  | Possible Cause(s)                                                             | Possible Solution(s)                                                                                                                                          |
+|--------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Text messaging is not working on SYNC.                 | This is a phone-dependent feature. This may be a possible phone malfunction. | Go to the website to review your phone's compatibility. Try turning off the device, resetting the device or removing the device's battery, then trying again. |
+| I cannot return to the Phone menu when selecting a contact. | You are on the Select a Character screen.                                    | Press the Phone button to return to the Phone menu.                                                                                                           |
+
+## USB and Media Issues
+
+| Issue                                              | Possible Cause(s)                           | Possible Solution(s)                                                                                                                                                                                                                                                                                                             |
+|----------------------------------------------------|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I am having trouble connecting my device.            | This may be a possible device malfunction. | Try turning off the device, resetting the device, removing the device's battery, then trying again. Make sure you are using the manufacturer's cable. Make sure you insert the USB cable correctly into the device and the USB port. Make sure that the device does not have an auto-install program or active security settings. |
+| SYNC does not recognize my device when I turn on the car. | This is a device limitation.               | Make sure you are not leaving the device in your vehicle during very hot or cold temperatures.                                                                                                                                                                                                                                   |
+| Bluetooth® audio does not stream.                  | This is a phone-dependent feature.         | Review the device compatibility chart on the SYNC website to confirm your phone supports the Bluetooth® audio streaming function.                                                                                                                                                                                                  |
+
+| Issue                                             | Possible Cause(s)                                                                                                                                                                                  | Possible Solution(s)                                                                                                                     |
+|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                   | The device is not connected.                                                                                                                                                                          | Make sure you correctly connect the device to SYNC, and that you have pressed play on your device.                                           |
+| SYNC does not recognize music that is on my device. | Your music files may not contain the correct artist, song title, album or genre information. The file may be corrupted. The song may have copyright protection, which does not allow it to play. | Make sure that all song details are populated. Some devices require you to change the USB settings from mass storage to MTP class.              |
+| I cannot change the Sirius station.               | Sirius Replay is active.                                                                                                                                                                          | Switch radio bands and return to Sirius or switch the feature off. You can then change the Sirius station using the directional buttons. |
+
+## Voice Command Issues
+
+| Issue                                            | Possible Cause(s)                                                                         | Possible Solution(s)                                                                                                                                                                                                                                                                |
+|--------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SYNC does not understand what I am saying.         | You may be using the wrong voice commands. You may be speaking too soon or at the wrong time. | Review the phone voice commands and the media voice commands at the beginning of their respective sections. After pressing the voice icon, wait until after the tone sounds and Listening appears before saying a command. Any command spoken before this does not register with the system. |
+| SYNC does not understand the name of a song or artist. | You may be using the wrong voice commands.                                                    | Review the media voice commands at the beginning of the media section.                                                                                                                                                                                                                 |
+## Voice Command Issues
+
+### SYNC Does Not Understand or Is Calling the Wrong Contact When I Want to Make a Call
+- **Possible Cause(s)**: 
+  - You may be using the wrong voice commands. 
+  - You may be saying the name differently than the way you saved it.
+
+- **Possible Solution(s)**: 
+  - Review the Phone voice commands at the beginning of the phone section. 
+  - Make sure you are saying the contacts exactly as they are listed. For example, if you save a contact as Joe Wilson, say "Call Joe Wilson". 
+  - Using the SYNC phone menu, open the phonebook and scroll to the name SYNC is having trouble understanding. SYNC will read the name to you, giving you some idea of the pronunciation SYNC is expecting.
+
+### General Voice Command Issues
+- **Possible Cause(s)**: 
+  - The system may not be reading the name the same way you are saying it. 
+  - Contacts in your phonebook may be very short and similar, or they may contain special characters. 
+  - Your phonebook contacts may be in CAPS.
+
+- **Possible Solution(s)**: 
+  - The system works better if you list full names, such as "Joe Wilson" rather than "Joe". 
+  - Do not use special characters, such as 123 or ICE, as the system does not recognize them. 
+  - If a contact is in CAPS, you have to spell it. JAKE requires you to say "Call J-A-K-E".
+
+## App Link Issues
+
+### AppLink Mobile Applications: When I Select "Find New Apps," SYNC Does Not Find Any Applications
+- **Possible Cause(s)**: 
+  - An AppLink capable phone is not connected to SYNC.
+
+- **Possible Solution(s)**: 
+  - Ensure you have a compatible smartphone; an Android with OS 2.3 or higher or an iPhone 3GS or newer with iOS 5.0 or higher. 
+  - Additionally, ensure your phone is paired and connected to SYNC in order to find AppLink-capable apps on your device. 
+  - iPhone users must also connect to SYNC's USB port with an Apple USB cable.
+
+### My Phone Is Connected, but I Still Cannot Find Any Apps
+- **Possible Cause(s)**: 
+  - AppLink-enabled apps are not installed and running on your mobile device.
+
+- **Possible Solution(s)**: 
+  - Ensure you have downloaded and installed the latest version of the app from your phone's app store. 
+  - Ensure the app is running on your phone. Some apps require you to register or login on the app on the phone before using them with AppLink. 
+  - Also, some may have a Ford SYNC setting, so check the app's settings menu on the phone.
+
+### My Phone Is Connected, My App(s) Are Running, but I Still Cannot Find Any Apps
+- **Possible Cause(s)**: 
+  - Sometimes apps do not properly close and re-open their connection to SYNC, over ignition cycles, for example.
+
+- **Possible Solution(s)**: 
+  - Closing and restarting apps may help SYNC find the application if you cannot discover it inside the vehicle. 
+  - On an Android device, if apps have an Exit or Quit option, select that then restart the app. 
+  - If the app does not have that option, you can also manually Force Close the app by going to the phone's settings menu, selecting Apps, then finding the particular app and choosing Force stop. 
+  - Remember to restart the app afterwards, then select Find New Apps on SYNC. 
+  - On an iPhone with iOS 7+, to force close an app, double tap the home button then swipe up on the app to close it. Touch the home button again, then select the app again to restart it. After a few seconds, the app should appear in the SYNC Mobile App menu.
+## AppLink Issues
+
+| Issue                                                                                                    | Possible Cause(s)                                                                                                                                                                                                                                   | Possible Solution(s)                                                                                                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MyAndroid phone is connected, myapp(s) are running, I restarted them, but I still cannot find any apps.  | There is a Bluetooth® bug on some older versions of the Android operating system that may cause apps that were found on your previous vehicle drive to not be found again if you have not turned off Bluetooth®.                                      | Reset the Bluetooth® on your phone by turning it off and then turning Bluetooth® back on. If you are in your vehicle, SYNC should be able to automatically re-connect to your phone if you press the Phone button.        |
+| MyiPhone phone is connected, myapp is running, I restarted the app but I still cannot find it on SYNC.    | The USB connection to SYNC may need to be reset.                                                                                                                                                                                                         | Unplug the USB cable from the phone, wait a moment, and plug the USB cable back in to the phone. After a few seconds, the app should appear in SYNC's Mobile Apps Menu. If not, "Force Close" the application and restart it. |
+| I have an Android phone. I found and started my media app on SYNC, but there is no sound or the sound is very low. | The Bluetooth® volume on the phone may be low.                                                                                                                                                                                                     | Try increasing the Bluetooth® volume of the device by using the device's volume control buttons which are most often found on the side of the device.                                                                  |
+| I can only see some of the AppLink apps running on my phone listed in SYNC's Mobile Apps Menu.               | Some Android devices have a limited number of Bluetooth® links apps can use to connect. If you have more AppLink apps on your phone than the number of available Bluetooth® links, you will not see all of your apps listed in SYNC's mobile apps menu. | Force close or uninstall the apps you do not want SYNC to find. If the app has a "Ford SYNC" setting, disable that setting in the app's settings menu on the phone.                                                                |
+
+## SYNC System Reset
+
+The SYNC system in your vehicle has a System Reset feature that can be performed if the function of a SYNC feature is lost. This reset is intended to restore functionality and will not erase any information previously stored in the system (Such as paired devices, phonebook, call history, text messages, or user settings). To perform a System Reset, press and hold the Seek Up (>>) button while pressing and holding the Radio Power button. Release both buttons after 2-3 seconds. Please allow a few minutes for the reset to complete. After a few minutes have passed you can resume using the SYNC system.
+
+## SYNC™ 3 (If Equipped)
+
+## GENERAL INFORMATION
+
+WARNING: Driving while distracted can result in loss of vehicle control, crash and injury. We strongly recommend that you use extreme caution when using any device that may take your focus off the road. Your primary responsibility is the safe operation of your vehicle. We recommend against the use of any hand-held device while driving and encourage the use of voice-operated systems when possible. Make sure you are aware of all applicable local laws that may affect the use of electronic devices while driving.
+
+## About SYNC
+
+The system allows you to interact with the entertainment, information, and communication systems on your vehicle using voice commands and a touchscreen. The system provides easy interaction with audio, phone, navigation, mobile apps, and settings.
+
+Note: You can switch the system on and use it for up to an hour without switching the ignition on.
+
+Note: You can use the system after you switch the ignition off for up to 10 minutes or until you open a door.
+
+Note: For your safety, some features are speed-dependent. Their use is limited to when your vehicle speed is less than 3 mph (5 km/h).
+
+## Using the Touchscreen
+
+- Status bar. A
+- Home screen. B
+- Clock. See Settings (page 464). C
+- Outside air temperature. D
+- Feature bar. E
+
+## Status Bar
+
+- Automatic crash notification system off.
+- Cell phone network signal strength.
+- Vehicle data sharing on.
+- Vehicle location sharing on.
+- Vehicle data and vehicle location sharing on.
+- Wireless charger active.
+
+## Feature Bar
+
+- Select to use the radio, a USB, a media player, or a Bluetooth® device. See Entertainment.
+- Select to adjust climate settings. See Manual Climate Control (page 137).
+- Select to make calls and access the phonebook on your cell phone. See Phone (page 450).
+- Select to use the navigation system. See Navigation (page 452).
+- Select to search for and use compatible apps on your iOS or Android device. See Apps (page).
+- Select to adjust system settings. See Settings (page 464).
+
+## Cleaning the Touchscreen
+
+See Cleaning Displays and Screens (page 352).
+
+## Updating the System
+
+### Downloading an Update
+
+1. Go to the SYNC update page on the local Ford website.
+2. Download the update.
+
+Note: The website notifies you if an update is available.
+
+3. Insert a USB drive into your computer.
+
+Note: The USB drive needs to be empty and meet the minimum requirements detailed on the website.
+
+4. Follow the instructions provided to download the update to the USB drive.
+
+### Installing an Update
+
+Note: You can use the system when an installation is in progress.
+
+1. Disconnect all other USB devices from the USB ports.
+2. Connect the USB drive with the update to a USB port.
+
+Note: Installation starts automatically within 10 minutes.
+
+### Updating the System Using a Wi-Fi Network Connection
+
+### Connecting to a Wi-Fi Network
+
+Select the settings option on the feature bar.
+
+1. Select Automatic Updates.
+2. Select System Wi-Fi.
+3. Switch System Wi-Fi on.
+## SYNC™ 3 (If Equipped)
+
+1. Select Available Wi-Fi Networks.
+2. Select an available Wi-Fi network.
+
+**Note:** Enter the network password to connect to a secure network.
+
+## Switching Automatic System Updates On
+
+1. Select the settings option on the feature bar.
+2. Select Automatic Updates.
+3. Switch Automatic System Updates on.
+
+The system is now set to check for and receive system updates when it is connected to a Wi-Fi network.
+
+**Note:** You can use the system when a download is in progress.
+
+**Note:** If the system is disconnected from the Wi-Fi network when a download is in progress, the download continues the next time the system is connected to a Wi-Fi network.
+
+## Additional Information and Assistance
+
+For additional information and assistance, we recommend that you contact an authorized dealer or refer to the local Ford website.
+
+## USING VOICE RECOGNITION
+
+The SYNC 3 system allows you to use voice commands to control features like audio and climate controls. By using voice commands, you can keep your hands on the wheel and your eyes on the road.
+
+You can access each feature controlled by SYNC 3 through a variety of commands.
+
+E142599 To activate the SYNC 3 voice commands push the voice button on the steering wheel and wait for the prompt.
+
+\_\_\_ is a dynamic listing, meaning that it can be the name of anything, such as artist, the name of contact or number. The context and the description of the command tell you what to say for this dynamic option.
+
+There are some commands that work for every feature, these commands are:
+
+| VoiceCommand        | Action and Description                                                                                                   |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Main Menu           | Brings you to the main menu.                                                                                            |
+| Go back             | Returns you to the previous screen.                                                                                     |
+| Cancel              | Ends the voice session.                                                                                                 |
+| List of Commands     | Gives you a list of possible voice commands.                                                                            |
+| ___ List of Commands | You can name any feature and the system gives a list of commands available for the feature. For example, you could say: |
+| ___ List of Commands | Phone List of Commands                                                                                                   |
+| ___ List of Commands | Navigation List of Commands                                                                                              |
+
+## SYNC™ 3 (If Equipped)
+
+| VoiceCommand   | Action and Description                                                                                             |
+|----------------|-------------------------------------------------------------------------------------------------------------------|
+| Next Page      | You can use this command to view the next page of options on any screen where multiple pages of choices are given. |
+| Previous Page  | You can use this command to view the previous page of options on any screen where multiple pages of choices are given.       |
+| Help           | Gives you available commands you can use on the current screen.                                                   |
+
+Included here are some of the most popular commands for each SYNC 3 feature.
+
+## Audio Voice Commands
+
+\_\_\_ is a dynamic listing, meaning that for audio voice commands it can be the name of a Sirius channel or a channel number, a radio frequency number, or the name of an artist, album, song or a genre.
+
+## To control the media features, press the voice button and when prompted, say:
+
+| VoiceCommand                                                                                   | VoiceCommand                                                                                                                                                                                                                                                |                                                                          |
+|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Sirius Channel ___                                                                             | You can say the Sirius channel name or number such as "Sirius channel 16".                                                                                                                                                                                  |                                                                          |
+| You can also tune to a Sirius channel by saying the channel's name, such as "The Pulse".     | You can also tune to a Sirius channel by saying the channel's name, such as "The Pulse".                                                                                                                                                                | You can also tune to a Sirius channel by saying the channel's name, such as "The Pulse". |
+| AM ___ FM ___                                                                                 | Allows you to tune to a specific FM or AM frequency such as "FM 88.7" or "AM 1580".                                                                                                                                                                            |                                                                          |
+| FM ___ HD ___                                                                                 | Allows you to tune to a specific HD frequency such as 'FM 88.7 HD1'.                                                                                                                                                                                         |                                                                          |
+| Bluetooth Audio                                                                                | Allows you to listen to music on your Bluetooth® connected device.                                                                                                                                                                                                 |                                                                          |
+| USB                                                                                            | Allows you to listen to music on your USB connected device.                                                                                                                                                                                                  |                                                                          |
+| Play Genre ___ Play Playlist ___ Play Artist ___ Play Album ___ Play Podcast ___ Play Song ___ | For USB audio only, you can say the name of an artist, album, song or a genre to listen to that selection. Your system must finish indexing before this option is available. For example, you could say "Play artist The Beatles" or "Play song Penny Lane". |                                                                          |
+
+## SYNC™ 3 (If Equipped)
+
+| VoiceCommand                                                                                                               | Description                                                                                                                                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Play Audiobook ___                                                                                                         |                                                                                                                                                                                                                                               |
+| Browse ___ Browse Artist ___ Browse Album ___ Browse Genre ___ Browse Playlist ___ Browse Audiobook ___ Browse Podcast ___ | For USB audio only, you can say the name of an artist, album, or a genre to browse by that selection. Your system must finish indexing before this option is available. For example, you can say "Browse artist The Beatles" or "Browse genre folk". |
+## Climate Voice Commands (If Equipped)
+
+You can control the temperature of the vehicle using voice commands.
+
+### To adjust the temperature, say:
+
+| VoiceCommand                | Description                                           |
+|-----------------------------|-------------------------------------------------------|
+| Set the Temperature to ____ | Adjust the temperature between 60-85°F (15.5-29.5°C). |
+
+## Phone Voice Commands
+
+### Pairing a Phone
+
+You can use voice commands to connect your Bluetooth® -enabled phone to the system.
+
+### To pair your phone, press the voice button and when prompted, say:
+
+| VoiceCommand   | Description                                                                                 |
+|----------------|---------------------------------------------------------------------------------------------|
+| Pair Phone     | Follow the on-screen instructions to complete the pairing process. See Settings (page 464). |
+
+___ is a dynamic listing, meaning that for climate voice commands it can be the desired degrees for the temperature setting.
+
+### Making Calls
+
+___ is a dynamic listing, meaning that for phone voice commands it can be the name of the contact you wish to call or the digits you want to dial.
+
+### Press the voice button and say a command similar to the following:
+
+| VoiceCommand    | Description                                                                                                    |
+|-----------------|----------------------------------------------------------------------------------------------------------------|
+| Call ___        | Allows you to call a specific contact from your phonebook such as "Call Jenny".                                |
+| Call ___ at ___ | Allows you to call a specific contact from your phonebook at a specific location such as "Call Jenny at Home". |
+| Dial ___        | Allows you to dial a specific number such as 'Dial 867-5309'.                                                |
+
+Please make sure that you are saying the contact name exactly as it appears in your contact list.
+
+### Once you have provided the digits of the phone number, you can say the following commands:
+
+| VoiceCommand   | Description                                                                                      |
+|----------------|--------------------------------------------------------------------------------------------------|
+| <0-9>          | If you did not enter the full number with the first command, you can continue saying the number. |
+| Dial           | Tells SYNC3 to make the phone call.                                                               |
+| Delete         | Tells SYNC3 to erase the last block of digits you state.                                          |
+| Clear          | Tells SYNC3 to erase the entire number.                                                           |
+
+## Text Message Voice Commands
+
+### To access text message options, press the voice button and say:
+
+| VoiceCommand               | Description                                                         |
+|----------------------------|---------------------------------------------------------------------|
+| Listen to Message          | Listen to Message                                                   |
+| Listen to text message ___ | You can say the number of the message you would like to hear.       |
+| Reply to Message           | Reply to Message                                                    |
+| Reply to Message ____      | You can say the number of the message you would like to respond to. |
+| Reply to ____              | You can say the contact of the most recent message to respond.      |
+
+## Navigation Voice Commands (If Equipped)
+
+### Setting a Destination
+
+You can use any of the following commands to set a destination or find a point of interest.
+
+### You can find an address, a point of interest (POI), or search for points of interest by category:
+
+| VoiceCommand                    | Description                                                                                                               |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Find an Address                 | Allows you to enter the address search functionality. You can also search for an address in a specific state or province. |
+| Find a ___                      | State the name of the POI category or major brand name you would like to search for such as "Find restaurants".           |
+| Find a POI                      | Allows you to enter the POI search functionality.                                                                         |
+| Find an Intersection            | Allows you to enter the intersection search functionality.                                                                |
+| Find the Nearest <POI Category> | State the name of a POI category or major brand name you would like to search for.                                        |
+| Show Previous Destinations      | Allows you to see a list of your previous destinations.                                                                   |
+
+___ is a dynamic listing, meaning that for navigation voice commands it can be a POI category or a major brand name, where a major brand name is a chain with more than 20 locations.
+
+### SYNC™ 3 (If Equipped)
+
+| VoiceCommand   | Description                                             |
+|----------------|---------------------------------------------------------|
+| Show Favorites | Allows you to see a list of your favorite destinations. |
+| DriveHome      | Allows you to route to your home address.               |
+| Drive to Work  | Allows you to route to your work address.               |
+
+### In addition, you can say these commands when a route is active:
+
+| VoiceCommand       | Description                              |
+|--------------------|------------------------------------------|
+| Cancel Route       | Cancels the current route.               |
+| Detour             | Allows you to select an alternate route. |
+| Repeat Instruction | Repeats the last guidance prompt.        |
+| Show Route         | Displays the active route.               |
+| Route Summary      | Displays the list of upcoming maneuvers. |
+| WhereAmI           | Provides current location.               |
+| Zoomin             | Allows you to zoom in on the map.        |
+| Zoomout            | Allows you to zoom out from the map.     |
+
+## Mobile App Voice Commands (If Equipped)
+
+### The following voice commands are always available:
+
+| VoiceCommand     | Description                                                                      |
+|------------------|----------------------------------------------------------------------------------|
+| Mobile Apps      | SYNC3 will prompt you to say the name of an app to start it on SYNC3.             |
+| List Mobile Apps | SYNC3 will list all of the currently available Mobile Apps.                       |
+| Find Mobile Apps | SYNC3 will search and connect to compatible app(s) running on your mobile device. |
+
+### There are also voice commands that you can use when app(s) are connected to SYNC 3:
+
+| VoiceCommand                             | Description                                                                                       |
+|------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Say the name of an app                   | At any time, you can say the name of a mobile app to start the mobile app on SYNC3.               |
+| Say the name of an app, followed by help | SYNC3 will list the available voice commands for the specified app if the app is running on SYNC3. |
+
+## SiriusXM Traffic and Travel Link Voice Commands (If Equipped)
+## SiriusXM Traffic and Travel Link
+
+SiriusXM Traffic and Travel Link may not be available in all markets. Activation and a subscription are required.
+
+### Accessing SiriusXM Traffic and Travel Link
+
+You can say the following commands to access SiriusXM Traffic and Travel Link:
+
+| VoiceCommand          | Description                           |
+|-----------------------|---------------------------------------|
+| Show Traffic          | Displays a list of traffic incidents. |
+| Show Weather Map      | Displays the current weather map.     |
+| Show Fuel Prices      | Displays a list of fuel prices.       |
+| Show 5 Day Forecast   | Displays the 5 day weather forecast.  |
+| Help                  | Help                                  |
+
+## Voice Settings Commands
+
+You can say the following commands to access the voice settings:
+
+| VoiceCommand              | Description                                              |
+|---------------------------|----------------------------------------------------------|
+| Voice Settings            | Allows you to enter the voice settings functionality.    |
+| Interaction Mode Standard | Sets standard prompting with longer prompts.             |
+| Interaction Mode Advanced | Sets advanced prompting with shorter prompts.            |
+| Phone Confirmation On     | Allows the system to confirm before making a phone call. |
+| Phone Confirmation Off    | The system does not confirm before placing a call.      |
+| VoiceCommandListsOn       | The system displays a short list of available commands. |
+| VoiceCommandListsOff      | The system does not display the list of commands.       |
+
+You can use the volume control to adjust the volume of the system voice prompts. While the prompt is active, adjust the volume control up or down to your desired setting.
+
+**Note:** Depending on the current climate control settings, the fan speed may automatically go down while issuing voice commands or while making and receiving phone calls via SYNC to reduce the amount of background noise in the vehicle. The fan speed will automatically return to normal operation once the voice session ends. You can adjust the fan speed during a voice session, simply press the fan buttons (or turn the fan knob) to increase or decrease the fan speed to the setting you prefer.
+
+To disable this automatic fan speed reduction feature during voice sessions, press and hold the climate control AC and Recirculated air buttons simultaneously, release and then increase fan speed within 2 seconds. To re-enable this feature, repeat the above sequence.
+
+## ENTERTAINMENT
+
+### Audio Source Options
+
+E293 9
+
+4
+
+1
+
+- Audio source. Select to choose a different audio source. A
+- Presets. Swipe left to view more presets. B
+
+You can access these options using the touchscreen or voice commands.
+
+### Sources
+
+Press this button to select the source of media you want to listen to.
+
+### SYNC™ 3 (If Equipped)
+
+| MenuItem         | MenuItem                                                                                                           |
+|------------------|--------------------------------------------------------------------------------------------------------------------|
+| AM               | AM                                                                                                                 |
+| FM               | FM                                                                                                                 |
+| SIRIUS           | 1                                                                                                                  |
+| CD               | CD                                                                                                                 |
+| USB              | The name of the USB that is plugged in displays here.                                                               |
+| Bluetooth Stereo | Bluetooth Stereo                                                                                                   |
+| Apps             | If you have SYNC3 compatible apps on your connected smartphone, they display here as individual source selections. |
+
+## AM/FM Radio
+
+### Tuning a Station
+
+You can use the tune or seek controls on the radio bezel to select a station.
+
+To tune a station using the touchscreen, select:
+
+|             | MenuItem   |
+|-------------|------------|
+| Direct Tune |            |
+
+A pop-up appears, allowing you to type in the frequency of a station. You can only enter a valid station for the source you are currently listening to.
+
+You can press the backspace button to delete the previously entered number.
+
+### Once you have entered the station's call numbers, you can select:
+
+| MenuItem   | Action and Description                               |
+|------------|------------------------------------------------------|
+| Enter      | Press to begin playing the station you have entered. |
+| Cancel     | Press to exit without changing the station.          |
+
+### Presets
+
+To set a new preset, tune to the station and then press and hold one of the memory preset buttons. The audio mutes briefly while the system saves the station and then returns.
+
+You may be able to add additional preset pages using the settings option on the feature bar.
+
+## SiriusXM® Satellite Radio (If Activated)
+
+**Note:** This feature may not be available in all markets and requires an active subscription.
+
+SiriusXM satellite radio is a subscription-based satellite radio service that broadcasts a variety of music, sports, news, weather, traffic, and entertainment programming. Your factory-installed SiriusXM satellite radio system includes hardware and a limited subscription term that begins on the date of sale or lease of your vehicle. See an authorized dealer for availability.
+
+For more information on extended subscription terms (a service fee is required), the online media player, and a list of SiriusXM satellite radio channels, and other features, please visit www.siriusxm.com in the United States, www.siriusxm.ca in Canada, or call SiriusXM at 1-888-539-7474.
+
+**Note:** SiriusXM reserves the unrestricted right to change, rearrange, add or delete programming. This includes canceling, moving, or adding particular channels, and its prices, at any time, with or without notice to you. We are not responsible for any such programming changes.
+
+**Note:** This receiver includes the eCos real-time operating system. eCos is published under the eCos License.
+
+### SiriusXM Buttons
+
+The following buttons are available for SiriusXM:
+
+| MenuItem    | Action and Description                                                                                                             |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Browse      | Touch this button to see a list of available stations.                                                                            |
+| Direct Tune | A pop-up appears, allowing you to type in the call numbers of a station. Once you enter the station's call numbers, you can select: |
+| Direct Tune | Enter                                                                                                                             | 
+| Direct Tune | Cancel                                                                                                                            | 
+| Direct Tune | You can press the backspace button to delete the previous number.                                                                 |
+## Menu Actions
+
+| MenuItem   | Action and Description                                                                                                                                                                    |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Replay     | Replay audio on the current channel. You can replay approximately 45 minutes of audio as long as you remain tuned to the current station. Changing stations erases the previous audio. |
+| Replay     | When you are in replay mode, you are not able to select a different preset until you Live                                                                                                 |
+| ALERT      | Save the current song, artist, or team as a favorite. The system alerts you when it plays again on any channel. Selecting this button allows you to enable and edit alerts.                     |
+
+## Memory Presets
+
+To set a preset, tune to the station then press and hold one of the memory preset buttons. The audio mutes briefly while the system saves the station and returns once the station is stored.
+
+You may be able to add additional preset pages using the settings option on the feature bar.
+
+## SiriusXM Satellite Radio Reception Factors and Troubleshooting
+
+| Potential Reception Issues          | Potential Reception Issues                                                                                                                                        |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Antenna obstructions                | For optimal reception performance, keep the antenna clear of snow and ice build-up and keep luggage and other materials as far away from the antenna as possible. |
+| Terrain                             | Hills, mountains, tall buildings, bridges, tunnels, freeway overpasses, parking garages, dense tree foliage and thunderstorms can interfere with your reception.       |
+| Station overload                    | When you pass a ground-based broadcast-repeating tower, a stronger signal may overtake a weaker one and the audio system may mute.                                 |
+| Satellite radio signal interference | Your display may show ACQUIRING... to indicate the interference and the audio system may mute.                                                                     |
+
+| Troubleshooting Tips                          | Troubleshooting Tips                                                                        | Troubleshooting Tips                                                                                                                         |
+|-----------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Message                                       | Cause                                                                                       | Action                                                                                                                                       |
+| Acquiring Signal                              | Radio requires more than two seconds to produce audio for the selected channel.             | No action required. This message should disappear shortly.                                                                                   |
+| Satellite antenna fault SIRIUS system failure | There is an internal module or system failure present.                                      | If this message does not clear shortly, or with an ignition key cycle, your receiver may have a fault. See an authorized dealer for service. |
+| Invalid Channel                               | The channel is no longer available.                                                       | Tune to another channel or choose another preset.                                                                                            |
+| Unsubscribed Channel                           | Your subscription does not include this channel.                                            | Contact SiriusXM at 1-888-539-7474 to subscribe to the channel, or tune to another channel.                                                 |
+| Satellite acquiring signal…                   | The signal is lost from the SiriusXM satellite or SiriusXM tower to your vehicle antenna. | The signal is blocked. When you move into an open area, the signal should return.                                                             |
+| Updating…                                     | Update of channel programming in progress.                                                | No action required. The process may take up to three minutes.                                                                                |
+| Questions? Call 1-888-539-7474                | Your satellite service is no longer available.                                              | Contact SiriusXM at 1-888-539-7474 to resolve subscription issues.                                                                        |
+| None found. Check channel guide.              | All the channels in the selected category are either skipped or locked.                          | Use the channel guide or the Sirius XM Settings tile to turn off the Lock or Skip function on that station.                                         |
+| SIRIUS Subscription updated                   | SiriusXM has updated the channels available for your vehicle.                               | No action required.                                                                                                                          |
+
+## HD Radio™ Information (If Available)
+
+To activate HD radio, please see the Radio Settings in the Settings Chapter. See Settings (page 464).
+
+Note: HD Radio broadcasts are not available in all markets.
+
+## SYNC™ 3 (If Equipped)
+
+HD Radio technology is the digital evolution of analog AM/FM radio. Your system has a special receiver that allows it to receive digital broadcasts (where available) in addition to the analog broadcasts it already receives. Digital broadcasts provide a better sound quality than analog broadcasts with free, crystal-clear audio and no static or distortion. For more information, and a guide to available stations and programming, please visit:
+
+## Website
+
+## www.hdradio.com
+
+When HD Radio is on and you tune to a station broadcasting HD Radio technology, you may notice the following indicators on your screen:
+
+E142616
+
+## When HD Radio broadcasts are active, you can access the following functions:
+
+| Message   | Action and Description                                                                                                                                                                                                                                                                                                                                     |
+|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Presets   | Allows you to save an active channel as a memory preset. Touch and hold a memory preset slot until the sound returns. There is a brief mute while the radio saves the station. Sound returns when the channel saves. When switching to an HD2 or HD3 memory preset, the sound mutes before the digital audio plays, because the system has to reacquire the digital signal. |
+## HD Radio Overview
+
+Note: As with any station you save, you cannot access the saved station if your vehicle is outside the station's reception area.
+
+The HD logo is grey when acquiring a digital station, and then changes to orange when digital audio is playing. When this logo is available, you may also see Title and Artist fields on-screen.
+
+The multicast indicator appears in FM mode (only) if the current station is broadcasting multiple digital broadcasts. The highlighted numbers signify available digital channels where new or different content is available. HD1 signifies the main programming status and is available in analog and digital broadcasts. Other multicast stations (HD2 through HD7) are only available digitally.
+
+Note: There is also an additional feature for stations that have more than 1 HD multicast (For example, HD1 or HD2). The HD logo and Radio text appears as a button. Pressing this button allows you to cycle through all of the HD stations on that specific frequency. For example, if you are on 101.1 and it has HD1, HD2, HD3, pressing the button repeatedly causes the radio to cycle through the HD stations in a cyclic increasing order.
+
+## HD Radio Reception and Station Troubleshooting
+
+| Potential Reception Issues   | Potential Reception Issues                                                                                                                                                                                                                                                                                                                                                                                          |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Reception area               | If you are listening to a multicast station and you are on the fringe of the reception area, the station may mute due to weak signal strength.                                                                                                                                                                                                                                                                      |
+| Reception area               | If you are listening to HD1, the system changes back to the analog broadcast until the digital broadcast is available again. However, if you are listening to any of the possible HD2-HD7 multicast channels, the station mutes and stays muted unless it is able to connect to the digital signal again.                                                                                                                           |
+| Station blending             | When the system first receives a station (aside from HD2- HD7 multicast stations), it first plays the station in the analog version. Once the receiver verifies the station is an HD Radio station, it shifts to the digital version. Depending on the station quality, you may hear a slight sound change when the station changes from analog to digital. Blending is the shift from analog to digital sound or digital back to analog sound. |
+
+In order to provide the best possible experience, use the contact form to report any station issues found while listening to a station broadcasting with HD Radio technology. Independent entities own and operate each station. These stations are responsible for ensuring all audio streams and data fields are accurate.
+
+## Potential Station Issues
+
+| Potential Station Issues                                                             | Potential Station Issues                                                                                         | Potential Station Issues                                                       |
+|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Issues                                                                               | Cause                                                                                                            | Action                                                                         |
+| Echo, stutter, skip or repeat in audio. Increase or decrease in audio volume.       | This is poor time alignment by the radio broadcaster.                                                            | No action required. This is a broadcast issue.                                 |
+| Sound fading or blending in and out.                                                 | The radio is shifting between analog and digital audio.                                                          | No action required. The reception issue may clear up as you continue to drive. |
+| There is an audio mute delay when selecting HD2 or HD3, multicast preset or Direct Tune. | The digital multicast is not available until the HD Radio broadcast is decoded. Once decoded, the audio is available. | No action required. This is normal behavior. Wait until the audio is available.   |
+
+| Potential Station Issues                                                             | Potential Station Issues                                                                          | Potential Station Issues                                                |
+|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Issues                                                                               | Cause                                                                                             | Action                                                                  |
+| Cannot access HD2 or HD3 multicast channel when recalling a preset or from a direct tune. | The previously stored multicast preset or direct tune is not available in your current reception area. | No action required. The station is not available in your current location. |
+| Text information does not match currently playing audio.                             | Data service issue by the radio broadcaster.                                                      | Fill out the station issue form.                                        |
+| There is no text information shown for currently selected frequency.                 | Data service issue by the radio broadcaster.                                                      | Fill out the station issue form.                                        |
+
+## Contact Information
+
+1 You can find the form here:
+
+| Website                                                                                                                                                                                                                                                                                                                                              | Website                                                                                                                                            |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| http://hdradio.com/stations/feedback                                                                                                                                                                                                                                                                                                                 | http://hdradio.com/stations/feedback                                                                                                               |
+| HD Radio Technology manufactured under license from iBiquity Digital Corporation and foreign patents. HD Radio and the HD and HD Radio logos are proprietary trademarks of DTS. The vehicle manufacturer and DTS are not responsible for the content sent using HD Radio technology. Content may be changed, added or deleted at any time at the station owner's discretion. | CD (If Equipped) Once you select this option, the system returns you to the main audio screen. The current audio information appears on the screen. |
+## The following buttons are also available:
+
+| Button   | Function                                                                         |
+|----------|----------------------------------------------------------------------------------|
+| Browse   | You can use the browse button to select a track.                                 |
+| Repeat   | Select this button and a small number one displays to indicate the track is set to repeat. |
+
+## SYNC™ 3 (If Equipped)
+
+| Button   | Function                                                                                                                                                    |
+|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|          | For MP3 CDs, this button allows you to toggle through repeat off, repeat on track (a small number one displays), and repeat current folder (a small folder displays). |
+| Shuffle  | Select the shuffle symbol to have the audio on the disk play in random order.                                                                               |
+
+You can use the forward, reverse, pause or play buttons to control the audio playback.
+
+## Bluetooth Stereo or USB
+
+Bluetooth Stereo and USB allow you to access media that you store on your Bluetooth device or USB device such as music, audio books or podcasts.
+
+## The following buttons are available for Bluetooth and USB:
+
+| Button   | Function                                                                                                                                                                                                |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Repeat   | Pressing the repeat button toggles the repeat setting through three modes: repeat off (button not highlighted), repeat all (button highlighted) and repeat track (button highlighted with a small number one). |
+| Shuffle  | Play the tracks in random order.                                                                                                                                                                        |
+
+You can use the forward, reverse, pause or play buttons to control the audio playback.
+
+To get more information about the currently playing track, press the cover art or Info button.
+
+For some devices, SYNC 3 is able to provide 30-second skip buttons when you listen to audio books or podcasts. These buttons allow you to skip forward or backward within a track.
+
+While playing audio from a USB device you can look for certain music by selecting the following:
+
+| Button    | Function                                                                                                                                       |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Browse    | If available, displays the list of tracks in the Now Playing playlist.                                                                          |
+| New Search | This option, which is available under browse, allows you to play all tracks or to filter the available media into one of the below categories. |
+|           | Play All                                                                                                                                       |
+
+## SYNC™ 3 (If Equipped)
+
+| Button         | Function                                                                                    |
+|----------------|---------------------------------------------------------------------------------------------|
+|                | Playlists                                                                                   |
+|                | Artist                                                                                      |
+|                | Albums                                                                                      |
+|                | Songs                                                                                       |
+|                | Genres                                                                                      |
+|                | Podcasts                                                                                    |
+|                | Audio books                                                                                 |
+|                | Composers                                                                                   |
+| A-Z Jump       | This button allows you to choose a specific letter to view within the category you are browsing. |
+| Explore Device | If available, this allows you to browse the folders and files on your USB device.            |
+
+## USB Ports
+
+The USB ports are located in the media bin under the instrument panel.
+
+This feature allows you to plug in USB media devices, memory sticks, flash drives or thumb drives, and charge devices if they support this feature.
+
+Select this option to play audio from your USB device.
+
+## Apps
+
+The system supports the use of certain audio apps such as iHeartRadio through a USB or Bluetooth enabled device.
+
+Each app gives you different on-screen options depending on the app's content.
+
+## Supported Media Players, Formats and Metadata Information
+
+The system is capable of hosting nearly any digital media player, including iPod, iPhone, and most USB drives.
+
+Supported audio formats include MP3, WMA, WAV, AAC, and FLAC.
+
+Supported audio file extensions include MP3, WMA, WAV, M4A, M4B, AAC, and FLAC.
+
+Supported USB file systems include: FAT, exFAT, and NTFS.
+
+## SYNC™ 3 (If Equipped)
+
+SYNC 3 is also able to organize the media from your USB device by metadata tags. Metadata tags, which are descriptive software identifiers embedded in the media files, provide information about the file.
+
+If your indexed media files contain no information embedded in these metadata tags, SYNC 3 may classify the empty metadata tags as unknown.
+
+SYNC 3 is capable of indexing up to 50,000 songs per USB device, for up to 10 devices.
+
+## PHONE
+
+WARNING: Driving while distracted can result in loss of vehicle control, crash and injury. We strongly recommend that you use extreme caution when using any device that may take your focus off the road. Your primary responsibility is the safe operation of your vehicle. We recommend against the use of any hand-held device while driving and encourage the use of voice-operated systems when possible. Make sure you are aware of all applicable local laws that may affect the use of electronic devices while driving.
+
+Check the compatibility of your device on the regional website.
+
+## Pairing Your Cell Phone for the First Time
+
+Go to the settings menu on your cell phone and switch Bluetooth on.
+
+Select the phone option on the feature bar.
+
+1. Select Add Phone.
+
+   Note: A prompt alerts you to search for your vehicle on your cell phone.
+
+2. Select your vehicle on your cell phone.
+
+   Note: A number appears on your cell phone and on the touchscreen.
+
+3. Confirm that the number on your cell phone matches the number on the touchscreen.
+
+   Note: The touchscreen indicates that you have successfully paired your cell phone.
+
+4. Download the phonebook from your cell phone when you are prompted.
+
+   Note: If you pair more than one cell phone, use the phone settings to specify the primary phone. You can change this setting at any time.
+
+## Using Your Cell Phone
+
+### Recent Call List
+
+Display and select an entry from a list of previous calls.
+
+### Contacts
+
+Display a smart search form to look up your contacts. Use the List button to alphabetically sort your contacts.
+
+### Favorites
+## Contacts
+
+Display and select an entry from the list of favorite contacts that are set up on your phone.
+
+## Messaging
+
+Displays the list of text messages to read, listen to, or respond to.
+
+## Email
+
+Displays the list of emails to read, listen to, or respond to.
+
+## Phone List
+
+Display the list of paired or connected devices that you can select.
+
+**Note:** Up to 12 devices can be stored.
+
+## Do Not Disturb
+
+Reject incoming calls and switch ring tones and alerts off.
+
+## Phone Keypad
+
+Directly dial a number.
+
+## Text Messaging
+
+### Setting Text Message Notification
+
+### iOS
+
+1. Go to the settings menu on your cell phone.
+
+### Using Text Messaging
+
+| MenuItem   | Description                                             |
+|------------|---------------------------------------------------------|
+| Hear It    | Hear the text message.                                  |
+| View       | View the text message.                                  |
+| Call       | Call the sender.                                        |
+| Reply      | Reply to the text message with a standard text message. |
+
+### Apple CarPlay (If Equipped)
+
+1. Connect your device to a USB port.
+2. Follow the instructions on the touchscreen.
+
+**Note:** Certain features of the system are not available when you are using Apple CarPlay.
+
+### Switching Apple CarPlay Off
+
+Select the settings option on the feature bar.
+
+1. Select Apple CarPlay Preferences.
+2. Switch Apple CarPlay off.
+
+### Android Auto (If Equipped)
+
+1. Connect your device to a USB port.
+2. Follow the instructions on the touchscreen.
+
+**Note:** You might need to enable Android Auto from the settings menu.
+
+**Note:** Certain features of the system are not available when you are using Android Auto.
+
+### SYNC™ 3 (If Equipped)
+
+1. Select Bluetooth.
+2. Select the information icon to the right of your vehicle.
+3. Switch text message notification on.
+
+### Android
+
+1. Go to the settings menu on your cell phone.
+2. Select Bluetooth.
+3. Select the profiles option.
+4. Select the phone profile.
+5. Switch text message notification on.
+
+### Switching Android Auto Off
+
+Select the settings option on the feature bar.
+
+1. Select Android Auto.
+2. Switch Android Auto off.
+
+## NAVIGATION (IF EQUIPPED)
+
+**Note:** For more information, refer to our website.
+
+Select the navigation option on the feature bar.
+
+### Setting a Destination
+
+### Destination Entry Menu
+
+| Item                  | Description                                              |
+|-----------------------|----------------------------------------------------------|
+| Search                | Enter a destination address.                             |
+| Previous Destinations | Display and select from a list of previous destinations. |
+| Home                  | Set your saved home address as your destination          |
+| Work                  | Set your saved place of work as your destination.        |
+| Favorites             | Display and select from a list of favorite destinations. |
+
+### Setting a Destination Using the Text Entry Screen
+
+- Text entry field. A
+- Automatic suggestions based on the text you enter. B
+- Information icon. C
+- Search. D
+- Keyboard settings. E
+
+**Note:** Select one of the suggestions to copy the detail to the text entry field.
+
+You can search by entering all or part of the destination, such as the Address, POI Category or Name, Intersection, City, Latitude/Longitude, etc. **Tips:** If you do not specify a location, the system will use the current vehicle location. You can specify a location by address, city, state or zip code. For additional search support, please visit: support.ford.com.
+
+**Note:** Press the button in the top right-hand corner of the main map to display estimated time of arrival, remaining travel time or distance to destination.
+
+### Setting a Destination Using the Map Screen
+
+- Re-center the map. A
+- Selected location. B
+- 3D map rotation. Swipe left or right. C
+- Start route guidance. D
+- Destination name. E
+
+Select the location on the map.
+
+Select Start to begin route guidance.
+
+### Changing the Format of the Map
+
+Display the map in one of the following formats:
+
+- A two-dimensional map with the direction you are traveling toward the top of the screen.
+- A two-dimensional map with north toward the top of the screen.
+- A three-dimensional map with the direction you are traveling toward the front.
+
+### Zoom
+
+Display more or less detail on the map.
+
+**Note:** You can use pinch gestures to zoom in and out. Place two fingers on the screen and move them apart to zoom in. Place two fingers on the screen and bring them together to zoom out.
+
+### Route Guidance
+
+- Turn indicator. Select to hear the last voice prompt. A
+- Point of interest. B
+
+### Route Guidance Menu
+
+| MenuItem          | Description                                                                                                                                                                                                                                                                                                                            |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Screen View       | Adjust your map preferences for when route guidance is active.                                                                                                                                                                                                                                                                                  |
+| Full Map          | View a full screen map when route guidance is active.                                                                                                                                                                                                                                                                                    |
+| Highway Exit Info | View highway exit information for your current route.                                                                                                                                                                                                                                                                                  |
+| Turn List         | View the turn list for your current route. Select a road to avoid it.                                                                                                                                                                                                                                                                  |
+| Traffic List      | You can find the SiriusXM Traffic and Travel Link information by pressing this button. This information requires an active subscription to SiriusXM Traffic and Travel Link. When a route is not active, a list of nearby traffic incidents displays. When a route is active, you can choose to display a list of traffic nearby or on the route. |
+
+- Estimated time of arrival, distance to destination or time to destination. C
+- Current road. D
+- Mute guidance prompts. E
+- Cancel route guidance. F
+
+**Note:** To change guidance prompt volume, turn the volume control when a guidance prompt plays.
+
+### SYNC™ 3 (If Equipped)
+
+| MenuItem            | Description                                             |
+|---------------------|---------------------------------------------------------|
+| Navigation Settings | Adjust navigation settings. See Settings (page 464).    |
+| Where Am I?         | View information about your current location.           |
+| Cancel Route        | Cancel route guidance.                                  |
+| View Route          | View the entire current route on the map.               |
+| Detour              | View an alternative route compared to your current one. |
+| Edit Waypoints      | Change the order or remove waypoints.                   |
+| Optimize Order      | The system determines the order of waypoints for you.   |
+| Go                  | Go to the next screen and start the new route.          |
+## Adjusting the Guidance Prompt Volume
+
+Turn the volume control when a guidance prompt plays to adjust the volume.
+
+Note: If you have inadvertently adjusted the volume to zero, press the turn indicator button to play the last voice prompt and then adjust the volume to the desired level.
+
+## Muting Guidance Prompts
+
+Select the mute option on the screen to mute guidance prompts.
+
+Note: The system mutes the next and all future guidance prompts.
+
+## Adding Waypoints
+
+You can add a waypoint to a navigation route as a destination along your route. You can add up to five waypoints.
+
+1. Select the search option on the map.
+2. Set a destination.
+3. Select Add Waypoint.
+4. Select Go.
+
+## Canceling Route Guidance
+
+Select the route guidance menu option on the active guidance screen.
+
+## Select Cancel Route.
+
+Note: The route guidance menu option is always in the bottom right-hand corner of the main map.
+
+## cityseeker (If Equipped)
+
+Note: cityseeker point of interest (POI) information is limited to approximately 1,110 cities (1,049 in the United States, 36 in Canada and 15 in Mexico).
+
+cityseeker, when available, is a service that provides more information about certain points of interest such as restaurants, hotels and attractions.
+
+When you have selected a point of interest, the location and information appear, such as address, phone number and a star rating.
+
+Press More Information to see a photo, a review, a list of services and facilities, the average room or meal price and the web address. This screen displays the point of interest icons.
+
+For restaurants, cityseeker can provide information such as star rating, average cost, review, handicap access, hours of operation, and website address.
+
+For hotels, cityseeker can provide information such as star rating, price category, review, check-in and checkout times, hotel service icons and website address. Hotel service icons include:
+
+- Restaurant
+- Business center
+- Handicap facilities
+- Laundry
+- Refrigerator
+- 24 hour room service
+- Fitness center
+- Internet access
+- Pool
+- Wi-Fi
+
+Attractions include nearby landmarks, amusement parks, historic buildings and more. cityseeker can provide information such as star rating, reviews, hour of operation and admission price.
+
+## SiriusXM Traffic and Travel Link (If Equipped)
+
+SiriusXM Traffic and Travel Link is available on vehicles equipped with navigation and only in select markets. You must activate and subscribe to receive SiriusXM Traffic and Travel Link information. It helps you locate the best gas prices, find movie listings, get current traffic alerts, view the weather map, get accurate ski conditions and see current sports scores.
+
+The system calculates a reasonable efficient route based on available speed limits, traffic, and road conditions. You may know a local short cut that is more efficient at a given time than the route provided by SYNC 3, but you should expect a slight difference in minutes or miles with the SYNC 3 route.
+
+## Michelin Travel Guide (If Equipped)
+
+The Michelin travel guide is a service which provides additional information about certain places of interest, for example restaurants, hotels and tourist sites. Points of interest that have Michelin travel guide information display a button to show you more information. Push the button to see the additional information. If you have paired your phone with the system, you can press the phone button to directly establish a call with the selected point of interest.
+
+## Navigation Map Accuracy and Updates
+
+HERE is the digital map provider for the navigation application. If you find map data errors, you may report them directly to HERE by going to www.here.com. HERE evaluates all reported map errors and responds with the result of their investigation by e-mail.
+
+The navigation system map data may contain inaccurate or incomplete information due to the passage of time, changing circumstances, sources used and the nature of collecting comprehensive geographic data, any of which may lead to incorrect results. Inaccurate speed limit information, turn restrictions and other road attributes may affect the determined route and associated guidance.
+
+Annual navigation map updates are available for purchase through your dealership. Depending on your purchase agreement, you might be eligible for free Map update. You can choose to download the Map data update onto a USB, order a USB, or use Wi-Fi to deliver automatic updates. To update your Map data over Wi-Fi, your vehicle must be connected to a Wi-Fi access point. Map Data files are large, so it is highly recommended to perform the update when free Wi-Fi is available otherwise high data rates may apply. For USB updates, free map update eligibility, and other details, contact dealers at 1-866-462-8837 in the United States and Canada or 01-800-557-5539 in Mexico or visit our local website for more information.
+
+## ELECTRIC VEHICLE INFORMATION (IF EQUIPPED)
+
+### Power Flow
+
+The Power Flow information for your plug-in hybrid vehicle is available through the Home screen or under Apps.
+
+### Vehicle Operational States
+
+Power will flow to or from the front and rear wheels depending on operational state and drive conditions.
+
+- Idling: The vehicle is running and in Park (P). The engine and, or the high voltage battery are on.
+- Electric Driving: The vehicle is running and in Drive (D) or Neutral (N). The high voltage battery provides power to the wheels.
+- Hybrid Driving: The vehicle is running and in Drive (D) or Neutral (N). The engine and the high voltage battery provide power to the wheels.
+- Engine Driving: The vehicle is running and in Drive (D) or Neutral (N). The engine provides power to the wheels.
+- Regenerative Braking: The vehicle is running in Drive gear and is slowing down. Power captured by the regenerative braking system is sent back to the high voltage battery.
+- Charging: The vehicle is plugged in and the high voltage battery is being charged.
+
+### Engine On Due To
+
+The following conditions help to explain why the engine is on, and what you can do to allow all electric operation.
+
+- Drive Power: The engine is on due to accelerator pedal pressure or speed control activation. Reduce pressure on the accelerator pedal or switch off the speed control to return to full electric mode.
+- High Speed: The engine is on because the vehicle speed exceeds the level for full electric operation. Reduce the speed to return to electric operation.
+- Heater Setting: The engine is on because of the heater setting. Reduce or turn off the heater setting to return to electric operation.
+- Neutral Gear: The engine is on because the vehicle is in Neutral (N). Shift out of neutral gear to return to electric operation.
+- Engine Cold: The engine is on because it is cold. The vehicle returns to electric operation once the engine is sufficiently warm.
+- Battery Charging: The engine is on to charge the high-voltage battery. The vehicle returns to electric operation once the battery is charged.
+- Low Gear: The engine is on because the vehicle is in low gear. Shift out of low gear to return to electric operation.
+- Normal Operation: The engine is on to optimize vehicle operation. The vehicle returns to electric operation when possible.
+- Low Use: The engine is on to maintain engine oil quality. The vehicle returns to electric operation when low engine use mode is complete.
+## Battery and Drive Mode
+
+- **Battery Temperature**: The engine is on due to high or low high-voltage battery temperature. This is a normal operating condition. The vehicle returns to electric operation when possible.
+- **Drive Mode**: The engine is on due to the drive mode selection. Select an appropriate drive mode for electric only operation.
+
+## Charge Settings
+
+The Charge Settings information for your plug-in hybrid vehicle is available through the Home screen or under Vehicle Settings. To improve your charging experience, your vehicle has the following convenience features.
+
+### Charge Times
+
+Once you set up Charge Times for a specific charging location, your vehicle prioritizes charging based on your preferred time settings. You can set two preferred charging time windows for weekdays and two for weekends. This feature allows you to take advantage of electric utility rate plans that offer lower pricing during certain times of day. Contact your utility company to see what plans are available.
+
+**Note**: You can also set up and use these features using the FordPass app.
+
+### Departure Times
+
+Setting Departure Times allows you to control charging schedules and have the vehicle cabin heated or cooled while plugged in, so your vehicle is ready to drive when you are. By setting a departure time, your vehicle can use your charge time settings to minimize your electricity costs but still prioritize finishing charging before your scheduled departure. A calendar view allows you to program two departure times per day for each day of the week.
+
+**Note**: You can also set up and use these features using the FordPass app.
+
+### Charging Status
+
+Displays the present state of the charging system. See Vehicle Charging Status (page 128).
+
+| Charging Status                      | Description and Action                                                                                                                                                                                                                                               |
+|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Will charge when plugged in.         | Your vehicle is unplugged and starts charging when plugged in.                                                                                                                                                                                                   |
+| Will wait for preferred charge time. | Your vehicle is unplugged at a saved location with Charge Times enabled. Charging is scheduled to start at the time displayed based on your charge time settings. You must plug in prior to the start time shown for the vehicle to begin charging at that time. |
+| Waiting for preferred charge time.   | Your vehicle is plugged in at a saved location with Charge Times enabled. Charging starts at the time displayed, which is based on your Charge Times settings.                                                                                                      |
+| Charging.                            | Your vehicle is plugged in and using power to charge the high voltage battery or run electrical systems.                                                                                                                                                           |
+| Charged.                             | Your vehicle is finished charging.                                                                                                                                                                                                                                 |
+| Vehicle charge fault.                | Your vehicle is plugged in and there is a fault within the vehicle charging system. Unplug and plug back in. If the fault is still present, contact your dealer.                                                                                                   |
+| Charge station fault.                | Your vehicle is plugged in and a fault is detected with the charge station or charging cord. Check the charging cord and the charge station or electrical supply.                                                                                                |
+
+### SYNC™ 3 (If Equipped)
+
+| Charging Status              | Description and Action                                                                                       |
+|------------------------------|------------------------------------------------------------------------------------------------------------|
+| Charge station not detected. | A charging coupler is plugged into the vehicle but there is no connection with a charging power source.     |
+| Incompatible charge station. | Your vehicle is plugged in but cannot communicate with the charging station. Contact the station provider. |
+| Charge station paused.       | Your vehicle is plugged in and charging is paused at the charge station.                                   |
+
+### Charging Time Information
+
+Displays estimates of how long your vehicle will take to fully charge when plugged into a high or low power charger.
+
+- **High power estimate**: The minimum time to a 100% charge using a high power charger.
+- **Low power estimate**: The longest time to a 100% charge using a low power charger.
+
+When charging, the start and estimated end time are displayed. When your vehicle is not plugged in and at a location with Charge Times enabled, the start and end times display based on known charging power.
+
+**Note**: Charging durations and end times are only estimates. Certain conditions may result in longer charging times. See Vehicle Charging Status (page 128).
+
+### High Voltage Battery State of Charge
+
+Displays the remaining charge percentage with 100% representing the total amount of energy you can get from an external charge.
+
+### Plug and Charging Status
+
+Displays the plug and charging status icons.
+
+- E304458: Not plugged in.
+- E304459: Plugged in and not currently charging.
+- E304460: Plugged in and charging.
+- E304461: Plugged in and waiting to charge based on charge time settings.
+
+## Charge Preferences
+
+Touch the button to access Charge Time and Departure Time settings. Once set up, additional information and settings are displayed on the charge settings screen.
+
+### Charge Times On and Off Switch
+
+This switch is visible when your vehicle is at a saved Charge Times location. Use the switch to turn your charge time settings on and off for this location.
+
+### Charge Times Location Name and Charging Time Information
+
+The location name displays when your vehicle is at a saved Charge Times location. The charging start time is displayed along with the charging end time and associated charge level.
+
+### Departure Times On and Off Switch
+
+This switch is visible when you have at least one departure time set. Use this switch to turn all departure times on and off. Switching departure times off does not delete your settings.
+
+### Next Departure Times and Cabin Temperature
+
+Displays the next departure time and associated cabin temperature setting.
+
+### Charge Time Settings
+
+Follow these steps to set a preferred charge time for a charging location.
+
+1. Select Charge Preferences on the Charge Settings screen.
+2. Select Charge Time Setup on the Edit Charge Preferences screen.
+3. Select Add New Location on the Charge Times screen. You can also edit settings for previously saved locations from this screen.
+4. Select an address from the Recent Charge Locations screen.
+5. On the Confirm Location for Charge Times screen, you can edit the location name and set a max charge level as desired. Once you have your desired location name and max charge level, select Continue to Schedule.
+## Charge Settings
+
+### Preferred Charge Times
+
+1. Select WEEKDAY or WEEKEND on the Preferred Charge Times screen.  
+2. On the Select preferred WEEKDAY or WEEKEND Charge Times screen, use the circular 24 hour clock to select your charging time windows. You can select up to two time windows by pressing and dragging across the hour buttons.
+
+   When you have selected your preferred times then press Next to return to the Preferred Charge Times screen. Repeat for WEEKEND or WEEKDAY as desired. Once you are done setting preferred charge times, press Save.
+
+   Note: Selecting all or none of the 24 hours results in any time of day given equal priority for charging.
+
+3. Your saved location now shows on the Charge Times screen. Select Done to return to the main charge settings screen. Whenever your vehicle is at a saved charging location the charge settings screen displays the location name, and the charging times are based on your Charge Time settings for that location plus the next Departure Time.
+
+   Note: Reaching your max charge level by your next Departure Time is always the priority. When Charge Times are set, charging outside your preferred charging time windows could be necessary in order to finish by your next Departure Time.
+
+## Departure Time Settings
+
+1. Select Charge Preferences on the Charge Settings screen.  
+2. Select Departure Time Setup on the Edit Charge Preferences screen.  
+3. Two time settings show for each day of the week on the Departure Times schedule screen. Select any one.  
+4. On the Departure Time settings screen, set your desired departure time, cabin temperature and days of the week to repeat. Press Save.  
+5. Your settings are now shown on the Departure Times schedule screen. Press Back two times to return to the main charge settings screen. The next departure time and cabin temperature setting display.
+
+   Note: Cabin conditioning can perform differently depending on if you plug in with the included convenience cord or a higher power charging station. The power available for conditioning is limited to the charging station power available.
+
+   Note: Your vehicle may not always reach the set cabin temperature due to charging and ambient temperature conditions. This is normal operation.
+
+## APPS
+
+The system allows you interact with select mobile apps while keeping your eyes on the road. Voice commands, your steering wheel buttons, or a quick tap on your touchscreen give you advanced control of compatible mobile apps. You can also stream your favorite music or podcasts, share your time of arrival with friends, and keep connected safely.
+
+When you start an app through the system for the first time, you could be asked to grant certain permissions. You can review and change the permissions that you have granted at any time when your vehicle is not moving. We recommend that you check your data plan before using your apps through the system. Using them could result in additional charges. We also recommend that you check the app provider's terms and conditions and privacy policy before using their app. Make sure that you have an active account for apps that you want to use through the system. Some apps will work with no setup. Others require you to configure some personal settings before you can use them.
+
+Note: For more information about available apps, visit catalog.ford.com.
+
+### Using Apps on an iOS Device
+
+Select the apps option on the feature bar.
+
+1. If your device is connected via USB, switch Apple CarPlay off. See Phone (page 450).  
+2. Connect your device to a USB port or pair and connect using Bluetooth.  
+3. If prompted to enable CarPlay, select Disable.  
+4. Start the apps on your device that you want to use through SYNC.
+
+   Note: If you close the apps on your device, you will not be able to use them through the system.
+
+5. Select the app that you want to use on the touchscreen.
+
+   Note: Connect your device to a USB port if you want to use a navigation app. When using a navigation app, keep your device unlocked and the app open.
+
+### Using Apps on an Android Device
+
+Select the apps option on the feature bar.
+
+1. If your device is connected via USB, switch Android Auto off. See Phone (page 450).  
+2. Pair your device. See Phone (page 450).  
+3. Start the apps on your device that you want to use through SYNC.
+
+   Note: If you close the apps on your device, you will not be able to use them through the system.
+
+4. Select Find Mobile Apps.
+
+   Note: The system searches and connects to compatible apps that are running on your device.
+
+5. Select the app that you want to use on the touchscreen.
+
+   Note: Mobile Apps on your device use the USB port to establish a connection with SYNC. Some devices may lose the ability to play music over USB when Mobile Apps are enabled.
+
+### Using Mobile Navigation on an Android Device
+
+1. Connect your device to a USB port.  
+2. Switch Android Auto off. See Phone (page 450).  
+3. Switch on Enable Mobile Apps via USB in the Mobile Apps Settings tile.  
+4. Select the apps option on the feature bar.  
+5. Select the navigation app that you want to use on the touchscreen.
+
+   Note: When using a navigation app, keep your device unlocked and the app open.
+
+## SiriusXM Traffic and Travel Link (If Equipped)
+
+WARNING: Driving while distracted can result in loss of vehicle control, crash and injury. We strongly recommend that you use extreme caution when using any device that may take your focus off the road. Your primary responsibility is the safe operation of your vehicle. We recommend against the use of any hand-held device while driving and encourage the use of voice-operated systems when possible. Make sure you are aware of all applicable local laws that may affect the use of electronic devices while driving.
+
+Note: SiriusXM Traffic and Travel Link may not be available in all markets.
+
+Note: In order to use SiriusXM Traffic and Travel Link, your vehicle must have navigation.
+
+Note: A paid subscription is required to access and use these features. Go to www.siriusxm.com/travellink for more information.
+
+Note: Visit www.siriusxm.com/traffic and click on Coverage map and details for a complete listing of all traffic areas covered by SiriusXM Traffic and Travel Link.
+
+Note: Neither Sirius nor Ford is responsible for any errors or inaccuracies in the SiriusXM Traffic and Travel Link services or its use in vehicles.
+
+When you subscribe to SiriusXM Traffic and Travel Link, it can help you locate the best gas prices, find movie listings, get current traffic alerts, view the current weather map, get accurate ski conditions and see scores to current sports games.
+
+| MenuItem         | Action and Description                                                                                                                                     |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Traffic on Route | Touch these buttons to identify traffic incidents on your route, near your vehicle's current location or near any of your favorite places, if programmed. |
+| Traffic Nearby   | Touch these buttons to identify traffic incidents on your route, near your vehicle's current location or near any of your favorite places, if programmed. |
+| Fuel Prices      | Touch this button to view fuel prices at stations close to your vehicle's location or on an active navigation route.                                      |
+| Movie Listings   | Touch this button to view nearby movie theaters and their show times, if available.                                                                       |
+
+## SYNC™ 3 (If Equipped)
+
+| MenuItem       | Action and Description                                                                                                                                                                               | Action and Description                                                                                                                                                                               |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Weather        | Touch this button to view the nearby weather, current weather, or the five-day forecast for the chosen area.                                                                                       | Touch this button to view the nearby weather, current weather, or the five-day forecast for the chosen area.                                                                                       |
+| Weather        | Map                                                                                                                                                                                                 | Select to see the weather map, which can show storms, radar information, charts and winds.                                                                                                          |
+| Weather        | Area                                                                                                                                                                                                | Select to choose from a listing of weather locations.                                                                                                                                               |
+| Sports Info    | Touch this button to view scores and schedules from a variety of sports. You can also save up to 10 favorite teams for easier access. The score automatically refreshes when a game is in progress. | Touch this button to view scores and schedules from a variety of sports. You can also save up to 10 favorite teams for easier access. The score automatically refreshes when a game is in progress. |
+| Ski Conditions | Touch this button to view ski conditions for a specific area.                                                                                                                                       | Touch this button to view ski conditions for a specific area.                                                                                                                                       |
+## SETTINGS
+
+Press the button to enter the settings menu.
+
+Once you select a tile, press the button next to a menu item to view an explanation of the feature or setting.
+
+## Sound
+
+Select this tile to adjust the sound settings.
+
+## Clock
+
+Select this tile to adjust the clock settings.
+
+## Bluetooth®
+
+Select this tile to switch Bluetooth® on and off and adjust the settings.
+
+## Phone
+
+Select this tile to connect, disconnect, and manage the connected device settings.
+
+## Audio
+
+Select this tile to adjust the audio settings.
+
+## Driver Assist (If Equipped)
+
+Select this tile to adjust Driver Assist features like Parking Aids, Lane Keeping System, Pedestrian Detection, and Auto-Start-Stop.
+
+## Vehicle
+
+Select this tile to adjust vehicle settings like windows, alarm, lighting, and MyKey settings.
+
+## FordPass
+
+Select this tile to adjust the FordPass settings.
+
+## General
+
+Select this tile to adjust settings like language, measurement units, or to reset the system.
+
+## 911 Assist (If Equipped)
+
+Select this tile to switch 911 Assist on and off.
+
+## SYNC™ 3 (If Equipped)
+
+## Automatic Updates
+
+Select this tile to adjust the automatic update settings.
+
+## Mobile Apps
+
+Select this tile to adjust permissions, enable, disable, and update mobile apps.
+
+## Display
+
+Select this tile to adjust display settings like brightness and auto dim.
+
+## Charge Settings (If Equipped)
+
+Select this tile to adjust the electric vehicle charge settings.
+
+## Voice Control
+
+Select this tile to adjust voice control settings like command confirmations and displayed lists.
+
+## Navigation (If Equipped)
+
+Select this tile to adjust navigation settings like map preferences and route guidance.
+
+## Multi Contour Seats (If Equipped)
+
+Select this tile to adjust the position and massage function of your multi contour seats.
+
+## Seats (If Equipped)
+
+Select this tile to adjust the lumbar function of your seats.
+
+## Message Center (If Equipped)
+
+Select this tile to view vehicle messages.
+
+## Personal Profiles (If Equipped)
+
+Select this tile to adjust recalled memory features when using personal profiles.
+
+## Valet Mode (If Equipped)
+
+Select this tile to enable and disable valet mode.
+
+## Ambient Lighting (If Equipped)
+
+Select this tile to change the color or intensity of the interior lighting.
+
+## SYNC™ 3 TROUBLESHOOTING Voice Recognition
+
+| Symptom                                                                                                | Possible Cause and Resolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The system does not understand what I am saying.                                                      | - You might not be using supported voice commands. • See Using Voice Recognition (page 433). • For a complete list of voice commands, refer to our website. - You might be speaking too soon. • Wait for the voice prompt before you speak.                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| The system does not understand the name of a track or artist.                                        | - Device limitation. Bluetooth® does not support voice commands. • Connect your device to a USB port. • If you have an iOS device, press and hold the voice control button on the steering wheel to use Siri to play specific tracks. - You might not be using supported voice commands. • See Using Voice Recognition (page 433). • For a complete list of voice commands, refer to our website. - You might not be saying the name exactly as it appears on your device. • Say the name of the track or artist exactly as it appears on your device. Spell out any abbreviations in the name. - The name contains special characters, for example *, - or +. • Rename the files on your device or use the touch- |
+| The system does not understand the name of a contact in the phonebook on my device and calls the wrong contact. | - You might not be saying the name exactly as it appears on your device. • Say the first and last name of the contact exactly as it appears on your device. Spell out any abbreviations in the name. - The name contains special characters, for example *, - or +. • Rename the contact on your device or use the touchscreen to select and call the contact.                                                                                                                                                                                                                                                                                                                                         |
+
+| Symptom                                                                                  | Possible Cause and Resolution                                                                                                                                                                                                                                                                                                                                                                                                        |
+|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The system does not understand certain names of contacts in the phonebook on my device.     | - You might not be saying the name exactly as it appears on your device. • Say the first and last name of the contact exactly as it appears on your device. The system applies phonetic pronunciation rules of the selected language to the names of contacts in the phonebook on your device. Select the name of the contact on the touchscreen and use the Hear it option to get an idea of how the system expects you to pronounce it. |
+| The system voice prompts and the pronunciation of some words do not seem to be very accurate. | - Device limitation. • The system uses text-to-speech technology and uses a synthetically generated voice rather than pre-recorded human voice.
+## USB and Bluetooth® Audio
+
+### Connection Issues
+
+| Symptom                    | Possible Cause and Resolution                                                                                                                                                                                                                                                           |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I cannot connect my device. | - Device malfunction. • Disconnect your device. Switch your device off and on to reset it and try again. - Cable connection issue. • Correctly connect the cable to your device and the vehicle USB port. - Incompatible cable. • Use the cable recommended by the manufacturer of your device. |
+| The system does not recognize my device.                 | - Device limitation. • Do not leave your device in your vehicle during very hot or very cold weather conditions. - Cable connection issue. • Correctly connect the cable to your device and the vehicle USB port. - Incompatible cable. • Use the cable recommended by the manufacturer of your device. |
+| I cannot stream audio from my Bluetooth® device.      | - Incompatible device. • Check the compatibility of your device on our website. - Device not connected. • Pair your device. See Phone (page 450). - Media player not running. • Start the media player on your device.                                                                            |
+
+### Audio Playback Issues
+
+| Symptom                                               | Possible Cause and Resolution                                                                                                                                                                                                                                                                        |
+|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The system does not understand the name of a track or artist. | - Device limitation. Bluetooth® does not support voice commands. • Connect your device to a USB port. • If you have an iOS device, press and hold the voice control button on the steering wheel to use Siri to play specific tracks.                                                              |
+| The system does not recognize the music on my device.        | - Missing or incorrect audio file metadata, for example artist, song title, album or genre. • Repair the files on your device. - Corrupt files. • Repair the files on your device.                                                                                                                |
+| Sometimes I cannot hear a track playing on my device.                    | - Device malfunction. • Disconnect your device. Switch your device off and on to reset it and try again.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| When I disconnect my iOS device the audio volume is set to maximum.       | - Device limitation. • Turn the volume down on your device.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+### Track Order Issues
+
+| Symptom                                                                 | Possible Cause and Resolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The system does not play the tracks on my USB drive in the correct order. | If the system does not play the tracks on your USB device in the correct order, the following information could help: - If you are selecting USB as the audio source when the system is still indexing, SYNC plays tracks sorted alphabetically by file name in the root directory. - If you are selecting USB as the audio source after the system has finished indexing, SYNC plays all tracks sorted alphabetically by the title in the ID3 tag regardless of where they are located. SYNC uses the file name if the title in the ID3 tag does not exist. - If you are selecting the option to play all tracks from the browsing menu, SYNC plays all tracks sorted alphabetically by the title in the ID3 tag regardless of where they are located. SYNC uses the file name if the title in the ID3 tag does not exist. - If you are selecting a track when using the explore device option, SYNC plays tracks sorted alphabetically by file name in the folder you have selected. SYNC then plays all tracks in any subfolders in the folder you have selected. |
+## Phone
+
+### Call Issues
+
+| Symptom                                                                | Possible Cause and Resolution                                                                                                                                                                                                                                                                                                                                                                                              |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| During a call, I can hear excessive background noise.                    | - Incorrect cell phone settings. • Check and adjust the audio settings on your cell phone. Refer to your cell phone's user manual.                                                                                                                                                                                                                                                                                      |
+| During a call, I can hear the other person but they cannot hear me.    | - Cell phone malfunction. • Switch your cell phone on and off, and vehicle Bluetooth® on and off and try again. - Cell phone microphone muted. • Unmute your cell phone microphone. - Privacy mode is enabled. • Switch off privacy mode.                                                                                                                                                                                |
+| During a call, I cannot hear the other person and they cannot hear me. | - System restart required. • Switch the ignition off and open the door. Close the door and lock the vehicle. Wait until the touchscreen is off and any illuminated USB ports are not illuminated. Unlock the vehicle, switch the ignition on and try again.                                                                                                                                                              |
+
+### Phone Book Issues
+
+| Symptom                                                                                                | Possible Cause and Resolution                                                                                                                                                                                                                                                                                                                                                         |
+|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I cannot download a phone book.                                           | - Incompatible cell phone. • Check the compatibility of your cell phone on our website. - Incorrect cell phone settings. • Allow the system to retrieve contacts from your cell phone. Refer to your cell phone's user manual. - Incorrect system settings. • Switch automatic phonebook download on. See Settings (page 464). - Cell phone malfunction. • Switch your cell phone off and on to reset it and try again. |
+| A message displays suggesting that my phone book has downloaded but it is empty or it has missing contacts. | - Incorrect cell phone settings. • Allow the system to retrieve contacts from your cell phone. Refer to your cell phone's user manual. • Check the location of the missing contacts on your cellphone. If they are stored on the SIM card, move them to the cell phone memory. - Incorrect system settings. • Switch automatic phonebook download on. See Settings (page 464).                   |
+| I cannot connect my cell phone.                                                                         | - Incompatible cell phone. • Check the compatibility of your cell phone on our website. - Cell phone malfunction. • Switch your cell phone off and on to reset it and try again. • Install the latest cell phone firmware. • Delete your device from the system and delete SYNC from your device and try again. • Switch automatic phonebook download off. See Settings (page 464). |
+| Text messaging does not work.                                                                          | - You might not have switched on text message notifications. • Switch text message notifications on. See Phone (page 450). - Incompatible cell phone. • Check the compatibility of your cell phone on our website. - Cell phone malfunction. • Switch your cell phone off and on to reset it and try again.                                                                      |
+| I cannot hear text messages.                                                                               | - Device message sharing is not enabled. • Check the permissions on your device to ensure text message sharing is enabled. - Incompatible cell phone. • Check the compatibility of your cell phone on our website.                                                                                                                                                                 |
+
+## Navigation (If Equipped)
+
+| Symptom                                  | Possible Cause and Resolution                                                                                                                                                                                                                                      |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I cannot enter a street name when I am abroad. | - Incorrect entry method. • Enter the street name with the country.                                                                                                                                                                                             |
+| The system does not recognize coordinates. | - Using the wrong coordinates format. • Use the format ##. ##### , ##. ##### (for N/S , E/W). Add a minus before coordinates if the direction is West and keep a positive value if the direction is East, for example 12.5412 means East and -12.5412 means West. |
+
+## Apps
+
+| Symptom                                                                                                                              | Possible Cause and Resolution                                                                                                                                                                                                                                                                                                                                                                  |
+|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The system cannot find any apps.                                                                                                     | - Incompatible device. • You need an Android device with OS 4.3 or higher or an iOS device with iOS 8.0 or higher. Pair and connect your Android device to find compatible apps. Connect your iOS device to a USB port or pair and connect using Bluetooth®.                                                                                                                                 |
+| I have a compatible device and it is correctly connected but the system still cannot find any apps.                                    | - Compatible apps are not installed on your device. • Download and install the latest version of the app. - Compatible apps are not running on your device. • Start the apps to allow the system to find them and make sure you sign in to any apps if required. - Incorrect app settings. • Check and adjust the app settings on your device and allow SYNC to access the app if required.    |
+| I have a compatible device, it is correctly connected and my apps are running but the system still cannot find any apps.                      | - Apps failed to fully close. • Restart the apps and try again. • If you have an Android device with apps that have an exit or quit option, use this and then restart the apps. Alternatively, use the force stop option in the settings menu on your device. • If you have an iOS device with iOS 8.0 or higher, tap the home button on your device twice and then swipe the app upward to close it. |
+| I have an Android device that is correctly connected, I have restarted my apps and they are running but the system still cannot find them. | - An issue on some older versions of the Android operating system could result in apps not being found. • Switch Bluetooth® off and on again to force the system to reconnect to your device.                                                                                                                                                                                             |
+## Device Connection Issues
+
+| Symptom                                                                                                                               | Possible Cause and Resolution                                                                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I have an iOS device that is correctly connected, I have restarted my apps and they are running but the system still cannot find them. | - Cable connection issue. • Disconnect the cable from your device, wait for a moment and then connect it again to force the system to reconnect to your device.                                                             |
+| I have an Android device running a media app which the system has found but I cannot hear the sound or the sound is very quiet.       | - Device volume is low. • Turn the volume up on your device.                                                                                                                                                                |
+| I have an Android device running a number of compatible apps but the system cannot find all of them.                                  | - Device limitation. If you have more apps running on your device than the number of available Bluetooth® links, the system cannot find all of them. • Close some of the apps to allow the system to find those that you want to use. |
+
+## Wi-Fi Connection Issues
+
+| Symptom                                                                  | Possible Cause and Resolution                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I cannot connect to a Wi-Fi network.                                     | - Password error. • Enter the correct network password. - Weak network signal. • Move your vehicle closer to the Wi-Fi hotspot or to a place where the network signal is not obstructed. - Multiple access points in range with the same SSID. • Use a unique name for your SSID. Do not use the default name unless it contains a unique identifier, for example as part of the MAC address.                                                                                                                                                                                             |
+| The Wi-Fi connection disconnects after successful connection.              | - Weak network signal. • Move your vehicle closer to the Wi-Fi hotspot or to a place where the network signal is not obstructed.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| I am close to a Wi-Fi hotspot but the network signal strength is weak.         | - Obstructed network signal. • If your vehicle has a heated windshield, position your vehicle so that the windshield is not facing the Wi-Fi hotspot. • If your vehicle has metallic tinting on the windows but not on the windshield, position your vehicle so that the windshield is facing the Wi-Fi hotspot or open the windows that are facing the hotspot. • If your vehicle has metallic tinting on the windows and the windshield, open the windows that are facing the hotspot. • If your vehicle is in a garage and you have the garage door closed, open the garage door. |
+| I cannot see a network in the list of available networks that I expect to see. | - Hidden network. • Make the network visible and try again.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+## Software Update Issues
+
+| Symptom                                                                                                               | Possible Cause and Resolution                                                                                                                                                                                                                                                     |
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| I cannot see SYNC when I search for Wi-Fi networks on my cell phone or other device.                                         | - System limitation. • SYNC does not provide a Wi-Fi hotspot at this time.                                                                                                                                                                                                              |
+| Software downloads take too long.                                                                                     | - Weak network signal • Move your vehicle closer to the Wi-Fi hotspot or to a place where the network signal is not obstructed. - Wi-Fi hotspot in high demand or has a slow Internet connection. • Use a more reliable Wi-Fi hotspot.                                                  |
+| The system seems to connect to a Wi-Fi network and the signal strength is excellent but the software does not update. | - No software update available. - Wi-Fi network requires a subscription or acceptance of terms and conditions. • Test the connection using another device. If the network requires a subscription or acceptance of terms and conditions, contact the network service provider. |
+
+## Profile and Remote Control Issues
+
+| Symptom                         | Possible Cause and Resolution                                                                                   |
+|---------------------------------|--------------------------------------------------------------------------------------------------------------|
+| I cannot create a profile.      | You might not have set up Personal Profiles.                                                                 |
+| I cannot create a profile.      | You might have entered an invalid profile.                                                                   |
+| I cannot create a profile.      | You might not have selected a memory button when prompted.                                                   |
+| I cannot create a profile.      | You might not have the ignition on or in park (P), or you shifted out of park (P) when creating a profile.      |
+| I cannot create a profile.      | Personal Profiles has been switched off.                                                                     |
+| I cannot link a remote control. | You might not have selected the lock button on the remote control.                                                     |
+| I cannot link a remote control. | The remote control selected was already associated with another profile and the system declined to overwrite. |
+| I cannot link a remote control. | The system performed a profile recall when linking a remote control.                                         |
+## Troubleshooting Personalized Settings
+
+### My personalized settings do not save.
+- You might not have the ignition on or in park (P), or you shifted out park (P) when creating a profile.
+- You might be using the old linking method.
+- Personal Profiles do not support your unsaved settings.
+- A different personal profile is active.
+- Another user changed the settings for the wrong personal profile.
+
+### My profile will not recall.
+- You might not have created a personal profile.
+- Personal Profiles is turned off.
+- The profile you requested is already active.
+- You might not have linked the memory button you are using to a profile.
+- You might not have linked the remote control you are using to a profile.
+- You might be using the wrong remote control.
+- You might be pressing a button other than the unlock or remote start on a linked remote control.
+- You might have deleted the personal profile.
+
+### My preset positions recall, but my profile does not.
+- Personal Profiles is turned off.
+
+### My profile recalls but my preset positions do not.
+- The vehicle is in motion.
+- The preset positions are the same as the guest or previously active profile.
+
+### I lost a remote control.
+- Unlink and relink your remote control in the Personal Profiles menu. You may need to see your authorized dealer.
+
+### I lost all profiles.
+- You might have erased and reprogrammed the remote controls. This could happen if you let a dealership add a new remote control to replace a lost one.
+- Someone performed a master reset.
+
+## Resetting the System
+
+1. Simultaneously press and hold the seek up and the audio unit power buttons until the screen goes black.
+2. Wait three minutes to allow the system to complete the reset.
+3. Press the audio unit power button to switch the system on.
+
+**Note:** You can reset the system to restore functionality that has stopped working. The system reset is designed to restore functionality and not delete any data that you have stored.
+
+## Additional Information and Assistance
+
+For additional information and assistance, we recommend that you contact an authorized dealer or refer to our website.
+
+## Accessories
+
+For a complete listing of the accessories that are available for your vehicle, please contact your authorized dealer or visit the online store web site:
+
+For maximum vehicle performance, keep the following information in mind when adding accessories or equipment to your vehicle:
+
+### Web Address (United States)
+www.Accessories.Ford.com
+
+### Web Address (Canada)
+www.Accessories.Ford.ca
+
+We will repair or replace any properly authorized dealer-installed Ford Original Accessory found to be defective in factory-supplied materials or workmanship during the warranty period, as well as any component damaged by the defective accessories.
+
+We will warrant your Ford Original Accessory through the warranty that provides the greatest benefit:
+- 24 months, unlimited mileage.
+- The remainder of your new vehicle limited warranty.
+
+Contact an authorized dealer for details and a copy of the warranty.
+
+Ford Licensed Accessories are the accessory manufacturer's designs. The manufacturer develops and therefore warrants Ford Licensed Accessories, and does not design or test these accessories to Ford Motor Company engineering requirements. Contact an authorized Ford dealer for the manufacturer's limited warranty details, and request a copy of the Ford Licensed Accessories product limited warranty from the accessory manufacturer.
+
+- When adding accessories, equipment, passengers, and luggage to your vehicle, do not exceed the total weight capacity of the vehicle or of the front or rear axle (GVWR or GAWR as indicated on the Safety Compliance Certification label). Ask an authorized dealer for specific weight information.
+- The Federal Communications Commission (FCC) and Canadian Radio Telecommunications Commission (CRTC) regulate the use of mobile communications systems that are equipped with radio transmitters, for example, two-way radios, telephones, and theft alarms. Any such equipment installed in your vehicle should comply with Federal Communications Commission (FCC) and Canadian Radio Telecommunications Commission (CRTC) regulations and should be installed only by an authorized dealer.
+- An authorized dealer needs to install mobile communications systems. Improper installation may harm the operation of your vehicle, particularly if the manufacturer did not design the mobile communication system specifically for automotive use.
+- If you or an authorized Ford dealer add any non-Ford electrical or electronic accessories or components to your vehicle, you may adversely affect battery performance and durability. In addition, you may also adversely affect the performance of other electrical systems in the vehicle.
+
+## WHAT IS FORD PROTECT
+
+Protect yourself from the rising cost of vehicle repairs with a Ford Protect extended service plan.
+
+## Ford Protect Extended Service Plans - United States Only
+# Ford Protect Extended Service Plans
+
+Ford Protect extended service plans mean peace of mind. Extended service plans are backed by Ford Motor Company, and provide more protection beyond the New Vehicle Limited Warranty coverage. When you visit your Ford Dealer, insist on the Ford Protect extended service plan.
+
+## Ford Protect Can Quickly Pay for Itself
+
+One trip to the service center could easily exceed the price of your Ford Protect extended service plan. With the Ford Protect extended service plan, you minimize your risk for unexpected repair bills and rising repair costs.
+
+## Up to 1,000+ Covered Vehicle Components
+
+There are four mechanical Ford Protect extended service plans with different levels of coverage. Ask your authorized dealer for details.
+
+1. **PremiumCARE** - Our most comprehensive coverage. With over 1,000 covered components, this plan is so complete it is probably easier to list what is not covered.
+2. **ExtraCARE** - Covers 113 components, and includes many high-tech items.
+3. **BaseCARE** - Covers 84 components.
+4. **PowertrainCARE** - Covers 29 critical components.
+
+Ford Protect extended service plans are honored by all authorized Ford dealers in the United States, Canada and Mexico.
+
+## That means you get:
+
+- Reliable, quality service at any Ford or Lincoln dealership.
+- Repairs performed by factory trained technicians, using genuine parts.
+
+## Rental Car Reimbursement
+
+### First Day Rental Benefit
+
+If you bring your car into your dealer for service, we will give you a rental vehicle to use for the day.
+
+### Extended Rental Benefits
+
+If your vehicle is kept overnight for covered repairs, you are eligible for rental car coverage, warranty repairs, and field service actions.
+
+## Roadside Assistance
+
+Exclusive 24/7 roadside assistance, including:
+
+- Towing, flat-tire change and battery jump starts.
+- Out of fuel and lock-out assistance.
+- Travel expense reimbursement for lodging, meals and rental car.
+- Assistance for taxi, shuttle, rental car coverage or other transportation.
+
+## Transferable Coverage
+
+If you sell your vehicle before your Ford Protect extended service plan coverage expires, you can transfer any remaining coverage to the new owner. This should give you and your potential buyer peace of mind.
+
+## Less Cost to Properly Maintain Your Vehicle
+
+The Ford Protect extended service plan also offers a Premium Maintenance Plan that covers all scheduled maintenance, and selected wear items. The coverage is prepaid, so you never have to worry about the cost of your vehicle's maintenance.
+
+Covered maintenance includes:
+
+- Windshield wiper blades.
+- Spark plugs.
+- The clutch disc (if equipped).
+- Brake pads and linings.
+- Shock absorbers.
+- Struts.
+- Engine belts.
+- Engine coolant hoses, clamps and o-rings.
+- Diesel exhaust fluid replenishment (if equipped).
+- Cabin air filter replacement every 20,000 mi (32,000 km) for electric vehicles only.
+
+## Interest Free Finance Options
+
+Just a 5% down payment provides you with an affordable, no interest, no fee payment program allowing you all the security and benefits Ford Protect extended service plan has to offer while paying over time. You are pre-approved with no credit check or hassles. To learn more, call our Ford Protect extended service plan specialists at 800-367-3377.
+
+Ford Protect Extended Service Plan P.O. Box 321067 Detroit, MI 48232
+
+## Ford Protect Extended Service Plan (Canada Only)
+
+You can get more protection for your vehicle by purchasing a Ford Protect extended service plan. Ford Protect extended service plan is the only service contract backed by Ford Motor Company of Canada, Limited. Depending on the plan you purchase, Ford Protect extended service plan provides benefits such as:
+
+- Rental reimbursement.
+- Coverage for certain maintenance and wear items.
+- Protection against repair costs after your New Vehicle Limited Warranty Coverage expires.
+- Roadside Assistance benefits.
+
+There are several Ford Protect extended service plans available in various time, distance and deductible combinations. Each plan is tailored to fit your own driving needs, including reimbursement for towing and rental. When you purchase Ford Protect extended service plan, you receive added peace-of-mind protection throughout Canada, the United States and Mexico, provided by a network of participating authorized Ford Motor Company dealers.
+
+Note: Repairs performed outside of Canada and the United States are not eligible for Ford Protect extended service plan coverage.
+
+This information is subject to change. Visit your local Ford of Canada dealer or www.ford.ca to find the Ford Protect extended service plan that is right for you.
+
+## Scheduled Maintenance
+
+### GENERAL MAINTENANCE INFORMATION
+
+#### Why Maintain Your Vehicle?
+
+Carefully following the maintenance schedule helps protect against major repair expenses resulting from neglect or inadequate maintenance and may help to increase the value of your vehicle when you sell or trade it. Keep all receipts for completed maintenance with your vehicle.
+
+It is important that you have your vehicle serviced at the proper times. These intervals serve two purposes: first is to maintain the reliability of your vehicle and the second is to keep the cost of owning your vehicle down.
+
+It is your responsibility to have all scheduled maintenance performed and to make sure that the materials used meet the specifications identified in this owner's manual.
+
+Failure to perform scheduled maintenance and regularly inspect your vehicle may result in vehicle damage not covered by the vehicle Warranty.
+
+#### Why Maintain Your Vehicle at Your Dealership?
+
+### Our Genuine Replacement Parts
+
+Dealerships stock our parts and our authorized branded re-manufactured replacement parts. These parts meet or exceed our specifications. Parts installed at your dealership carry a nationwide 24-month or unlimited mile (kilometer) parts and labor limited warranty.
+
+If you do not use our authorized parts they may not meet our specifications and could affect emissions compliance.
+
+### Protecting Your Investment
+
+Maintenance is an investment that pays dividends in the form of improved reliability, durability and resale value. To maintain the proper performance of your vehicle and its emission control systems, make sure you have scheduled maintenance performed at the designated intervals.
+
+Your vehicle comes with the Intelligent Oil-Life Monitor system, a message appears in the information display at the proper oil change interval. This interval may be up to one year or 10,000 mi (16,000 km), hybrid vehicles could exceed 10,000 mi (16,000 km).
+
+When the oil change message appears in the information display, it is time for an oil change. Make sure you perform the oil change within two weeks or 500 mi (800 km) of the message appearing. Make sure to reset the Intelligent Oil-Life Monitor after each oil change.
+
+If your information display resets prematurely or becomes inoperative, you should perform the oil change interval at six months or 5,000 mi (8,000 km) from your last oil change. Never exceed one year or 10,000 mi (16,000 km) between oil change intervals.
+
+You can drive high performance vehicles in such a way that may lead to higher oil consumption including extended time at high engine speeds, high loads, engine braking, hard cornering maneuvers, track and off-road usage. Under these conditions, oil consumption of approximately 1 quart per 500 miles (1 liter per 800 km) is possible. Check the engine oil level at every refueling and adjust to maintain proper levels to avoid engine damage.
+
+It is important to rely upon your dealership to properly diagnose and repair your vehicle.
+
+### Scheduled Maintenance
+
+We strongly recommend only using our genuine or our authorized re-manufactured replacement parts engineered for your vehicle.
+
+### Additives and Chemicals
+
+We do not recommend using chemicals or additives not approved by us as part of your vehicle's normal maintenance. Please consult your warranty information.
+
+### Oils, Fluids and Flushing
+In many cases, fluid discoloration is a normal operating characteristic and, by itself, does not necessarily indicate a concern or that the fluid needs to be changed. Have discolored fluids that also show signs of overheating or foreign material contamination checked immediately.
+
+Make sure to change the vehicle's oils and fluids at the specified intervals or in conjunction with a repair. Flushing is a viable way to change fluid for many vehicle sub-systems during scheduled maintenance. It is critical that systems are flushed only with new fluid that is the same as that required to fill and operate the system or using our approved flushing chemical.
+
+## Owner Checks and Services
+
+Make sure you perform the following basic maintenance checks and inspections.
+
+| Check Every Month                                                                             |
+|-----------------------------------------------------------------------------------------------|
+| The air filter restriction gauge. 1                                                          |
+| The engine oil level.                                                                        |
+| Function of all interior and the exterior lights.                                            |
+| The tires including the spare for wear and proper pressure.                                  |
+| The windshield washer fluid level.                                                           |
+| The fuel and water separator. Drain if necessary or if indicated by the information display. 1 |
+| The holes and slots in the tail pipe to make sure they are functional and clear of debris. 1 |
+
+| Check Every Six Months                                                 |
+|-----------------------------------------------------------------------|
+| The battery connections. Clean if necessary.                          |
+| The body and door drain holes for obstructions. Clean if necessary.   |
+| The cooling system fluid level and the coolant system strength.       |
+
+## Scheduled Maintenance
+
+| Check Every Six Months                                                                 |
+|---------------------------------------------------------------------------------------|
+| The door weatherstrips for wear. Lubricate if necessary.                            |
+| The hinges, latches and outside locks for proper operation. Lubricate if necessary. |
+| The parking brake for proper operation.                                             |
+| The seatbelts and seat latches for wear and function.                               |
+| Safety warning lamps, brake, ABS, airbag and seatbelt for operation.                |
+| The washer spray and wiper operation. Clean or replace blades as necessary.         |
+
+## Multi-Point Inspection
+
+It is important to have the systems on your vehicle regularly checked. This can help identify potential issues and prevent major problems. We recommend having the following multi-point inspection performed at every scheduled maintenance interval to help make sure your vehicle keeps running great.
+
+| Multi-Point Inspection             | Multi-Point Inspection                                   |
+|------------------------------------|----------------------------------------------------------|
+| Accessory drive belt or belts      | Hazard warning system operation                          |
+| Battery performance                | Horn operation                                           |
+| Engine air filter                  | Radiator, cooler, heater and air conditioning hoses      |
+| Exhaust system                     | Suspension components for leaks or damage                |
+| Exterior lamps operation           | Steering and linkage                                     |
+| Fluid levels 1; fill if necessary | Tires including the spare for wear and proper pressure 2 |
+| For oil and fluid leaks            | Windshield for cracks, chips or pits                     |
+| Half-shaft dust boots              | Washer spray and wiper operation                         |
+
+1 Brake, coolant recovery reservoir, automatic transmission and window washer.
+
+2 If your vehicle has a temporary mobility kit, check the tire sealant expiration Use By date on the canister. Replace as needed.
+
+## NORMAL SCHEDULED MAINTENANCE
+
+## Intelligent Oil-Life Monitor™
+
+Your vehicle has an Intelligent Oil-Life Monitor that determines when you should change the engine oil based on how you use your vehicle. By using several important factors in its calculations, the monitor helps reduce the cost of owning your vehicle and reduces environmental waste at the same time.
+
+| When to Expect the OIL CHANGE REQUIRED Message   | When to Expect the OIL CHANGE REQUIRED Message                                                                                 |
+|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Interval 1                                       | Vehicle Use and Example                                                                                                       |
+| 7,500-10,000 mi (12,000-16,000 km)               | Normal                                                                                                                       |
+| 7,500-10,000 mi (12,000-16,000 km)               | Normal commuting with highway driving No, or moderate, load or towing Flat to moderately hilly roads No extended idling      |
+| 5,000-7,500 mi (8,000-12,000 km)                 | Severe                                                                                                                       |
+| 5,000-7,500 mi (8,000-12,000 km)                 | Moderate to heavy load or towing Mountainous or off-road conditions Extended idling Extended hot or cold operation             |
+| 3,000-5,000 mi (5,000-8,000 km)                  | Extreme                                                                                                                      |
+| 3,000-5,000 mi (5,000-8,000 km)                  | Maximum load or towing Extreme hot or cold operation Extended engine idling                                                 |
+
+This means you do not have to remember to change the oil on a mileage-based schedule. Your vehicle lets you know when an oil change is due by displaying a message in the information display.
+
+The following table provides examples of vehicle use and its impact on oil change intervals. It is a guideline only. Actual oil change intervals depend on several factors and generally decrease with severity of use.
+
+## Normal Maintenance Intervals
+
+| At Every Oil Change Interval as Indicated by the Information Display 1                                        |
+|--------------------------------------------------------------------------------------------------------------|
+| Change the engine oil and filter.                                                                            |
+| Rotate the tires.                                                                                            |
+| Perform a multi-point inspection, recommended.                                                             |
+| Inspect the automatic transmission fluid level. Consult your dealer for requirements.                      |
+| Inspect the brake pads, rotors, hoses and the parking brake.                                               |
+| Inspect the engine coolant level/strength and the hoses.                                                   |
+| Inspect the exhaust system and heat shields.                                                               |
+| Inspect the rear axle and U-joints - all-wheel drive.                                                      |
+| Inspect the half-shaft boots.                                                                                |
+| Inspect the steering linkage, ball joints, suspension, tire-rod ends, driveshaft and the U-joints.          |
+| Inspect the tires, tire wear and measure the tread depth.                                                  |
+| Inspect the wheels and related components for abnormal noise, wear, looseness or drag.                      |
+## Brake Fluid Maintenance
+
+| BrakeFluidMaintenance 1   | BrakeFluidMaintenance 1   |
+|---------------------------|---------------------------|
+| Every 3 Years             | Change the brake fluid. 2 |
+
+## Other Maintenance Items
+
+| OtherMaintenanceItems 1       | OtherMaintenanceItems 1                  |
+|-------------------------------|------------------------------------------|
+| Every 20,000 mi (32,000 km)   | Replace the cabin air filter.            |
+| Every 30,000 mi (48,000 km)   | Replace the engine air filter.           |
+| Every 100,000 mi (160,000 km) | Replace the spark plugs.                 |
+| Every 100,000 mi (160,000 km) | Inspect the accessory drive belt(s). 2   |
+| Every 150,000 mi (240,000 km) | Change the automatic transmission fluid. |
+| Every 150,000 mi (240,000 km) | Replace the accessory drive belt(s). 3   |
+| At 200,000 mi (322,000 km)    | Change the engine coolant. 4             |
+
+## Towing a Trailer or Using a Car-top Carrier
+
+| TowingaTrailer or UsingaCar-topCarrier   | TowingaTrailer or UsingaCar-topCarrier                                                                                               |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| As required                              | Change engine oil and filter as indicated by the information display and perform services listed in the Normal Scheduled Maintenance chart. |
+| Inspect frequently, service as required  | Inspect rear axle and U-joints (AWD).                                                                                                |
+| Every 30,000 mi (48,000 km)              | Change automatic transmission fluid.                                                                                                 |
+| Every 60,000 mi (96,000 km)              | Replace spark plugs.                                                                                                                 |
+
+## Extensive Idling or Low-speed Driving for Long Distances
+
+| ExtensiveIdlingorLow-speedDrivingforLongDistances,asinHeavyCommercialUse (SuchasDelivery,Taxi, Patrol Car or Livery)   | ExtensiveIdlingorLow-speedDrivingforLongDistances,asinHeavyCommercialUse (SuchasDelivery,Taxi, Patrol Car or Livery)                 |
+|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| As required                                                                                                            | Change engine oil and filter as indicated by the information display and perform services listed in the Normal Scheduled Maintenance chart. |
+| Inspect frequently, service as required                                                                                | Replace cabin air filter.                                                                                                            |
+| Inspect frequently, service as required                                                                                | Replace engine air filter.                                                                                                           |
+| Every 30,000 mi (48,000 km)                                                                                            | Change automatic transmission fluid.                                                                                                 |
+| Every 60,000 mi (96,000 km)                                                                                            | Replace spark plugs.                                                                                                                 |
+
+## Operating in Dusty or Sandy Conditions
+
+| OperatinginDustyorSandyConditions(SuchasUnpavedorDustyRoads)   | OperatinginDustyorSandyConditions(SuchasUnpavedorDustyRoads)                    |
+|----------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Inspect frequently, service as required                        | Replace cabin air filter.                                                       |
+| Inspect frequently, service as required                        | Replace engine air filter.                                                      |
+| Every 5,000 mi (8,000 km)                                      | Inspect the wheels and related components for abnormal noise, wear, looseness or drag. |
+| Every 5,000 mi (8,000 km)                                      | Rotate tires, inspect tires for wear and measure tread depth.                   |
+
+| OperatinginDustyorSandyConditions(SuchasUnpavedorDustyRoads)   | OperatinginDustyorSandyConditions(SuchasUnpavedorDustyRoads)   |
+|----------------------------------------------------------------|----------------------------------------------------------------|
+| Every 5,000 mi (8,000 km) or six months                        | Change engine oil and filter.                                  |
+| Every 5,000 mi (8,000 km) or six months                        | Perform multi-point inspection.                                |
+| Every 30,000 mi (48,000 km)                                    | Change automatic transmission fluid.                           |
+
+## Exclusive Use of E85 (Flex Fuel Vehicles Only)
+
+| ExclusiveUseofE85(FlexFuelVehiclesOnly)   | ExclusiveUseofE85(FlexFuelVehiclesOnly)                                        |
+|-------------------------------------------|--------------------------------------------------------------------------------|
+| Every oil change                          | If ran exclusively on E85, fill the fuel tank full with regular unleaded fuel. |
+
+## Exceptions
+
+There are several exceptions to the Normal Schedule:
+
+### California Fuel Filter Replacement
+
+If you register your vehicle in California, the California Air Resources Board has determined that the failure to perform this maintenance item does not nullify the emission warranty or limit recall liability before the completion of your vehicle's useful life. Ford Motor Company, however, urges you to have all recommended maintenance services performed at the specified intervals and to record all vehicle service.
+
+### Hot Climate Oil Change Intervals
+
+The normal oil change interval for vehicles operating in the Middle East, North Africa, Sub-Saharan Africa or locations with similar climates using an American Petroleum Institute (API) Certified for Gasoline Engines (Certification mark) oil of SM or SN quality is 3,000 mi (5,000 km).
+
+If the available API SM or SN oils are not available, then the oil change interval is 2,000 mi (3,000 km).
+
+### Engine Air Filter and Cabin Air Filter Replacement
+
+The life of the engine air filter and cabin air filter is dependent on exposure to dusty and dirty conditions. Vehicles operated in these conditions require frequent inspection and replacement of the engine air filter and cabin air filter.
+WARNING: Utility vehicles have a significantly higher rollover rate than other types of vehicles.
+
+WARNING: Vehicles with a higher center of gravity (utility and four-wheel drive vehicles) handle differently than vehicles with a lower center of gravity (passenger cars). Avoid sharp turns, excessive speed and abrupt steering in these vehicles. Failure to drive cautiously increases the risk of losing control of your vehicle, vehicle rollover, personal injury and death.
+
+WARNING: In a rollover crash, an unbelted person is significantly more likely to die than a person wearing a seatbelt.
+
+WARNING: Do not become overconfident in the ability of four-wheel drive vehicles. Although a four-wheel drive vehicle may accelerate better than a two-wheel drive vehicle in low traction situations, it won't stop any faster than two-wheel drive vehicles. Always drive at a safe speed.
+
+## VEHICLE HANDLING
+
+Utility vehicles and trucks handle differently than passenger cars in the various driving conditions that are encountered on streets, highways and off-road. Utility vehicles and trucks are not designed for cornering at speeds as high as passenger cars any more than low-slung sports cars are designed to perform satisfactorily under off-road conditions.
+
+## THE BETTER BUSINESS BUREAU AUTO LINE PROGRAM
+
+Your satisfaction is important to Ford Motor Company and to your dealer. If a warranty concern has not been resolved using the three-step procedure outlined earlier in this chapter in the Getting the Services you need section, you may be eligible to participate in the BBB AUTO LINE program.
+
+The BBB AUTO LINE program consists of two parts - mediation and arbitration. During mediation, a representative of the BBB will contact both you and Ford Motor Company to explore options for settlement of the claim. If an agreement is not reached during mediation or you do not want to participate in mediation, and if your claim is eligible, you may participate in the arbitration process. An arbitration hearing will be scheduled so that you can present your case in an informal setting before an impartial person. The arbitrator considers the testimony provided and makes a decision after the hearing.
+
+Disputes submitted to the BBB AUTO LINE program are usually decided within 40 days after you file your claim with the BBB. You are not bound by the decision, and may reject the decision and proceed to court where all findings of the BBB Auto Line dispute, and decision, are admissible in the court action. Should you choose to accept the BBB AUTO LINE decision, Ford is then bound by the decision, and must comply with the decision within 30 days of receipt of your acceptance letter.
+
+### BBB AUTO LINE Application
+
+Using the information that follows, please call or write to request a program application. You will be asked for your name and address, general information about your new vehicle, information about your warranty concerns, and any steps you have already taken to try to resolve them. A Customer Claim Form will be mailed that needs to be completed, signed and returned to the BBB along with proof of ownership. Upon receipt, the BBB reviews the claim for eligibility under the Program Summary Guidelines.
+
+You can get more information by calling BBB AUTO LINE at 1-800-955-5100, or writing to:
+
+BBB AUTO LINE  
+a Division of BBB National Programs, Inc.  
+1676 International Drive, Suite 550  
+McLean, VA 22102  
+
+BBB AUTO LINE applications can also be requested by calling the Ford Motor Company Customer Relationship Center at 1-800-392-3673.
+
+For additional information, refer to the Better Business Bureau website.
+
+**Note:** Ford Motor Company reserves the right to change eligibility limitations, modify procedures, or to discontinue this process at any time without notice and without obligation.
+
+## THE MEDIATION AND ARBITRATION PROGRAM
+
+For vehicles delivered to authorized Canadian dealers. In those cases where you continue to feel that the efforts by Ford of Canada and the authorized dealer to resolve a factory-related vehicle service concern have been unsatisfactory, Ford of Canada participates in an impartial third party mediation/arbitration program administered by the Canadian Motor Vehicle Arbitration Plan (CAMVAP).
+
+The CAMVAP program is a straightforward and relatively speedy alternative to resolve a disagreement when all other efforts to produce a settlement have failed. This procedure is without cost to you and is designed to eliminate the need for lengthy and expensive legal proceedings.
+
+In the CAMVAP program, impartial third-party arbitrators conduct hearings at mutually convenient times and places in an informal environment. These impartial arbitrators review the positions of the parties, make decisions and, when appropriate, render awards to resolve disputes. CAMVAP decisions are fast, fair, and final as the arbitrator's award is binding on both you and Ford of Canada.
+
+CAMVAP services are available in all Canadian territories and provinces. For more information, without charge or obligation, call your CAMVAP Provincial Administrator directly at 1-800-207-0685 or visit www.camvap.ca.
+
+## ORDERING A CANADIAN FRENCH OWNER'S MANUAL
+
+You can obtain a French owner's manual from an authorized dealer or by contacting Helm, LLC at:
+
+HELM, LLC  
+47911 Halyard Drive, Suite 200  
+Plymouth, Michigan 48170  
+Attention: Customer Service  
+
+Monday-Friday 8:00 a.m. - 6:00 p.m. EST
+
+Call toll free: 1-800-782-4356  
+For additional information, visit www.helminc.com.
+
+## REPORTING SAFETY DEFECTS IN THE UNITED STATES
+
+If you believe that your vehicle has a defect which could cause a crash or could cause injury or death, you should immediately inform the National Highway Traffic Safety Administration (NHTSA) in addition to notifying Ford Motor Company.
+
+If NHTSA receives similar complaints, it may open an investigation, and if it finds that a safety defect exists in a group of vehicles, it may order a recall and remedy campaign. However, NHTSA cannot become involved in individual problems between you, your dealer, or Ford Motor Company.
+
+To contact NHTSA, you may call the Vehicle Safety Hotline toll-free at 1-888-327-4236 (TTY: 1-800-424-9153); go to www.safercar.gov; or write to:
+
+Administrator  
+1200 New Jersey Avenue, Southeast  
+Washington, D.C. 20590  
+
+You can also obtain other information about motor vehicle safety from www.safercar.gov.
+
+## REPORTING SAFETY DEFECTS IN CANADA
+
+If you believe that your vehicle has a defect which could cause a crash or could cause injury or death, you should immediately inform Transport Canada and Ford of Canada.
+
+| Transport Canada Contact Information   | Transport Canada Contact Information   |
+|-----------------------------------------|---------------------------------------|
+| Website (English)                       | http://tc.canada.ca/recalls          |
+| Website (French)                        | http://tc.canada.ca/rappels          |
+| Phone                                   | 1-800-333-0510                        |
+
+| Ford of Canada Contact Information      | Ford of Canada Contact Information      |
+|-----------------------------------------|---------------------------------------|
+| Website                                 | www.ford.ca                           |
+| Phone                                   | 1-800-565-3673                        |
+
+## RADIO FREQUENCY CERTIFICATION LABELS
+
+## BLIND SPOT INFORMATION SYSTEM SENSORS
+
+Argentina  
+E363578
+
+## Belarus  
+E253816
+
+## Brazil  
+E340204
+
+## Canada  
+Short Range Radar Sensor SRR3-B IC ID: 4135A-SRR3B  
+EAL  
+E351800
+
+## Djibouti  
+3  
+08  
+E 4  
+6  
+2
+
+## European Union EU  
+3 00 3  
+E 1  
+4
+
+## Ghana  
+E269695
+
+## Jamaica  
+E340517
+
+## Malaysia  
+E269697  
+RALM/24A/0715/S(15-2272)
+
+## Mauritania  
+E353342
+
+## Mexico  
+E353300
+
+## Moldova  
+E337971
+
+## Pakistan  
+E352429
+## Customer Information
+
+### General Compliance Information
+This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions:
+1. This device may not cause harmful interference, and
+2. This device must accept any interference received, including interference that may cause undesired operation.
+
+### Warnings
+WARNING: Changes or modifications not expressly approved by the party responsible for compliance could void the user's authority to operate the equipment. The term "IC:" before the radio certification number only signifies that Industry Canada technical specifications were met.
+
+## Countries and Regions
+
+### Argentina
+- BODY CONTROL MODULE: E345301
+- CRUISE CONTROL MODULE (If Equipped): E308030
+- KEYS AND REMOTE CONTROLS: CNC E339844, CNCID:H-24101
+- SYNC: CNC COMISION NACIONAL DE COMUNICACIONES, CNC ID: C-20317, E339829
+
+### Brazil
+- E365115
+- E340118
+- E340121
+- E340120
+- E339830
+
+### Canada and United States of America
+- FCC ID: LXPP004
+- IC: 2298A-P004
+- FCC ID: L2C0065TR
+- IC: 3432A-0065TR
+
+### Djibouti
+- E342394
+- E342395
+- E272192
+- E339941
+- E340306
+
+### European Union EU
+- E310043
+
+### Ghana
+- E340191
+- E340317
+- E340307
+- E341732
+- E41502
+
+### Indonesia
+- E342395
+- E341733
+
+### Jamaica
+- E345306
+- E340518
+- E340219
+- E340318
+- E340651
+- E341734
+
+### Malaysia
+- E339836
+- RBAB/57H/0318/S(18-0624)
+
+### Mauritania
+- E340310
+- E308039
+- E41735
+- E41741
+- E41583
+
+### Moldova
+- E337971
+- E337971
+- E337971
+
+### Morocco
+- E340192
+- E340311
+- E339942
+
+### Pakistan
+- E342396
+- E337974
+- E339834
+
+### Paraguay
+- E337181
+- E339812
+- E308039
+- NR: 2016-9-I-000223
+- NR: 2016-9-I-000222
+- NR: 2016-9-I-000220
+- NR: 2018-07-I-000317
+- NR: 2017-12-I-0000413
+
+### Russia
+- E253816
+
+### Serbia
+- E341434
+- E269681
+- E339831
+
+### Singapore
+- E33990
+- E33993
+- E340195
+
+### South Africa
+- E269696
+- E345313
+- E340194
+- E339832
+
+### South Korea
+- E339675
+- R-R-175-P005
+- R-CMM-DLH-L2C0065TR
+- MSIP-CRM-TAL-A2C97102000
+- MSIP-CMM-pAs-FA-170-BCAR-HS
+
+### Taiwan, China
+- E340203
+- E351001
+- E350649
+- E339833
+
+### Ukraine
+- E269682
+- E308043
+- E340196
+
+### United Arab Emirates (U.A.E.)
+- E338020
+- TRA REGISTERED NO. ER54071/17
+- DEALER NO.: DA37380/15
+- E340217
+- E4130
+
+### United States of America
+- FCC ID: OAYSRR3B
+- FCC ID: L2C0062TR
+
+### Vietnam
+- E353397
+- E278262
+- E340217
+- E342146
+
+### Zambia
+- E345310
+- E340196
+- E340315
+- E341740
+## Customer Information
+
+### United States and Canada
+
+WARNING: Changes or modifications not expressively approved by the party responsible for compliance could void the user's authority to operate the equipment. The term "IC:" before the radio certification number only signifies that Industry Canada technical specifications were met.
+
+#### FCC ID: LHJ-FB40ND1
+IC: 2807E-FB40ND1
+
+This device complies with Part 15 of the FCC Rules and with Innovation, Science and Economic Development Canada's licence-exempt RSS(s). Operation is subject to the following two conditions:
+
+1. This device may not cause harmful interference, and
+2. This device must accept any interference received, including interference that may cause undesired operation.
+
+### Customer Information
+
+| SYNCVersion | FCCIdentificationNumber | IC IdentificationNumber |
+|-------------|-------------------------|-------------------------|
+| 3.0         | ACJ-SYNCG3-L            | 216B-SYNCG3-L           |
+| 3.1         | ACJ-FA-170-BCARHS       | 216B-FA170BCARHS        |
+| 3.2         | ACJ-FG-185-SG32MH       | 216B-FG185SG32MH        |
+
+This device complies with Part 15 of the FCC Rules and with Innovation, Science and Economic Development Canada's licence-exempt RSS(s). Operation is subject to the following two conditions:
+
+1. This device may not cause harmful interference, and
+2. This device must accept any interference received, including interference that may cause undesired operation.
+
+### Customer Information
+
+## TIRE PRESSURE MONITORING SYSTEM SENSORS - VEHICLES WITH: 315 MHZ SENSORS
+
+## TIRE PRESSURE MONITORING SYSTEM SENSORS - VEHICLES WITH: 433 MHZ SENSORS
+
+## Replacement Parts Recommendation
+
+We have built your vehicle to the highest standards using quality parts. We recommend that you demand the use of genuine Ford and Motorcraft parts whenever your vehicle requires scheduled maintenance or repair. You can clearly identify genuine Ford and Motorcraft parts by looking for the Ford, FoMoCo or Motorcraft branding on the parts or their packaging.
+
+## Scheduled Maintenance and Mechanical Repairs
+
+One of the best ways for you to make sure that your vehicle provides years of service is to have it maintained in line with our recommendations using parts that conform to the specifications detailed in this Owner's Manual.
+
+Genuine Ford and Motorcraft parts meet or exceed these specifications.
+
+## Collision Repairs
+
+We hope that you never experience a collision, but accidents happen sometimes.
+
+## Perchlorate
+
+Certain components in your vehicle such as airbag modules, seatbelt pretensioners and remote control batteries may contain perchlorate material. Special handling may apply for service or vehicle end of life disposal.
+
+For more information visit: www.dtsc.ca.gov/hazardouswaste/perchlorate.
+
+## Country Specific Information
+
+### Ukraine
+
+E269682
+
+### United Arab Emirates (U.A.E.)
+
+3 05 0
+
+E 4
+
+2
+
+### United States and Canada
+
+WARNING: Changes or modifications not expressively approved by the party responsible for compliance could void the user's authority to operate the equipment. The term "IC:" before the radio certification number only signifies that Industry Canada technical specifications were met.
+
+### Vietnam
+
+E339834
+
+### Zambia
+
+E339835
+
+### TELEMATICS CONTROL UNIT Brazil
+
+E364134
+
+### United Arab Emirates (U.A.E.)
+
+E355570
+
+### United States and Canada
+
+WARNING: Changes or modifications not expressively approved by the party responsible for compliance could void the user's authority to operate the equipment. The term "IC:" before the radio certification number only signifies that Industry Canada technical specifications were met.
+
+### FCC ID: LHJ-FB40ND1
+
+IC: 2807E-FB40ND1
+
+This device complies with Part 15 of the FCC Rules and with Innovation, Science and Economic Development Canada's licence-exempt RSS(s). Operation is subject to the following two conditions:
+
+1. This device may not cause harmful interference, and
+2. This device must accept any interference received, including interference that may cause undesired operation.
+
+### Mexico
+
+3
+
+E 42359
+
+### Nigeria
+
+E337972
+
+### Singapore
+
+E339944
+
+### Taiwan
+
+E339821
+
+### Customer Information
+
+### United States and Canada
+
+WARNING: Changes or modifications not expressively approved by the party responsible for compliance could void the user's authority to operate the equipment. The term "IC:" before the radio certification number only signifies that Industry Canada technical specifications were met.
+
+### FCC ID: MRXAG2SM3 IC: 2546A-AG2SM3
+
+This device complies with Part 15 of the FCC Rules and with Innovation, Science and Economic Development Canada's licence-exempt RSS(s). Operation is subject to the following two conditions:
+
+1. This device may not cause harmful interference, and
+2. This device must accept any interference received, including interference that may cause undesired operation.
+
+### Argentina
+
+E339822
+
+### Brazil
+
+E339823
+
+### Djibouti
+
+3399
+
+5
+
+E
+
+4
+
+## European Union EU
+
+E339849
+
+### Customer Information
+
+### Ghana
+
+E341832
+
+### Jordan
+
+3
+
+E 41833
+
+### Mauritania
+
+E3399 6
+
+4
+
+### Mexico
+
+E342358
+
+### Moldova
+
+E337971
+
+### Morocco
+
+E339947
+
+### Customer Information
+
+### Nigeria
+
+E337972
+
+### Oman
+
+3
+
+E 41834
+
+### Pakistan
+
+Pakistan Telecommunication Authority
+
+E337974
+
+### Paraguay
+
+E339812
+
+NR: 2018-06-I-000224
+
+### Philippines
+
+E339824
+
+### Russia
+
+E253816
+
+### Customer Information
+
+### Serbia
+
+E338019
+
+### Singapore
+
+E3399 8
+
+4
+
+### South Africa
+
+E339825
+
+EAL
+
+### Customer Information
+
+### South Korea
+
+E339675
+
+R-CRM-SRD-AG2SM4
+
+### Taiwan
+
+E339826
+
+### Ukraine
+
+E338024
+
+5
+
+### United Arab Emirates (U.A.E.)
+
+E341835
+
+### United States and Canada
+
+WARNING: Changes or modifications not expressively approved by the party responsible for compliance could void the user's authority to operate the equipment. The term "IC:" before the radio certification number only signifies that Industry Canada technical specifications were met.
+
+### FCC ID: 2546A- AG2SM4
+
+IC: MRXAG2SM4
+
+This device complies with Part 15 of the FCC Rules and with Innovation, Science and Economic Development Canada's licence-exempt RSS(s). Operation is subject to the following two conditions:
+
+1. This device may not cause harmful interference, and
+2. This device must accept any interference received, including interference that may cause undesired operation.
+
+### Vietnam
+
+E339827
+
+### Zambia
+
+E3398 8
+
+2
+
+### Customer Information
+
+### WIRELESS ACCESSORY CHARGING MODULE (If Equipped) Argentina
+
+E340521
+
+### Brazil
+
+E340824
+
+### Djibouti
+
+3
+
+08
+
+E 4
+
+3
+
+2
+
+### European Union EU
+
+E310043
+
+### Ghana
+
+E340522
+
+### Jamaica
+
+E340523
+
+### Jordan
+
+E340657
+
+### Customer Information
+
+### Malaysia
+
+E339836
+
+SQASI/TA/19/4129
+
+### Mauritania
+
+3
+
+E 40524
+
+### Moldova
+
+E337971
+
+### Morocco
+
+3
+
+05
+
+5
+
+E 4
+
+2
+
+### Paraguay
+
+E339812
+
+2017-10-I-0000333
+
+### Serbia
+
+M011 18
+
+3 0 00
+
+E 4 2
+
+### Customer Information
+
+### Singapore
+
+E3399 0
+
+4
+
+### South Africa
+
+E340658
+
+### South Korea
+
+E273475
+
+### Taiwan, China
+
+E338220
+
+### Ukraine
+
+E269682
+
+### United Arab Emirates (U.A.E.)
+
+E340526
+
+### Customer Information
+
+### United States and Canada
+
+WARNING: Changes or modifications not expressively approved by the party responsible for compliance could void the user's authority to operate the equipment. The term "IC:" before the radio certification number only signifies that Industry Canada technical specifications were met.
+
+### FCC ID: L2C0066T
+
+This device complies with Part 15 of the FCC Rules and with Innovation, Science and Economic Development Canada's licence-exempt RSS(s). Operation is subject to the following two conditions:
+
+1. This device may not cause harmful interference, and
+2. This device must accept any interference received, including interference that may cause undesired operation.
+
+### Vietnam
+
+FordVietnam A00182015
+
+E278262
+
+### Zambia
+
+E340659
+## Genuine Ford Replacement Collision Parts
+
+Genuine Ford replacement collision parts meet our stringent requirements for fit, finish, structural integrity, corrosion protection and dent resistance. During vehicle development we validate that these parts deliver the intended level of protection as a whole system. A great way to know for sure you are getting this level of protection is to use genuine Ford replacement collision parts.
+
+## Warranty on Replacement Parts
+
+Genuine Ford and Motorcraft replacement parts are the only replacement parts that benefit from a Ford Warranty.
+
+The Ford Warranty may not cover damage caused to your vehicle as a result of failed non-Ford parts.
+
+For additional information, refer to the terms and conditions of the Ford Warranty.
+
+## Mobile Communications Equipment
+
+WARNING: Driving while distracted can result in loss of vehicle control, crash and injury. We strongly recommend that you use extreme caution when using any device that may take your focus off the road. Your primary responsibility is the safe operation of your vehicle. We recommend against the use of any hand-held device while driving and encourage the use of voice-operated systems when possible. Make sure you are aware of all applicable local laws that may affect the use of electronic devices while driving.
+
+Using mobile communications equipment is becoming increasingly important in the conduct of business and personal affairs. However, you must not compromise your own or others' safety when using such equipment. Mobile communications can enhance personal safety and security when appropriately used, particularly in emergency situations. Safety must be paramount when using mobile communications equipment to avoid negating these benefits. Mobile communication equipment includes, but is not limited to, cellular phones, pagers, portable email devices, text messaging devices and portable two-way radios.
+
+## Federal Highway Administration Regulation
+
+Regulations such as those issued by the Federal Highway Administration or issued pursuant to the Occupational Safety and Health Act (OSHA), and state and local laws and regulations may require additional equipment for the way you intend to use your vehicle. It is the responsibility of the registered owner to determine the applicability of such laws and regulations to your intended use for the vehicle, and to arrange for the installation of required equipment. The dealer has information about the availability of equipment which can be ordered for your vehicle.
+
+## End User License Agreement
+
+### Vehicle Software End User License Agreement (EULA)
+
+- You ('You' or 'Your' as applicable) have acquired a vehicle having several devices, including SYNC ® and various control modules, ("DEVICES") that include software licensed or owned by Ford Motor Company and its affiliates ("FORD MOTOR COMPANY"). Those software products of FORD MOTOR COMPANY origin, as well as associated media, printed materials, and "online" or electronic documentation ("SOFTWARE") are protected by international intellectual property laws and treaties. The SOFTWARE is licensed, not sold. All rights reserved.
+- The SOFTWARE may interface with and/or communicate with, or may be later upgraded to interface with and/or communicate with additional software and/or systems provided by FORD MOTOR COMPANY.
+
+IF YOU DO NOT AGREE TO THIS END USER LICENSE AGREEMENT ("EULA") DO NOT USE THE DEVICES OR COPY THE SOFTWARE. ANY USE OF THE SOFTWARE, INCLUDING BUT NOT LIMITED TO USE ON THE DEVICES, WILL CONSTITUTE YOUR AGREEMENT TO THIS EULA (OR RATIFICATION OF ANY PREVIOUS CONSENT).
+
+### Grant of Software License
+
+This EULA grants you the following license:
+
+- You may use the SOFTWARE as installed on the DEVICES and as otherwise interfacing with systems and/or services provide by or through FORD MOTOR COMPANY or its third party software and service providers.
+
+## Description of Other Rights and Limitations
+
+- **Speech Recognition**: If the SOFTWARE includes speech recognition component(s), you should understand that speech recognition is an inherently statistical process and that recognition errors are inherent in the process. Neither FORD MOTOR COMPANY nor its suppliers shall be liable for any damages arising out of errors in the speech recognition process. It is your responsibility to monitor any speech recognition functions included in the system.
+- **Limitations on Distributing, Copying, Modifying and Creating Derivative Works**: You may not distribute, copy, make modifications to or create derivative works based on the SOFTWARE, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation or to the extent as may be permitted by the licensing terms governing use of any open source components included with the SOFTWARE.
+- **Limitations on Reverse Engineering, Decompilation and Disassembly**: You may not reverse engineer, decompile, translate, disassemble or attempt to discover any source code or underlying ideas or algorithms of the SOFTWARE nor permit others to reverse engineer, decompile or disassemble the SOFTWARE, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation or to the extent as may be permitted by the licensing terms governing use of any open source components included with the SOFTWARE.
+
+## Customer Information
+
+- **Single EULA**: The end user documentation for the DEVICES and related systems and services may contain multiple EULAs, such as multiple translations and/or multiple media versions (e.g., in the user documentation and in the software). Even if you receive multiple EULAs, you are licensed to use only one (1) copy of the SOFTWARE.
+- **Termination**: Without prejudice to any other rights, FORD MOTOR COMPANY may terminate this EULA if you fail to comply with the terms and conditions of this EULA.
+- **SOFTWARE Transfer**: You may permanently transfer your rights under this EULA only as part of a sale or transfer of the DEVICES, provided you retain no copies, you transfer all of the SOFTWARE (including all component parts, the media and printed materials, any upgrades, and, if applicable, the Certificate(s) of Authenticity), and the recipient agrees to the terms of this EULA. If the SOFTWARE is an upgrade, any transfer must include all prior versions of the SOFTWARE.
+- **Internet-Based Services Components**: The SOFTWARE may contain components that enable and facilitate the use of certain Internet-based services. You acknowledge and agree that FORD MOTOR COMPANY, third party software and service suppliers, its affiliates and/or its designated agent may automatically check the version of the SOFTWARE and/or its components that you are utilizing and may provide upgrades or supplements to the SOFTWARE that may be automatically downloaded to your DEVICES.
+- **Additional Software/Services**: The SOFTWARE may permit FORD MOTOR COMPANY, third party software and service suppliers, its affiliates and/or its designated agent to provide or make available to you SOFTWARE updates, supplements, add-on components, or Internet-based services components of the SOFTWARE after the date you obtain your initial copy of the SOFTWARE ("Supplemental Components"). SOFTWARE updates may cause you to incur additional charges from your wireless service provider. If FORD MOTOR COMPANY or third party software and services suppliers provide or make available to you Supplemental Components and no other EULA terms are provided along with the Supplemental Components, then the terms of this EULA shall apply. FORD MOTOR COMPANY, its affiliates and/or its designated agent reserve the right to discontinue without liability any Internet-based services provided to you or made available to you through the use of the SOFTWARE.
+## Links to Third Party Sites
+
+The SOFTWARE may provide you with the ability to link to third party sites. The third party sites are not under the control of FORD MOTOR COMPANY, its affiliates and/or its designated agent. Neither FORD MOTOR COMPANY nor its affiliates nor its designated agent are responsible for (I) the contents of any third party sites, any links contained in third party sites, or any changes or updates to third party sites, or (ii) webcasting or any other form of transmission received from any third party sites. If the SOFTWARE provides links to third party sites, those links are provided to you only as a convenience, and the inclusion of any link does not imply an endorsement of the third party site by FORD MOTOR COMPANY, its affiliates and/or its designated agent.
+
+## Obligation to Drive Responsibly
+
+You recognize your obligation to drive responsibly and keep attention on the road. You will read and abide with the DEVICES operating instructions particularly as they pertain to safety and you agree to assume any risk associated with the use of the DEVICES.
+
+## UPGRADES AND RECOVERY MEDIA
+
+If the SOFTWARE is provided by FORD MOTOR COMPANY separate from the DEVICES on media such as a ROM chip, CD ROM disk(s) or via web download or other means, and is labeled "For Upgrade Purposes Only" or "For Recovery Purposes Only" you may install one (1) copy of such SOFTWARE onto the DEVICES as a replacement copy for the existing SOFTWARE, and use it in accordance with this EULA, including any additional EULA terms accompanying the upgrade SOFTWARE.
+
+## INTELLECTUAL PROPERTY RIGHTS
+
+All title and intellectual property rights in and to the SOFTWARE (including but not limited to any images, photographs, animations, video, audio, music, text and "applets" incorporated into the SOFTWARE), the accompanying printed materials, and any copies of the SOFTWARE, are owned by FORD MOTOR COMPANY, or its affiliates or suppliers. The SOFTWARE is licensed, not sold. You may not copy the printed materials accompanying the SOFTWARE. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content outside its intended use. All rights not specifically granted under this EULA are reserved by FORD MOTOR COMPANY, its affiliates, and third party software and service providers and suppliers. Use of any on-line services which may be accessed through the SOFTWARE may be governed by the respective terms of use relating to such services. If this SOFTWARE contains documentation that is provided only in electronic form, you may print one copy of such electronic documentation.
+
+## EXPORT RESTRICTIONS
+
+You acknowledge that the SOFTWARE is subject to U.S. and European Union export jurisdiction. You agree to comply with all applicable international and national laws that apply to the SOFTWARE, including the U.S. Export Administration Regulations, as well as end-user, end-use and destination restrictions issued by U.S. and other governments.
+
+## Customer Information
+
+### TRADEMARKS
+
+This EULA does not grant you any rights in connection with any trademarks or service marks of FORD MOTOR COMPANY, its affiliates, and third party software and service providers.
+
+### PRODUCT SUPPORT
+
+Please refer to FORD MOTOR COMPANY instructions provided in the documentation for the DEVICES product support, such as the vehicle owner guide.
+
+Should you have any questions concerning this EULA, or if you desire to contact FORD MOTOR COMPANY for any other reason, please refer to the address provided in the documentation for the DEVICES.
+
+## No Liability for Certain Damages
+
+EXCEPT AS PROHIBITED BY LAW, FORD MOTOR COMPANY, ANY THIRD PARTY SOFTWARE OR SERVICES SUPPLIERS, AND THEIR AFFILIATES SHALL HAVE NO LIABILITY FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL DAMAGES ARISING FROM OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE SOFTWARE. THIS LIMITATION SHALL APPLY EVEN IF ANY REMEDY FAILS OF ITS ESSENTIAL PURPOSE. THERE ARE NO WARRANTIES OTHER THAN THOSE THAT MAY BE EXPRESSLY PROVIDED FOR YOUR NEW VEHICLE.
+
+## SYNC® Automotive Important Safety Information
+
+### Read and follow instructions
+
+- Before using your SYNC® system, read and follow all instructions and safety information provided in this end user manual ("Owner Guide".) Not following precautions found in the Owner Guide can lead to an accident or other serious injuries.
+
+## General Operation
+
+- **Prolonged Views of Screen:** Do not access any function requiring a prolonged view of the screen while you are driving. Pull over in a safe and legal manner before attempting to access a function of the system requiring prolonged attention.
+- **Voice Command Control:** Certain functions within the SYNC® system may be accomplished using voice commands. Using voice commands while driving helps you to operate the system without removing your hands from the wheel or eyes from the road.
+- **Volume Setting:** Do not raise the volume excessively. Keep the volume at a level where you can still hear outside traffic and emergency signals while driving. Driving while unable to hear these sounds could cause an accident.
+- **Distraction Hazard:** Any navigation features may require manual (non-verbal) setup. Attempting to perform such set-up or insert data while driving can distract your attention and could cause an accident or other serious injury. Stop the vehicle in a safe and legal manner before attempting these operations.
+- **Navigation Features:** Any navigation features included in the system are intended to provide turn by turn instructions to get you to a desired destination. Please make certain all persons using this system carefully read and follow instructions and safety information fully.
+- **Let Your Judgment Prevail:** Any navigation features are provided only as an aid. Make your driving decisions based on your observations of local conditions and existing traffic regulations. Any such feature is not a substitute for your personal judgment. Any route suggestions made by this system should never replace any local traffic regulations or your personal judgment or knowledge of safe driving practices.
+- **Potential Map Inaccuracy:** Maps used by this system may be inaccurate because of changes in roads, traffic controls or driving conditions. Always use good judgment and common sense when following the suggested routes.
+- **Route Safety:** Do not follow the route suggestions if doing so would result in an unsafe or illegal maneuver, if you would be placed in an unsafe situation, or if you would be directed into an area that you consider unsafe. The driver is ultimately responsible for the safe operation of the vehicle and therefore, must evaluate whether it is safe to follow the suggested directions.
+- **Emergency Services:** Do not rely on any navigation features included in the system to route you to emergency services. Ask local authorities or an emergency services operator for these locations. Not all emergency services such as police, fire stations, hospitals and clinics are likely to be contained in the map database for such navigation features.
+## Agreement to Terms
+
+- You agree to each of the following: 
+  (a) Any use of the SOFTWARE while driving an automobile or other vehicle in violation of applicable law or otherwise driving in an unsafe manner presents a significant risk of distracted driving and should not be attempted under any circumstances; 
+  (b) Use of the SOFTWARE at excessive volume poses a significant risk of hearing damage and should not be attempted under any circumstances; 
+  (c) The SOFTWARE may not be compatible with new or different versions of an operating system, third party software, or third party services, and the SOFTWARE may potentially cause a critical failure of an operating system, third party software, or third party service. 
+  (d) Any third party service accessed by or third party software used with the SOFTWARE (I) may charge an additional fee for access, (ii) may not work correctly, on an uninterrupted basis, or error free, (iii) may change streaming formats or discontinue operation, (iv) may contain adult, profane or offensive content; and (v) may contain inaccurate, false or misleading traffic, weather, financial or safety information or other content; and 
+  (e) Use of the SOFTWARE may cause you to incur additional charges from your wireless service provider (WSP) and any data or minute calculators that may be included in the software program are for reference only, are not warranted in any way and should not be relied upon in any way.
+
+- When using the SOFTWARE, you agree to be responsible for and assume the entire risk to the items set forth in Section (a) - (e) above.
+
+## Disclaimer of Warranty
+
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE DEVICES AND SOFTWARE IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, COMPATIBILITY, ACCURACY AND EFFORT IS WITH YOU. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE AND ANY THIRD PARTY SOFTWARE OR THIRD-PARTY SERVICES ARE PROVIDED "AS IS" AND 'AS AVAILABLE', WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, AND FORD MOTOR COMPANY HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE SOFTWARE, THIRD PARTY SOFTWARE, AND THIRD-PARTY SERVICES, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR AN ARTICULAR PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS. FORD MOTOR COMPANY DOES NOT WARRANT 
+(a) AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE SOFTWARE, THIRD PARTY SOFTWARE, OR THIRD-PARTY SERVICES, 
+(b) THAT THE SOFTWARE, THIRD PARTY SOFTWARE, OR THIRD-PARTY SERVICES WILL MEET YOUR REQUIREMENTS, 
+(c) THAT THE OPERATION OF THE SOFTWARE, THIRD PARTY SOFTWARE, OR THIRD-PARTY SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, 
+(d) OR THAT DEFECTS IN THE SOFTWARE, THIRD PARTY SOFTWARE, OR THIRD-PARTY SERVICES WILL BE CORRECTED. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY FORD MOTOR COMPANY OR ITS AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY. SHOULD THE SOFTWARE, THIRD PARTY SOFTWARE, OR THIRD-PARTY SERVICES PROVE DEFECTIVE, YOU ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION. SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED WARRANTIES OR LIMITATIONS ON APPLICABLE STATUTORY RIGHTS OF A CONSUMER, SO THE ABOVE DISCLAIMER MAY NOT FULLY APPLY TO YOU. THE SOLE WARRANTY PROVIDED BY FORD MOTOR COMPANY SHALL BE FOUND IN THE WARRANTY INFORMATION INCLUDING WITH YOUR OWNER GUIDE. TO THE EXTENT THAT THERE IS ANY CONFLICT BETWEEN THE TERMS OF THIS SECTION AND THE WARRANTY BOOKLET, THE WARRANTY BOOKLET SHALL CONTROL.
+
+## Applicable Law, Venue, Jurisdiction
+
+- The laws of the State of Michigan govern this EULA and Your use of the SOFTWARE. Your use of the SOFTWARE may also be subject to other local, state, national, or international laws. Any litigation arising out of or related to this EULA shall be brought and maintained exclusively in a court of the State of Michigan located in Wayne County or in the United States District Court for the Eastern District of Michigan. You hereby consent to submit to the personal jurisdiction of a court in the State of Michigan located in Wayne County and the United States District Court for the Eastern District of Michigan for any dispute arising out of or relating to this EULA.
+
+## Binding Arbitration and Class Action Waiver
+
+(a) Application. This Section applies to any dispute EXCEPT IT DOES NOT INCLUDE A DISPUTE RELATING TO COPYRIGHT INFRINGEMENT, OR TO THE ENFORCEMENT OR VALIDITY OF YOUR, FORD MOTOR COMPANY, OR ANY OF FORD MOTOR COMPANY'S LICENSORS' INTELLECTUAL PROPERTY RIGHTS. Dispute means any dispute, action, or other controversy between You and FORD MOTOR COMPANY, other than the exceptions listed above, concerning the SOFTWARE (including its price) or this EULA, whether in contract, warranty, tort, statute, regulation, ordinance, or any other legal or equitable basis.
+
+(b) Notice of Dispute. In the event of a Dispute, You or FORD MOTOR COMPANY must give the other a 'Notice of Dispute', which is a written statement of the name, address, and contact information of the party giving it, the facts giving rise to the dispute, and the relief requested. You and FORD MOTOR COMPANY will attempt to resolve any dispute through informal negotiation within 60 days from the date the Notice of Dispute is sent. After 60 days, You or FORD MOTOR COMPANY may commence arbitration.
+
+(c) Small claims court. You may also litigate any dispute in small claims court in your county of residence or FORD MOTOR COMPANY'S principal place of business, if the dispute meets all requirements to be heard in the small claims court. You may litigate in small claims court whether or not You negotiated informally first.
+
+(d) Binding arbitration. If You and FORD MOTOR COMPANY do not resolve any dispute by informal negotiation or in small claims court, any other effort to resolve the dispute will be conducted exclusively by binding arbitration. You are giving up the right to litigate (or participate in as a party or class member) all disputes in court before a judge or jury. Instead, all disputes will be resolved before a neutral arbitrator, whose decision will be final except for a limited right of appeal under the Federal Arbitration Act. Any court with jurisdiction over the parties may enforce the arbitrator's award.
+
+(e) Class action waiver. Any proceedings to resolve or litigate any dispute in any forum will be conducted solely on an individual basis. Neither you nor FORD MOTOR COMPANY will seek to have any dispute heard as a class action, as a private attorney general action, or in any other proceeding in which any party acts or proposes to act in a representative capacity. No arbitration or proceeding will be combined with another without the prior written consent of all parties to all affected arbitrations or proceedings.
+
+(f) Arbitration procedure. Any arbitration will be conducted by the American Arbitration Association (the 'AAA'), under its Commercial Arbitration Rules. If You are an individual and use the SOFTWARE for personal or vehicle use, or if the value of the dispute is $75,000 or less whether or not You are an individual or how You use the SOFTWARE, the AAA Supplementary Procedures for Consumer-Related Disputes will also apply. To commence arbitration, submit a Commercial Arbitration Rules Demand for Arbitration form to the AAA. You may request a telephonic or in-person hearing by following the AAA rules. In a dispute involving $10,000 or less, any hearing will be telephonic unless the arbitrator finds good cause to hold an in-person hearing instead. For more information, see adr.org or call 1-800-778-7879. You agree to commence arbitration only in your county of residence or FORD MOTOR COMPANY'S principal place of business. The arbitrator
+## 1. Safe and Lawful Use
+
+You acknowledge that devoting attention to the TeleNav Software may pose a risk of injury or death to you and others in situations that otherwise require your undivided attention, and you therefore agree to comply with the following when using the TeleNav Software:
+
+- (a) observe all traffic laws and otherwise drive safely;
+- (b) use your own personal judgment while driving. If you feel that a route suggested by the TeleNav Software instructs you to perform an unsafe or illegal maneuver, places you in an unsafe situation, or directs you into an area that you consider to be unsafe, do not follow such instructions;
+- (c) do not input destinations, or otherwise manipulate the TeleNav Software, unless your vehicle is stationary and parked;
+- (d) do not use the TeleNav Software for any illegal, unauthorized, unintended, unsafe, hazardous, or unlawful purposes, or in any manner inconsistent with this Agreement;
+- (e) arrange all GPS and wireless devices and cables necessary for use of the TeleNav Software in a secure manner in your vehicle so that they will not interfere with your driving and will not prevent the operation of any safety device (such as an airbag).
+
+You agree to indemnify and hold TeleNav harmless against all claims resulting from any dangerous or otherwise inappropriate use of the TeleNav Software in any moving vehicle, including as a result of your failure to comply with the directions above.
+
+## 2. Account Information
+
+You agree: 
+- (a) when registering the TeleNav Software, to provide TeleNav with true, accurate, current, and complete information about yourself, and 
+- (b) to inform TeleNav promptly of any changes to such information, and to keep it true, accurate, current and complete.
+
+## 3. Software License
+
+- Subject to your compliance with the terms of this Agreement, TeleNav hereby grants to you a personal, non-exclusive, non-transferable license (except as expressly permitted below in connection with your permanent transfer of the TeleNav Software license), without the right to sublicense, to use the TeleNav Software (in object code form only) in order to access and use the TeleNav Software. This license shall terminate upon any termination or expiration of this Agreement. You agree that you will use the TeleNav Software only for your personal business or leisure purposes, and not to provide commercial navigation services to other parties.
+
+### 3.1 License Limitations
+
+- (a) reverse engineer, decompile, disassemble, translate, modify, alter or otherwise change the TeleNav Software or any part thereof; 
+- (b) attempt to derive the source code, audio library or structure of the TeleNav Software without the prior express written consent of TeleNav;
+- (c) remove from the TeleNav Software, or alter, any of TeleNav's or its suppliers' trademarks, trade names, logos, patent or copyright notices, or other notices or markings; 
+- (d) distribute, sublicense or otherwise transfer the TeleNav Software to others, except as part of your permanent transfer of the TeleNav Software; or 
+- (e) use the TeleNav Software in any manner that:
+  - I. infringes the intellectual property or proprietary rights, rights of publicity or privacy or other rights of any party,
+  - ii. violates any law, statute, ordinance or regulation, including but not limited to laws and regulations related to spamming, privacy, consumer and child protection, obscenity or defamation, or
+  - iii. is harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, or otherwise objectionable; 
+- (f) lease, rent out, or otherwise permit unauthorized access by third parties to the TeleNav Software without advanced written permission of TeleNav.
+
+## 4. Disclaimers
+
+- To the fullest extent permissible pursuant to applicable law, in no event will TeleNav, its licensors and suppliers, or agents or employees of any of the foregoing, be liable for any decision made or action taken by you or anyone else in reliance on the information provided by the TeleNav Software. TeleNav also does not warrant the accuracy of the map or other data used for the TeleNav Software. Such data may not always reflect reality due to, among other things, road closures, construction, weather, new roads and other changing conditions. You are responsible for the entire risk arising out of your use of the TeleNav Software. For example but without limitation, you agree not to rely on the TeleNav Software for critical navigation in areas where the well-being or survival of you or others.
+
+## 5. Arbitration
+
+### (g) Arbitration fees and incentives
+
+- I. Disputes involving $75,000 or less. FORD MOTOR COMPANY will promptly reimburse your filing fees and pay the AAA's and arbitrator's fees and expenses. If you reject FORD MOTOR COMPANY'S last written settlement offer made before the arbitrator was appointed ('last written offer'), your dispute goes all the way to an arbitrator's decision (called an 'award'), and the arbitrator awards you more than the last written offer, FORD MOTOR COMPANY will give you three incentives: (1) pay the greater of the award or $1,000; (2) pay twice your reasonable attorney's fees, if any; and (3) reimburse any expenses (including expert witness fees and costs) that your attorney reasonably accrues for investigating, preparing, and pursuing your claim in arbitration. The arbitrator will determine the amounts.
+- ii. Disputes involving more than $75,000. The AAA rules will govern payment of filing fees and the AAA's and arbitrator's fees and expenses.
+- iii. Disputes involving any amount. In any arbitration you commence, FORD MOTOR COMPANY will seek its AAA or arbitrator's fees and expenses, or your filing fees it reimbursed, only if the arbitrator finds the arbitration frivolous or brought for an improper purpose. In any arbitration FORD MOTOR COMPANY commences, it will pay all filing, AAA, and arbitrator's fees and expenses. It will not seek its attorney's fees or expenses from you in any arbitration. Fees and expenses are not counted in determining how much a dispute involves.
+
+### (h) Claims or disputes must be filed within one year
+
+To the extent permitted by law, any claim or dispute under this EULA to which this Section applies must be filed within one year in small claims court (Section c) or in arbitration (Section d). The one-year period begins when the claim or dispute first could be filed. If such a claim or dispute is not filed within one year, it is permanently barred.
+
+### (I) Severability
+
+If the class action waiver (Section e) is found to be illegal or unenforceable as to all or some parts of a dispute, then that portion of Section e will not apply to those parts. Instead, those parts will be severed and proceed in a court of law, with the remaining parts proceeding in arbitration. If any other provision of that portion Section e is found to be illegal or unenforceable, that provision will be severed with the remainder of Section e remaining in full force and effect.
+## 1. Disclaimer of Warranties
+
+- is dependent on the accuracy of navigation, as the maps or functionality of the TeleNav Software are not intended to support such high risk applications, especially in more remote geographical areas.
+- TELENAV EXPRESSLY DISCLAIMS AND EXCLUDES ALL WARRANTIES IN CONNECTION WITH THE TELENAV SOFTWARE, WHETHER STATUTORY, EXPRESS OR IMPLIED, INCLUDING ALL WARRANTIES WHICH MAY ARISE FROM COURSE OF DEALING, CUSTOM OR TRADE AND INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS WITH RESPECT TO THE TELENAV SOFTWARE.
+- Certain jurisdictions do not permit the disclaimer of certain warranties, so this limitation may not apply to you.
+
+## 2. Limitation of Liability
+
+- TO THE EXTENT PERMITTED UNDER APPLICABLE LAW, UNDER NO CIRCUMSTANCES SHALL TELENAV OR ITS LICENSORS AND SUPPLIERS BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES (INCLUDING IN EACH CASE, BUT NOT LIMITED TO, DAMAGES FOR THE INABILITY TO USE THE EQUIPMENT OR ACCESS DATA, LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR THE LIKE) ARISING OUT OF THE USE OF OR INABILITY TO USE THE TELENAV SOFTWARE, EVEN IF TELENAV HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANY DAMAGES THAT YOU MIGHT INCUR FOR ANY REASON WHATSOEVER (INCLUDING, WITHOUT LIMITATION, ALL DAMAGES REFERENCED HEREIN AND ALL DIRECT OR GENERAL DAMAGES IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE), THE ENTIRE LIABILITY OF TELENAV AND OF ALL OF TELENAV'S SUPPLIERS SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE TELENAV SOFTWARE. SOME STATES AND/OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU.
+
+## 3. Arbitration and Governing Law
+
+- You agree that any dispute, claim or controversy arising out of or relating to this Agreement or the TeleNav Software shall be settled by independent arbitration involving a neutral arbitrator and administered by the American Arbitration Association in the County of Santa Clara, California. The arbitrator shall apply the Commercial Arbitration Rules of the American Arbitration Association, and the judgment upon the award rendered by the arbitrator may be entered by any court having jurisdiction. Note that there is no judge or jury in an arbitration proceeding and the decision of the arbitrator shall be binding upon both parties. You expressly agree to waive your right to a jury trial. This Agreement and performance hereunder will be governed by and construed in accordance with the laws of the State of California, without giving effect to its conflict of law provisions. To the extent judicial action is necessary in connection with the binding arbitration, both TeleNav and you agree to submit to the exclusive jurisdiction of the courts of the County of Santa Clara, California. The United Nations Convention on Contracts for the International Sale of Goods shall not apply.
+
+## 4. Assignment
+
+- You may not resell, assign, or transfer this Agreement or any of your rights or obligations, except in totality, in connection with your permanent transfer of the TeleNav Software, and expressly conditioned upon the new user of the TeleNav Software agreeing to be bound by the terms and conditions of this Agreement. Any such sale, assignment or transfer that is not expressly permitted under this paragraph will result in immediate termination of this Agreement, without liability to TeleNav, in which case you and all other parties shall immediately cease all use of the TeleNav Software. Notwithstanding the foregoing, TeleNav may assign this Agreement to any other party at any time without notice, provided the assignee remains bound by this Agreement.
+
+## 5. Miscellaneous
+
+### 5.1 Entire Agreement
+
+This Agreement constitutes the entire agreement between TeleNav and you with respect to the subject matter hereof.
+
+### 5.2 Intellectual Property Rights
+
+Except for the limited licenses expressly granted in this Agreement, TeleNav retains all right, title and interest in and to the TeleNav Software, including without limitation all related intellectual property rights. No licenses or other rights which are not expressly granted in this Agreement are intended to, or shall be, granted or conferred by implication, statute, inducement, estoppel or otherwise, and TeleNav and its suppliers and licensors hereby reserve all of their respective rights other than the licenses explicitly granted in this Agreement.
+
+### 5.3 Electronic Communications
+
+By using the TeleNav Software, you consent to receive from TeleNav all communications, including notices, agreements, legally required disclosures or other information in connection with the TeleNav Software (collectively, "Notices") electronically. TeleNav may provide such Notices by posting them on TeleNav's Website or by downloading such Notices to your wireless device. If you desire to withdraw your consent to receive Notices electronically, you must discontinue your use of the TeleNav Software.
+
+### 5.4 Performance and Waiver
+
+TeleNav's or your failure to require performance of any provision shall not affect that party's right to require performance at any time thereafter, nor shall a waiver of any breach or default of this Agreement constitute a waiver of any subsequent breach or default or a waiver of the provision itself.
+
+### 5.5 Unenforceable Provisions
+
+If any provision herein is held unenforceable, then such provision will be modified to reflect the intention of the parties, and the remaining provisions of this Agreement will remain in full force and effect.
+
+### 5.6 Headings
+
+The headings in this Agreement are for convenience of reference only, will not be deemed to be a part of this Agreement, and will not be referred to in connection with the construction or interpretation of this Agreement. As used in this Agreement, the words "include" and "including" and variations thereof, will not be deemed to be terms of limitation, but rather will be deemed to be followed by the words "without limitation".
+
+## 6. Other Vendors Terms and Conditions
+
+- The Telenav Software utilizes map and other data licensed to Telenav by third party vendors for the benefit of you and other end users. This Agreement includes end-user terms applicable to these companies (included at the end of this Agreement), and thus your use of the Telenav Software is also subject to such terms. You agree to comply with the following additional terms and conditions, which are applicable to Telenav's third party vendor licensors.
+
+### 6.1 End User Terms Required by HERE North America, LLC
+
+The data ('Data') is provided for your personal, internal use only and not for resale. It is protected by copyright, and is subject to the following terms and conditions which are agreed to by you, on the one hand, and Telenav ('Telenav') and its licensors (including their licensors and suppliers) on the other hand.
+
+## © 2013 HERE. All rights reserved.
+
+The Data for areas of Canada includes information taken with permission from Canadian authorities, including: © Her Majesty the Queen in Right of Canada, © Queen's Printer for Ontario, © Canada Post Corporation, GeoBase®, © Department of Natural Resources Canada.
+
+HERE holds a non-exclusive license from the United States Postal Service® to publish and sell ZIP+4® information.
+
+©United States Postal Service® 2014. Prices are not established, controlled or approved by the United States Postal Service®. The following trademarks and registrations are owned by the USPS: United States Postal Service, USPS, and ZIP+4.
+
+The Data for Mexico includes certain data from Instituto Nacional de Estadística y Geografía.
+
+### 6.2 End User Terms Required by NAV2 (Shanghai) Co., Ltd
+## Introduction
+The data ('Data') is provided for your personal, internal use only and not for resale. It is protected by copyright, and is subject to the following terms and conditions which are agreed to by you, on the one hand, and NAV2 (Shanghai) Co., Ltd ('NAV2') and its licensors (including their licensors and suppliers) on the other hand. 20xx. All rights reserved.
+
+## Permitted Use
+You agree to use this Data together with the Telenav Software solely for the internal business and personal purposes for which you were licensed, and not for service bureau, time-sharing or other similar purposes. Accordingly, but subject to the restrictions set forth in the following paragraphs, you agree not to otherwise reproduce, copy, modify, decompile, disassemble, create any derivative works of, or reverse engineer any portion of this Data, and may not transfer or distribute it in any form, for any purpose, except to the extent permitted by mandatory laws.
+
+## Restrictions
+Except where you have been specifically licensed to do so by Telenav, and without limiting the preceding paragraph, you may not use this Data:
+- (a) with any products, systems, or applications installed or otherwise connected to or in communication with vehicles, capable of vehicle navigation, positioning, dispatch, real time route guidance, fleet management or similar applications; or 
+- (b) with or in communication with any positioning devices or any mobile or wireless-connected electronic or computer devices, including without limitation cellular phones, palmtop and handheld computers, pagers, and personal digital assistants or PDAs.
+
+## Warnings and Disclaimers
+### Warning
+The Data may contain inaccurate or incomplete information due to the passage of time, changing circumstances, sources used and the nature of collecting comprehensive geographic data, any of which may lead to incorrect results.
+
+### No Warranty
+This Data is provided to you 'as is,' and you agree to use it at your own risk. Telenav and its licensors (and their licensors and suppliers) make no guarantees, representations or warranties of any kind, express or implied, arising by law or otherwise, including but not limited to, content, quality, accuracy, completeness, effectiveness, reliability, fitness for a particular purpose, usefulness, use or results to be obtained from this Data, or that the Data or server will be uninterrupted or error-free.
+
+### Disclaimer of Warranty
+TELENAV AND ITS LICENSORS (INCLUDING THEIR LICENSORS AND SUPPLIERS) DISCLAIM ANY WARRANTIES, EXPRESS OR IMPLIED, OF QUALITY, PERFORMANCE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. Some States, Territories and Countries do not allow certain warranty exclusions, so to that extent the above exclusion may not apply to you.
+
+### Disclaimer of Liability
+TELENAV AND ITS LICENSORS (INCLUDING THEIR LICENSORS AND SUPPLIERS) SHALL NOT BE LIABLE TO YOU: 
+- IN RESPECT OF ANY CLAIM, DEMAND OR ACTION, IRRESPECTIVE OF THE NATURE OF THE CAUSE OF THE CLAIM, DEMAND OR ACTION ALLEGING ANY LOSS, INJURY OR DAMAGES, DIRECT OR INDIRECT, WHICH MAY RESULT FROM THE USE OR POSSESSION OF THE INFORMATION; OR 
+- FOR ANY LOSS OF PROFIT, REVENUE, CONTRACTS OR SAVINGS, OR ANY OTHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF YOUR USE OF OR INABILITY TO USE THIS INFORMATION, ANY DEFECT IN THE INFORMATION, OR THE BREACH OF THESE TERMS OR CONDITIONS, WHETHER IN AN ACTION IN CONTRACT OR TORT OR BASED ON A WARRANTY, EVEN IF TELENAV OR ITS LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. Some States, Territories and Countries do not allow certain liability exclusions or damages limitations, so to that extent the above may not apply to you.
+
+## Export Control
+You shall not export from anywhere any part of the Data or any direct product thereof except in compliance with, and with all licenses and approvals required under, applicable export laws, rules and regulations, including but not limited to the laws, rules and regulations administered by the Office of Foreign Assets Control of the U.S. Department of Commerce and the Bureau of Industry and Security of the U.S. Department of Commerce. To the extent that any such export laws, rules or regulations prohibit HERE from complying with any of its obligations hereunder to deliver or distribute Data, such failure shall be excused and shall not constitute a breach of this Agreement.
+
+## Entire Agreement
+These terms and conditions constitute the entire agreement between Telenav (and its licensors, including their licensors and suppliers) and you pertaining to the subject matter hereof, and supersedes in their entirety any and all written or oral agreements previously existing between us with respect to such subject matter.
+
+## Governing Law
+The above terms and conditions shall be governed by the laws of the State of Illinois [insert 'Netherlands' where European HERE Data is used], without giving effect to (i) its conflict of laws provisions, or (ii) the United Nations Convention for Contracts for the International Sale of Goods, which is explicitly excluded. You agree to submit to the jurisdiction of the State of Illinois [insert 'The Netherlands' where European HERE Data is used] for any and all disputes, claims and actions arising from or in connection with the Data provided to you hereunder.
+
+## Government End Users
+If the Data is being acquired by or on behalf of the United States government or any other entity seeking or applying rights similar to those customarily claimed by the United States government, this Data is a 'commercial item' as that term is defined at 48 C.F.R. ('FAR') 2.101, is licensed in accordance with these End-User Terms, and each copy of Data delivered or otherwise furnished shall be marked and embedded as appropriate with the following 'Notice of Use,' and shall be treated in accordance with such Notice:
+
+**CONTRACTOR (MANUFACTURER/ SUPPLIER) NAME:** HERE
+
+**CONTRACTOR (MANUFACTURER/ SUPPLIER) ADDRESS:** c/o Nokia, 425 West Randolph Street, Chicago, Illinois 60606
+
+This Data is a commercial item as defined in FAR 2.101 and is subject to these End-User Terms under which this Data was provided.
+
+© 1987 - 2014 HERE - All rights reserved.
+
+If the Contracting Officer, federal government agency, or any federal official refuses to use the legend provided herein, the Contracting Officer, federal government agency, or any federal official must notify HERE prior to seeking additional or alternative rights in the Data.
+
+## United States Data
+The End-User Terms for any Application containing Data for the United States shall contain the following notices:
+
+'HERE holds a non-exclusive license from the United States Postal Service® to publish and sell ZIP+4® information.'
+
+'©United States Postal Service® 20XX. Prices are not established, controlled or approved by the United States Postal Service®. The following trademarks and registrations are owned by the USPS: United States Postal Service, USPS, and ZIP+4.'
+
+## Canada Data
+The following provisions apply to the Data for Canada, which may include or reflect data from third party licensors ('Third Party Data'), including Her Majesty the Queen in Right of Canada ('Her Majesty'), Canada Post Corporation ('Canada Post') and the Department of Natural Resources of Canada ('NRCan'):
+
+### 1. Disclaimer and Limitation
+Client agrees that its use of the Third Party Data is subject to the following provisions:
+
+#### a. Disclaimer
+The Third Party Data is licensed on an 'as is' basis. The licensors of such data, including Her Majesty, Canada Post and NRCan, make no guarantees, representations or warranties respecting such data, either express or implied, arising by law or otherwise, including but not limited to, effectiveness, completeness, accuracy or fitness for a particular purpose.
+## Limitation on Liability
+
+The Third Party Data licensors, including Her Majesty, Canada Post and NRCan, shall not be liable: 
+(i) in respect of any claim, demand or action, irrespective of the nature of the cause of the claim, demand or action alleging any loss, injury or damages, direct or indirect, which may result from the use or possession of such Data; or 
+(ii) in any way for loss of revenues or contracts, or any other consequential loss of any kind resulting from any defect in the Data.
+
+## Copyright Notice
+
+In connection with each copy of all or any portion of the Data for the Territory of Canada, Client shall affix in a conspicuous manner the following copyright notice on at least one of: 
+(i) the label for the storage media of the copy; 
+(ii) the packaging for the copy; or 
+(iii) other materials packaged with the copy, such as user manuals or end user license agreements: 
+
+'This data includes information taken with permission from Canadian authorities, including © Her Majesty the Queen in Right of Canada, © Queen's Printer for Ontario, © Canada Post Corporation, GeoBase®, © The Department of Natural Resources Canada. All rights reserved.'
+
+## End-User Terms
+
+Except as otherwise agreed by the parties, in connection with the provision of any portion of the Data for the Territory of Canada to End-Users as may be authorized under the Agreement, Client shall provide such End-Users, in a reasonably conspicuous manner, with terms (set forth with other end user terms required to be provided under the Agreement, or as otherwise may be provided, by Client) which shall include the following provisions on behalf of the Third Party Data licensors, including Her Majesty, Canada Post and NRCan:
+
+The Data may include or reflect data of licensors, including Her Majesty the Queen in the Right of Canada ('Her Majesty'), Canada Post Corporation ('Canada Post') and the Department of Natural Resources Canada ('NRCan'). Such data is licensed on an 'as is' basis. The licensors, including Her Majesty, Canada Post and NRCan, make no guarantees, representations or warranties respecting such data, either express or implied, arising by law or otherwise, including but not limited to, effectiveness, completeness, accuracy or fitness for a particular purpose. The licensors, including Her Majesty, Canada Post and NRCan, shall not be liable in respect of any claim, demand or action, irrespective of the nature of the cause of the claim, demand or action alleging any loss, injury or damages, direct or indirect, which may result from the use or possession of the data or the Data. The licensors, including Her Majesty, Canada Post and NRCan, shall not be liable in any way for loss of revenues or contracts, or any other consequential loss of any kind resulting from any defect in the data or the Data.
+
+End User shall indemnify and save harmless the licensors, including Her Majesty, Canada Post and NRCan, and their officers, employees and agents from and against any claim, demand or action, irrespective of the nature of the cause of the claim, demand or action, alleging loss, costs, expenses, damages or injuries (including injuries resulting in death) arising out of the use or possession of the data or the Data.
+
+## Additional Provisions
+
+The terms contained in this Section are in addition to all of the rights and obligations of the parties under the Agreement. To the extent that any of the provisions of this Section are inconsistent with, or conflict with, any other provisions of the Agreement, the provisions of this Section shall prevail.
+
+## II. Mexico
+
+The following provision applies to the Data for Mexico, which includes certain data from the Instituto Nacional de Estadística y Geografía ('INEGI'):
+
+### A. Notice
+
+Any and all copies of the Data and/or packaging containing Data for Mexico shall contain the following notice: 
+
+'Fuente: INEGI (Instituto Nacional de Estadística y Geografía)'
+
+## III. Latin America Territory
+
+### A. Third Party Notices
+
+Any and all copies of the Data and/or packaging relating thereto shall include the respective Third Party Notices set forth below and used as described below corresponding to the Territory (or portion thereof) included in such copy:
+
+| Notice                                                                 | Territory                       |
+|------------------------------------------------------------------------|---------------------------------|
+| IGN 'INSTITUTO GEOGRAFICO NACIONAL ARGENTINO'                        | Argentina                       |
+| 'INSTITUTO GEOGRAFICO MILITAR DEL ECUADOR AUTORIZACION N° IGM-2011-01- PCO-01 DEL 25 DE ENERO DE 2011' 'source: © IGN 2009 - BD TOPO ®' | Ecuador                        |
+| 'Fuente: INEGI (Instituto Nacional de Estadística y Geografía)'      | Guadeloupe, French Guiana and Martinique, Mexico |
+
+## IV. Middle East Territory
+
+### A. Third Party Notices
+
+Any and all copies of the Data and/or packaging relating thereto shall include the respective Third Party Notices set forth below and used as described below corresponding to the Territory (or portion thereof) included in such copy:
+
+| Notice                                                                 | Country                         |
+|------------------------------------------------------------------------|---------------------------------|
+| '© Royal Jordanian Geographic Centre'. The foregoing notice requirement for Jordan Data is a material term of the Agreement. If Client or any of its permitted sublicensees (if any) fail to meet such requirement, HERE shall have the right to terminate Client's license with respect to the Jordan Data. | Jordan                          |
+
+### B. Jordan Data
+
+Client and its permitted sublicensees (if any) are restricted from licensing and/or otherwise distributing HERE's database for the country of Jordan ('Jordan Data') for use in Enterprise Applications to 
+(i) non-Jordanian entities for use of the Jordan Data solely in Jordan or 
+(ii) Jordan-based customers. In addition, Client, its permitted sublicensees (if any) and End-Users are restricted from using the Jordan Data in Enterprise Applications if such party is 
+(i) a non-Jordanian entity using the Jordan Data solely in Jordan or 
+(ii) a Jordan-based customer. For purposes of the foregoing, 'Enterprise Applications' shall mean Geomarketing applications, GIS applications, mobile business asset management applications, call center applications, telematics applications, public organization Internet applications or for providing geocoding services.
+
+## V. Europe Territory
+
+### A. Use of Certain Traffic Codes in Europe
+
+1. **General Restrictions Applicable to Traffic Codes.** Client acknowledges and agrees that in certain countries of the Europe Territory, Client will need to obtain rights directly from third party RDS-TMC code providers to receive and use the Traffic Codes in the Data and to deliver to End-Users Transactions in any way derived from or based on such Traffic Codes. For such countries, HERE shall deliver the Data incorporating Traffic Codes to Client only after receiving certification from Client of its having obtained such rights.
+
+2. **Display of Third Party Rights Legends for Belgium.** Client shall, for each Transaction that uses Traffic Codes for Belgium, provide the following notice to the End-User: 
+
+'Traffic Codes for Belgium are provided by the Ministerie van de Vlaamse Gemeenschap and the Ministèrie de l'Equipement et des Transports.'
+## B. Paper Maps
+
+With respect to any license granted to Client relating to making, selling or distributing paper maps (i.e., a map fixed on a paper or paper-like medium):
+
+(a) such license with respect to Data for the Territory of Great Britain is conditioned on Client's entering into and complying with a separate written agreement with the Ordnance Survey ('OS') to create and sell paper maps, Client's paying to the OS any and all applicable paper map royalties, and Client's complying with the OS copyright notice requirements;
+
+(b) such license for selling or otherwise distributing for charge with respect to Data for the Territory of Czech Republic is conditioned on Client's obtaining prior written consent from Kartografie a.s.;
+
+(c) such license for selling or distributing with respect to Data for the Territory of Switzerland is conditioned on Client's obtaining a permit from Bundesamt für Landestopografie of Switzerland;
+
+(d) Client is restricted from using Data for the Territory of France to create paper maps with a scale between 1:5,000 and 1:250,000; and 
+
+(e) Client is restricted from using any Data to create, sell or distribute paper maps that are the same or substantially similar, in terms of data content and specific use of color, symbols and scale, to paper maps published by the European national mapping agencies, including without limitation, Landervermessungämter of Germany, Topografische Dienst of the Netherlands, Nationaal Geografisch Instituut of Belgium, Bundesamt für Landestopografie of Switzerland, Bundesamt für Eich-und Vermessungswesen of Austria, and the National Land Survey of Sweden.
+
+## C. OS Enforcement
+
+Without limiting Section IV(B) above, with respect to Data for the Territory of Great Britain, Client acknowledges and agrees that the Ordnance Survey ('OS') may bring a direct action against Client to enforce compliance with the OS copyright notice (see Section IV(D) below) and paper map requirements (see Section IV(B) above) contained in this Agreement.
+
+## D. Third Party Notices
+
+Any and all copies of the Data and/or packaging relating thereto shall include the respective Third Party Notices set forth below and used as described below corresponding to the Territory (or portion thereof) included in such copy:
+
+### Notice Country(ies)
+
+'© Bundesamt für Eich- und Vermessungswesen'  
+Austria
+
+'© EuroGeographics'  
+Croatia, Cyprus, Estonia, Latvia, Lithuania, Moldova, Poland, Slovenia and/or Ukraine
+
+'source: © IGN 2009 - BD TOPO ®'  
+France
+
+'Die Grundlagendaten wurden mit Genehmigung der zuständigen Behörden entnommen'  
+Germany
+
+'Contains Ordnance Survey data © Crown copyright and database right 2010 Contains Royal Mail data © Royal Mail copyright and database right 2010'  
+Great Britain
+
+'Copyright Geomatics Ltd.'  
+Greece
+
+'Copyright © 2003; Top- Map Ltd.'  
+Hungary
+
+'La Banca Dati Italiana è stata prodotta usando quale riferimento anche cartografia numerica ed al tratto prodotta e fornita dalla Regione Toscana.'  
+Italy
+
+'Copyright © 2000; Norwegian Mapping Authority'  
+Norway
+
+'Source: IgeoE - Portugal'  
+Portugal
+
+'Información geográfica propiedad del CNIG'  
+Spain
+
+'Based upon electronic data © National Land Survey Sweden.'  
+Sweden
+
+'Topografische Grundlage: © Bundesamt für Landestopographie.'  
+Switzerland
+
+## E. Respective Country Distribution
+
+Client acknowledges that HERE has not received approvals to distribute map data for the following countries in such respective countries: Albania, Belarus, Kyrgyzstan, Moldova and Uzbekistan. HERE may update such list from time to time. The license rights granted to Client under this TL with respect to the Data for such countries are contingent upon Client's compliance with all applicable laws and regulations, including, without limitation, any required licenses or approvals to distribute the Application incorporating such Data in such respective countries.
+
+## Australia Territory
+
+### A. Third Party Notices
+
+Any and all copies of the Data and/or packaging relating thereto shall include the respective Third Party Notices set forth below and used as described below corresponding to the Territory (or portion thereof) included in such copy:
+
+Copyright. Based on data provided under license from PSMA Australia Limited (www.psma.com.au).
+
+### Customer Information
+
+Product incorporates data which is © 20XX Telstra Corporation Limited, GM Holden Limited, Intelematics Australia Pty Ltd and Continental Pty Ltd.
+
+### B. Third Party Notices for Australia
+
+In addition to the foregoing, the End-User Terms for any Application containing RDS-TMC Traffic Codes for Australia shall contain the following notice: 'Product incorporates traffic location codes which is © 20XX Telstra Corporation Limited and its licensors.'
+
+## AT&T Vehicle Network Carrier Telematics Disclosure
+
+END USER FOR PURPOSES OF THIS SECTION MEANS YOU AND YOUR HEIRS, EXECUTORS, LEGAL PERSONAL REPRESENTATITVES AND PERMITTED ASSIGNS. FOR PURPOSES OF THIS SECTION 'UNDERLYING WIRELESS SERVICE CARRIER' INCLUDES ITS AFFILIATES AND CONTRACTORS AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, SUCCESSORS AND ASSIGNS. END USER HAS NO CONTRACTUAL RELATIONSHIP WITH THE UNDERLYING WIRELESS SERVICE CARRIER AND END USER IS NOT A THIRD PARTY BENEFICIARY OF ANY AGREEMENT BETWEEN FORD AND UNDERLYING CARRIER. END USER UNDERSTANDS AND AGREES THAT THE UNDERLYING CARRIER HAS NO LEGAL, EQUITABLE, OR OTHER LIABILITY OF ANY KIND TO END USER. IN ANY EVENT, REGARDLESS OF THE FORM OF THE ACTION, WHETHER FOR BREACH OF CONTRACT, WARRANTY, NEGLIGENCE, STRICT LIABILITY IN TORT OR OTHERWISE, END USER'S EXCLUSIVE REMEDY FOR CLAIMS ARISING IN ANY WAY IN CONNECTION WITH THIS AGREEMENT, FOR ANY CAUSE WHATSOEVER, INCLUDING BUT NOT LIMITED TO ANY FAILURE OR DISRUPTION OF SERVICE PROVIDED HEREUNDER, IS LIMITED TO PAYMENT OF DAMAGES IN AN AMOUNT NOT TO EXCEED THE AMOUNT PAID BY END USER FOR THE SERVICES DURING THE TWO-MONTH PERIOD PRECEDING THE DATE THE CLAIM AROSE.
+
+(ii) END USER AGREES TO INDEMNIFY AND HOLD HARMLESS THE UNDERLYING WIRELESS SERVICE CARRIER AND ITS OFFICERS, EMPLOYEES, AND AGENTS AGAINST ANY AND ALL CLAIMS, INCLUDING WITHOUT LIMITATION CLAIMS FOR LIBEL, SLANDER, OR ANY PROPERTY DAMAGE, PERSONAL INJURY OR DEATH, ARISING IN ANY WAY, DIRECTLY OR INDIRECTLY, IN CONNECTION WITH THIS AGREEMENT OR THE USE, FAILURE TO USE, OR INABILITY TO USE THE DEVICE EXCEPT WHERE THE CLAIMS RESULT FROM THE UNDERLYING CARRIER'S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT. THIS INDEMNITY WILL SURVIVE THE TERMINATION OF THE AGREEMENT.
+
+(iii) END USER HAS NO PROPERTY RIGHT IN ANY NUMBER ASSIGNED TO THE DEVICE.
+
+(iv) END USER UNDERSTANDS THAT FORD AND THE UNDERLYING CARRIER CANNOT GUARANTY THE SECURITY OF WIRELESS TRANSMISSIONS, AND WILL NOT BE LIABLE FOR ANY LACK OF SECURITY RELATING TO THE USE OF THE SERVICES.
+
+THE SERVICE IS FOR [END USER'S] USE ONLY AND END USER MAY NOT RESELL THE SERVICE TO ANY OTHER PARTY END USER UNDERSTANDS THAT THE UNDERLYING CARRIER DOES NOT GUARANTEE ANY END USER UNINTERRUPTED SERVICE OR COVERAGE. THE UNDERLYING CARRIER DOES NOT WARRANT THAT END USERS CAN OR WILL BE LOCATED USING THE SERVICE. THE UNDERLYING CARRIER.
+## Legal Disclaimer
+
+MAKES NO WARRANTY, EXPRESS OR IMPLIED, OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, SUITABILITY, OR PERFORMANCE REGARDING ANY SERVICES OR GOODS, AND IN NO EVENT SHALL AT&T BE LIABLE, WHETHER OR NOT DUE TO ITS OWN NEGLIGENCE, FOR ANY: (A) ACT OR OMISSION OF A THIRD PARTY; (B) MISTAKES, OMISSIONS, INTERRUPTIONS, ERRORS, FAILURES TO TRANSMIT, DELAYS, OR DEFECTS IN THE SERVICE PROVIDED BY OR THROUGH THE UNDERLYING CARRIER; (C) DAMAGE OR INJURY CAUSED BY SUSPENSION OR TERMINATION BY THE UNDERLYING CARRIER; OR (D) DAMAGE OR INJURY CAUSED BY A FAILURE OR DELAY IN CONNECTING A CALL TO ANY ENTITY, INCLUDING 911 OR ANY OTHER EMERGENCY SERVICE. TO THE FULL EXTENT ALLOWED BY LAW, THE END USER RELEASES, INDEMNIFIES AND HOLDS THE UNDERLYING CARRIER HARMLESS FROM AND AGAINST ANY AND ALL CLAIMS OF ANY PERSON OR ENTITY FOR DAMAGES OF ANY NATURE ARISING IN ANY WAY FROM OR RELATING TO, DIRECTLY OR INDIRECTLY, SERVICES PROVIDED BY THE UNDERLYING CARRIER OR ANY PERSON'S USE THEREOF, INCLUDING CLAIMS ARISING IN WHOLE OR IN PART FROM THE ALLEGED NEGLIGENCE OF THE UNDERLYING CARRIER.
+
+## Personal Use Only
+
+You agree to use this Data together with [insert name of Client Application] for the solely personal, non-commercial purposes for which you were licensed, and not for service bureau, time-sharing or other similar purposes. Accordingly, but subject to the restrictions set forth in the following paragraphs, you may copy this Data only as necessary for your personal use to (i) view it, and (ii) save it, provided that you do not remove any copyright notices that appear and do not modify the Data in any way. You agree not to otherwise reproduce, copy, modify, decompile, disassemble or reverse engineer any portion of this Data, and may not transfer or distribute it in any form, for any purpose, except to the extent permitted by mandatory laws.
+
+## Restrictions
+
+Except where you have been specifically licensed to do so by NAV2, and without limiting the preceding paragraph, you may not (a) use this Data with any products, systems, or applications installed or otherwise connected to or in communication with vehicles, capable of vehicle navigation, positioning, dispatch, real time route guidance, fleet management or similar applications; or (b) with or in communication with any positioning devices or any mobile or wireless-connected electronic or computer devices, including without limitation cellular phones, palmtop and handheld computers, pagers, and personal digital assistants or PDAs. You agree to cease using this Data if you fail to comply with these terms and conditions.
+
+## Limited Warranty
+
+NAV2 warrants that (a) the Data will perform substantially in accordance with the accompanying written materials for a period of ninety (90) days from the date of receipt, and (b) any support services provided by NAV2 shall be substantially as described in applicable written materials provided to you by NAV2, and NAV2's support engineers will make commercially reasonable efforts to solve any problem issues.
+
+## Customer Remedies
+
+NAV2 and its suppliers' entire liability and your exclusive remedy shall be, at NAV2's sole discretion, either (a) return of the price paid, if any, or (b) repair or replacement of the Data that do not meet NAV2's Limited Warranty and that are returned to NAV2 with a copy of your receipt. This Limited Warranty is void if failure of the Data has resulted from accident, abuse, or misapplication. Any replacement Data will be warranted for the remainder of the original warranty period or thirty (30) days, whichever is longer. Neither these remedies nor any product support services offered by NAV2 are available without proof of purchase from an authorized international source.
+
+## No Other Warranty
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, NAV2 AND ITS LICENSORS (INCLUDING THEIR LICENSORS AND SUPPLIERS) DISCLAIM ANY WARRANTIES, EXPRESS OR IMPLIED, OF QUALITY, PERFORMANCE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OWNERSHIP OR NON-INFRINGEMENT. Certain warranty exclusions may not be permitted under applicable law, so to that extent the above exclusion may not apply to you.
+
+## Limited Liability
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, NAV2 AND ITS LICENSORS (INCLUDING THEIR LICENSORS AND SUPPLIERS) SHALL NOT BE LIABLE TO YOU: IN RESPECT OF ANY CLAIM, DEMAND OR ACTION, IRRESPECTIVE OF THE NATURE OF THE CAUSE OF THE CLAIM, DEMAND OR ACTION ALLEGING ANY LOSS, INJURY OR DAMAGES, DIRECT OR INDIRECT, WHICH MAY RESULT FROM THE USE OR POSSESSION OF THE INFORMATION; OR FOR ANY LOSS OF PROFIT, REVENUE, CONTRACTS OR SAVINGS, OR ANY OTHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF YOUR USE OF OR INABILITY TO USE THIS INFORMATION, ANY DEFECT IN THE INFORMATION, OR THE BREACH OF THESE TERMS OR CONDITIONS, WHETHER IN AN ACTION IN CONTRACT OR TORT OR BASED ON A WARRANTY, EVEN IF NAV2 OR ITS LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. UNDER NO CIRCUMSTANCES SHALL NAV2's OR ITS SUPPLIERS' LIABILITY HEREUNDER EXCEED THE PRICE PAID. Certain liability exclusions may not be permitted under applicable law, so to that extent the above exclusion may not apply to you.
+
+## Export Control
+
+You agree not to export to anywhere any part of the Data provided to you or any direct product thereof except in compliance with, and with all licenses and approvals required under, applicable export laws, rules and regulations.
+
+## IP Protection
+
+The Data are owned by NAV2 or its suppliers and are protected by applicable copyright and other intellectual property law and treaties. The Data are provided solely on the basis of a license to use, not sale.
+
+## Entire Agreement
+
+These terms and conditions constitute the entire agreement between NAV2 (and its licensors, including their licensors and suppliers) and you pertaining to the subject matter hereof, and supersedes in their entirety any and all written or oral agreements previously existing between us with respect to such subject matter.
+
+## Governing Law
+
+The above terms and conditions shall be governed by the laws of the People's Republic of China, without giving effect to (i) its conflict of laws provisions, or (ii) the United Nations Convention for Contracts for the International Sale of Goods, which is explicitly excluded. Any dispute arising from or in connection with the Data provided to you hereunder shall be submitted to the Shanghai International Economic and Trade Arbitration Commission for arbitration.
+
+## Gracenote® Copyright
+
+CD and music-related data from Gracenote, Inc., copyright © 2000-2007 Gracenote. Gracenote Software, copyright © 2000-2007 Gracenote. This product and service may practice one or more of the following U.S. Patents 5,987,525; 6,061,680; 6,154,773; 6,161,132; 6,230,192; 6,230,207; 6.240,459; 6,330,593 and other patents issued or pending. Some services supplied under license from Open Globe, Inc. for U.S. Patent 6,304,523.
+
+Gracenote and CDDB are registered trademarks of Gracenote. The Gracenote logo and logotype, and the "Powered by Gracenote™" logo are trademarks of Gracenote.
+
+## Gracenote® End User License Agreement (EULA)
+
+This device contains software from Gracenote, Inc. of 2000 Powell Street Emeryville, California 94608 ("Gracenote").
+
+The software from Gracenote (the "Gracenote Software") enables this device to do disc and music file identification and obtain music-related information, including name, artist, track, and title information ("Gracenote Data") from online servers.
+## Gracenote Content and Data Usage
+
+You may use Gracenote Data only by means of the intended End User functions of this device. This device may contain content belonging to Gracenote's providers. If so, all of the restrictions set forth herein with respect to Gracenote Data shall also apply to such content and such content providers shall be entitled to all of the benefits and protections set forth herein that are available to Gracenote. You agree that you will use the content from Gracenote ("Gracenote Content"), Gracenote Data, the Gracenote Software, and Gracenote Servers for your own personal, non-commercial use only. You agree not to assign, copy, transfer or transmit the Gracenote Content, Gracenote Software or any Gracenote Data (except in a Tag associated with a music file) to any third party. YOU AGREE NOT TO USE OR EXPLOIT GRACENOTE CONTENT, GRACENOTE DATA, THE GRACENOTE SOFTWARE, OR GRACENOTE SERVERS, EXCEPT AS EXPRESSLY PERMITTED HEREIN.
+
+You agree that your non-exclusive licenses to use the Gracenote Content, Gracenote Data, the Gracenote Software, and Gracenote Servers will terminate if you violate these restrictions. If your licenses terminate, you agree to cease any and all use of the Gracenote Content, Gracenote Data, the Gracenote Software, and Gracenote Servers.
+
+Gracenote, respectively, reserve all rights in Gracenote Data, the Gracenote Software, and the Gracenote Servers and Gracenote Content, including all ownership rights. Under no circumstances will either Gracenote become liable for any payment to you for any information that you provide, including any copyrighted material or music file information. You agree that Gracenote may enforce its respective rights, collectively or separately, under this agreement against you, directly in each company's own name.
+
+Gracenote uses a unique identifier to track queries for statistical purposes. The purpose of a randomly assigned numeric identifier is to allow Gracenote to count queries without knowing anything about who you are. For more information, see the web page at www.gracenote.com for the Gracenote Privacy Policy.
+
+## Warranty Disclaimer
+
+THE GRACENOTE SOFTWARE, EACH ITEM OF GRACENOTE DATA AND THE GRACENOTE CONTENT ARE LICENSED TO YOU "AS IS". NEITHER GRACENOTE MAKES ANY REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE ACCURACY OF ANY GRACENOTE DATA FROM THE GRACENOTE SERVERS OR GRACENOTE CONTENT. GRACENOTE COLLECTIVELY AND SEPARATELY RESERVE THE RIGHT TO DELETE DATA AND/OR CONTENT FROM THE COMPANIES' RESPECTIVE SERVERS OR, IN THE CASE OF GRACENOTE, CHANGE DATA CATEGORIES FOR ANY CAUSE THAT GRACENOTE DEEMS SUFFICIENT. NO WARRANTY IS MADE THAT EITHER GRACENOTE CONTENT OR THE GRACENOTE SOFTWARE OR GRACENOTE SERVERS ARE ERROR-FREE OR THAT THE FUNCTIONING OF THE GRACENOTE SOFTWARE OR GRACENOTE SERVERS WILL BE UNINTERRUPTED. GRACENOTE IS NOT OBLIGATED TO PROVIDE YOU WITH ANY ENHANCED OR ADDITIONAL DATA TYPES THAT GRACENOTE MAY CHOOSE TO PROVIDE IN THE FUTURE AND IS FREE TO DISCONTINUE ITS ONLINE SERVICES AT ANY TIME. GRACENOTE DISCLAIM ALL WARRANTIES EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. NEITHER GRACENOTE WARRANTS THE RESULTS THAT WILL BE OBTAINED BY YOUR USE OF THE GRACENOTE SOFTWARE OR ANY GRACENOTE SERVER. IN NO CASE WILL GRACENOTE BE LIABLE FOR ANY CONSEQUENTIAL OR INCIDENTAL DAMAGES OR FOR ANY LOST PROFITS OR LOST REVENUES FOR ANY REASON WHATSOEVER. © Gracenote 2007.
+
+## Low-Power Radio Wave Radiation Motors
+
+**Note:** In accordance with the management approach of low-power radio wave radiation motors:
+
+**Article 12:** For approved and certified low-power radiation motor models, companies, firms or users must not alter the frequency, increase the power or change the characteristics and functions of the original design without authorization.
+
+**Article 14:** The usage of low-power radio-frequency motors must not affect aviation safety and interfere with legal telecommunications. Should interference be detected, immediately stop using the device and only resume usage after ensuring that there is no longer any interference. For the legal telecommunication and wireless telecommunication of the telco, the low-power radio frequency motor must be able to tolerate legal limits of interference from telecommunication, industrial, scientific and radio wave equipment.
+
+## SUNA Products and Services
+
+By activating, using and/or accessing the SUNA Traffic Channel, SUNA Predictive or other content or material provided by Intelematics (together, SUNA Products and/or Services), you must accept certain terms and conditions. The following is a brief summary of the terms and conditions that apply to you. To view the full terms and conditions relevant to your use of the SUNA Products and/or Services, please consult:
+
+[www.sunatraffic.com.au/termsandconditions/](http://www.sunatraffic.com.au/termsandconditions/)
+
+By using SUNA Products and/or Services, you will be deemed to have accepted and agreed to be bound by the terms and conditions fully detailed at:
+
+[www.sunatraffic.com.au/termsandconditions/](http://www.sunatraffic.com.au/termsandconditions/)
+
+SUNA Products and/or Services are for your personal use. You may not record, or retransmit the content, nor use the content in association with any other traffic information or route guidance service or device not approved by Intelematics. You obtain no right of ownership in any Intellectual Property Rights (including copyright) in the data that is used to provide SUNA Products and/or Services.
+
+SUNA Products and/or Services are intended as an aid to personal motoring and travel planning, and do not provide comprehensive or accurate information on all occasions. On occasions, you may experience additional delay as a result of using SUNA Products and/or Services. You acknowledge that it is not intended, or suitable, for use in applications where time of arrival or driving directions may impact the safety of the public or yourself.
+
+You, and other authorized drivers of the vehicle in which SUNA Products and/or Services are available or installed and active, remain at all times responsible for observing all relevant laws and codes of safe driving. In particular, you agree to only actively operate SUNA Products and/or Services when the Vehicle is at a complete stop and it is safe to do so.
+
+We will use reasonable endeavors to provide the SUNA Traffic Channel 24 hours a day, 365 days a year. The SUNA Traffic Channel may occasionally be unavailable for technical reasons or for planned maintenance. We will try to perform maintenance at times when congestion is light. We reserve the right to withdraw SUNA Products and/or Services at any time.
+
+Also, we cannot assure the uninterrupted reception of the SUNA Traffic Channel RDS-TMC signal at any particular location.
+
+Neither Intelematics (nor its suppliers or the manufacturer of your device) shall be liable to you or to any third party for any damages either direct, indirect, incidental, consequential or otherwise arising out of the use of or inability to use SUNA Products and/or Services even if Intelematics or a Supplier has been advised of the possibility of such damages. You also acknowledge that neither Intelematics nor any Supplier guarantees nor make any warranties that relate to the availability, accuracy or completeness of SUNA Products and/or Services, and to the extent which it is lawful to do so, both Intelematics and each Supplier excludes any warranties which might otherwise be implied by any State or Federal legislation in relation to SUNA Products and/or Services.
+Great care has been taken in preparing this manual. Constant product development may mean that some information is not entirely up-to-date. The information in this document is subject to change without notice.
+
+## EMISSION LAW
+
+WARNING: Do not remove or alter the original equipment floor covering or insulation between it and the metal floor of the vehicle. The floor covering and insulation protect occupants of the vehicle from the engine and exhaust system heat and noise. On vehicles with no original equipment floor covering insulation, do not carry passengers in a manner that permits prolonged skin contact with the metal floor. Failure to follow these instructions may result in fire or personal injury.
+
+U.S. federal laws and certain state laws prohibit removing or rendering inoperative emission control system components. Similar federal or provincial laws may apply in Canada. We do not approve of any vehicle modification without first determining applicable laws.
+
+Tampering with emissions control systems including related sensors or the Diesel Exhaust Fluid system can result in reduced engine power and the illumination of the service engine soon light.
+
+## Tampering With a Noise Control System
+
+Federal laws prohibit the following acts:
+
+- Removal or rendering inoperative by any person other than for purposes of maintenance.
+- Repair or replacement of any device or element of the design incorporated into a new vehicle for the purpose of noise control prior to its sale or delivery to the ultimate purchaser or while it is in use.
+- The use of the vehicle after any person removes or renders inoperative any device or element of the design.
+
+The U.S. Environmental Protection Agency may presume to constitute tampering as follows:
+
+- Removal of hood blanket, fender apron absorbers, fender apron barriers, underbody noise shields or acoustically absorptive material.
+- Tampering or rendering inoperative the engine speed governor, to allow engine speed to exceed manufacturer specifications.
+
+If the engine does not start, runs rough, experiences a decrease in engine performance, experiences excess fuel consumption or produces excessive exhaust smoke, check for the following:
+
+- A plugged or disconnected air inlet system hose.
+- A plugged engine air filter element.
+- Water in the fuel filter and water separator.
+- A clogged fuel filter.
+- Contaminated fuel.
+- Air in the fuel system, due to loose connections.
+- An open or pinched sensor hose.
+- Incorrect engine oil level.
+- Incorrect fuel for climatic conditions.
+- Incorrect engine oil viscosity for climactic conditions.
+
+Note: Some vehicles have a lifetime fuel filter that is integrated with the fuel tank. Regular maintenance or replacement is not needed.
+
+Note: If these checks do not help you correct the concern, have your vehicle checked as soon as possible.
+
+## Noise Emissions Warranty, Prohibited Tampering Acts and Maintenance
+
+On January 1, 1978, Federal regulation became effective governing the noise emission on trucks over 10,000 lb (4,536 kg) Gross Vehicle Weight Rating (GVWR). The preceding statements concerning prohibited tampering acts and maintenance, and the noise warranty found in the Warranty Guide, are applicable to complete chassis cabs over 10,000 lb (4,536 kg) GVWR.
+
+## ELECTROMAGNETIC COMPATIBILITY
+
+WARNING: Do not place objects or mount equipment on or near the airbag cover, on the side of the front or rear seatbacks, or in areas that may come into contact with a deploying airbag. Failure to follow these instructions may increase the risk of personal injury in the event of a crash.
+
+WARNING: Do not fasten antenna cables to vehicle wiring, fuel pipes and brake pipes.
+
+WARNING: Keep antenna and power cables at least 4 in (10 cm) from any electronic modules and airbags.
+
+Car
+
+E239120
+
+Note: We test and certify your vehicle to meet electromagnetic compatibility legislation. It is your responsibility to make sure that any equipment an authorized dealer installs on your vehicle complies with applicable local legislation and other requirements. Installation of some aftermarket electronic devices could degrade the performance of vehicle functions, which use radio frequency signals such as broadcast radio receiver, tire pressure monitoring system, push button start, Bluetooth® connectivity or satellite navigation.
+
+Note: Any radio frequency transmitter equipment in your vehicle (such as cellular telephones and amateur radio transmitters) must keep to the parameters in the following illustrations and table. We do not provide any other special provisions or conditions for installations or use.
+
+Van
+
+E239122
+
+Truck
+
+E239121
