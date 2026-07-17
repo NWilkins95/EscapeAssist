@@ -1,4 +1,12 @@
+from pathlib import Path
+import sys
+
 import streamlit as st
+
+
+SRC_DIR = Path(__file__).resolve().parent.parent
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
 
 # Pages
 home = st.Page("pages/home.py", title="Home", icon="🏠")

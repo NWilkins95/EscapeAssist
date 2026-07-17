@@ -1,0 +1,247 @@
+# Iteration Log
+
+A chronological record of all system testing iterations, changes made, and comparative results.
+
+---
+
+## Baseline Run
+
+| Run ID | Date | Versions | Status | Artifacts |
+|--------|------|----------|--------|-----------|
+| baseline-001 | 2026-06-19 | V0, V1, V2 | Complete | `baseline_run_analysis.md` |
+
+**Summary:** Initial end-to-end evaluation of all three preprocessing and agent versions using frozen instructions and judge rubric.
+
+**Key Metrics:**
+- V0 Correctness (norm): 0.819
+- V1 Correctness (norm): 0.837
+- V2 Correctness (norm): 0.772
+
+**Top Failure Categories:** (Listed in priority order)
+1. Unsupported or hallucinated answers to invalid / out-of-scope prompts
+2. Maintenance and specification table extraction / comparison errors
+3. Factual explanation questions with narrow source support
+
+**Recommended First Change:** Add an explicit refusal rule for trim features, capacities, firmware, and other unsupported spec questions when the source does not contain a direct answer.
+
+---
+
+## Iteration 1
+
+| Run ID | Date | Versions | Change Category | Change Description |
+|--------|------|----------|-----------------|-------------------|
+| iter-001 | 2026-07-02 | V0 / V1 / V2 | instructions | unsupported-spec refusal update |
+
+**Baseline Comparison:**
+- V0 Correctness (norm): 0.86 → 0.86 (Δ 0.00)
+- V1 Correctness (norm): 0.87 → 0.86 (Δ -0.01)
+- V2 Correctness (norm): 0.82 → 0.85 (Δ +0.03)
+- V0 Grounding (norm): 0.75 → 0.74 (Δ -0.01)
+- V1 Grounding (norm): 0.75 → 0.76 (Δ +0.01)
+- V2 Grounding (norm): 0.71 → 0.74 (Δ +0.03)
+- V0 Hallucination Rate: 13% → 14% (Δ +1 pt)
+- V1 Hallucination Rate: 13% → 14% (Δ +1 pt)
+- V2 Hallucination Rate: 22% → 20% (Δ -2 pts)
+
+**Change Decision:** `decisions/2026-07-02_change_preprocessing_q59_dataset_correction.md`
+
+**Qualitative Observations:**
+- V0 and V1 regressed slightly on hallucination rate, while V2 improved on correctness, grounding, and hallucination rate.
+- Q59 appears mislabeled in the golden dataset and should be corrected before the next comparison.
+- The new refusal wording did not fix horsepower, winter tire, or firmware hallucinations, and it sometimes shifted trim-specific questions into clarifying language instead of a direct refusal.
+
+**Next Iteration:** Correct Q59 in the golden dataset, rerun the evaluation, and then decide whether unsupported-spec refusal or table preprocessing should be the next change.
+
+---
+
+## Iteration 2
+
+| Run ID | Date | Versions | Change Category | Change Description |
+|--------|------|----------|-----------------|-------------------|
+| iter-002 | 2026-07-03 | V0 / V1 / V2 | preprocessing | q59 invalid restoration / guardrail separation |
+
+**Previous Iteration Comparison:**
+- V0 Correctness (norm): 0.86 → 0.86 (Δ 0.00)
+- V1 Correctness (norm): 0.86 → 0.87 (Δ +0.01)
+- V2 Correctness (norm): 0.85 → 0.82 (Δ -0.03)
+- V0 Grounding (norm): 0.74 → 0.75 (Δ +0.01)
+- V1 Grounding (norm): 0.76 → 0.75 (Δ -0.01)
+- V2 Grounding (norm): 0.74 → 0.71 (Δ -0.03)
+- V0 Hallucination Rate: 14% → 14% (Δ 0)
+- V1 Hallucination Rate: 14% → 14% (Δ 0)
+- V2 Hallucination Rate: 20% → 22% (Δ +2 pts)
+
+**Baseline Comparison (Cumulative):**
+- V0 Correctness (norm): baseline 0.86 → current 0.86 (Δ 0.00)
+- V1 Correctness (norm): baseline 0.87 → current 0.87 (Δ 0.00)
+- V2 Correctness (norm): baseline 0.82 → current 0.82 (Δ 0.00)
+
+**Change Decision:** `decisions/2026-07-03_change_preprocessing_q59_question_rewording.md`
+
+**Qualitative Observations:**
+- Procedural rows remained the most stable cluster across all three versions.
+- Factual and table rows still account for most of the score drift.
+- Q59 should be restored to invalid: the latest run returns the safety-filter fallback for all three versions, which is the expected guardrail-trip behavior for a blocked or unsupported control-module override question.
+- V0 is effectively flat, V1 regained a small correctness lift, and V2 regressed back toward baseline.
+
+**Next Iteration:** Restore Q59 to invalid so the benchmark separates blocked control-module questions from grounding questions, then move to unsupported horsepower and trim-feature prompts.
+
+---
+
+## Iteration 3
+
+| Run ID | Date | Versions | Change Category | Change Description |
+|--------|------|----------|-----------------|-------------------|
+| iter-003 | 2026-07-04 | V0 / V1 / V2 | preprocessing | q59 guardrail probe lockdown; factual brevity follow-up |
+
+**Previous Iteration Comparison:**
+- V0 Correctness (norm): 0.86 → 0.86 (Δ 0.00)
+- V1 Correctness (norm): 0.87 → 0.87 (Δ 0.00)
+- V2 Correctness (norm): 0.82 → 0.85 (Δ +0.03)
+- V0 Grounding (norm): 0.75 → 0.74 (Δ -0.01)
+- V1 Grounding (norm): 0.75 → 0.76 (Δ +0.01)
+- V2 Grounding (norm): 0.71 → 0.74 (Δ +0.03)
+- V0 Hallucination Rate: 14% → 17% (Δ +3 pts)
+- V1 Hallucination Rate: 14% → 13% (Δ -1 pt)
+- V2 Hallucination Rate: 22% → 19% (Δ -3 pts)
+
+**Baseline Comparison (Cumulative):**
+- V0 Correctness (norm): baseline 0.86 → current 0.86 (Δ 0.00)
+- V1 Correctness (norm): baseline 0.87 → current 0.87 (Δ 0.00)
+- V2 Correctness (norm): baseline 0.82 → current 0.85 (Δ +0.03)
+
+**Change Decision:** `decisions/2026-07-04_change_preprocessing_q59_guardrail_probe_lockdown.md`
+
+**Qualitative Observations:**
+- Q59 is now stable and should be treated as a locked invalid guardrail probe rather than a changing benchmark item.
+- V2 is the only version with a clear improvement beyond normal variance, driven by factual and table gains.
+- Factual elaboration beyond the retrieved text remains the most consistent weakness across all three agents.
+- V1 has one meaningful regression on the automatic-transmission-fluid interval question, which stands out as more than noise.
+
+**Next Iteration:** Keep Q59 frozen, tighten unsupported-spec refusal wording.
+
+---
+
+## Iteration 4
+
+| Run ID | Date | Versions | Change Category | Change Description |
+|--------|------|----------|-----------------|-------------------|
+| iter-004 | 2026-07-07 | V0 / V1 / V2 | preprocessing | low-grounding source-quote reconciliation |
+
+**Previous Iteration Comparison:**
+- V0 Correctness (norm): 0.86 → 0.86 (Δ 0.00)
+- V1 Correctness (norm): 0.87 → 0.87 (Δ 0.00)
+- V2 Correctness (norm): 0.85 → 0.85 (Δ 0.00)
+- V0 Grounding (norm): 0.74 → 0.76 (Δ +0.02)
+- V1 Grounding (norm): 0.76 → 0.75 (Δ -0.01)
+- V2 Grounding (norm): 0.74 → 0.74 (Δ 0.00)
+- V0 Hallucination Rate: 17% → 17% (Δ 0)
+- V1 Hallucination Rate: 13% → 12% (Δ -1 pt)
+- V2 Hallucination Rate: 19% → 20% (Δ +1 pt)
+
+**Baseline Comparison (Cumulative):**
+- V0 Correctness (norm): baseline 0.86 → current 0.86 (Δ 0.00)
+- V1 Correctness (norm): baseline 0.87 → current 0.87 (Δ 0.00)
+- V2 Correctness (norm): baseline 0.82 → current 0.85 (Δ +0.03)
+
+**Change Decision:** `decisions/2026-07-07_change_preprocessing_mixed_support_source_quote_reconciliation.md`
+
+**Qualitative Observations:**
+- The 2026-07-04 instruction update made responses tighter to the retrieved text, but the low-grounding pattern is broader than snow chains.
+- Questions such as child seating, seatbelt reminder, fuel gauge, battery warning, door ajar, powertrain fault, Auto Hold, the oil-life monitor, and the automatic transmission fluid interval still sit at grounding 3 or below in one or more versions.
+- Q64 and Q67 still look like mixed-support questions that should be re-baselined against the manual's general snow-chain guidance, while horsepower, firmware, and the manual override question remain true unsupported-spec failures.
+- The next iteration should separate source-quote gaps from strict refusal behavior before changing the instructions again.
+
+**Next Iteration:** Rebaseline the low-grounding rows whose answers still go beyond the source quote, keep the unsupported-spec refusal path strict for truly absent details, and rerun after the benchmark split is cleaned up before revisiting factual and table drift.
+
+---
+
+## Iteration 5
+
+| Run ID | Date | Versions | Change Category | Change Description |
+|--------|------|----------|-----------------|-------------------|
+| iter-005 | 2026-07-11 | V0 / V1 / V2 | benchmark / preprocessing validation | corrected golden dataset rerun and plateau confirmation |
+
+**Previous Iteration Comparison:**
+- V0 Correctness (norm): 0.86 → 0.87 (Δ +0.01)
+- V1 Correctness (norm): 0.87 → 0.89 (Δ +0.02)
+- V2 Correctness (norm): 0.85 → 0.86 (Δ +0.01)
+- V0 Grounding (norm): 0.76 → 0.78 (Δ +0.02)
+- V1 Grounding (norm): 0.75 → 0.77 (Δ +0.02)
+- V2 Grounding (norm): 0.74 → 0.78 (Δ +0.04)
+- V0 Hallucination Rate: 17% → 16% (Δ -1 pt)
+- V1 Hallucination Rate: 12% → 13% (Δ +1 pt)
+- V2 Hallucination Rate: 20% → 17% (Δ -3 pts)
+
+**Baseline Comparison (Cumulative):**
+- V0 Correctness (norm): baseline 0.86 → current 0.87 (Δ +0.01)
+- V1 Correctness (norm): baseline 0.87 → current 0.89 (Δ +0.02)
+- V2 Correctness (norm): baseline 0.82 → current 0.86 (Δ +0.04)
+- V0 Grounding (norm): baseline 0.75 → current 0.78 (Δ +0.03)
+- V1 Grounding (norm): baseline 0.75 → current 0.77 (Δ +0.02)
+- V2 Grounding (norm): baseline 0.71 → current 0.78 (Δ +0.07)
+- V0 Hallucination Rate: baseline 13% → current 16% (Δ +3 pts)
+- V1 Hallucination Rate: baseline 13% → current 13% (Δ 0)
+- V2 Hallucination Rate: baseline 22% → current 17% (Δ -5 pts)
+
+**Change Decision:** `decisions/2026-07-07_change_preprocessing_mixed_support_source_quote_reconciliation.md`
+
+**Qualitative Observations:**
+- The corrected golden dataset produced the clearest lift so far, especially on V2 grounding and the invalid-question bucket.
+- Q59 is stable across all three versions, and the snow-chain rows now behave much more like benchmarked mixed-support items than random refusal noise.
+- The remaining misses are concentrated in retrieval-bound factual/table elaboration and a smaller set of true unsupported-spec failures.
+- The run confirms that prompt and benchmark cleanup have reached diminishing returns under the current black-box retrieval setup.
+
+**Next Iteration:** Stop expecting meaningful gains from prompt or preprocessing changes alone; any further improvement will require access to influence retrieval.
+
+---
+
+## Template for Future Iterations
+
+| Run ID | Date | Versions | Change Category | Change Description |
+|--------|------|----------|-----------------|-------------------|
+| iter-NNN | YYYY-MM-DD | V0 / V1 / V2 | preprocessing / instructions / fallback | TBD |
+
+**Previous Iteration Comparison:**
+- V0 Correctness (norm): TBD → TBD (Δ TBD)
+- V1 Correctness (norm): TBD → TBD (Δ TBD)
+- V2 Correctness (norm): TBD → TBD (Δ TBD)
+
+**Baseline Comparison (Cumulative):**
+- V0 Correctness (norm): baseline TBD → current TBD (Δ TBD)
+- V1 Correctness (norm): baseline TBD → current TBD (Δ TBD)
+- V2 Correctness (norm): baseline TBD → current TBD (Δ TBD)
+
+**Change Decision:** `decisions/YYYY-MM-DD_change_{category}_{description}.md`
+
+**Qualitative Observations:**
+- TBD
+
+**Next Iteration:** TBD
+
+---
+
+## Summary & Conclusions
+
+The system has effectively plateaued under the current black-box retrieval boundary. The corrected golden dataset improved the benchmark signal, and the latest run shows real gains in correctness, grounding, and overall hallucination rate versus baseline, but the remaining misses are now mostly retrieval-bound or tied to genuinely unsupported specs.
+
+**Total Iterations:** 5  
+**Final Performance Lift:**
+- V0: baseline 0.86 / 0.75 / 13% → final 0.87 / 0.78 / 16%
+- V1: baseline 0.87 / 0.75 / 13% → final 0.89 / 0.77 / 13%
+- V2: baseline 0.82 / 0.71 / 22% → final 0.86 / 0.78 / 17%
+
+**Most Impactful Changes:**
+1. Corrected golden dataset and mixed-support row rebaselining
+2. Unsupported-spec refusal tightening
+3. Low-grounding source-quote reconciliation
+
+**Remaining Known Issues:**
+- Retrieval-bound factual and table elaboration
+- A small set of true unsupported-spec failures
+- Black-box retrieval prevents the next meaningful step
+
+**Lessons Learned:**
+- Benchmark cleanup matters as much as instruction wording for these runs.
+- Normalized metrics are the right comparison basis for judging whether a change is real.
+- Further accuracy gains now require influence over retrieval, not more local prompt tuning.

@@ -75,11 +75,11 @@ def show_run(frame, version, run_id):
 
     raw_correctness = metric_value(frame, 'correctness')
     norm_correctness = normalized_metric_value(frame, 'correctness')
-    col2.metric("Avg Correctness", f"{raw_correctness:.1f} (norm: {norm_correctness:.2f})")
+    col2.metric("Avg Correctness", f"{raw_correctness:.2f} (norm: {norm_correctness:.2f})")
 
     raw_grounding = metric_value(frame, 'grounding')
     norm_grounding = normalized_metric_value(frame, 'grounding')
-    col3.metric("Avg Grounding", f"{raw_grounding:.1f} (norm: {norm_grounding:.2f})")
+    col3.metric("Avg Grounding", f"{raw_grounding:.2f} (norm: {norm_grounding:.2f})")
 
     col4.metric("Hallucination True Rate", f"{hallucination_rate(frame):.0%}")
 
@@ -140,10 +140,10 @@ def show_run(frame, version, run_id):
         hallucination = row.get('hallucination', '-')
 
         if pd.notna(correctness):
-            st.metric("Correctness", f"{correctness} / {float(correctness) / 5:.2f}")
+            st.metric("Correctness", f"{float(correctness):.2f} / {float(correctness) / 5:.2f}")
 
         if pd.notna(grounding):
-            st.metric("Grounding", f"{grounding} / {float(grounding) / 5:.2f}")
+            st.metric("Grounding", f"{float(grounding):.2f} / {float(grounding) / 5:.2f}")
 
         if pd.notna(hallucination):
             st.metric("Hallucination", str(bool(hallucination)).lower())
@@ -209,9 +209,9 @@ def render_evaluation_dashboard(answers_dir, evaluations_dir, versions):
                         "Version": version,
                         "Run": latest_run,
                         "Questions": len(frame),
-                        "Avg Correctness (raw)": f"{metric_value(frame, 'correctness'):.1f}",
+                        "Avg Correctness (raw)": f"{metric_value(frame, 'correctness'):.2f}",
                         "Avg Correctness (norm)": f"{normalized_metric_value(frame, 'correctness'):.2f}",
-                        "Avg Grounding (raw)": f"{metric_value(frame, 'grounding'):.1f}",
+                        "Avg Grounding (raw)": f"{metric_value(frame, 'grounding'):.2f}",
                         "Avg Grounding (norm)": f"{normalized_metric_value(frame, 'grounding'):.2f}",
                         "Hallucination True Rate": f"{hallucination_rate(frame):.0%}",
                     }
@@ -223,9 +223,9 @@ def render_evaluation_dashboard(answers_dir, evaluations_dir, versions):
                     {
                         "Version": version,
                         "Run": run_id,
-                        "Avg Correctness (raw)": f"{metric_value(frame, 'correctness'):.1f}",
+                        "Avg Correctness (raw)": f"{metric_value(frame, 'correctness'):.2f}",
                         "Avg Correctness (norm)": f"{normalized_metric_value(frame, 'correctness'):.2f}",
-                        "Avg Grounding (raw)": f"{metric_value(frame, 'grounding'):.1f}",
+                        "Avg Grounding (raw)": f"{metric_value(frame, 'grounding'):.2f}",
                         "Avg Grounding (norm)": f"{normalized_metric_value(frame, 'grounding'):.2f}",
                         "Hallucination True Rate": f"{hallucination_rate(frame):.0%}",
                     }

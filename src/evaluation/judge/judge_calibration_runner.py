@@ -20,12 +20,8 @@ load_dotenv()
 client = OpenAI()
 
 from evaluation.judge.judge_instructions import get_judge_instructions
-from evaluation.judge.judge_runner import (
-    OUTPUTS_DIR,
-    WORKFLOWS,
-    extract_reply,
-    load_golden_data,
-)
+from evaluation.judge.judge_runner import OUTPUTS_DIR, WORKFLOWS
+from evaluation.judge.utils import extract_reply, load_golden_data, write_jsonl
 from user_interface.utils.async_runner import run_async
 
 DEFAULT_SAMPLE_SIZE = 15
@@ -55,21 +51,6 @@ def pick_sample(golden_data: list[dict], sample_size: int, seed: int) -> list[di
 
     sampled = random.Random(seed).sample(golden_data, sample_size)
     return sorted(sampled, key=lambda item: item["id"])
-
-
-def write_jsonl(rows: list[dict], output_path: Path) -> None:
-    """
-    Write a list of dictionaries to a JSONL file.
-
-    Args:
-        rows: List of dicts to write.
-        output_path: Destination file path.
-    """
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-
-    with output_path.open("w", encoding="utf-8") as handle:
-        for row in rows:
-            handle.write(json.dumps(row, ensure_ascii=False) + "\n")
 
 
 # =========================================================
