@@ -30,7 +30,7 @@ else:
 
 try:
     source = (
-        Path(__file__).resolve().parent.parent
+        Path(__file__).resolve().parents[2]
         / "documentation"
         / "data"
         / "2022-ford-Escape.pdf"
